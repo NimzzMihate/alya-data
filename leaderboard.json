@@ -9,19 +9,19 @@
     {
       "name": "Nimzz",
       "level": 510,
-      "exp": 294369,
+      "exp": 294405,
       "saldo": 1.0000008895270613e+34
     },
     {
       "name": "Ditz ketoprak",
       "level": 243,
-      "exp": 584803,
+      "exp": 584839,
       "saldo": 719936232252859
     },
     {
       "name": "Putzz",
       "level": 199,
-      "exp": 477951,
+      "exp": 478000,
       "saldo": 7000
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Nimzz",
       "level": 510,
-      "exp": 294369,
+      "exp": 294405,
       "saldo": 1.0000008895270613e+34
     },
     {
@@ -155,7 +155,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 243,
-      "exp": 584803,
+      "exp": 584839,
       "saldo": 719936232252859
     },
     {
@@ -253,19 +253,19 @@
     {
       "name": "Ditz ketoprak",
       "level": 243,
-      "exp": 584803,
+      "exp": 584839,
       "saldo": 719936232252859
     },
     {
       "name": "Putzz",
       "level": 199,
-      "exp": 477951,
+      "exp": 478000,
       "saldo": 7000
     },
     {
       "name": "Nimzz",
       "level": 510,
-      "exp": 294369,
+      "exp": 294405,
       "saldo": 1.0000008895270613e+34
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773834915805
+  "lastUpdated": 1773834975801
 }
