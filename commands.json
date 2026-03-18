@@ -3498,7 +3498,7 @@
     "225": 1,
     "2694099605": 2,
     "backup": 2,
-    "get": 6,
+    "get": 8,
     "tohtml": 8,
     "ranked": 24,
     "mobaprofile": 4,
@@ -3678,5 +3678,5 @@
     "kencan": 1,
     "kasihsusu": 1
   },
-  "lastUpdated": 1773800969040
+  "lastUpdated": 1773801029032
 }
