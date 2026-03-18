@@ -3724,8 +3724,10 @@
     "pacar": 1,
     "carikarakter": 4,
     "nembak": 1,
-    "cry": 1,
-    "happy": 1
+    "cry": 3,
+    "happy": 1,
+    "sad": 1,
+    "bully": 1
   },
-  "lastUpdated": 1773826680465
+  "lastUpdated": 1773826740461
 }
