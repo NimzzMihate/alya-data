@@ -3,19 +3,19 @@
   "totalUsers": 970,
   "totalGroups": 36,
   "totalFeatures": 3494,
-  "totalCmd": 680,
-  "totalChat": 680,
+  "totalCmd": 688,
+  "totalChat": 688,
   "topCommands": [
     {
       "cmd": "afk",
       "count": 31
     },
     {
-      "cmd": "ranked",
-      "count": 25
+      "cmd": "me",
+      "count": 28
     },
     {
-      "cmd": "me",
+      "cmd": "ranked",
       "count": 25
     },
     {
@@ -27,12 +27,12 @@
       "count": 19
     },
     {
-      "cmd": "playmoba",
-      "count": 17
+      "cmd": "rampok2",
+      "count": 18
     },
     {
-      "cmd": "rampok2",
-      "count": 16
+      "cmd": "playmoba",
+      "count": 17
     },
     {
       "cmd": "removebg",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 602,
-  "lastUpdated": 1773822325462
+  "uptimeSeconds": 662,
+  "lastUpdated": 1773822385453
 }
