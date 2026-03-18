@@ -3562,9 +3562,9 @@
     "cf": 2,
     "nai2": 2,
     "6282137487477": 7,
-    "removebg": 13,
-    "addown": 3,
-    "listowner": 2,
+    "removebg": 14,
+    "addown": 5,
+    "listowner": 3,
     "brat": 2,
     "brathd": 1,
     "editfoto": 4,
@@ -3599,7 +3599,7 @@
     "tolid": 1,
     "cekprofile": 8,
     "tes": 18,
-    "listown": 2,
+    "listown": 3,
     "getpp": 1,
     "linkgc": 2,
     "cekpasangan": 5,
@@ -3698,5 +3698,5 @@
     "ttf": 1,
     "cekfemboy": 1
   },
-  "lastUpdated": 1773821621911
+  "lastUpdated": 1773821681915
 }
