@@ -3517,7 +3517,7 @@
     "tohtml": 8,
     "ranked": 29,
     "mobaprofile": 6,
-    "playmoba": 20,
+    "playmoba": 21,
     "ngaji": 7,
     "ewe-paksa": 6,
     "me": 30,
@@ -3602,7 +3602,7 @@
     "kapal": 1,
     "craft": 2,
     "listheri": 1,
-    "listhero": 1,
+    "listhero": 2,
     "mancing": 1,
     "randomba": 1,
     "chatgpt3": 4,
@@ -3778,5 +3778,5 @@
     "bratt": 1,
     "6285861427432": 2
   },
-  "lastUpdated": 1773841242966
+  "lastUpdated": 1773841302966
 }
