@@ -1,0 +1,54 @@
+{
+  "botName": "🍄 𝗔𝗹𝘆𝗮 𝗠𝗗",
+  "totalUsers": 964,
+  "totalGroups": 35,
+  "totalFeatures": 3491,
+  "totalCmd": 488,
+  "totalChat": 488,
+  "topCommands": [
+    {
+      "cmd": "afk",
+      "count": 25
+    },
+    {
+      "cmd": "ranked",
+      "count": 21
+    },
+    {
+      "cmd": "me",
+      "count": 17
+    },
+    {
+      "cmd": "rampok2",
+      "count": 15
+    },
+    {
+      "cmd": "playmoba",
+      "count": 14
+    },
+    {
+      "cmd": "tes",
+      "count": 14
+    },
+    {
+      "cmd": "removebg",
+      "count": 12
+    },
+    {
+      "cmd": "6285189358241",
+      "count": 11
+    },
+    {
+      "cmd": "89374091944116",
+      "count": 10
+    },
+    {
+      "cmd": "77605898313906",
+      "count": 8
+    }
+  ],
+  "ratingAvg": "10.0",
+  "ratingTotal": 4,
+  "uptimeSeconds": 61,
+  "lastUpdated": 1773797008833
+}
