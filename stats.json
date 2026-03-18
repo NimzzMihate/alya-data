@@ -3,8 +3,8 @@
   "totalUsers": 969,
   "totalGroups": 35,
   "totalFeatures": 3494,
-  "totalCmd": 595,
-  "totalChat": 595,
+  "totalCmd": 596,
+  "totalChat": 596,
   "topCommands": [
     {
       "cmd": "afk",
@@ -39,16 +39,16 @@
       "count": 11
     },
     {
-      "cmd": "get",
-      "count": 10
+      "cmd": "updatealya",
+      "count": 11
     },
     {
-      "cmd": "open-bo",
+      "cmd": "get",
       "count": 10
     }
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 841,
-  "lastUpdated": 1773811001795
+  "uptimeSeconds": 901,
+  "lastUpdated": 1773811061800
 }
