@@ -3,8 +3,8 @@
   "totalUsers": 975,
   "totalGroups": 36,
   "totalFeatures": 3508,
-  "totalCmd": 981,
-  "totalChat": 981,
+  "totalCmd": 983,
+  "totalChat": 983,
   "topCommands": [
     {
       "cmd": "afk",
@@ -27,12 +27,12 @@
       "count": 24
     },
     {
-      "cmd": "updatealya",
+      "cmd": "playmoba",
       "count": 21
     },
     {
-      "cmd": "playmoba",
-      "count": 20
+      "cmd": "updatealya",
+      "count": 21
     },
     {
       "cmd": "cekfemboy",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 1681,
-  "lastUpdated": 1773841242965
+  "uptimeSeconds": 1741,
+  "lastUpdated": 1773841302965
 }
