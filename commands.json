@@ -3529,13 +3529,13 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 6,
-    "heal": 6,
+    "heal": 7,
     "menu": 2,
     "owner": 1,
     "script": 1,
     "joinrpg": 1,
     "mentahan": 1,
-    "claim": 3,
+    "claim": 4,
     "cekidch": 1,
     "tourl": 2,
     "title": 1,
@@ -3565,7 +3565,7 @@
     "brat": 2,
     "brathd": 1,
     "editfoto": 2,
-    "dailymisi": 6,
+    "dailymisi": 7,
     "open-bo": 7,
     "ewepaksa": 5,
     "topglobal": 2,
@@ -3669,7 +3669,9 @@
     "uprepo": 3,
     "ssweb": 1,
     "𝗔𝗹𝘆𝗮": 1,
-    "youtuber": 1
+    "youtuber": 1,
+    "znipset": 1,
+    "snippet": 1
   },
-  "lastUpdated": 1773797668841
+  "lastUpdated": 1773797728842
 }
