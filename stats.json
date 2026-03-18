@@ -3,8 +3,8 @@
   "totalUsers": 971,
   "totalGroups": 36,
   "totalFeatures": 3494,
-  "totalCmd": 723,
-  "totalChat": 723,
+  "totalCmd": 726,
+  "totalChat": 726,
   "topCommands": [
     {
       "cmd": "afk",
@@ -23,12 +23,12 @@
       "count": 23
     },
     {
-      "cmd": "updatealya",
+      "cmd": "tes",
       "count": 21
     },
     {
-      "cmd": "tes",
-      "count": 20
+      "cmd": "updatealya",
+      "count": 21
     },
     {
       "cmd": "playmoba",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 1562,
-  "lastUpdated": 1773823285459
+  "uptimeSeconds": 1622,
+  "lastUpdated": 1773823345459
 }
