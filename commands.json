@@ -3498,9 +3498,9 @@
     "backup": 2,
     "get": 6,
     "tohtml": 6,
-    "ranked": 23,
+    "ranked": 24,
     "mobaprofile": 4,
-    "playmoba": 15,
+    "playmoba": 16,
     "ngaji": 4,
     "ewe-paksa": 4,
     "me": 17,
@@ -3668,7 +3668,8 @@
     "setpromosi": 5,
     "uprepo": 3,
     "ssweb": 1,
-    "𝗔𝗹𝘆𝗮": 1
+    "𝗔𝗹𝘆𝗮": 1,
+    "youtuber": 1
   },
-  "lastUpdated": 1773797548843
+  "lastUpdated": 1773797608841
 }
