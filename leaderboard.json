@@ -15,13 +15,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 243,
-      "exp": 583613,
+      "exp": 583766,
       "saldo": 719936232252859
     },
     {
       "name": "Putzz",
       "level": 198,
-      "exp": 475412,
+      "exp": 475483,
       "saldo": 100869876104150
     },
     {
@@ -87,7 +87,7 @@
     {
       "name": "Yogie ganteng",
       "level": 12,
-      "exp": 29924,
+      "exp": 30071,
       "saldo": 2249791
     },
     {
@@ -155,7 +155,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 243,
-      "exp": 583613,
+      "exp": 583766,
       "saldo": 719936232252859
     },
     {
@@ -191,7 +191,7 @@
     {
       "name": "Putzz",
       "level": 198,
-      "exp": 475412,
+      "exp": 475483,
       "saldo": 100869876104150
     },
     {
@@ -253,13 +253,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 243,
-      "exp": 583613,
+      "exp": 583766,
       "saldo": 719936232252859
     },
     {
       "name": "Putzz",
       "level": 198,
-      "exp": 475412,
+      "exp": 475483,
       "saldo": 100869876104150
     },
     {
@@ -331,7 +331,7 @@
     {
       "name": "Yogie ganteng",
       "level": 12,
-      "exp": 29924,
+      "exp": 30071,
       "saldo": 2249791
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 4140
     }
   ],
-  "lastUpdated": 1773822263654
+  "lastUpdated": 1773822325464
 }
