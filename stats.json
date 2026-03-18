@@ -3,8 +3,8 @@
   "totalUsers": 970,
   "totalGroups": 35,
   "totalFeatures": 3494,
-  "totalCmd": 626,
-  "totalChat": 626,
+  "totalCmd": 627,
+  "totalChat": 627,
   "topCommands": [
     {
       "cmd": "afk",
@@ -23,15 +23,15 @@
       "count": 18
     },
     {
+      "cmd": "updatealya",
+      "count": 17
+    },
+    {
       "cmd": "playmoba",
       "count": 16
     },
     {
       "cmd": "rampok2",
-      "count": 16
-    },
-    {
-      "cmd": "updatealya",
       "count": 16
     },
     {
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 8221,
-  "lastUpdated": 1773818381863
+  "uptimeSeconds": 8281,
+  "lastUpdated": 1773818441854
 }
