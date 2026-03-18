@@ -3061,6 +3061,8 @@
     "wgpt",
     "getno",
     "getnomor",
+    "updatealya",
+    "pushalya",
     "kirimgc",
     "sendgc",
     "kirimke",
@@ -3673,5 +3675,5 @@
     "znipset": 1,
     "snippet": 1
   },
-  "lastUpdated": 1773798268857
+  "lastUpdated": 1773798328852
 }
