@@ -3567,7 +3567,7 @@
     "listowner": 4,
     "brat": 2,
     "brathd": 1,
-    "editfoto": 6,
+    "editfoto": 7,
     "dailymisi": 8,
     "open-bo": 10,
     "ewepaksa": 5,
@@ -3598,7 +3598,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 10,
-    "tes": 20,
+    "tes": 21,
     "listown": 4,
     "getpp": 1,
     "linkgc": 3,
@@ -3710,7 +3710,8 @@
     "6283152469722": 1,
     "6285649132023": 4,
     "oldyk": 1,
-    "no": 1
+    "no": 1,
+    "edit": 1
   },
-  "lastUpdated": 1773823285459
+  "lastUpdated": 1773823345460
 }
