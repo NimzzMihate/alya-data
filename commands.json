@@ -3655,7 +3655,7 @@
     "verify": 2,
     "daftr": 1,
     "status": 1,
-    "pap": 2,
+    "pap": 3,
     "tebakbendera": 3,
     "tebak": 1,
     "gantinama": 1,
@@ -3719,7 +3719,8 @@
     "hargasewa": 1,
     "d": 1,
     "pabrik": 1,
-    "fitnah": 1
+    "fitnah": 1,
+    "puji": 1
   },
-  "lastUpdated": 1773825420340
+  "lastUpdated": 1773825480341
 }
