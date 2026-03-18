@@ -3499,7 +3499,7 @@
     "225": 1,
     "2694099605": 2,
     "backup": 2,
-    "get": 10,
+    "get": 11,
     "tohtml": 8,
     "ranked": 26,
     "mobaprofile": 6,
@@ -3546,7 +3546,7 @@
     ">": 4,
     "addapi": 2,
     "pin": 6,
-    "hd": 12,
+    "hd": 13,
     "useitem": 7,
     "77605898313906": 9,
     "huxin": 1,
@@ -3670,8 +3670,8 @@
     "kirimke": 1,
     "setpromosi": 5,
     "uprepo": 3,
-    "ssweb": 1,
-    "𝗔𝗹𝘆𝗮": 1,
+    "ssweb": 2,
+    "𝗔𝗹𝘆𝗮": 2,
     "youtuber": 1,
     "znipset": 1,
     "snippet": 5,
@@ -3734,5 +3734,5 @@
     "memasak": 1,
     "wm\n>": 2
   },
-  "lastUpdated": 1773829080468
+  "lastUpdated": 1773829140473
 }
