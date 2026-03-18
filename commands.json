@@ -2427,8 +2427,9 @@
     "cekhobby",
     "jodoh",
     "cekjodoh",
+    "femboy",
     "cekfemboy",
-    "femboycek",
+    "isfemboy",
     "jadwal-sholat",
     "jadwalsholat",
     "sholat",
@@ -3696,7 +3697,7 @@
     "bugwangcap": 1,
     "colong": 1,
     "ttf": 5,
-    "cekfemboy": 1,
+    "cekfemboy": 3,
     "restart": 1,
     "kontol": 1,
     "93283032285420": 1,
@@ -3735,5 +3736,5 @@
     "wm\n>": 2,
     "iqc": 1
   },
-  "lastUpdated": 1773830160482
+  "lastUpdated": 1773830220473
 }
