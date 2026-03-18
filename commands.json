@@ -3546,7 +3546,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 7,
-    "heal": 7,
+    "heal": 8,
     "menu": 4,
     "owner": 1,
     "script": 2,
@@ -3582,9 +3582,9 @@
     "brat": 4,
     "brathd": 1,
     "editfoto": 8,
-    "dailymisi": 8,
-    "open-bo": 10,
-    "ewepaksa": 5,
+    "dailymisi": 11,
+    "open-bo": 11,
+    "ewepaksa": 6,
     "topglobal": 4,
     "6285789692015": 1,
     "buy": 4,
@@ -3778,5 +3778,5 @@
     "bratt": 1,
     "6285861427432": 2
   },
-  "lastUpdated": 1773841122965
+  "lastUpdated": 1773841182966
 }
