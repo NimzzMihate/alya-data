@@ -3572,7 +3572,7 @@
     "dailymisi": 8,
     "open-bo": 10,
     "ewepaksa": 5,
-    "topglobal": 3,
+    "topglobal": 4,
     "6285789692015": 1,
     "buy": 4,
     "smeme": 6,
@@ -3598,7 +3598,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 11,
+    "cekprofile": 12,
     "tes": 24,
     "listown": 4,
     "getpp": 1,
@@ -3650,7 +3650,7 @@
     "166121432961259": 1,
     "....": 1,
     "setprofile": 5,
-    "daftar": 2,
+    "daftar": 3,
     "profile": 2,
     "topactive": 3,
     "verify": 2,
@@ -3745,7 +3745,8 @@
     "ytmp4": 1,
     "ttdl": 1,
     "playch": 2,
-    "cekganteng": 1
+    "cekganteng": 3,
+    "crkganteng": 1
   },
-  "lastUpdated": 1773834855798
+  "lastUpdated": 1773834915805
 }
