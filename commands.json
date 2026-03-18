@@ -3515,10 +3515,10 @@
     "backup": 2,
     "get": 11,
     "tohtml": 8,
-    "ranked": 28,
+    "ranked": 29,
     "mobaprofile": 6,
     "playmoba": 20,
-    "ngaji": 6,
+    "ngaji": 7,
     "ewe-paksa": 6,
     "me": 30,
     "setbg": 4,
@@ -3778,5 +3778,5 @@
     "bratt": 1,
     "6285861427432": 2
   },
-  "lastUpdated": 1773841182966
+  "lastUpdated": 1773841242966
 }
