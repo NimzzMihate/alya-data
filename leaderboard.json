@@ -21,8 +21,8 @@
     {
       "name": "Putzz",
       "level": 198,
-      "exp": 476654,
-      "saldo": 100869876104150
+      "exp": 476710,
+      "saldo": 84730695927486
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -33,7 +33,7 @@
     {
       "name": "Ren n nya tiga",
       "level": 70,
-      "exp": 169642,
+      "exp": 169725,
       "saldo": 70643168
     },
     {
@@ -189,10 +189,10 @@
       "saldo": 139079684385625
     },
     {
-      "name": "Putzz",
-      "level": 198,
-      "exp": 476654,
-      "saldo": 100869876104150
+      "name": "may",
+      "level": 4,
+      "exp": 11142,
+      "saldo": 116139180202664
     },
     {
       "name": "Ahmad",
@@ -201,10 +201,10 @@
       "saldo": 100000000065871
     },
     {
-      "name": "may",
-      "level": 4,
-      "exp": 11075,
-      "saldo": 100000000026000
+      "name": "Putzz",
+      "level": 198,
+      "exp": 476710,
+      "saldo": 84730695927486
     },
     {
       "name": "Oguri cap",
@@ -233,7 +233,7 @@
     {
       "name": "Ren n nya tiga",
       "level": 70,
-      "exp": 169642,
+      "exp": 169725,
       "saldo": 70643168
     },
     {
@@ -259,8 +259,8 @@
     {
       "name": "Putzz",
       "level": 198,
-      "exp": 476654,
-      "saldo": 100869876104150
+      "exp": 476710,
+      "saldo": 84730695927486
     },
     {
       "name": "Nimzz",
@@ -271,7 +271,7 @@
     {
       "name": "Ren n nya tiga",
       "level": 70,
-      "exp": 169642,
+      "exp": 169725,
       "saldo": 70643168
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773825180340
+  "lastUpdated": 1773825240339
 }
