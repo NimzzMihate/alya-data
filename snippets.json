@@ -1,4 +1,13 @@
 {
-  "snippets": [],
-  "lastUpdated": 1773798508851
+  "snippets": [
+    {
+      "id": "q38w20",
+      "title": "random blue archive",
+      "code": "case \"bluearchive\":\ncase \"ba\":\ncase \"randomba\": {\n  try {\n    xreact();\n    const res = await axios.get(\"https://api.siputzx.my.id/api/r/blue-archive\", {\n      responseType: \"arraybuffer\"\n    });\n\n    const buffer = Buffer.from(res.data);\n\n    const buttons = [\n      {\n        buttonId: `${_p}randomba`,\n        buttonText: {\n          displayText: \"Next\",\n        },\n        type: 1,\n      }\n    ];\n\n    await vellia.sendMessage(m.chat, {\n      image: buffer,\n      caption: \"*Random Blue Archive*\",\n      footer: wm,\n      buttons: buttons,\n      headerType: 4,\n    }, { quoted: m });\n\n  } catch (e) {\n    console.error(\"[BA]\", e.message);\n    xreply(\"Maaf sensei gagal mengambil random ba: \" + e.message);\n  }\n  break;\n}",
+      "author": "Nimzz",
+      "authorJid": "6282137487477@s.whatsapp.net",
+      "createdAt": 1773798549855
+    }
+  ],
+  "lastUpdated": 1773798568855
 }
