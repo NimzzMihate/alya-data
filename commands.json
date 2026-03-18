@@ -3506,11 +3506,11 @@
     "playmoba": 18,
     "ngaji": 5,
     "ewe-paksa": 6,
-    "me": 29,
+    "me": 30,
     "setbg": 4,
     "rampok2": 25,
     "6285609504925": 7,
-    "atm": 11,
+    "atm": 13,
     "bank": 5,
     "afk": 38,
     "kerja": 1,
@@ -3727,7 +3727,8 @@
     "cry": 3,
     "happy": 1,
     "sad": 1,
-    "bully": 1
+    "bully": 1,
+    "atmpull": 1
   },
-  "lastUpdated": 1773827460478
+  "lastUpdated": 1773827520464
 }
