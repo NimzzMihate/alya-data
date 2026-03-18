@@ -3,8 +3,8 @@
   "totalUsers": 964,
   "totalGroups": 35,
   "totalFeatures": 3491,
-  "totalCmd": 498,
-  "totalChat": 498,
+  "totalCmd": 501,
+  "totalChat": 501,
   "topCommands": [
     {
       "cmd": "afk",
@@ -12,7 +12,7 @@
     },
     {
       "cmd": "ranked",
-      "count": 23
+      "count": 24
     },
     {
       "cmd": "me",
@@ -20,7 +20,7 @@
     },
     {
       "cmd": "playmoba",
-      "count": 15
+      "count": 16
     },
     {
       "cmd": "rampok2",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 4,
-  "uptimeSeconds": 601,
-  "lastUpdated": 1773797548843
+  "uptimeSeconds": 661,
+  "lastUpdated": 1773797608840
 }
