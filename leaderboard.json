@@ -87,8 +87,8 @@
     {
       "name": "Yogie ganteng",
       "level": 12,
-      "exp": 30222,
-      "saldo": 2250207
+      "exp": 30346,
+      "saldo": 1722760
     },
     {
       "name": "Axel suka kyouka",
@@ -117,8 +117,8 @@
     {
       "name": "damz kece umur 11",
       "level": 7,
-      "exp": 18428,
-      "saldo": 4140
+      "exp": 18602,
+      "saldo": 0
     }
   ],
   "saldo": [
@@ -331,8 +331,8 @@
     {
       "name": "Yogie ganteng",
       "level": 12,
-      "exp": 30222,
-      "saldo": 2250207
+      "exp": 30346,
+      "saldo": 1722760
     },
     {
       "name": "Axel suka kyouka",
@@ -361,9 +361,9 @@
     {
       "name": "damz kece umur 11",
       "level": 7,
-      "exp": 18428,
-      "saldo": 4140
+      "exp": 18602,
+      "saldo": 0
     }
   ],
-  "lastUpdated": 1773822385454
+  "lastUpdated": 1773822445454
 }
