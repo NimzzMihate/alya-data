@@ -3,8 +3,8 @@
   "totalUsers": 975,
   "totalGroups": 36,
   "totalFeatures": 3508,
-  "totalCmd": 915,
-  "totalChat": 915,
+  "totalCmd": 920,
+  "totalChat": 920,
   "topCommands": [
     {
       "cmd": "afk",
@@ -31,6 +31,10 @@
       "count": 21
     },
     {
+      "cmd": "cekfemboy",
+      "count": 19
+    },
+    {
       "cmd": "playmoba",
       "count": 18
     },
@@ -39,16 +43,12 @@
       "count": 17
     },
     {
-      "cmd": "cekfemboy",
-      "count": 17
-    },
-    {
-      "cmd": "atm",
-      "count": 13
+      "cmd": "hd",
+      "count": 14
     }
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 3061,
-  "lastUpdated": 1773835635805
+  "uptimeSeconds": 3121,
+  "lastUpdated": 1773835695801
 }
