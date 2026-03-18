@@ -3498,10 +3498,10 @@
     "backup": 2,
     "get": 5,
     "tohtml": 6,
-    "ranked": 21,
+    "ranked": 23,
     "mobaprofile": 4,
-    "playmoba": 14,
-    "ngaji": 3,
+    "playmoba": 15,
+    "ngaji": 4,
     "ewe-paksa": 4,
     "me": 17,
     "setbg": 3,
@@ -3547,7 +3547,7 @@
     "useitem": 7,
     "77605898313906": 8,
     "huxin": 1,
-    "usaha": 4,
+    "usaha": 5,
     "memancing": 2,
     "271481040834666": 2,
     "6285189358241": 11,
@@ -3668,5 +3668,5 @@
     "setpromosi": 5,
     "uprepo": 3
   },
-  "lastUpdated": 1773797008835
+  "lastUpdated": 1773797068833
 }
