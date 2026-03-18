@@ -3,8 +3,8 @@
   "totalUsers": 970,
   "totalGroups": 35,
   "totalFeatures": 3494,
-  "totalCmd": 637,
-  "totalChat": 637,
+  "totalCmd": 640,
+  "totalChat": 640,
   "topCommands": [
     {
       "cmd": "afk",
@@ -16,7 +16,7 @@
     },
     {
       "cmd": "me",
-      "count": 21
+      "count": 22
     },
     {
       "cmd": "updatealya",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 10501,
-  "lastUpdated": 1773820661864
+  "uptimeSeconds": 10561,
+  "lastUpdated": 1773820721858
 }
