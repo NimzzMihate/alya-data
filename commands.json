@@ -3533,7 +3533,7 @@
     "61405583679507": 1,
     "wikwik": 7,
     "heal": 7,
-    "menu": 3,
+    "menu": 4,
     "owner": 1,
     "script": 1,
     "joinrpg": 1,
@@ -3597,7 +3597,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 9,
+    "cekprofile": 10,
     "tes": 19,
     "listown": 4,
     "getpp": 1,
@@ -3708,5 +3708,5 @@
     "kuis": 4,
     "32968236081310": 1
   },
-  "lastUpdated": 1773822865470
+  "lastUpdated": 1773822925459
 }
