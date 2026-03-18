@@ -3,8 +3,8 @@
   "totalUsers": 971,
   "totalGroups": 36,
   "totalFeatures": 3494,
-  "totalCmd": 695,
-  "totalChat": 695,
+  "totalCmd": 698,
+  "totalChat": 698,
   "topCommands": [
     {
       "cmd": "afk",
@@ -20,7 +20,7 @@
     },
     {
       "cmd": "rampok2",
-      "count": 22
+      "count": 23
     },
     {
       "cmd": "updatealya",
@@ -39,16 +39,16 @@
       "count": 15
     },
     {
-      "cmd": "6285189358241",
+      "cmd": "atm",
       "count": 11
     },
     {
-      "cmd": "get",
-      "count": 10
+      "cmd": "6285189358241",
+      "count": 11
     }
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 722,
-  "lastUpdated": 1773822445453
+  "uptimeSeconds": 782,
+  "lastUpdated": 1773822505453
 }
