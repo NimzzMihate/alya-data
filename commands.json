@@ -3069,6 +3069,19 @@
     "kirimke",
     "snippet",
     "webfeedback",
+    "wink",
+    "winkfd",
+    "winkuhd",
+    "winkhd",
+    "enhancehd",
+    "enhanceuhd",
+    "hdimage",
+    "uhdimage",
+    "wonggendeng",
+    "cekgendeng",
+    "gendeng",
+    "edan",
+    "cekedan",
     "tests",
     "embut",
     "wkwk",
@@ -3749,7 +3762,8 @@
     "crkganteng": 1,
     "puqi": 1,
     "anj": 1,
-    "anjing": 2
+    "anjing": 2,
+    "winkhd": 1
   },
-  "lastUpdated": 1773835515801
+  "lastUpdated": 1773835575801
 }
