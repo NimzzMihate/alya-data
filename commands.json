@@ -3597,7 +3597,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 5,
-    "tes": 14,
+    "tes": 15,
     "listown": 1,
     "getpp": 1,
     "linkgc": 2,
@@ -3680,7 +3680,8 @@
     "wm": 1,
     "absen": 1,
     "mulaiabsen": 1,
-    "6283848672013": 2
+    "6283848672013": 2,
+    "ratebot": 1
   },
-  "lastUpdated": 1773802649035
+  "lastUpdated": 1773802709038
 }
