@@ -3501,7 +3501,7 @@
     "backup": 2,
     "get": 10,
     "tohtml": 8,
-    "ranked": 24,
+    "ranked": 25,
     "mobaprofile": 4,
     "playmoba": 16,
     "ngaji": 5,
@@ -3597,7 +3597,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 5,
+    "cekprofile": 6,
     "tes": 18,
     "listown": 1,
     "getpp": 1,
@@ -3695,5 +3695,5 @@
     "antivirtex": 1,
     "bugwangcap": 1
   },
-  "lastUpdated": 1773820541857
+  "lastUpdated": 1773820601861
 }
