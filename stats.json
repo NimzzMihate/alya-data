@@ -3,8 +3,8 @@
   "totalUsers": 976,
   "totalGroups": 36,
   "totalFeatures": 3508,
-  "totalCmd": 1018,
-  "totalChat": 1018,
+  "totalCmd": 1022,
+  "totalChat": 1022,
   "topCommands": [
     {
       "cmd": "afk",
@@ -20,7 +20,7 @@
     },
     {
       "cmd": "rampok2",
-      "count": 27
+      "count": 29
     },
     {
       "cmd": "tes",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 1143,
-  "lastUpdated": 1773844910368
+  "uptimeSeconds": 1203,
+  "lastUpdated": 1773844970363
 }
