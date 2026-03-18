@@ -3526,7 +3526,7 @@
     "6285609504925": 7,
     "atm": 13,
     "bank": 6,
-    "afk": 45,
+    "afk": 46,
     "kerja": 1,
     "628176533297": 6,
     "s": 16,
@@ -3731,7 +3731,7 @@
     "cekgay": 5,
     "ytdoc": 2,
     "hargasewa": 1,
-    "d": 1,
+    "d": 2,
     "pabrik": 1,
     "fitnah": 1,
     "puji": 2,
@@ -3789,7 +3789,8 @@
     "getcase": 1,
     "/": 1,
     "cekcantik": 2,
-    "toplocal": 1
+    "toplocal": 1,
+    "forward": 1
   },
-  "lastUpdated": 1773845211480
+  "lastUpdated": 1773845271481
 }
