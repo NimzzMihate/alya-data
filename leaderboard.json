@@ -15,13 +15,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 243,
-      "exp": 584545,
+      "exp": 584590,
       "saldo": 719936232252859
     },
     {
       "name": "Putzz",
       "level": 198,
-      "exp": 477406,
+      "exp": 477467,
       "saldo": 0
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Ren n nya tiga",
       "level": 70,
-      "exp": 169725,
+      "exp": 169788,
       "saldo": 70643168
     },
     {
@@ -155,7 +155,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 243,
-      "exp": 584545,
+      "exp": 584590,
       "saldo": 719936232252859
     },
     {
@@ -227,7 +227,7 @@
     {
       "name": "Ren n nya tiga",
       "level": 70,
-      "exp": 169725,
+      "exp": 169788,
       "saldo": 70643168
     },
     {
@@ -253,13 +253,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 243,
-      "exp": 584545,
+      "exp": 584590,
       "saldo": 719936232252859
     },
     {
       "name": "Putzz",
       "level": 198,
-      "exp": 477406,
+      "exp": 477467,
       "saldo": 0
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Ren n nya tiga",
       "level": 70,
-      "exp": 169725,
+      "exp": 169788,
       "saldo": 70643168
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773828480470
+  "lastUpdated": 1773828540478
 }
