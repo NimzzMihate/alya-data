@@ -3581,7 +3581,7 @@
     "setpp": 1,
     "265944542793975": 1,
     "berburu": 4,
-    "masak": 5,
+    "masak": 6,
     "rpgmenu": 1,
     "makan": 1,
     "repair": 1,
@@ -3598,7 +3598,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 10,
-    "tes": 22,
+    "tes": 23,
     "listown": 4,
     "getpp": 1,
     "linkgc": 4,
@@ -3729,7 +3729,9 @@
     "sad": 1,
     "bully": 1,
     "atmpull": 1,
-    "promote": 2
+    "promote": 2,
+    "reset": 1,
+    "memasak": 1
   },
-  "lastUpdated": 1773828480470
+  "lastUpdated": 1773828540478
 }
