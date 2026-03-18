@@ -3538,7 +3538,7 @@
     "script": 1,
     "joinrpg": 1,
     "mentahan": 1,
-    "claim": 5,
+    "claim": 6,
     "cekidch": 1,
     "tourl": 8,
     "title": 1,
@@ -3691,5 +3691,5 @@
     "lebaran": 1,
     "80290588442827": 1
   },
-  "lastUpdated": 1773809928621
+  "lastUpdated": 1773809988620
 }
