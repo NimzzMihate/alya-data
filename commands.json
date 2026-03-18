@@ -3508,9 +3508,9 @@
     "ewe-paksa": 6,
     "me": 28,
     "setbg": 4,
-    "rampok2": 22,
+    "rampok2": 23,
     "6285609504925": 7,
-    "atm": 10,
+    "atm": 11,
     "bank": 4,
     "afk": 31,
     "kerja": 1,
@@ -3567,7 +3567,7 @@
     "listowner": 4,
     "brat": 2,
     "brathd": 1,
-    "editfoto": 4,
+    "editfoto": 5,
     "dailymisi": 8,
     "open-bo": 10,
     "ewepaksa": 5,
@@ -3704,7 +3704,8 @@
     "222531466350642": 1,
     "tidur": 1,
     "akun": 1,
-    "jembott": 1
+    "jembott": 1,
+    "kuis": 1
   },
-  "lastUpdated": 1773822445454
+  "lastUpdated": 1773822505454
 }
