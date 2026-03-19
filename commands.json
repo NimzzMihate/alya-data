@@ -3514,9 +3514,9 @@
     "backup": 2,
     "get": 11,
     "tohtml": 8,
-    "ranked": 29,
-    "mobaprofile": 6,
-    "playmoba": 21,
+    "ranked": 30,
+    "mobaprofile": 7,
+    "playmoba": 22,
     "ngaji": 7,
     "ewe-paksa": 6,
     "me": 32,
@@ -3809,5 +3809,5 @@
     "arvanvamola:@suff": 1,
     "pindl": 3
   },
-  "lastUpdated": 1773884098076
+  "lastUpdated": 1773884158066
 }
