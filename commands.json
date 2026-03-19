@@ -3525,7 +3525,7 @@
     "playmoba": 23,
     "ngaji": 8,
     "ewe-paksa": 6,
-    "me": 34,
+    "me": 35,
     "setbg": 4,
     "rampok2": 34,
     "6285609504925": 8,
@@ -3820,7 +3820,8 @@
     "wink": 1,
     "kecocokan": 3,
     "register": 1,
-    "rename": 1
+    "rename": 1,
+    "cn": 1
   },
-  "lastUpdated": 1773895362395
+  "lastUpdated": 1773895422395
 }
