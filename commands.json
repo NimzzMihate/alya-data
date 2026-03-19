@@ -3521,9 +3521,9 @@
     "ewe-paksa": 6,
     "me": 31,
     "setbg": 4,
-    "rampok2": 31,
+    "rampok2": 33,
     "6285609504925": 8,
-    "atm": 13,
+    "atm": 14,
     "bank": 6,
     "afk": 56,
     "kerja": 1,
@@ -3788,7 +3788,7 @@
     "getcase": 1,
     "/": 1,
     "cekcantik": 2,
-    "toplocal": 1,
+    "toplocal": 2,
     "forward": 1,
     "6283147484272": 1,
     "cekfemboty": 1,
@@ -3808,5 +3808,5 @@
     "6288994562127": 2,
     "arvanvamola:@suff": 1
   },
-  "lastUpdated": 1773881457438
+  "lastUpdated": 1773881517434
 }
