@@ -3742,7 +3742,7 @@
     "puji": 2,
     "pacar": 1,
     "carikarakter": 5,
-    "nembak": 2,
+    "nembak": 3,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -3823,5 +3823,5 @@
     "rename": 1,
     "cn": 1
   },
-  "lastUpdated": 1773895422395
+  "lastUpdated": 1773895482395
 }
