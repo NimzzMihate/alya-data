@@ -3742,7 +3742,7 @@
     "hargasewa": 1,
     "d": 10,
     "pabrik": 1,
-    "fitnah": 3,
+    "fitnah": 4,
     "puji": 2,
     "pacar": 1,
     "carikarakter": 13,
@@ -3840,7 +3840,8 @@
     "hitam": 1,
     "6281393699096": 1,
     "tests": 1,
-    "groupinfo": 1
+    "groupinfo": 1,
+    "cap": 1
   },
-  "lastUpdated": 1773907609815
+  "lastUpdated": 1773907669824
 }
