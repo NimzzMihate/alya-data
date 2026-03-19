@@ -3,16 +3,16 @@
   "totalUsers": 980,
   "totalGroups": 36,
   "totalFeatures": 3517,
-  "totalCmd": 1395,
-  "totalChat": 1395,
+  "totalCmd": 1403,
+  "totalChat": 1403,
   "topCommands": [
     {
       "cmd": "afk",
-      "count": 65
+      "count": 66
     },
     {
       "cmd": "me",
-      "count": 45
+      "count": 47
     },
     {
       "cmd": "rampok2",
@@ -24,7 +24,7 @@
     },
     {
       "cmd": "tes",
-      "count": 30
+      "count": 31
     },
     {
       "cmd": "cekfemboy",
@@ -35,12 +35,12 @@
       "count": 27
     },
     {
-      "cmd": "removebg",
+      "cmd": "playmoba",
       "count": 25
     },
     {
-      "cmd": "playmoba",
-      "count": 24
+      "cmd": "removebg",
+      "count": 25
     },
     {
       "cmd": "s",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 3841,
-  "lastUpdated": 1773916871152
+  "uptimeSeconds": 3901,
+  "lastUpdated": 1773916931152
 }
