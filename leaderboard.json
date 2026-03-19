@@ -99,7 +99,7 @@
     {
       "name": "Zaki",
       "level": 9,
-      "exp": 23016,
+      "exp": 23046,
       "saldo": 0
     },
     {
@@ -343,7 +343,7 @@
     {
       "name": "Zaki",
       "level": 9,
-      "exp": 23016,
+      "exp": 23046,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773912206107
+  "lastUpdated": 1773912266107
 }
