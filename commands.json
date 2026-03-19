@@ -3520,7 +3520,7 @@
     "backup": 2,
     "get": 12,
     "tohtml": 8,
-    "ranked": 33,
+    "ranked": 34,
     "mobaprofile": 8,
     "playmoba": 23,
     "ngaji": 8,
@@ -3824,5 +3824,5 @@
     "cn": 1,
     "cari": 1
   },
-  "lastUpdated": 1773896622402
+  "lastUpdated": 1773896682403
 }
