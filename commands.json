@@ -3512,7 +3512,7 @@
     "225": 1,
     "2694099605": 2,
     "backup": 2,
-    "get": 11,
+    "get": 12,
     "tohtml": 8,
     "ranked": 33,
     "mobaprofile": 8,
@@ -3575,7 +3575,7 @@
     "cf": 11,
     "nai2": 2,
     "6282137487477": 8,
-    "removebg": 20,
+    "removebg": 21,
     "addown": 7,
     "listowner": 7,
     "brat": 5,
@@ -3813,5 +3813,5 @@
     "statusanak": 1,
     "wink": 1
   },
-  "lastUpdated": 1773893622393
+  "lastUpdated": 1773893682386
 }
