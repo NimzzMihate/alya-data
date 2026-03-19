@@ -3751,7 +3751,7 @@
     "happy": 1,
     "sad": 1,
     "bully": 1,
-    "atmpull": 2,
+    "atmpull": 3,
     "promote": 3,
     "reset": 1,
     "memasak": 1,
@@ -3884,5 +3884,5 @@
     "mong": 1,
     "remove": 1
   },
-  "lastUpdated": 1773934109178
+  "lastUpdated": 1773934169177
 }
