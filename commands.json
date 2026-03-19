@@ -3087,6 +3087,10 @@
     "kecocokan",
     "lovemeter",
     "shipper",
+    "gccanvas",
+    "gcinfo2",
+    "groupinfo2",
+    "infogroup2",
     "tests",
     "embut",
     "wkwk",
@@ -3825,7 +3829,8 @@
     "cari": 1,
     "menurpg": 1,
     "mengaji": 1,
-    "dagang": 2
+    "dagang": 2,
+    "gccanvas": 2
   },
-  "lastUpdated": 1773897582578
+  "lastUpdated": 1773897673087
 }
