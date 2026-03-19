@@ -21,8 +21,8 @@
     {
       "name": "Putzz",
       "level": 200,
-      "exp": 480570,
-      "saldo": 1.8131111606067094e+42
+      "exp": 480654,
+      "saldo": 4457687
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -93,13 +93,13 @@
     {
       "name": "Axel suka kyouka",
       "level": 10,
-      "exp": 25603,
+      "exp": 25633,
       "saldo": 1355999
     },
     {
       "name": "Zaki",
       "level": 9,
-      "exp": 23150,
+      "exp": 23223,
       "saldo": 664
     },
     {
@@ -122,12 +122,6 @@
     }
   ],
   "saldo": [
-    {
-      "name": "Putzz",
-      "level": 200,
-      "exp": 480570,
-      "saldo": 1.8131111606067094e+42
-    },
     {
       "name": "Nimzz",
       "level": 510,
@@ -241,6 +235,12 @@
       "level": 0,
       "exp": 484,
       "saldo": 10045000
+    },
+    {
+      "name": "Putzz",
+      "level": 200,
+      "exp": 480654,
+      "saldo": 4457687
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Putzz",
       "level": 200,
-      "exp": 480570,
-      "saldo": 1.8131111606067094e+42
+      "exp": 480654,
+      "saldo": 4457687
     },
     {
       "name": "Nimzz",
@@ -337,13 +337,13 @@
     {
       "name": "Axel suka kyouka",
       "level": 10,
-      "exp": 25603,
+      "exp": 25633,
       "saldo": 1355999
     },
     {
       "name": "Zaki",
       "level": 9,
-      "exp": 23150,
+      "exp": 23223,
       "saldo": 664
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773912986117
+  "lastUpdated": 1773913091078
 }
