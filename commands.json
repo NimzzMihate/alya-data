@@ -3568,7 +3568,7 @@
     "6281393286345": 4,
     ">": 4,
     "addapi": 2,
-    "pin": 8,
+    "pin": 9,
     "hd": 24,
     "useitem": 7,
     "77605898313906": 13,
@@ -3742,7 +3742,7 @@
     "hargasewa": 1,
     "d": 10,
     "pabrik": 1,
-    "fitnah": 4,
+    "fitnah": 5,
     "puji": 2,
     "pacar": 1,
     "carikarakter": 13,
@@ -3841,7 +3841,7 @@
     "6281393699096": 1,
     "tests": 1,
     "groupinfo": 1,
-    "cap": 1
+    "cap": 2
   },
-  "lastUpdated": 1773907669824
+  "lastUpdated": 1773907729817
 }
