@@ -3588,7 +3588,7 @@
     "removebg": 25,
     "addown": 7,
     "listowner": 7,
-    "brat": 5,
+    "brat": 6,
     "brathd": 1,
     "editfoto": 12,
     "dailymisi": 11,
@@ -3833,5 +3833,5 @@
     "gccanvas": 2,
     "totalchat": 1
   },
-  "lastUpdated": 1773904033134
+  "lastUpdated": 1773904093144
 }
