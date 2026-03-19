@@ -3527,7 +3527,7 @@
     "ranked": 40,
     "mobaprofile": 9,
     "playmoba": 29,
-    "ngaji": 8,
+    "ngaji": 9,
     "ewe-paksa": 9,
     "me": 48,
     "setbg": 4,
@@ -3555,7 +3555,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 7,
-    "heal": 8,
+    "heal": 10,
     "menu": 12,
     "owner": 2,
     "script": 3,
@@ -3591,9 +3591,9 @@
     "brat": 6,
     "brathd": 1,
     "editfoto": 17,
-    "dailymisi": 11,
-    "open-bo": 11,
-    "ewepaksa": 6,
+    "dailymisi": 13,
+    "open-bo": 12,
+    "ewepaksa": 7,
     "topglobal": 4,
     "6285789692015": 1,
     "buy": 4,
@@ -3621,7 +3621,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 16,
-    "tes": 32,
+    "tes": 33,
     "listown": 7,
     "getpp": 3,
     "linkgc": 4,
@@ -3889,5 +3889,5 @@
     "autosahur": 1,
     "6285855009121": 1
   },
-  "lastUpdated": 1773956167582
+  "lastUpdated": 1773956256536
 }
