@@ -3,8 +3,8 @@
   "totalUsers": 981,
   "totalGroups": 36,
   "totalFeatures": 3517,
-  "totalCmd": 1438,
-  "totalChat": 1438,
+  "totalCmd": 1440,
+  "totalChat": 1440,
   "topCommands": [
     {
       "cmd": "afk",
@@ -40,7 +40,7 @@
     },
     {
       "cmd": "removebg",
-      "count": 25
+      "count": 26
     },
     {
       "cmd": "s",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 3241,
-  "lastUpdated": 1773921148619
+  "uptimeSeconds": 3301,
+  "lastUpdated": 1773921208618
 }
