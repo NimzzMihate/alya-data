@@ -3674,7 +3674,7 @@
     "setprofile": 10,
     "daftar": 5,
     "profile": 2,
-    "topactive": 6,
+    "topactive": 7,
     "verify": 5,
     "daftr": 3,
     "status": 1,
@@ -3883,5 +3883,5 @@
     "afk\ntidur": 1,
     "mong": 1
   },
-  "lastUpdated": 1773932369173
+  "lastUpdated": 1773932429173
 }
