@@ -3556,7 +3556,7 @@
     "61405583679507": 1,
     "wikwik": 7,
     "heal": 8,
-    "menu": 10,
+    "menu": 11,
     "owner": 2,
     "script": 3,
     "joinrpg": 2,
@@ -3880,5 +3880,5 @@
     "limt": 1,
     "limit": 1
   },
-  "lastUpdated": 1773930609799
+  "lastUpdated": 1773930713168
 }
