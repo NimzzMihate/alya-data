@@ -3524,7 +3524,7 @@
     "backup": 2,
     "get": 12,
     "tohtml": 8,
-    "ranked": 40,
+    "ranked": 41,
     "mobaprofile": 9,
     "playmoba": 29,
     "ngaji": 9,
@@ -3889,5 +3889,5 @@
     "autosahur": 1,
     "6285855009121": 1
   },
-  "lastUpdated": 1773956256536
+  "lastUpdated": 1773956316532
 }
