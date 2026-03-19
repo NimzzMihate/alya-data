@@ -3678,7 +3678,7 @@
     "verify": 3,
     "daftr": 3,
     "status": 1,
-    "pap": 6,
+    "pap": 7,
     "tebakbendera": 3,
     "tebak": 1,
     "gantinama": 1,
@@ -3849,5 +3849,5 @@
     "fk": 1,
     "38796926128361": 2
   },
-  "lastUpdated": 1773912206107
+  "lastUpdated": 1773912266107
 }
