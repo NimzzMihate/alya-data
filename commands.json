@@ -3556,7 +3556,7 @@
     "61405583679507": 1,
     "wikwik": 7,
     "heal": 8,
-    "menu": 5,
+    "menu": 6,
     "owner": 1,
     "script": 2,
     "joinrpg": 2,
@@ -3833,5 +3833,5 @@
     "gccanvas": 2,
     "totalchat": 1
   },
-  "lastUpdated": 1773902833128
+  "lastUpdated": 1773902893120
 }
