@@ -27,7 +27,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 97175,
+      "exp": 97227,
       "saldo": 3.240936222602343e+22
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 97175,
+      "exp": 97227,
       "saldo": 3.240936222602343e+22
     },
     {
@@ -295,7 +295,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 97175,
+      "exp": 97227,
       "saldo": 3.240936222602343e+22
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773939329196
+  "lastUpdated": 1773939389195
 }
