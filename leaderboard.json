@@ -21,7 +21,7 @@
     {
       "name": "Putzz",
       "level": 200,
-      "exp": 480839,
+      "exp": 480896,
       "saldo": 0
     },
     {
@@ -93,7 +93,7 @@
     {
       "name": "Axel suka kyouka",
       "level": 10,
-      "exp": 25633,
+      "exp": 25719,
       "saldo": 1355999
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Putzz",
       "level": 200,
-      "exp": 480839,
+      "exp": 480896,
       "saldo": 0
     },
     {
@@ -337,7 +337,7 @@
     {
       "name": "Axel suka kyouka",
       "level": 10,
-      "exp": 25633,
+      "exp": 25719,
       "saldo": 1355999
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773913211079
+  "lastUpdated": 1773913271078
 }
