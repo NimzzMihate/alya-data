@@ -3556,7 +3556,7 @@
     "61405583679507": 1,
     "wikwik": 7,
     "heal": 8,
-    "menu": 9,
+    "menu": 10,
     "owner": 2,
     "script": 3,
     "joinrpg": 2,
@@ -3578,7 +3578,7 @@
     "271481040834666": 3,
     "6285189358241": 17,
     "huxinn😡😡": 1,
-    "gift": 9,
+    "gift": 10,
     "ajakmain": 4,
     "daily": 6,
     "adventure": 3,
@@ -3866,7 +3866,11 @@
     "listmenu": 1,
     "animemenu": 1,
     "installermenu": 1,
-    "installtemabiling": 1
+    "installtemabiling": 1,
+    "installtemabilling": 1,
+    "yumeko": 1,
+    "mahiru": 1,
+    "marshaandthebear": 1
   },
-  "lastUpdated": 1773929769752
+  "lastUpdated": 1773929829764
 }
