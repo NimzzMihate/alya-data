@@ -3525,8 +3525,8 @@
     "get": 12,
     "tohtml": 8,
     "ranked": 38,
-    "mobaprofile": 8,
-    "playmoba": 27,
+    "mobaprofile": 9,
+    "playmoba": 28,
     "ngaji": 8,
     "ewe-paksa": 6,
     "me": 47,
@@ -3543,7 +3543,7 @@
     "🗿": 1,
     "165850548031616": 3,
     "mobashop": 2,
-    "select": 1,
+    "select": 2,
     "gunakan": 1,
     "6283104066685": 6,
     "6285189628892": 2,
@@ -3854,7 +3854,8 @@
     "ephotomenu": 1,
     "6283839942035": 1,
     "herolist": 1,
-    "232414219628797": 1
+    "232414219628797": 1,
+    "buyhero": 1
   },
-  "lastUpdated": 1773923068638
+  "lastUpdated": 1773923128643
 }
