@@ -33,7 +33,7 @@
     {
       "name": "Ren n nya tiga",
       "level": 70,
-      "exp": 170309,
+      "exp": 170384,
       "saldo": 70643168
     },
     {
@@ -93,7 +93,7 @@
     {
       "name": "Axel suka kyouka",
       "level": 10,
-      "exp": 25781,
+      "exp": 25817,
       "saldo": 1355999
     },
     {
@@ -227,13 +227,13 @@
     {
       "name": "Ren n nya tiga",
       "level": 70,
-      "exp": 170309,
+      "exp": 170384,
       "saldo": 70643168
     },
     {
       "name": "radit",
       "level": 0,
-      "exp": 569,
+      "exp": 607,
       "saldo": 10045000
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Ren n nya tiga",
       "level": 70,
-      "exp": 170309,
+      "exp": 170384,
       "saldo": 70643168
     },
     {
@@ -337,7 +337,7 @@
     {
       "name": "Axel suka kyouka",
       "level": 10,
-      "exp": 25781,
+      "exp": 25817,
       "saldo": 1355999
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773929233447
+  "lastUpdated": 1773929349752
 }
