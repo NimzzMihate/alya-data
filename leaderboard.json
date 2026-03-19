@@ -21,8 +21,8 @@
     {
       "name": "Putzz",
       "level": 200,
-      "exp": 480748,
-      "saldo": 4457687
+      "exp": 480839,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -237,10 +237,10 @@
       "saldo": 10045000
     },
     {
-      "name": "Putzz",
-      "level": 200,
-      "exp": 480748,
-      "saldo": 4457687
+      "name": "Player-293",
+      "level": 0,
+      "exp": 2165,
+      "saldo": 2629284
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Putzz",
       "level": 200,
-      "exp": 480748,
-      "saldo": 4457687
+      "exp": 480839,
+      "saldo": 0
     },
     {
       "name": "Nimzz",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773913151078
+  "lastUpdated": 1773913211079
 }
