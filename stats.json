@@ -3,8 +3,8 @@
   "totalUsers": 978,
   "totalGroups": 36,
   "totalFeatures": 3507,
-  "totalCmd": 1196,
-  "totalChat": 1196,
+  "totalCmd": 1198,
+  "totalChat": 1198,
   "topCommands": [
     {
       "cmd": "afk",
@@ -39,16 +39,16 @@
       "count": 22
     },
     {
-      "cmd": "updatealya",
+      "cmd": "removebg",
       "count": 21
     },
     {
-      "cmd": "removebg",
-      "count": 20
+      "cmd": "updatealya",
+      "count": 21
     }
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 7321,
-  "lastUpdated": 1773893622392
+  "uptimeSeconds": 7381,
+  "lastUpdated": 1773893682385
 }
