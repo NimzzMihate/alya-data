@@ -3,8 +3,8 @@
   "totalUsers": 978,
   "totalGroups": 36,
   "totalFeatures": 3513,
-  "totalCmd": 1224,
-  "totalChat": 1224,
+  "totalCmd": 1225,
+  "totalChat": 1225,
   "topCommands": [
     {
       "cmd": "afk",
@@ -15,12 +15,12 @@
       "count": 35
     },
     {
-      "cmd": "rampok2",
+      "cmd": "ranked",
       "count": 34
     },
     {
-      "cmd": "ranked",
-      "count": 33
+      "cmd": "rampok2",
+      "count": 34
     },
     {
       "cmd": "cekfemboy",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 10321,
-  "lastUpdated": 1773896622401
+  "uptimeSeconds": 10381,
+  "lastUpdated": 1773896682402
 }
