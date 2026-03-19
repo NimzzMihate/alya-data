@@ -3674,7 +3674,7 @@
     "setprofile": 5,
     "daftar": 3,
     "profile": 2,
-    "topactive": 3,
+    "topactive": 4,
     "verify": 3,
     "daftr": 3,
     "status": 1,
@@ -3740,7 +3740,7 @@
     "cekgay": 5,
     "ytdoc": 2,
     "hargasewa": 1,
-    "d": 5,
+    "d": 6,
     "pabrik": 1,
     "fitnah": 1,
     "puji": 2,
@@ -3830,7 +3830,8 @@
     "menurpg": 1,
     "mengaji": 1,
     "dagang": 2,
-    "gccanvas": 2
+    "gccanvas": 2,
+    "totalchat": 1
   },
-  "lastUpdated": 1773897673087
+  "lastUpdated": 1773897733083
 }
