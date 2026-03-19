@@ -3568,7 +3568,7 @@
     "6281393286345": 4,
     ">": 4,
     "addapi": 2,
-    "pin": 9,
+    "pin": 10,
     "hd": 24,
     "useitem": 7,
     "77605898313906": 13,
@@ -3674,7 +3674,7 @@
     "setprofile": 5,
     "daftar": 3,
     "profile": 2,
-    "topactive": 4,
+    "topactive": 5,
     "verify": 3,
     "daftr": 3,
     "status": 1,
@@ -3841,7 +3841,8 @@
     "6281393699096": 2,
     "tests": 1,
     "groupinfo": 1,
-    "cap": 2
+    "cap": 2,
+    "s.whatsapp.net": 1
   },
-  "lastUpdated": 1773907789818
+  "lastUpdated": 1773907849819
 }
