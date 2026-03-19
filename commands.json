@@ -3671,7 +3671,7 @@
     "daftar": 3,
     "profile": 2,
     "topactive": 3,
-    "verify": 2,
+    "verify": 3,
     "daftr": 3,
     "status": 1,
     "pap": 6,
@@ -3819,7 +3819,8 @@
     "statusanak": 1,
     "wink": 1,
     "kecocokan": 3,
-    "register": 1
+    "register": 1,
+    "rename": 1
   },
-  "lastUpdated": 1773895302395
+  "lastUpdated": 1773895362395
 }
