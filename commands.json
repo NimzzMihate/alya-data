@@ -3514,7 +3514,7 @@
     "backup": 2,
     "get": 11,
     "tohtml": 8,
-    "ranked": 30,
+    "ranked": 31,
     "mobaprofile": 7,
     "playmoba": 22,
     "ngaji": 7,
@@ -3812,5 +3812,5 @@
     "mie": 1,
     "statusanak": 1
   },
-  "lastUpdated": 1773885718083
+  "lastUpdated": 1773885778083
 }
