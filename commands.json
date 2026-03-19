@@ -3528,7 +3528,7 @@
     "mobaprofile": 9,
     "playmoba": 29,
     "ngaji": 8,
-    "ewe-paksa": 7,
+    "ewe-paksa": 8,
     "me": 47,
     "setbg": 4,
     "rampok2": 37,
@@ -3559,7 +3559,7 @@
     "menu": 11,
     "owner": 2,
     "script": 3,
-    "joinrpg": 2,
+    "joinrpg": 3,
     "mentahan": 1,
     "claim": 9,
     "cekidch": 2,
@@ -3882,5 +3882,5 @@
     "cihuy": 1,
     "afk\ntidur": 1
   },
-  "lastUpdated": 1773931973181
+  "lastUpdated": 1773932033171
 }
