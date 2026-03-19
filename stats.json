@@ -2,9 +2,9 @@
   "botName": "🍄 𝗔𝗹𝘆𝗮 𝗠𝗗",
   "totalUsers": 977,
   "totalGroups": 36,
-  "totalFeatures": 3283,
-  "totalCmd": 1175,
-  "totalChat": 1175,
+  "totalFeatures": 3507,
+  "totalCmd": 1177,
+  "totalChat": 1177,
   "topCommands": [
     {
       "cmd": "afk",
@@ -24,7 +24,7 @@
     },
     {
       "cmd": "cekfemboy",
-      "count": 27
+      "count": 28
     },
     {
       "cmd": "tes",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 7441,
-  "lastUpdated": 1773886258090
+  "uptimeSeconds": 421,
+  "lastUpdated": 1773886722305
 }
