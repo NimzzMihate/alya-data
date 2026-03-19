@@ -233,7 +233,7 @@
     {
       "name": "radit",
       "level": 0,
-      "exp": 522,
+      "exp": 569,
       "saldo": 10045000
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773927793423
+  "lastUpdated": 1773927853429
 }
