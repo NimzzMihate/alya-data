@@ -21,8 +21,8 @@
     {
       "name": "Putzz",
       "level": 201,
-      "exp": 482409,
-      "saldo": 1.8131111606067094e+42
+      "exp": 482533,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -123,12 +123,6 @@
   ],
   "saldo": [
     {
-      "name": "Putzz",
-      "level": 201,
-      "exp": 482409,
-      "saldo": 1.8131111606067094e+42
-    },
-    {
       "name": "Nimzz",
       "level": 510,
       "exp": 299600,
@@ -141,16 +135,16 @@
       "saldo": 2.0190218617272174e+33
     },
     {
+      "name": "naa",
+      "level": 5,
+      "exp": 12176,
+      "saldo": 1.000000001e+28
+    },
+    {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
       "exp": 97175,
       "saldo": 3.240936222602343e+22
-    },
-    {
-      "name": "naa",
-      "level": 5,
-      "exp": 12176,
-      "saldo": 10000000000000113000
     },
     {
       "name": "Joishi ganteng",
@@ -241,6 +235,12 @@
       "level": 0,
       "exp": 672,
       "saldo": 10045000
+    },
+    {
+      "name": "Player-293",
+      "level": 0,
+      "exp": 2165,
+      "saldo": 2629284
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Putzz",
       "level": 201,
-      "exp": 482409,
-      "saldo": 1.8131111606067094e+42
+      "exp": 482533,
+      "saldo": 0
     },
     {
       "name": "Nimzz",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773934589187
+  "lastUpdated": 1773934649179
 }
