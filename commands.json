@@ -3625,7 +3625,7 @@
     "listown": 7,
     "getpp": 3,
     "linkgc": 4,
-    "cekpasangan": 7,
+    "cekpasangan": 8,
     "6281283401829": 1,
     "tembak": 2,
     "terima": 1,
@@ -3873,9 +3873,10 @@
     "marshaandthebear": 1,
     "allmenu": 1,
     "gamemenu": 1,
-    "catur": 3,
+    "catur": 6,
     "mulai": 1,
-    "e2": 2
+    "e2": 2,
+    "6285180841166": 1
   },
-  "lastUpdated": 1773930009763
+  "lastUpdated": 1773930069763
 }
