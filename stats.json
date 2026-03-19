@@ -3,8 +3,8 @@
   "totalUsers": 979,
   "totalGroups": 36,
   "totalFeatures": 3517,
-  "totalCmd": 1313,
-  "totalChat": 1313,
+  "totalCmd": 1314,
+  "totalChat": 1314,
   "topCommands": [
     {
       "cmd": "afk",
@@ -31,15 +31,15 @@
       "count": 27
     },
     {
+      "cmd": "hd",
+      "count": 25
+    },
+    {
       "cmd": "removebg",
       "count": 25
     },
     {
       "cmd": "playmoba",
-      "count": 24
-    },
-    {
-      "cmd": "hd",
       "count": 24
     },
     {
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 1861,
-  "lastUpdated": 1773908329835
+  "uptimeSeconds": 1921,
+  "lastUpdated": 1773908389837
 }
