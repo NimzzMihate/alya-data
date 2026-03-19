@@ -3521,7 +3521,7 @@
     "ewe-paksa": 6,
     "me": 31,
     "setbg": 4,
-    "rampok2": 33,
+    "rampok2": 34,
     "6285609504925": 8,
     "atm": 14,
     "bank": 6,
@@ -3611,7 +3611,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 13,
-    "tes": 24,
+    "tes": 25,
     "listown": 7,
     "getpp": 1,
     "linkgc": 4,
@@ -3692,7 +3692,7 @@
     "kencan": 2,
     "kasihsusu": 1,
     "wm": 6,
-    "absen": 1,
+    "absen": 2,
     "mulaiabsen": 1,
     "6283848672013": 2,
     "ratebot": 1,
@@ -3808,5 +3808,5 @@
     "6288994562127": 2,
     "arvanvamola:@suff": 1
   },
-  "lastUpdated": 1773881517434
+  "lastUpdated": 1773881577435
 }
