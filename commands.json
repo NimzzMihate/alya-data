@@ -3527,7 +3527,7 @@
     "ewe-paksa": 6,
     "me": 35,
     "setbg": 4,
-    "rampok2": 34,
+    "rampok2": 35,
     "6285609504925": 8,
     "atm": 14,
     "bank": 6,
@@ -3555,7 +3555,7 @@
     "menu": 4,
     "owner": 1,
     "script": 2,
-    "joinrpg": 1,
+    "joinrpg": 2,
     "mentahan": 1,
     "claim": 8,
     "cekidch": 2,
@@ -3824,5 +3824,5 @@
     "cn": 1,
     "cari": 1
   },
-  "lastUpdated": 1773897042403
+  "lastUpdated": 1773897102402
 }
