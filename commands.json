@@ -3533,7 +3533,7 @@
     "setbg": 4,
     "rampok2": 37,
     "6285609504925": 10,
-    "atm": 16,
+    "atm": 17,
     "bank": 6,
     "afk": 74,
     "kerja": 1,
@@ -3883,7 +3883,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 4
+    "tf": 5
   },
-  "lastUpdated": 1773934589187
+  "lastUpdated": 1773934649179
 }
