@@ -3081,6 +3081,12 @@
     "gendeng",
     "edan",
     "cekedan",
+    "cocok",
+    "cekcocok",
+    "compatible",
+    "kecocokan",
+    "lovemeter",
+    "shipper",
     "tests",
     "embut",
     "wkwk",
@@ -3735,8 +3741,8 @@
     "fitnah": 1,
     "puji": 2,
     "pacar": 1,
-    "carikarakter": 4,
-    "nembak": 1,
+    "carikarakter": 5,
+    "nembak": 2,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -3811,7 +3817,9 @@
     "totalfitur": 1,
     "mie": 1,
     "statusanak": 1,
-    "wink": 1
+    "wink": 1,
+    "kecocokan": 3,
+    "register": 1
   },
-  "lastUpdated": 1773895242403
+  "lastUpdated": 1773895302395
 }
