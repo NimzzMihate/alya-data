@@ -208,8 +208,8 @@
     },
     {
       "name": "kenntod",
-      "level": 4,
-      "exp": 11994,
+      "level": 5,
+      "exp": 12034,
       "saldo": 12115112919856
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773929589751
+  "lastUpdated": 1773929649756
 }
