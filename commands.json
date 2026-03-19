@@ -3599,9 +3599,9 @@
     "195520047915190": 1,
     "setpp": 2,
     "265944542793975": 1,
-    "berburu": 4,
+    "berburu": 5,
     "masak": 6,
-    "rpgmenu": 1,
+    "rpgmenu": 2,
     "makan": 1,
     "repair": 1,
     "kapal": 1,
@@ -3825,5 +3825,5 @@
     "cari": 1,
     "menurpg": 1
   },
-  "lastUpdated": 1773897222415
+  "lastUpdated": 1773897282410
 }
