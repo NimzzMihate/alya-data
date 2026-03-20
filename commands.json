@@ -3524,9 +3524,9 @@
     "backup": 2,
     "get": 13,
     "tohtml": 8,
-    "ranked": 42,
+    "ranked": 43,
     "mobaprofile": 9,
-    "playmoba": 30,
+    "playmoba": 31,
     "ngaji": 11,
     "ewe-paksa": 11,
     "me": 54,
@@ -3904,5 +3904,5 @@
     "6283182874975": 2,
     "6285883750934": 1
   },
-  "lastUpdated": 1773989418450
+  "lastUpdated": 1773989478457
 }
