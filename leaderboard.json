@@ -27,7 +27,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 97227,
+      "exp": 97259,
       "saldo": 3.240936222602343e+22
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "bímm",
       "level": 53,
-      "exp": 127373,
+      "exp": 127417,
       "saldo": 0
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 97227,
+      "exp": 97259,
       "saldo": 3.240936222602343e+22
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "bímm",
       "level": 53,
-      "exp": 127373,
+      "exp": 127417,
       "saldo": 0
     },
     {
@@ -295,7 +295,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 97227,
+      "exp": 97259,
       "saldo": 3.240936222602343e+22
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773968436583
+  "lastUpdated": 1773968496582
 }
