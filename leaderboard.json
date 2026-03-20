@@ -14,9 +14,9 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 259,
-      "exp": 627708,
-      "saldo": 819936232324220
+      "level": 261,
+      "exp": 627750,
+      "saldo": 919936232324220
     },
     {
       "name": "Putzz",
@@ -39,8 +39,8 @@
     {
       "name": "Joishi ganteng",
       "level": 57,
-      "exp": 137134,
-      "saldo": 1273918150165834200
+      "exp": 137432,
+      "saldo": 573818150165834240
     },
     {
       "name": "bímm",
@@ -149,14 +149,14 @@
     {
       "name": "Joishi ganteng",
       "level": 57,
-      "exp": 137134,
-      "saldo": 1273918150165834200
+      "exp": 137432,
+      "saldo": 573818150165834240
     },
     {
       "name": "Ditz ketoprak",
-      "level": 259,
-      "exp": 627708,
-      "saldo": 819936232324220
+      "level": 261,
+      "exp": 627750,
+      "saldo": 919936232324220
     },
     {
       "name": "Lejen",
@@ -252,9 +252,9 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 259,
-      "exp": 627708,
-      "saldo": 819936232324220
+      "level": 261,
+      "exp": 627750,
+      "saldo": 919936232324220
     },
     {
       "name": "Putzz",
@@ -277,8 +277,8 @@
     {
       "name": "Joishi ganteng",
       "level": 57,
-      "exp": 137134,
-      "saldo": 1273918150165834200
+      "exp": 137432,
+      "saldo": 573818150165834240
     },
     {
       "name": "bímm",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773973176600
+  "lastUpdated": 1773973236601
 }
