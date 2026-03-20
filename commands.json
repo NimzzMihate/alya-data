@@ -3588,7 +3588,7 @@
     "removebg": 34,
     "addown": 7,
     "listowner": 7,
-    "brat": 16,
+    "brat": 17,
     "brathd": 1,
     "editfoto": 20,
     "dailymisi": 16,
@@ -3601,7 +3601,7 @@
     "getno": 7,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
     "195520047915190": 1,
-    "setpp": 4,
+    "setpp": 5,
     "265944542793975": 1,
     "berburu": 5,
     "masak": 6,
@@ -3621,7 +3621,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 20,
-    "tes": 39,
+    "tes": 40,
     "listown": 7,
     "getpp": 3,
     "linkgc": 4,
@@ -3661,7 +3661,7 @@
     "6282130641503": 5,
     "buyitem": 1,
     "play": 13,
-    "ytmp3": 9,
+    "ytmp3": 10,
     "152609298108555": 13,
     "35588770111681": 1,
     "intro": 8,
@@ -3673,7 +3673,7 @@
     "....": 1,
     "setprofile": 11,
     "daftar": 5,
-    "profile": 2,
+    "profile": 3,
     "topactive": 8,
     "verify": 5,
     "daftr": 3,
@@ -3918,7 +3918,8 @@
     "cm": 1,
     "warn": 1,
     "tagme": 1,
-    "130365243027683": 1
+    "130365243027683": 1,
+    "profil": 1
   },
-  "lastUpdated": 1774021894219
+  "lastUpdated": 1774021954215
 }
