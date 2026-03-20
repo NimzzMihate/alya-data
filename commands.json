@@ -3528,7 +3528,7 @@
     "mobaprofile": 9,
     "playmoba": 29,
     "ngaji": 11,
-    "ewe-paksa": 10,
+    "ewe-paksa": 11,
     "me": 53,
     "setbg": 4,
     "rampok2": 39,
@@ -3555,7 +3555,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 7,
-    "heal": 10,
+    "heal": 11,
     "menu": 12,
     "owner": 2,
     "script": 3,
@@ -3893,5 +3893,5 @@
     "f": 1,
     "heal.": 1
   },
-  "lastUpdated": 1773972996599
+  "lastUpdated": 1773973056600
 }
