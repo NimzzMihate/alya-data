@@ -3568,7 +3568,7 @@
     "6281393286345": 8,
     ">": 4,
     "addapi": 2,
-    "pin": 40,
+    "pin": 41,
     "hd": 34,
     "useitem": 7,
     "77605898313906": 19,
@@ -3746,7 +3746,7 @@
     "puji": 2,
     "pacar": 1,
     "carikarakter": 14,
-    "nembak": 4,
+    "nembak": 5,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -3933,5 +3933,5 @@
     "oke": 1,
     "nikah": 1
   },
-  "lastUpdated": 1774023529484
+  "lastUpdated": 1774023589521
 }
