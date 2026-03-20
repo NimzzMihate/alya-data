@@ -3530,7 +3530,7 @@
     "ngaji": 11,
     "ewe-paksa": 12,
     "me": 59,
-    "setbg": 6,
+    "setbg": 7,
     "rampok2": 43,
     "6285609504925": 12,
     "atm": 19,
@@ -3825,7 +3825,7 @@
     "kecocokan": 10,
     "register": 1,
     "rename": 1,
-    "cn": 2,
+    "cn": 3,
     "cari": 1,
     "menurpg": 1,
     "mengaji": 1,
@@ -3914,7 +3914,8 @@
     "tiktok": 2,
     "tiktokmp3": 1,
     "139685271736427": 1,
-    "setprofil": 1
+    "setprofil": 1,
+    "cm": 1
   },
-  "lastUpdated": 1774016086401
+  "lastUpdated": 1774016146400
 }
