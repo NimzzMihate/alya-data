@@ -39,8 +39,8 @@
     {
       "name": "Joishi ganteng",
       "level": 57,
-      "exp": 137432,
-      "saldo": 573818150165834240
+      "exp": 137653,
+      "saldo": 2573818150165834000
     },
     {
       "name": "bímm",
@@ -149,8 +149,8 @@
     {
       "name": "Joishi ganteng",
       "level": 57,
-      "exp": 137432,
-      "saldo": 573818150165834240
+      "exp": 137653,
+      "saldo": 2573818150165834000
     },
     {
       "name": "Ditz ketoprak",
@@ -277,8 +277,8 @@
     {
       "name": "Joishi ganteng",
       "level": 57,
-      "exp": 137432,
-      "saldo": 573818150165834240
+      "exp": 137653,
+      "saldo": 2573818150165834000
     },
     {
       "name": "bímm",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773973236601
+  "lastUpdated": 1773973296602
 }
