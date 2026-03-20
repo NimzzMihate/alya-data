@@ -40,7 +40,7 @@
       "name": "Joishi ganteng",
       "level": 57,
       "exp": 138741,
-      "saldo": 20123718150165830000
+      "saldo": 20123618150165830000
     },
     {
       "name": "bímm",
@@ -111,8 +111,8 @@
     {
       "name": "renita",
       "level": 8,
-      "exp": 20438,
-      "saldo": 279951246893055
+      "exp": 20588,
+      "saldo": 379951246893055
     },
     {
       "name": "damz kece umur 11",
@@ -150,7 +150,7 @@
       "name": "Joishi ganteng",
       "level": 57,
       "exp": 138741,
-      "saldo": 20123718150165830000
+      "saldo": 20123618150165830000
     },
     {
       "name": "Ditz ketoprak",
@@ -165,16 +165,16 @@
       "saldo": 611537792510900
     },
     {
+      "name": "renita",
+      "level": 8,
+      "exp": 20588,
+      "saldo": 379951246893055
+    },
+    {
       "name": "Sanz",
       "level": 1,
       "exp": 3143,
       "saldo": 301511165903189
-    },
-    {
-      "name": "renita",
-      "level": 8,
-      "exp": 20438,
-      "saldo": 279951246893055
     },
     {
       "name": "danz",
@@ -278,7 +278,7 @@
       "name": "Joishi ganteng",
       "level": 57,
       "exp": 138741,
-      "saldo": 20123718150165830000
+      "saldo": 20123618150165830000
     },
     {
       "name": "bímm",
@@ -355,8 +355,8 @@
     {
       "name": "renita",
       "level": 8,
-      "exp": 20438,
-      "saldo": 279951246893055
+      "exp": 20588,
+      "saldo": 379951246893055
     },
     {
       "name": "damz kece umur 11",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773975172537
+  "lastUpdated": 1773975232537
 }
