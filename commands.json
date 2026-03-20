@@ -3525,7 +3525,7 @@
     "get": 14,
     "tohtml": 8,
     "ranked": 43,
-    "mobaprofile": 9,
+    "mobaprofile": 10,
     "playmoba": 31,
     "ngaji": 11,
     "ewe-paksa": 12,
@@ -3632,7 +3632,7 @@
     "cium": 3,
     "6281915895220": 1,
     "6281215537344": 1,
-    "rampok": 7,
+    "rampok": 8,
     "listapi": 2,
     "family100": 1,
     "tebakpokemon": 1,
@@ -3921,7 +3921,10 @@
     "130365243027683": 1,
     "profil": 3,
     "prefix": 1,
-    "6282313526033": 2
+    "6282313526033": 2,
+    "game": 1,
+    "main": 1,
+    "moba": 1
   },
-  "lastUpdated": 1774022794235
+  "lastUpdated": 1774022854235
 }
