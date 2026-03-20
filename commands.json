@@ -3528,7 +3528,7 @@
     "mobaprofile": 9,
     "playmoba": 29,
     "ngaji": 11,
-    "ewe-paksa": 9,
+    "ewe-paksa": 10,
     "me": 53,
     "setbg": 4,
     "rampok2": 39,
@@ -3890,7 +3890,8 @@
     "6285855009121": 1,
     "listcap": 1,
     "aiart": 1,
-    "f": 1
+    "f": 1,
+    "heal.": 1
   },
-  "lastUpdated": 1773972936602
+  "lastUpdated": 1773972996599
 }
