@@ -3588,7 +3588,7 @@
     "removebg": 34,
     "addown": 7,
     "listowner": 7,
-    "brat": 6,
+    "brat": 9,
     "brathd": 1,
     "editfoto": 20,
     "dailymisi": 16,
@@ -3911,12 +3911,12 @@
     "list": 1,
     "pib": 1,
     "kirimucapan": 1,
-    "tiktok": 2,
+    "tiktok": 3,
     "tiktokmp3": 1,
     "139685271736427": 1,
     "setprofil": 1,
     "cm": 1,
     "warn": 1
   },
-  "lastUpdated": 1774016326407
+  "lastUpdated": 1774016386405
 }
