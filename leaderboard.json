@@ -27,8 +27,8 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 98310,
-      "saldo": 3.2602862326023434e+22
+      "exp": 98528,
+      "saldo": 3.060286232602344e+22
     },
     {
       "name": "Ren n nya tiga",
@@ -39,8 +39,8 @@
     {
       "name": "Joishi ganteng",
       "level": 57,
-      "exp": 138452,
-      "saldo": 6623718150165834000
+      "exp": 138707,
+      "saldo": 20123718150165830000
     },
     {
       "name": "bímm",
@@ -143,14 +143,14 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 98310,
-      "saldo": 3.2602862326023434e+22
+      "exp": 98528,
+      "saldo": 3.060286232602344e+22
     },
     {
       "name": "Joishi ganteng",
       "level": 57,
-      "exp": 138452,
-      "saldo": 6623718150165834000
+      "exp": 138707,
+      "saldo": 20123718150165830000
     },
     {
       "name": "Ditz ketoprak",
@@ -277,8 +277,8 @@
     {
       "name": "Joishi ganteng",
       "level": 57,
-      "exp": 138452,
-      "saldo": 6623718150165834000
+      "exp": 138707,
+      "saldo": 20123718150165830000
     },
     {
       "name": "bímm",
@@ -295,8 +295,8 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 98310,
-      "saldo": 3.2602862326023434e+22
+      "exp": 98528,
+      "saldo": 3.060286232602344e+22
     },
     {
       "name": "Lejen",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773973536840
+  "lastUpdated": 1773973612533
 }
