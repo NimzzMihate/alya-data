@@ -27,8 +27,8 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 100575,
-      "saldo": 5.010286232602344e+22
+      "exp": 100648,
+      "saldo": 5.010186232602344e+22
     },
     {
       "name": "Ren n nya tiga",
@@ -111,8 +111,8 @@
     {
       "name": "renita",
       "level": 8,
-      "exp": 20867,
-      "saldo": 379451246893055
+      "exp": 20925,
+      "saldo": 1000379451246893000
     },
     {
       "name": "damz kece umur 11",
@@ -143,14 +143,20 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 100575,
-      "saldo": 5.010286232602344e+22
+      "exp": 100648,
+      "saldo": 5.010186232602344e+22
     },
     {
       "name": "Joishi ganteng",
       "level": 57,
       "exp": 138808,
       "saldo": 20123618150165830000
+    },
+    {
+      "name": "renita",
+      "level": 8,
+      "exp": 20925,
+      "saldo": 1000379451246893000
     },
     {
       "name": "Ditz ketoprak",
@@ -169,12 +175,6 @@
       "level": 1,
       "exp": 3258,
       "saldo": 401511165903189
-    },
-    {
-      "name": "renita",
-      "level": 8,
-      "exp": 20867,
-      "saldo": 379451246893055
     },
     {
       "name": "danz",
@@ -295,8 +295,8 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 100575,
-      "saldo": 5.010286232602344e+22
+      "exp": 100648,
+      "saldo": 5.010186232602344e+22
     },
     {
       "name": "Lejen",
@@ -355,8 +355,8 @@
     {
       "name": "renita",
       "level": 8,
-      "exp": 20867,
-      "saldo": 379451246893055
+      "exp": 20925,
+      "saldo": 1000379451246893000
     },
     {
       "name": "damz kece umur 11",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774000758536
+  "lastUpdated": 1774000818535
 }
