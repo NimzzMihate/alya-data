@@ -87,7 +87,7 @@
     {
       "name": "Yogie ganteng",
       "level": 12,
-      "exp": 30555,
+      "exp": 30632,
       "saldo": 1722760
     },
     {
@@ -331,7 +331,7 @@
     {
       "name": "Yogie ganteng",
       "level": 12,
-      "exp": 30555,
+      "exp": 30632,
       "saldo": 1722760
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773978832578
+  "lastUpdated": 1773978892569
 }
