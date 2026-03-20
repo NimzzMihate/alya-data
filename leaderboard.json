@@ -45,8 +45,8 @@
     {
       "name": "bímm",
       "level": 52,
-      "exp": 126878,
-      "saldo": 0
+      "exp": 127109,
+      "saldo": 100000000000000
     },
     {
       "name": "Zxiox",
@@ -201,6 +201,12 @@
       "saldo": 100000000065871
     },
     {
+      "name": "bímm",
+      "level": 52,
+      "exp": 127109,
+      "saldo": 100000000000000
+    },
+    {
       "name": "Oguri cap",
       "level": 23,
       "exp": 56762,
@@ -235,12 +241,6 @@
       "level": 0,
       "exp": 672,
       "saldo": 10045000
-    },
-    {
-      "name": "Player-293",
-      "level": 0,
-      "exp": 2165,
-      "saldo": 2629284
     }
   ],
   "exp": [
@@ -283,8 +283,8 @@
     {
       "name": "bímm",
       "level": 52,
-      "exp": 126878,
-      "saldo": 0
+      "exp": 127109,
+      "saldo": 100000000000000
     },
     {
       "name": "Zxiox",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1773968316582
+  "lastUpdated": 1773968376588
 }
