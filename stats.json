@@ -3,8 +3,8 @@
   "totalUsers": 991,
   "totalGroups": 36,
   "totalFeatures": 3517,
-  "totalCmd": 1693,
-  "totalChat": 1693,
+  "totalCmd": 1700,
+  "totalChat": 1700,
   "topCommands": [
     {
       "cmd": "afk",
@@ -12,7 +12,7 @@
     },
     {
       "cmd": "me",
-      "count": 51
+      "count": 52
     },
     {
       "cmd": "ranked",
@@ -35,20 +35,20 @@
       "count": 31
     },
     {
+      "cmd": "s",
+      "count": 30
+    },
+    {
       "cmd": "hd",
       "count": 30
     },
     {
       "cmd": "playmoba",
       "count": 29
-    },
-    {
-      "cmd": "s",
-      "count": 29
     }
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 12181,
-  "lastUpdated": 1773968376583
+  "uptimeSeconds": 12241,
+  "lastUpdated": 1773968436582
 }
