@@ -3625,7 +3625,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 24,
-    "tes": 43,
+    "tes": 44,
     "listown": 7,
     "getpp": 3,
     "linkgc": 4,
@@ -3746,7 +3746,7 @@
     "hargasewa": 1,
     "d": 21,
     "pabrik": 1,
-    "fitnah": 11,
+    "fitnah": 12,
     "puji": 2,
     "pacar": 1,
     "carikarakter": 14,
@@ -3803,7 +3803,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 4,
-    "forward": 4,
+    "forward": 5,
     "6283147484272": 4,
     "cekfemboty": 1,
     "2590335057971": 5,
@@ -3920,7 +3920,7 @@
     "139685271736427": 1,
     "setprofil": 1,
     "cm": 1,
-    "warn": 1,
+    "warn": 2,
     "tagme": 1,
     "130365243027683": 2,
     "profil": 3,
@@ -3945,7 +3945,8 @@
     "setrole": 1,
     "setstatus": 1,
     "pin.": 1,
-    "bounty": 2
+    "bounty": 2,
+    "listcase": 1
   },
-  "lastUpdated": 1774093409952
+  "lastUpdated": 1774093507197
 }
