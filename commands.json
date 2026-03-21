@@ -721,8 +721,6 @@
     "playchannel",
     "musikch",
     "chmusik",
-    "upch",
-    "upaudio",
     "save",
     "simpan",
     "listsave",
@@ -3770,7 +3768,7 @@
     "add": 2,
     "ytmp4": 1,
     "ttdl": 2,
-    "playch": 9,
+    "playch": 10,
     "cekganteng": 14,
     "crkganteng": 1,
     "puqi": 1,
@@ -3957,5 +3955,5 @@
     "spotifys": 2,
     "ttsearch": 1
   },
-  "lastUpdated": 1774105144846
+  "lastUpdated": 1774105204841
 }
