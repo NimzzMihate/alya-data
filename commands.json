@@ -3572,8 +3572,8 @@
     "6281393286345": 10,
     ">": 4,
     "addapi": 2,
-    "pin": 46,
-    "hd": 39,
+    "pin": 48,
+    "hd": 40,
     "useitem": 7,
     "77605898313906": 26,
     "huxin": 1,
@@ -3594,7 +3594,7 @@
     "listowner": 7,
     "brat": 17,
     "brathd": 1,
-    "editfoto": 20,
+    "editfoto": 21,
     "dailymisi": 18,
     "open-bo": 14,
     "ewepaksa": 8,
@@ -3950,5 +3950,5 @@
     "test": 1,
     "pin2": 2
   },
-  "lastUpdated": 1774094527198
+  "lastUpdated": 1774094587198
 }
