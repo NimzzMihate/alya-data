@@ -539,6 +539,10 @@
     "cekuser",
     "usercek",
     "cekprofile",
+    "setrole",
+    "setperan",
+    "resetrole",
+    "resetperan",
     "profileowner",
     "ownerprofile",
     "profilown",
@@ -3529,7 +3533,7 @@
     "playmoba": 31,
     "ngaji": 11,
     "ewe-paksa": 12,
-    "me": 72,
+    "me": 73,
     "setbg": 8,
     "rampok2": 44,
     "6285609504925": 13,
@@ -3939,5 +3943,5 @@
     "18232723431562": 1,
     "kennsesanpai": 1
   },
-  "lastUpdated": 1774077007659
+  "lastUpdated": 1774077067660
 }
