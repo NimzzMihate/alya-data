@@ -3531,7 +3531,7 @@
     "playmoba": 32,
     "ngaji": 11,
     "ewe-paksa": 12,
-    "me": 76,
+    "me": 77,
     "setbg": 8,
     "rampok2": 45,
     "6285609504925": 13,
@@ -3563,7 +3563,7 @@
     "script": 3,
     "joinrpg": 4,
     "mentahan": 1,
-    "claim": 10,
+    "claim": 11,
     "cekidch": 2,
     "tourl": 10,
     "title": 1,
@@ -3768,7 +3768,7 @@
     "add": 2,
     "ytmp4": 1,
     "ttdl": 2,
-    "playch": 10,
+    "playch": 11,
     "cekganteng": 14,
     "crkganteng": 1,
     "puqi": 1,
@@ -3955,5 +3955,5 @@
     "spotifys": 2,
     "ttsearch": 1
   },
-  "lastUpdated": 1774105204841
+  "lastUpdated": 1774105264845
 }
