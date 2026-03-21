@@ -3528,9 +3528,9 @@
     "backup": 2,
     "get": 15,
     "tohtml": 8,
-    "ranked": 47,
+    "ranked": 48,
     "mobaprofile": 10,
-    "playmoba": 31,
+    "playmoba": 32,
     "ngaji": 11,
     "ewe-paksa": 12,
     "me": 75,
@@ -3947,5 +3947,5 @@
     "pin.": 1,
     "bounty": 2
   },
-  "lastUpdated": 1774093169951
+  "lastUpdated": 1774093229952
 }
