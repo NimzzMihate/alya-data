@@ -3749,7 +3749,7 @@
     "puji": 2,
     "pacar": 2,
     "carikarakter": 18,
-    "nembak": 7,
+    "nembak": 8,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -3797,7 +3797,7 @@
     "6282115911954": 2,
     "6281455125940": 2,
     "6285761349641": 4,
-    "pap2": 6,
+    "pap2": 7,
     "getcase": 1,
     "/": 1,
     "cekcantik": 2,
@@ -3987,7 +3987,9 @@
     "bratvid": 1,
     "karakter": 1,
     "buatanak": 1,
-    "istiku": 1
+    "istiku": 1,
+    "cerai": 1,
+    "putus": 1
   },
-  "lastUpdated": 1774161328185
+  "lastUpdated": 1774161388185
 }
