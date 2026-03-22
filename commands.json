@@ -3853,7 +3853,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 7,
-    "forward": 18,
+    "forward": 20,
     "6283147484272": 5,
     "cekfemboty": 1,
     "2590335057971": 8,
@@ -4055,7 +4055,7 @@
     "sg": 7,
     "shop": 2,
     "168238516305969": 1,
-    "atmtake": 1,
+    "atmtake": 2,
     "giftshop": 1,
     "kasihnamaanak": 1,
     "babi": 2,
@@ -4088,7 +4088,8 @@
     "259468235436086": 2,
     "6281374721324": 1,
     "cekpenjara": 3,
-    "cek": 1
+    "cek": 1,
+    "forward.forward": 1
   },
-  "lastUpdated": 1774188784000
+  "lastUpdated": 1774188843995
 }
