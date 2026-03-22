@@ -3,8 +3,8 @@
   "totalUsers": 1007,
   "totalGroups": 36,
   "totalFeatures": 3570,
-  "totalCmd": 3364,
-  "totalChat": 3364,
+  "totalCmd": 3369,
+  "totalChat": 3369,
   "topCommands": [
     {
       "cmd": "afk",
@@ -20,7 +20,7 @@
     },
     {
       "cmd": "buy",
-      "count": 86
+      "count": 87
     },
     {
       "cmd": "craft",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 1141,
-  "lastUpdated": 1774191942059
+  "uptimeSeconds": 1201,
+  "lastUpdated": 1774192002063
 }
