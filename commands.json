@@ -3587,8 +3587,8 @@
     "setbg": 8,
     "rampok2": 80,
     "6285609504925": 13,
-    "atm": 24,
-    "bank": 10,
+    "atm": 26,
+    "bank": 11,
     "afk": 122,
     "kerja": 4,
     "628176533297": 12,
@@ -3686,7 +3686,7 @@
     "cium": 10,
     "6281915895220": 1,
     "6281215537344": 1,
-    "rampok": 17,
+    "rampok": 18,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -4092,5 +4092,5 @@
     "forward.forward": 1,
     "hell": 1
   },
-  "lastUpdated": 1774189143996
+  "lastUpdated": 1774189203996
 }
