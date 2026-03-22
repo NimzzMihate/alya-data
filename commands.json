@@ -3753,7 +3753,7 @@
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
-    "kencan": 8,
+    "kencan": 9,
     "kasihsusu": 4,
     "wm": 20,
     "absen": 2,
@@ -3799,7 +3799,7 @@
     "fitnah": 18,
     "puji": 6,
     "pacar": 2,
-    "carikarakter": 20,
+    "carikarakter": 21,
     "nembak": 15,
     "cry": 3,
     "happy": 1,
@@ -4097,7 +4097,9 @@
     "tranfer2000": 1,
     "bot": 1,
     "tf+62": 1,
-    "dokter": 1
+    "dokter": 1,
+    "carikarakter[shizuka": 1,
+    "nama": 1
   },
-  "lastUpdated": 1774190584013
+  "lastUpdated": 1774190644014
 }
