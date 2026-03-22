@@ -3593,7 +3593,7 @@
     "listowner": 7,
     "brat": 18,
     "brathd": 1,
-    "editfoto": 22,
+    "editfoto": 23,
     "dailymisi": 23,
     "open-bo": 17,
     "ewepaksa": 13,
@@ -3690,7 +3690,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 10,
+    "saldo": 11,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4004,5 +4004,5 @@
     "sg": 6,
     "shop": 1
   },
-  "lastUpdated": 1774163422787
+  "lastUpdated": 1774163482785
 }
