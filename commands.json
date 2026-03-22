@@ -3590,7 +3590,7 @@
     "atm": 27,
     "bank": 13,
     "afk": 128,
-    "kerja": 14,
+    "kerja": 16,
     "628176533297": 12,
     "s": 43,
     "jwkwnwkabs": 1,
@@ -3727,7 +3727,7 @@
     "....": 1,
     "setprofile": 18,
     "daftar": 7,
-    "profile": 3,
+    "profile": 4,
     "topactive": 15,
     "verify": 7,
     "daftr": 4,
@@ -3741,7 +3741,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 17,
+    "saldo": 18,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3805,7 +3805,7 @@
     "happy": 1,
     "sad": 1,
     "bully": 1,
-    "atmpull": 8,
+    "atmpull": 9,
     "promote": 4,
     "reset": 1,
     "memasak": 1,
@@ -4117,5 +4117,5 @@
     "unlimited": 1,
     "ppobindonesia": 1
   },
-  "lastUpdated": 1774192002065
+  "lastUpdated": 1774192062064
 }
