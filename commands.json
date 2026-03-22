@@ -3732,7 +3732,7 @@
     "akun": 1,
     "jembott": 1,
     "kuis": 4,
-    "32968236081310": 8,
+    "32968236081310": 9,
     "6283152469722": 4,
     "6285649132023": 14,
     "oldyk": 1,
@@ -3823,7 +3823,7 @@
     "pindl": 11,
     "totalfitur": 1,
     "mie": 1,
-    "statusanak": 6,
+    "statusanak": 7,
     "wink": 1,
     "kecocokan": 10,
     "register": 1,
@@ -4005,7 +4005,8 @@
     "shop": 2,
     "168238516305969": 1,
     "atmtake": 1,
-    "giftshop": 1
+    "giftshop": 1,
+    "kasihnamaanak": 1
   },
-  "lastUpdated": 1774172051907
+  "lastUpdated": 1774172111907
 }
