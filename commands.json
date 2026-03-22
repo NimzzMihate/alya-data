@@ -3590,7 +3590,7 @@
     "atm": 26,
     "bank": 11,
     "afk": 122,
-    "kerja": 11,
+    "kerja": 13,
     "628176533297": 12,
     "s": 43,
     "jwkwnwkabs": 1,
@@ -4096,7 +4096,8 @@
     "transfer": 1,
     "tranfer2000": 1,
     "bot": 1,
-    "tf+62": 1
+    "tf+62": 1,
+    "dokter": 1
   },
-  "lastUpdated": 1774190044002
+  "lastUpdated": 1774190104009
 }
