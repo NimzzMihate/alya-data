@@ -3531,7 +3531,7 @@
     "mobaprofile": 11,
     "playmoba": 33,
     "ngaji": 14,
-    "ewe-paksa": 12,
+    "ewe-paksa": 13,
     "me": 80,
     "setbg": 8,
     "rampok2": 49,
@@ -3772,9 +3772,9 @@
     "playch": 19,
     "cekganteng": 14,
     "crkganteng": 1,
-    "puqi": 1,
-    "anj": 1,
-    "anjing": 3,
+    "puqi": 2,
+    "anj": 2,
+    "anjing": 4,
     "winkhd": 1,
     "winkuhd": 3,
     "edan": 6,
@@ -3960,5 +3960,5 @@
     "pirate": 1,
     "6285138029095": 1
   },
-  "lastUpdated": 1774147661703
+  "lastUpdated": 1774147721717
 }
