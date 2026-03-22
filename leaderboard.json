@@ -22,7 +22,7 @@
       "name": "Pillaaaaa",
       "level": 208,
       "exp": 499748,
-      "saldo": 1.8131111606066995e+42
+      "saldo": 1.5048822633035607e+42
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -126,7 +126,7 @@
       "name": "Pillaaaaa",
       "level": 208,
       "exp": 499748,
-      "saldo": 1.8131111606066995e+42
+      "saldo": 1.5048822633035607e+42
     },
     {
       "name": "Naylaa",
@@ -201,12 +201,6 @@
       "saldo": 139079684385625
     },
     {
-      "name": "may",
-      "level": 4,
-      "exp": 11807,
-      "saldo": 116139180202664
-    },
-    {
       "name": "Ahmad",
       "level": 5,
       "exp": 12027,
@@ -241,6 +235,12 @@
       "level": 4,
       "exp": 10218,
       "saldo": 100131534
+    },
+    {
+      "name": "radit",
+      "level": 0,
+      "exp": 672,
+      "saldo": 10045000
     }
   ],
   "exp": [
@@ -260,7 +260,7 @@
       "name": "Pillaaaaa",
       "level": 208,
       "exp": 499748,
-      "saldo": 1.8131111606066995e+42
+      "saldo": 1.5048822633035607e+42
     },
     {
       "name": "Naylaa",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774189083997
+  "lastUpdated": 1774189143996
 }
