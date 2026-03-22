@@ -3526,10 +3526,10 @@
     "backup": 2,
     "get": 15,
     "tohtml": 8,
-    "ranked": 48,
+    "ranked": 50,
     "mobaprofile": 10,
     "playmoba": 32,
-    "ngaji": 11,
+    "ngaji": 12,
     "ewe-paksa": 12,
     "me": 78,
     "setbg": 8,
@@ -3593,9 +3593,9 @@
     "brat": 17,
     "brathd": 1,
     "editfoto": 21,
-    "dailymisi": 18,
-    "open-bo": 14,
-    "ewepaksa": 8,
+    "dailymisi": 19,
+    "open-bo": 15,
+    "ewepaksa": 9,
     "topglobal": 4,
     "6285789692015": 1,
     "buy": 42,
@@ -3959,5 +3959,5 @@
     "pirate": 1,
     "6285138029095": 1
   },
-  "lastUpdated": 1774146281698
+  "lastUpdated": 1774146341695
 }
