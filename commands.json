@@ -3732,7 +3732,7 @@
     "verify": 6,
     "daftr": 4,
     "status": 1,
-    "pap": 30,
+    "pap": 31,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3800,7 +3800,7 @@
     "puji": 6,
     "pacar": 2,
     "carikarakter": 21,
-    "nembak": 15,
+    "nembak": 16,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -3848,7 +3848,7 @@
     "6282115911954": 2,
     "6281455125940": 2,
     "6285761349641": 4,
-    "pap2": 15,
+    "pap2": 16,
     "getcase": 1,
     "/": 1,
     "cekcantik": 2,
@@ -4079,7 +4079,7 @@
     "bego": 1,
     "haram": 1,
     "6282327857595": 2,
-    "roast": 4,
+    "roast": 5,
     "rampokin": 3,
     "nikahpaksa": 3,
     "tolak": 1,
@@ -4099,7 +4099,8 @@
     "tf+62": 1,
     "dokter": 1,
     "carikarakter[shizuka": 1,
-    "nama": 1
+    "nama": 1,
+    "petmenu": 1
   },
-  "lastUpdated": 1774190644014
+  "lastUpdated": 1774190704014
 }
