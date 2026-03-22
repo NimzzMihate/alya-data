@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 206,
-      "exp": 495846,
-      "saldo": 139995000
+      "exp": 495939,
+      "saldo": 1.8131111606066995e+42
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -33,13 +33,13 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 71,
-      "exp": 172572,
-      "saldo": 70650168
+      "exp": 172612,
+      "saldo": 170651168
     },
     {
       "name": "Joishi ganteng",
       "level": 62,
-      "exp": 150580,
+      "exp": 156487,
       "saldo": 6.389573262150166e+21
     },
     {
@@ -123,6 +123,12 @@
   ],
   "saldo": [
     {
+      "name": "Pillaaaaa",
+      "level": 206,
+      "exp": 495939,
+      "saldo": 1.8131111606066995e+42
+    },
+    {
       "name": "Naylaa",
       "level": 510,
       "exp": 304499,
@@ -149,7 +155,7 @@
     {
       "name": "Joishi ganteng",
       "level": 62,
-      "exp": 150580,
+      "exp": 156487,
       "saldo": 6.389573262150166e+21
     },
     {
@@ -225,22 +231,16 @@
       "saldo": 581606500
     },
     {
-      "name": "Pillaaaaa",
-      "level": 206,
-      "exp": 495846,
-      "saldo": 139995000
+      "name": "Flonα Lyzellé ❀.",
+      "level": 71,
+      "exp": 172612,
+      "saldo": 170651168
     },
     {
       "name": "xeno la nigger",
       "level": 4,
       "exp": 10218,
       "saldo": 100131534
-    },
-    {
-      "name": "Flonα Lyzellé ❀.",
-      "level": 71,
-      "exp": 172572,
-      "saldo": 70650168
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 206,
-      "exp": 495846,
-      "saldo": 139995000
+      "exp": 495939,
+      "saldo": 1.8131111606066995e+42
     },
     {
       "name": "Naylaa",
@@ -271,13 +271,13 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 71,
-      "exp": 172572,
-      "saldo": 70650168
+      "exp": 172612,
+      "saldo": 170651168
     },
     {
       "name": "Joishi ganteng",
       "level": 62,
-      "exp": 150580,
+      "exp": 156487,
       "saldo": 6.389573262150166e+21
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774171691905
+  "lastUpdated": 1774171751905
 }
