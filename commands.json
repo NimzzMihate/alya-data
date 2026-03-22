@@ -3560,7 +3560,7 @@
     "playmoba": 35,
     "ngaji": 14,
     "ewe-paksa": 14,
-    "me": 90,
+    "me": 91,
     "setbg": 8,
     "rampok2": 70,
     "6285609504925": 13,
@@ -4042,9 +4042,9 @@
     "tahun": 1,
     "6289530116661": 1,
     "adoptpet": 6,
-    "petstat": 2,
-    "playpet": 2,
-    "feedpet": 3,
+    "petstat": 3,
+    "playpet": 3,
+    "feedpet": 5,
     "namapet": 1,
     "namepet": 3,
     "statpet": 1,
@@ -4053,5 +4053,5 @@
     "perak": 1,
     "adoptper": 1
   },
-  "lastUpdated": 1774181731501
+  "lastUpdated": 1774181791502
 }
