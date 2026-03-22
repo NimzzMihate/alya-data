@@ -3754,7 +3754,7 @@
     "happy": 1,
     "sad": 1,
     "bully": 1,
-    "atmpull": 6,
+    "atmpull": 7,
     "promote": 4,
     "reset": 1,
     "memasak": 1,
@@ -3886,7 +3886,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 14,
+    "tf": 15,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4003,7 +4003,8 @@
     "maaf": 1,
     "sg": 6,
     "shop": 1,
-    "168238516305969": 1
+    "168238516305969": 1,
+    "atmtake": 1
   },
-  "lastUpdated": 1774171691905
+  "lastUpdated": 1774171751905
 }
