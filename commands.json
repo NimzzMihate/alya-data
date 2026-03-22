@@ -3800,7 +3800,7 @@
     "puji": 8,
     "pacar": 2,
     "carikarakter": 21,
-    "nembak": 17,
+    "nembak": 18,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -4066,8 +4066,8 @@
     "6289530116661": 1,
     "adoptpet": 8,
     "petstat": 4,
-    "playpet": 4,
-    "feedpet": 6,
+    "playpet": 5,
+    "feedpet": 7,
     "namapet": 1,
     "namepet": 4,
     "statpet": 1,
@@ -4107,5 +4107,5 @@
     "riges": 1,
     "mengangguk": 1
   },
-  "lastUpdated": 1774191161992
+  "lastUpdated": 1774191221994
 }
