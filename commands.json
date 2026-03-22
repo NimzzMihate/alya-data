@@ -341,7 +341,7 @@
     "kuli",
     "merampok",
     "rampok",
-    "rampok",
+    "rampok2",
     "rampokin",
     "coprampok",
     "ewepaksa",
@@ -3122,6 +3122,8 @@
     "nikahpaksa",
     "lamar",
     "paksakawin",
+    "batalnikah",
+    "cabutlamaran",
     "terima",
     "terimanikah",
     "terima",
@@ -4080,7 +4082,8 @@
     "roast": 1,
     "rampokin": 1,
     "nikahpaksa": 3,
-    "tolak": 1
+    "tolak": 1,
+    "batalnikah": 1
   },
-  "lastUpdated": 1774184703955
+  "lastUpdated": 1774184763952
 }
