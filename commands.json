@@ -4042,7 +4042,11 @@
     "tahun": 1,
     "6289530116661": 1,
     "adoptpet": 3,
-    "petstat": 1
+    "petstat": 1,
+    "playpet": 1,
+    "feedpet": 1,
+    "namapet": 1,
+    "namepet": 1
   },
-  "lastUpdated": 1774180951458
+  "lastUpdated": 1774181011464
 }
