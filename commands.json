@@ -3593,7 +3593,7 @@
     "brat": 17,
     "brathd": 1,
     "editfoto": 21,
-    "dailymisi": 19,
+    "dailymisi": 20,
     "open-bo": 15,
     "ewepaksa": 9,
     "topglobal": 4,
@@ -3800,8 +3800,8 @@
     "getcase": 1,
     "/": 1,
     "cekcantik": 2,
-    "toplocal": 4,
-    "forward": 8,
+    "toplocal": 5,
+    "forward": 10,
     "6283147484272": 4,
     "cekfemboty": 1,
     "2590335057971": 5,
@@ -3959,5 +3959,5 @@
     "pirate": 1,
     "6285138029095": 1
   },
-  "lastUpdated": 1774146581695
+  "lastUpdated": 1774146641696
 }
