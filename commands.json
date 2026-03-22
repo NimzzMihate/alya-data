@@ -3627,7 +3627,7 @@
     "ewepaksa": 13,
     "topglobal": 4,
     "6285789692015": 1,
-    "buy": 68,
+    "buy": 71,
     "smeme": 17,
     "getno": 7,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3640,7 +3640,7 @@
     "makan": 2,
     "repair": 1,
     "kapal": 1,
-    "craft": 63,
+    "craft": 65,
     "listheri": 1,
     "listhero": 5,
     "mancing": 1,
@@ -3924,7 +3924,7 @@
     "f": 2,
     "heal.": 1,
     "sell": 11,
-    "jual": 8,
+    "jual": 9,
     "vid": 2,
     "nfsw": 1,
     "vidmg": 1,
@@ -4041,7 +4041,7 @@
     "cekbatang": 4,
     "tahun": 1,
     "6289530116661": 1,
-    "adoptpet": 4,
+    "adoptpet": 5,
     "petstat": 2,
     "playpet": 2,
     "feedpet": 3,
@@ -4050,7 +4050,8 @@
     "statpet": 1,
     "makannin": 1,
     "pepek": 1,
-    "perak": 1
+    "perak": 1,
+    "adoptper": 1
   },
-  "lastUpdated": 1774181611505
+  "lastUpdated": 1774181671514
 }
