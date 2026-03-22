@@ -3534,7 +3534,7 @@
     "ewe-paksa": 14,
     "me": 89,
     "setbg": 8,
-    "rampok2": 69,
+    "rampok2": 70,
     "6285609504925": 13,
     "atm": 22,
     "bank": 10,
@@ -3635,7 +3635,7 @@
     "cium": 9,
     "6281915895220": 1,
     "6281215537344": 1,
-    "rampok": 13,
+    "rampok": 14,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -4008,7 +4008,8 @@
     "giftshop": 1,
     "kasihnamaanak": 1,
     "babi": 2,
-    "dongo": 2
+    "dongo": 2,
+    "rampok3": 1
   },
-  "lastUpdated": 1774173132818
+  "lastUpdated": 1774173192819
 }
