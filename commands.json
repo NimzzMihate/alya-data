@@ -3587,7 +3587,7 @@
     "setbg": 8,
     "rampok2": 73,
     "6285609504925": 13,
-    "atm": 22,
+    "atm": 23,
     "bank": 10,
     "afk": 122,
     "kerja": 4,
@@ -3805,7 +3805,7 @@
     "happy": 1,
     "sad": 1,
     "bully": 1,
-    "atmpull": 7,
+    "atmpull": 8,
     "promote": 4,
     "reset": 1,
     "memasak": 1,
@@ -4090,5 +4090,5 @@
     "cekpenjara": 2,
     "cek": 1
   },
-  "lastUpdated": 1774188664002
+  "lastUpdated": 1774188723995
 }
