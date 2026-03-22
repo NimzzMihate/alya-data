@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 208,
-      "exp": 500719,
+      "exp": 500769,
       "saldo": 1e+34
     },
     {
@@ -131,7 +131,7 @@
     {
       "name": "Pillaaaaa",
       "level": 208,
-      "exp": 500719,
+      "exp": 500769,
       "saldo": 1e+34
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 208,
-      "exp": 500719,
+      "exp": 500769,
       "saldo": 1e+34
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774191402052
+  "lastUpdated": 1774191462047
 }
