@@ -3683,7 +3683,7 @@
     "6281283401829": 1,
     "tembak": 2,
     "terima": 2,
-    "cium": 13,
+    "cium": 14,
     "6281915895220": 1,
     "6281215537344": 2,
     "rampok": 30,
@@ -3731,7 +3731,7 @@
     "topactive": 15,
     "verify": 7,
     "daftr": 4,
-    "status": 5,
+    "status": 6,
     "pap": 33,
     "tebakbendera": 14,
     "tebak": 1,
@@ -3753,7 +3753,7 @@
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
-    "kencan": 12,
+    "kencan": 13,
     "kasihsusu": 4,
     "wm": 21,
     "absen": 2,
@@ -3840,7 +3840,7 @@
     "...": 1,
     "bratt": 1,
     "6285861427432": 6,
-    "statuspacar": 31,
+    "statuspacar": 32,
     "kasihmakan": 4,
     "kasihminum": 3,
     "naena": 2,
@@ -4131,5 +4131,5 @@
     "buyallxp": 1,
     "xp": 1
   },
-  "lastUpdated": 1774222304617
+  "lastUpdated": 1774222364618
 }
