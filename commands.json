@@ -3637,7 +3637,7 @@
     "berburu": 5,
     "masak": 6,
     "rpgmenu": 2,
-    "makan": 1,
+    "makan": 2,
     "repair": 1,
     "kapal": 1,
     "craft": 63,
@@ -3800,7 +3800,7 @@
     "playch": 19,
     "cekganteng": 19,
     "crkganteng": 1,
-    "puqi": 23,
+    "puqi": 24,
     "anj": 16,
     "anjing": 14,
     "winkhd": 1,
@@ -3992,8 +3992,8 @@
     "asu": 14,
     "6004951531586😹😹😹": 1,
     "cekgendeng": 3,
-    "cekkontol": 1,
-    "cekpentil": 29,
+    "cekkontol": 2,
+    "cekpentil": 30,
     "45978245714088": 2,
     "monyet": 1,
     "v": 1,
@@ -4047,7 +4047,10 @@
     "feedpet": 3,
     "namapet": 1,
     "namepet": 2,
-    "statpet": 1
+    "statpet": 1,
+    "makannin": 1,
+    "pepek": 1,
+    "perak": 1
   },
-  "lastUpdated": 1774181311468
+  "lastUpdated": 1774181371465
 }
