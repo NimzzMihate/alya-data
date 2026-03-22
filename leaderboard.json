@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 209,
-      "exp": 501718,
+      "exp": 501916,
       "saldo": 0
     },
     {
@@ -167,7 +167,7 @@
     {
       "name": "Sanzx",
       "level": 0,
-      "exp": 1654,
+      "exp": 1756,
       "saldo": 10000000000045000
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 209,
-      "exp": 501718,
+      "exp": 501916,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774192604477
+  "lastUpdated": 1774192664466
 }
