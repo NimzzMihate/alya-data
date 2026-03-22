@@ -3683,7 +3683,7 @@
     "6281283401829": 1,
     "tembak": 2,
     "terima": 1,
-    "cium": 10,
+    "cium": 11,
     "6281915895220": 1,
     "6281215537344": 1,
     "rampok": 19,
@@ -3800,7 +3800,7 @@
     "puji": 6,
     "pacar": 2,
     "carikarakter": 20,
-    "nembak": 14,
+    "nembak": 15,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -4049,7 +4049,7 @@
     "setpppacar": 4,
     "dompet": 1,
     "istri": 2,
-    "lamar": 3,
+    "lamar": 4,
     "beli": 1,
     "maaf": 1,
     "sg": 7,
@@ -4099,5 +4099,5 @@
     "tf+62": 1,
     "dokter": 1
   },
-  "lastUpdated": 1774190524012
+  "lastUpdated": 1774190584013
 }
