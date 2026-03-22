@@ -3652,7 +3652,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 29,
-    "tes": 57,
+    "tes": 58,
     "listown": 9,
     "getpp": 3,
     "linkgc": 4,
@@ -4051,7 +4051,8 @@
     "makannin": 1,
     "pepek": 1,
     "perak": 1,
-    "adoptper": 1
+    "adoptper": 1,
+    "statuspasangan": 1
   },
-  "lastUpdated": 1774181911519
+  "lastUpdated": 1774181971507
 }
