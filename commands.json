@@ -3571,7 +3571,7 @@
     "6281393286345": 12,
     ">": 4,
     "addapi": 2,
-    "pin": 52,
+    "pin": 53,
     "hd": 41,
     "useitem": 7,
     "77605898313906": 26,
@@ -3591,7 +3591,7 @@
     "removebg": 36,
     "addown": 7,
     "listowner": 7,
-    "brat": 17,
+    "brat": 18,
     "brathd": 1,
     "editfoto": 21,
     "dailymisi": 23,
@@ -3745,7 +3745,7 @@
     "hargasewa": 1,
     "d": 33,
     "pabrik": 1,
-    "fitnah": 14,
+    "fitnah": 16,
     "puji": 2,
     "pacar": 1,
     "carikarakter": 14,
@@ -3772,7 +3772,7 @@
     "playch": 19,
     "cekganteng": 14,
     "crkganteng": 1,
-    "puqi": 9,
+    "puqi": 10,
     "anj": 8,
     "anjing": 6,
     "winkhd": 1,
@@ -3963,5 +3963,5 @@
     "pedo": 1,
     "asu": 2
   },
-  "lastUpdated": 1774148021713
+  "lastUpdated": 1774148117499
 }
