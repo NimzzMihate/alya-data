@@ -3143,6 +3143,9 @@
     "alquran",
     "al-quran",
     "paptt",
+    "cekbatang",
+    "cekjr",
+    "cekjohn",
     "cekpentil",
     "cektt",
     "kematian",
@@ -3624,7 +3627,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 28,
-    "tes": 53,
+    "tes": 56,
     "listown": 9,
     "getpp": 3,
     "linkgc": 4,
@@ -4011,5 +4014,5 @@
     "dongo": 2,
     "rampok3": 1
   },
-  "lastUpdated": 1774179492865
+  "lastUpdated": 1774179552854
 }
