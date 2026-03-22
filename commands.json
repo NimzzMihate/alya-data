@@ -3583,7 +3583,7 @@
     "playmoba": 35,
     "ngaji": 15,
     "ewe-paksa": 16,
-    "me": 105,
+    "me": 106,
     "setbg": 8,
     "rampok2": 98,
     "6285609504925": 13,
@@ -3675,7 +3675,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 32,
-    "tes": 63,
+    "tes": 64,
     "listown": 9,
     "getpp": 3,
     "linkgc": 4,
@@ -3893,7 +3893,7 @@
     "hitamkan": 1,
     "hitam": 1,
     "6281393699096": 2,
-    "tests": 1,
+    "tests": 2,
     "groupinfo": 3,
     "cap": 10,
     "s.whatsapp.net": 1,
@@ -4127,7 +4127,9 @@
     "628818366526": 3,
     "rampoki": 1,
     "6287870709356": 1,
-    "6281290311984": 1
+    "6281290311984": 1,
+    "buyallxp": 1,
+    "xp": 1
   },
-  "lastUpdated": 1774222184603
+  "lastUpdated": 1774222244606
 }
