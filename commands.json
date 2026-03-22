@@ -3585,7 +3585,7 @@
     "ewe-paksa": 14,
     "me": 101,
     "setbg": 8,
-    "rampok2": 84,
+    "rampok2": 85,
     "6285609504925": 13,
     "atm": 26,
     "bank": 11,
@@ -3716,7 +3716,7 @@
     "buyitem": 1,
     "play": 48,
     "ytmp3": 40,
-    "152609298108555": 15,
+    "152609298108555": 16,
     "35588770111681": 1,
     "intro": 14,
     "up": 1,
@@ -3797,7 +3797,7 @@
     "d": 38,
     "pabrik": 1,
     "fitnah": 18,
-    "puji": 7,
+    "puji": 8,
     "pacar": 2,
     "carikarakter": 21,
     "nembak": 17,
@@ -4102,8 +4102,10 @@
     "nama": 1,
     "petmenu": 1,
     "resgis": 1,
-    "regis": 1,
-    "battlepet": 2
+    "regis": 2,
+    "battlepet": 2,
+    "riges": 1,
+    "mengangguk": 1
   },
-  "lastUpdated": 1774190861986
+  "lastUpdated": 1774190921986
 }
