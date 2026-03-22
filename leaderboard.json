@@ -21,13 +21,13 @@
     {
       "name": "Pillaaaaa",
       "level": 207,
-      "exp": 498868,
+      "exp": 498963,
       "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 102943,
+      "exp": 103172,
       "saldo": 3.7075378195420072e+22
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 102943,
+      "exp": 103172,
       "saldo": 3.7075378195420072e+22
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 207,
-      "exp": 498868,
+      "exp": 498963,
       "saldo": 0
     },
     {
@@ -295,7 +295,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 102943,
+      "exp": 103172,
       "saldo": 3.7075378195420072e+22
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774185843972
+  "lastUpdated": 1774185903961
 }
