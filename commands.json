@@ -3528,8 +3528,8 @@
     "get": 15,
     "tohtml": 8,
     "ranked": 53,
-    "mobaprofile": 11,
-    "playmoba": 34,
+    "mobaprofile": 12,
+    "playmoba": 35,
     "ngaji": 14,
     "ewe-paksa": 13,
     "me": 89,
@@ -3859,7 +3859,7 @@
     "herolist": 1,
     "232414219628797": 3,
     "buyhero": 2,
-    "selecthero": 3,
+    "selecthero": 4,
     "211394498711641": 1,
     "271850458320966": 1,
     "129875650297917": 2,
@@ -4005,5 +4005,5 @@
     "shop": 1,
     "168238516305969": 1
   },
-  "lastUpdated": 1774166591805
+  "lastUpdated": 1774166651811
 }
