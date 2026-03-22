@@ -3594,7 +3594,7 @@
     "brat": 17,
     "brathd": 1,
     "editfoto": 21,
-    "dailymisi": 21,
+    "dailymisi": 23,
     "open-bo": 17,
     "ewepaksa": 10,
     "topglobal": 4,
@@ -3728,7 +3728,7 @@
     "93283032285420": 5,
     "188571210244160": 3,
     "222531466350642": 1,
-    "tidur": 3,
+    "tidur": 4,
     "akun": 1,
     "jembott": 1,
     "kuis": 4,
@@ -3772,9 +3772,9 @@
     "playch": 19,
     "cekganteng": 14,
     "crkganteng": 1,
-    "puqi": 2,
-    "anj": 2,
-    "anjing": 4,
+    "puqi": 3,
+    "anj": 4,
+    "anjing": 5,
     "winkhd": 1,
     "winkuhd": 3,
     "edan": 6,
@@ -3960,5 +3960,5 @@
     "pirate": 1,
     "6285138029095": 1
   },
-  "lastUpdated": 1774147781703
+  "lastUpdated": 1774147841704
 }
