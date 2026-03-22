@@ -3527,8 +3527,8 @@
     "get": 15,
     "tohtml": 8,
     "ranked": 50,
-    "mobaprofile": 10,
-    "playmoba": 32,
+    "mobaprofile": 11,
+    "playmoba": 33,
     "ngaji": 12,
     "ewe-paksa": 12,
     "me": 78,
@@ -3959,5 +3959,5 @@
     "pirate": 1,
     "6285138029095": 1
   },
-  "lastUpdated": 1774146341695
+  "lastUpdated": 1774146401696
 }
