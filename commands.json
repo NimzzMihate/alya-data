@@ -3590,7 +3590,7 @@
     "atm": 26,
     "bank": 11,
     "afk": 122,
-    "kerja": 10,
+    "kerja": 11,
     "628176533297": 12,
     "s": 43,
     "jwkwnwkabs": 1,
@@ -3613,7 +3613,7 @@
     "menu": 15,
     "owner": 2,
     "script": 3,
-    "joinrpg": 4,
+    "joinrpg": 6,
     "mentahan": 1,
     "claim": 12,
     "cekidch": 2,
@@ -4098,5 +4098,5 @@
     "bot": 1,
     "tf+62": 1
   },
-  "lastUpdated": 1774189984001
+  "lastUpdated": 1774190044002
 }
