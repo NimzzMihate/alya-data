@@ -3585,7 +3585,7 @@
     "ewe-paksa": 14,
     "me": 95,
     "setbg": 8,
-    "rampok2": 81,
+    "rampok2": 83,
     "6285609504925": 13,
     "atm": 26,
     "bank": 11,
@@ -3741,7 +3741,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 13,
+    "saldo": 14,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4087,10 +4087,13 @@
     "ꮋꭿꮑꮏꮼ:yang": 1,
     "259468235436086": 2,
     "6281374721324": 1,
-    "cekpenjara": 4,
+    "cekpenjara": 5,
     "cek": 1,
     "forward.forward": 1,
-    "hell": 1
+    "hell": 1,
+    "bailout": 1,
+    "transfersaldo": 1,
+    "transfer": 1
   },
-  "lastUpdated": 1774189263997
+  "lastUpdated": 1774189323995
 }
