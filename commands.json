@@ -3588,7 +3588,7 @@
     "rampok2": 89,
     "6285609504925": 13,
     "atm": 27,
-    "bank": 11,
+    "bank": 13,
     "afk": 128,
     "kerja": 14,
     "628176533297": 12,
@@ -3650,7 +3650,7 @@
     "ewepaksa": 13,
     "topglobal": 4,
     "6285789692015": 1,
-    "buy": 86,
+    "buy": 87,
     "smeme": 17,
     "getno": 7,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3686,7 +3686,7 @@
     "cium": 13,
     "6281915895220": 1,
     "6281215537344": 2,
-    "rampok": 26,
+    "rampok": 27,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -3741,7 +3741,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 16,
+    "saldo": 17,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4117,5 +4117,5 @@
     "unlimited": 1,
     "ppobindonesia": 1
   },
-  "lastUpdated": 1774191942060
+  "lastUpdated": 1774192002065
 }
