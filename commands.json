@@ -3585,12 +3585,12 @@
     "ewe-paksa": 14,
     "me": 104,
     "setbg": 8,
-    "rampok2": 89,
+    "rampok2": 92,
     "6285609504925": 13,
     "atm": 27,
     "bank": 13,
     "afk": 128,
-    "kerja": 16,
+    "kerja": 17,
     "628176533297": 12,
     "s": 43,
     "jwkwnwkabs": 1,
@@ -3686,7 +3686,7 @@
     "cium": 13,
     "6281915895220": 1,
     "6281215537344": 2,
-    "rampok": 27,
+    "rampok": 28,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -4115,7 +4115,8 @@
     "cheat": 1,
     "chat": 1,
     "unlimited": 1,
-    "ppobindonesia": 1
+    "ppobindonesia": 1,
+    "money": 1
   },
-  "lastUpdated": 1774192062064
+  "lastUpdated": 1774192124211
 }
