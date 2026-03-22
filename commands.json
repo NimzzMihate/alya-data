@@ -3683,7 +3683,7 @@
     "6281283401829": 1,
     "tembak": 2,
     "terima": 1,
-    "cium": 12,
+    "cium": 13,
     "6281915895220": 1,
     "6281215537344": 2,
     "rampok": 19,
@@ -3731,7 +3731,7 @@
     "topactive": 15,
     "verify": 7,
     "daftr": 4,
-    "status": 3,
+    "status": 4,
     "pap": 33,
     "tebakbendera": 14,
     "tebak": 1,
@@ -3799,8 +3799,8 @@
     "fitnah": 18,
     "puji": 8,
     "pacar": 2,
-    "carikarakter": 21,
-    "nembak": 18,
+    "carikarakter": 22,
+    "nembak": 19,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -4066,7 +4066,7 @@
     "6289530116661": 1,
     "adoptpet": 8,
     "petstat": 4,
-    "playpet": 5,
+    "playpet": 6,
     "feedpet": 7,
     "namapet": 1,
     "namepet": 4,
@@ -4107,5 +4107,5 @@
     "riges": 1,
     "mengangguk": 1
   },
-  "lastUpdated": 1774191221994
+  "lastUpdated": 1774191282013
 }
