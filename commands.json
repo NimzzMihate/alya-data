@@ -4086,7 +4086,7 @@
     "6289530116661": 1,
     "adoptpet": 11,
     "petstat": 7,
-    "playpet": 11,
+    "playpet": 12,
     "feedpet": 12,
     "namapet": 1,
     "namepet": 6,
@@ -4099,7 +4099,7 @@
     "bego": 1,
     "haram": 1,
     "6282327857595": 2,
-    "roast": 14,
+    "roast": 15,
     "rampokin": 6,
     "nikahpaksa": 10,
     "tolak": 1,
@@ -4164,5 +4164,5 @@
     "cekprofil": 1,
     "atmall": 2
   },
-  "lastUpdated": 1774237738629
+  "lastUpdated": 1774237798621
 }
