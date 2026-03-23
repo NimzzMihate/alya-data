@@ -28,7 +28,7 @@
       "name": "RYZSUKASUPERCAR",
       "level": 122,
       "exp": 103505,
-      "saldo": 3.7075378195420072e+22
+      "saldo": 3.040181012024446e+22
     },
     {
       "name": "Flonα Lyzellé ❀.",
@@ -39,7 +39,7 @@
     {
       "name": "Joishi ganteng",
       "level": 67,
-      "exp": 161420,
+      "exp": 161475,
       "saldo": 2.400002134874413e+33
     },
     {
@@ -131,7 +131,7 @@
     {
       "name": "Joishi ganteng",
       "level": 67,
-      "exp": 161420,
+      "exp": 161475,
       "saldo": 2.400002134874413e+33
     },
     {
@@ -144,7 +144,13 @@
       "name": "RYZSUKASUPERCAR",
       "level": 122,
       "exp": 103505,
-      "saldo": 3.7075378195420072e+22
+      "saldo": 3.040181012024446e+22
+    },
+    {
+      "name": "nama amar",
+      "level": 0,
+      "exp": 455,
+      "saldo": 6.673568075175613e+21
     },
     {
       "name": "renita",
@@ -235,12 +241,6 @@
       "level": 12,
       "exp": 30632,
       "saldo": 1722760
-    },
-    {
-      "name": "Axel suka kyouka",
-      "level": 10,
-      "exp": 25864,
-      "saldo": 1355999
     }
   ],
   "exp": [
@@ -277,7 +277,7 @@
     {
       "name": "Joishi ganteng",
       "level": 67,
-      "exp": 161420,
+      "exp": 161475,
       "saldo": 2.400002134874413e+33
     },
     {
@@ -296,7 +296,7 @@
       "name": "RYZSUKASUPERCAR",
       "level": 122,
       "exp": 103505,
-      "saldo": 3.7075378195420072e+22
+      "saldo": 3.040181012024446e+22
     },
     {
       "name": "Lejen",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774251138254
+  "lastUpdated": 1774251219947
 }
