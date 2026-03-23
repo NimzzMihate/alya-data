@@ -3967,7 +3967,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 48,
+    "tf": 49,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4251,7 +4251,9 @@
     "(": 1,
     "buycincin": 1,
     "but": 1,
-    "cekstatuspacar": 1
+    "cekstatuspacar": 1,
+    "tff": 1,
+    "tft": 2
   },
-  "lastUpdated": 1774280157142
+  "lastUpdated": 1774280217136
 }
