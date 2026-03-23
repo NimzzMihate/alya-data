@@ -3713,7 +3713,7 @@
     "6281283401829": 1,
     "tembak": 10,
     "terima": 14,
-    "cium": 21,
+    "cium": 22,
     "6281915895220": 1,
     "6281215537344": 3,
     "rampok": 48,
@@ -3829,7 +3829,7 @@
     "fitnah": 28,
     "puji": 12,
     "pacar": 2,
-    "carikarakter": 30,
+    "carikarakter": 34,
     "nembak": 22,
     "cry": 3,
     "happy": 1,
@@ -3870,7 +3870,7 @@
     "...": 1,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 39,
+    "statuspacar": 40,
     "kasihmakan": 8,
     "kasihminum": 7,
     "naena": 2,
@@ -4239,7 +4239,8 @@
     "gerobak": 1,
     "airdrop": 1,
     "rpg": 1,
-    "hadiah": 1
+    "hadiah": 1,
+    "id": 1
   },
-  "lastUpdated": 1774278226886
+  "lastUpdated": 1774278286883
 }
