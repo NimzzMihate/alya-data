@@ -33,7 +33,7 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 180960,
+      "exp": 181011,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -51,7 +51,7 @@
     {
       "name": "Zxiox",
       "level": 47,
-      "exp": 113423,
+      "exp": 113492,
       "saldo": 0
     },
     {
@@ -131,7 +131,7 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 180960,
+      "exp": 181011,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 180960,
+      "exp": 181011,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -295,7 +295,7 @@
     {
       "name": "Zxiox",
       "level": 47,
-      "exp": 113423,
+      "exp": 113492,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774280378524
+  "lastUpdated": 1774280438483
 }
