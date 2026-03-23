@@ -3645,7 +3645,7 @@
     "pin": 62,
     "hd": 48,
     "useitem": 7,
-    "77605898313906": 41,
+    "77605898313906": 42,
     "huxin": 1,
     "usaha": 9,
     "memancing": 3,
@@ -3861,7 +3861,7 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 34,
-    "kasihmakan": 6,
+    "kasihmakan": 7,
     "kasihminum": 6,
     "naena": 2,
     "noenc": 1,
@@ -4086,8 +4086,8 @@
     "6289530116661": 1,
     "adoptpet": 11,
     "petstat": 9,
-    "playpet": 15,
-    "feedpet": 21,
+    "playpet": 16,
+    "feedpet": 22,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4171,5 +4171,5 @@
     "bokeppaksa": 1,
     "taksi": 1
   },
-  "lastUpdated": 1774245498196
+  "lastUpdated": 1774245558196
 }
