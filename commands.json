@@ -3607,7 +3607,7 @@
     "setbg": 8,
     "rampok2": 150,
     "6285609504925": 13,
-    "atm": 42,
+    "atm": 43,
     "bank": 17,
     "afk": 153,
     "kerja": 17,
@@ -3873,7 +3873,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 12,
-    "forward": 56,
+    "forward": 57,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -3957,7 +3957,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 43,
+    "tf": 45,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4075,7 +4075,7 @@
     "sg": 15,
     "shop": 4,
     "168238516305969": 1,
-    "atmtake": 8,
+    "atmtake": 9,
     "giftshop": 1,
     "kasihnamaanak": 1,
     "babi": 5,
@@ -4198,5 +4198,5 @@
     "terimanikah": 2,
     "6283133734215": 1
   },
-  "lastUpdated": 1774270583017
+  "lastUpdated": 1774270643011
 }
