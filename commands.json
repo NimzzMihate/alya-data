@@ -3607,7 +3607,7 @@
     "setbg": 8,
     "rampok2": 147,
     "6285609504925": 13,
-    "atm": 32,
+    "atm": 33,
     "bank": 15,
     "afk": 152,
     "kerja": 17,
@@ -3695,7 +3695,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 40,
-    "tes": 69,
+    "tes": 70,
     "listown": 9,
     "getpp": 3,
     "linkgc": 4,
@@ -3773,8 +3773,8 @@
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
-    "kencan": 19,
-    "kasihsusu": 10,
+    "kencan": 22,
+    "kasihsusu": 11,
     "wm": 22,
     "absen": 2,
     "mulaiabsen": 2,
@@ -3825,7 +3825,7 @@
     "happy": 1,
     "sad": 1,
     "bully": 1,
-    "atmpull": 12,
+    "atmpull": 13,
     "promote": 4,
     "reset": 1,
     "memasak": 1,
@@ -3860,7 +3860,7 @@
     "...": 1,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 35,
+    "statuspacar": 36,
     "kasihmakan": 8,
     "kasihminum": 7,
     "naena": 2,
@@ -4190,5 +4190,5 @@
     "join": 1,
     "monopoli": 3
   },
-  "lastUpdated": 1774267428512
+  "lastUpdated": 1774267488513
 }
