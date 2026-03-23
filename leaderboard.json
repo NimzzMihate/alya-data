@@ -10,7 +10,7 @@
       "name": "Naylaa",
       "level": 510,
       "exp": 306620,
-      "saldo": 1.000000889528364e+34
+      "saldo": 7.600006760415566e+33
     },
     {
       "name": "Ditz ketoprak",
@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 220,
-      "exp": 529934,
+      "exp": 529980,
       "saldo": 0
     },
     {
@@ -39,8 +39,8 @@
     {
       "name": "Joishi ganteng",
       "level": 67,
-      "exp": 160964,
-      "saldo": 6.389573062150165e+21
+      "exp": 161044,
+      "saldo": 2.4000021348744629e+33
     },
     {
       "name": "bímm",
@@ -132,7 +132,13 @@
       "name": "Naylaa",
       "level": 510,
       "exp": 306620,
-      "saldo": 1.000000889528364e+34
+      "saldo": 7.600006760415566e+33
+    },
+    {
+      "name": "Joishi ganteng",
+      "level": 67,
+      "exp": 161044,
+      "saldo": 2.4000021348744629e+33
     },
     {
       "name": "naa",
@@ -145,12 +151,6 @@
       "level": 122,
       "exp": 103381,
       "saldo": 3.7075378195420072e+22
-    },
-    {
-      "name": "Joishi ganteng",
-      "level": 67,
-      "exp": 160964,
-      "saldo": 6.389573062150165e+21
     },
     {
       "name": "renita",
@@ -259,14 +259,14 @@
     {
       "name": "Pillaaaaa",
       "level": 220,
-      "exp": 529934,
+      "exp": 529980,
       "saldo": 0
     },
     {
       "name": "Naylaa",
       "level": 510,
       "exp": 306620,
-      "saldo": 1.000000889528364e+34
+      "saldo": 7.600006760415566e+33
     },
     {
       "name": "Flonα Lyzellé ❀.",
@@ -277,8 +277,8 @@
     {
       "name": "Joishi ganteng",
       "level": 67,
-      "exp": 160964,
-      "saldo": 6.389573062150165e+21
+      "exp": 161044,
+      "saldo": 2.4000021348744629e+33
     },
     {
       "name": "bímm",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774243560192
+  "lastUpdated": 1774243620192
 }
