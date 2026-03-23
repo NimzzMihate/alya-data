@@ -3611,7 +3611,7 @@
     "playmoba": 38,
     "ngaji": 20,
     "ewe-paksa": 18,
-    "me": 132,
+    "me": 133,
     "setbg": 8,
     "rampok2": 154,
     "6285609504925": 13,
@@ -4116,7 +4116,7 @@
     "259468235436086": 2,
     "6281374721324": 4,
     "cekpenjara": 5,
-    "cek": 2,
+    "cek": 4,
     "forward.forward": 1,
     "hell": 1,
     "bailout": 4,
@@ -4170,8 +4170,8 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 2,
-    "atmall": 11,
-    "inv": 9,
+    "atmall": 12,
+    "inv": 10,
     "healfull": 3,
     "mute": 1,
     "perstat": 1,
@@ -4220,5 +4220,5 @@
     "atn": 1,
     "6288747505928": 1
   },
-  "lastUpdated": 1774275467792
+  "lastUpdated": 1774275527794
 }
