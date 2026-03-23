@@ -3652,7 +3652,7 @@
     "271481040834666": 6,
     "6285189358241": 23,
     "huxinn😡😡": 1,
-    "gift": 35,
+    "gift": 36,
     "ajakmain": 12,
     "daily": 9,
     "adventure": 4,
@@ -3678,7 +3678,7 @@
     "setpp": 8,
     "265944542793975": 1,
     "berburu": 5,
-    "masak": 6,
+    "masak": 8,
     "rpgmenu": 3,
     "makan": 2,
     "repair": 1,
@@ -4157,7 +4157,9 @@
     "vium": 1,
     "kasih": 1,
     "jointpg": 1,
-    "listpet": 1
+    "listpet": 1,
+    "listbug": 1,
+    "listban": 1
   },
-  "lastUpdated": 1774236238622
+  "lastUpdated": 1774236298643
 }
