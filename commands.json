@@ -3605,7 +3605,7 @@
     "ewe-paksa": 17,
     "me": 115,
     "setbg": 8,
-    "rampok2": 120,
+    "rampok2": 122,
     "6285609504925": 13,
     "atm": 31,
     "bank": 13,
@@ -3769,7 +3769,7 @@
     "uprepo": 3,
     "ssweb": 4,
     "𝗔𝗹𝘆𝗮": 4,
-    "youtuber": 21,
+    "youtuber": 26,
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
@@ -4087,7 +4087,7 @@
     "adoptpet": 11,
     "petstat": 9,
     "playpet": 15,
-    "feedpet": 19,
+    "feedpet": 20,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4169,5 +4169,5 @@
     "perstat": 1,
     "lesby": 2
   },
-  "lastUpdated": 1774245198194
+  "lastUpdated": 1774245258195
 }
