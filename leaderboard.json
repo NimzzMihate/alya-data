@@ -3,8 +3,8 @@
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 610,
-      "exp": 1464142,
-      "saldo": 424813
+      "exp": 1464309,
+      "saldo": 2424813
     },
     {
       "name": "Naylaa",
@@ -231,24 +231,24 @@
       "saldo": 9522885
     },
     {
+      "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
+      "level": 610,
+      "exp": 1464309,
+      "saldo": 2424813
+    },
+    {
       "name": "Yogie ganteng",
       "level": 12,
       "exp": 30689,
       "saldo": 1722760
-    },
-    {
-      "name": "Axel suka kyouka",
-      "level": 10,
-      "exp": 25864,
-      "saldo": 1355999
     }
   ],
   "exp": [
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 610,
-      "exp": 1464142,
-      "saldo": 424813
+      "exp": 1464309,
+      "saldo": 2424813
     },
     {
       "name": "Ditz ketoprak",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774277806885
+  "lastUpdated": 1774277866881
 }
