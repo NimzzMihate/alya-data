@@ -3613,7 +3613,7 @@
     "playmoba": 38,
     "ngaji": 20,
     "ewe-paksa": 18,
-    "me": 137,
+    "me": 138,
     "setbg": 8,
     "rampok2": 173,
     "6285609504925": 13,
@@ -3704,7 +3704,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 48,
+    "cekprofile": 49,
     "tes": 74,
     "listown": 9,
     "getpp": 3,
@@ -3716,7 +3716,7 @@
     "cium": 24,
     "6281915895220": 1,
     "6281215537344": 3,
-    "rampok": 50,
+    "rampok": 52,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -3756,7 +3756,7 @@
     "166121432961259": 7,
     "....": 1,
     "setprofile": 24,
-    "daftar": 9,
+    "daftar": 10,
     "profile": 5,
     "topactive": 23,
     "verify": 10,
@@ -4248,7 +4248,8 @@
     "tebaktebakan": 1,
     "tambahwaktu": 1,
     "menyerah": 1,
-    "(": 1
+    "(": 1,
+    "buycincin": 1
   },
-  "lastUpdated": 1774279377114
+  "lastUpdated": 1774279437109
 }
