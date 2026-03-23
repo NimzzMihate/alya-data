@@ -4085,9 +4085,9 @@
     "tahun": 1,
     "6289530116661": 1,
     "adoptpet": 11,
-    "petstat": 5,
+    "petstat": 6,
     "playpet": 8,
-    "feedpet": 9,
+    "feedpet": 10,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4099,7 +4099,7 @@
     "bego": 1,
     "haram": 1,
     "6282327857595": 2,
-    "roast": 7,
+    "roast": 8,
     "rampokin": 4,
     "nikahpaksa": 7,
     "tolak": 1,
@@ -4157,5 +4157,5 @@
     "vium": 1,
     "kasih": 1
   },
-  "lastUpdated": 1774231918794
+  "lastUpdated": 1774231978794
 }
