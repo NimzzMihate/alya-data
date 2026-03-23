@@ -3759,10 +3759,10 @@
     "daftar": 10,
     "profile": 5,
     "topactive": 24,
-    "verify": 10,
-    "daftr": 6,
+    "verify": 11,
+    "daftr": 7,
     "status": 6,
-    "pap": 50,
+    "pap": 52,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4270,7 +4270,8 @@
     "7452120617023": 3,
     "resetperan": 1,
     "resigner": 3,
-    "cekpacar": 1
+    "cekpacar": 1,
+    "prabowo": 1
   },
-  "lastUpdated": 1774281818534
+  "lastUpdated": 1774281878534
 }
