@@ -4163,7 +4163,7 @@
     "cekstatus": 1,
     "cekprofil": 1,
     "atmall": 4,
-    "inv": 7,
+    "inv": 9,
     "healfull": 3,
     "mute": 1,
     "perstat": 1,
@@ -4191,5 +4191,5 @@
     "monopoli": 3,
     "oom": 1
   },
-  "lastUpdated": 1774268328516
+  "lastUpdated": 1774268388528
 }
