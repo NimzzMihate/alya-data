@@ -3,8 +3,8 @@
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 608,
-      "exp": 1461390,
-      "saldo": 1.19731625747478e+40
+      "exp": 1461433,
+      "saldo": 0
     },
     {
       "name": "Naylaa",
@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 225,
-      "exp": 542177,
+      "exp": 542211,
       "saldo": 8.012808800023528e+40
     },
     {
@@ -31,16 +31,16 @@
       "saldo": 0
     },
     {
+      "name": "Joishi ganteng",
+      "level": 75,
+      "exp": 180038,
+      "saldo": 2.400002134874413e+33
+    },
+    {
       "name": "Flonα Lyzellé ❀.",
       "level": 73,
       "exp": 177121,
       "saldo": 74000
-    },
-    {
-      "name": "Joishi ganteng",
-      "level": 72,
-      "exp": 179953,
-      "saldo": 2.400002134874413e+33
     },
     {
       "name": "apip",
@@ -125,14 +125,8 @@
     {
       "name": "Pillaaaaa",
       "level": 225,
-      "exp": 542177,
+      "exp": 542211,
       "saldo": 8.012808800023528e+40
-    },
-    {
-      "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
-      "level": 608,
-      "exp": 1461390,
-      "saldo": 1.19731625747478e+40
     },
     {
       "name": "Naylaa",
@@ -142,8 +136,8 @@
     },
     {
       "name": "Joishi ganteng",
-      "level": 72,
-      "exp": 179953,
+      "level": 75,
+      "exp": 180038,
       "saldo": 2.400002134874413e+33
     },
     {
@@ -241,14 +235,20 @@
       "level": 1,
       "exp": 2515,
       "saldo": 9522885
+    },
+    {
+      "name": "Yogie ganteng",
+      "level": 12,
+      "exp": 30632,
+      "saldo": 1722760
     }
   ],
   "exp": [
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 608,
-      "exp": 1461390,
-      "saldo": 1.19731625747478e+40
+      "exp": 1461433,
+      "saldo": 0
     },
     {
       "name": "Ditz ketoprak",
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 225,
-      "exp": 542177,
+      "exp": 542211,
       "saldo": 8.012808800023528e+40
     },
     {
@@ -270,8 +270,8 @@
     },
     {
       "name": "Joishi ganteng",
-      "level": 72,
-      "exp": 179953,
+      "level": 75,
+      "exp": 180038,
       "saldo": 2.400002134874413e+33
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774275467792
+  "lastUpdated": 1774275527794
 }
