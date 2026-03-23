@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 219,
-      "exp": 526906,
+      "exp": 526961,
       "saldo": 0
     },
     {
@@ -33,8 +33,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 73,
-      "exp": 175768,
-      "saldo": 99999990070660200
+      "exp": 175912,
+      "saldo": 0
     },
     {
       "name": "Joishi ganteng",
@@ -135,12 +135,6 @@
       "saldo": 1.595431070764502e+33
     },
     {
-      "name": "Sanz",
-      "level": 4,
-      "exp": 10256,
-      "saldo": 4.2399459096271566e+32
-    },
-    {
       "name": "naa",
       "level": 5,
       "exp": 12176,
@@ -163,12 +157,6 @@
       "level": 9,
       "exp": 22204,
       "saldo": 1000479451246953000
-    },
-    {
-      "name": "Flonα Lyzellé ❀.",
-      "level": 73,
-      "exp": 175768,
-      "saldo": 99999990070660200
     },
     {
       "name": "Sanzx",
@@ -241,6 +229,18 @@
       "level": 0,
       "exp": 2364,
       "saldo": 4860103
+    },
+    {
+      "name": "Yogie ganteng",
+      "level": 12,
+      "exp": 30632,
+      "saldo": 1722760
+    },
+    {
+      "name": "Axel suka kyouka",
+      "level": 10,
+      "exp": 25864,
+      "saldo": 1355999
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 219,
-      "exp": 526906,
+      "exp": 526961,
       "saldo": 0
     },
     {
@@ -271,8 +271,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 73,
-      "exp": 175768,
-      "saldo": 99999990070660200
+      "exp": 175912,
+      "saldo": 0
     },
     {
       "name": "Joishi ganteng",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774236478623
+  "lastUpdated": 1774236538623
 }
