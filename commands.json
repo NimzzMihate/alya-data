@@ -3617,7 +3617,7 @@
     "setbg": 8,
     "rampok2": 175,
     "6285609504925": 13,
-    "atm": 51,
+    "atm": 52,
     "bank": 22,
     "afk": 157,
     "kerja": 17,
@@ -3829,8 +3829,8 @@
     "fitnah": 28,
     "puji": 13,
     "pacar": 2,
-    "carikarakter": 41,
-    "nembak": 30,
+    "carikarakter": 43,
+    "nembak": 31,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -4085,7 +4085,7 @@
     "sg": 15,
     "shop": 5,
     "168238516305969": 3,
-    "atmtake": 15,
+    "atmtake": 16,
     "giftshop": 1,
     "kasihnamaanak": 1,
     "babi": 5,
@@ -4258,7 +4258,8 @@
     "penjara": 2,
     "ambil": 1,
     "listchat": 1,
-    "cecan": 1
+    "cecan": 1,
+    "carilirik": 1
   },
-  "lastUpdated": 1774280738490
+  "lastUpdated": 1774280798490
 }
