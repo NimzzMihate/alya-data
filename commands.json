@@ -3664,7 +3664,7 @@
     "ajakmain": 16,
     "daily": 9,
     "adventure": 6,
-    "cf": 14,
+    "cf": 15,
     "nai2": 3,
     "6282137487477": 9,
     "removebg": 36,
@@ -4095,7 +4095,7 @@
     "adoptpet": 16,
     "petstat": 17,
     "playpet": 28,
-    "feedpet": 42,
+    "feedpet": 43,
     "namapet": 1,
     "namepet": 7,
     "statpet": 1,
@@ -4131,7 +4131,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 37,
+    "battlepet": 38,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4220,7 +4220,8 @@
     "atn": 1,
     "6288747505928": 1,
     "topsaldo": 1,
-    "bernuru": 1
+    "bernuru": 1,
+    "cekkesetiaan": 1
   },
-  "lastUpdated": 1774276276995
+  "lastUpdated": 1774276336996
 }
