@@ -3762,7 +3762,7 @@
     "verify": 11,
     "daftr": 7,
     "status": 6,
-    "pap": 52,
+    "pap": 54,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3829,7 +3829,7 @@
     "fitnah": 28,
     "puji": 13,
     "pacar": 2,
-    "carikarakter": 63,
+    "carikarakter": 65,
     "nembak": 34,
     "cry": 3,
     "happy": 1,
@@ -3920,7 +3920,7 @@
     "istriku": 15,
     "271966086938834": 1,
     "51338180305071": 5,
-    "hitamkan": 2,
+    "hitamkan": 3,
     "hitam": 1,
     "6281393699096": 2,
     "tests": 2,
@@ -4271,7 +4271,9 @@
     "resetperan": 1,
     "resigner": 3,
     "cekpacar": 1,
-    "prabowo": 1
+    "prabowo": 1,
+    "bitukan": 1,
+    "carikaraketer": 1
   },
-  "lastUpdated": 1774281878534
+  "lastUpdated": 1774281973991
 }
