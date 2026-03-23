@@ -3605,7 +3605,7 @@
     "ewe-paksa": 17,
     "me": 109,
     "setbg": 8,
-    "rampok2": 108,
+    "rampok2": 109,
     "6285609504925": 13,
     "atm": 27,
     "bank": 13,
@@ -4123,7 +4123,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 11,
+    "battlepet": 12,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4159,5 +4159,5 @@
     "jointpg": 1,
     "listpet": 1
   },
-  "lastUpdated": 1774233358807
+  "lastUpdated": 1774233418811
 }
