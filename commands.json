@@ -722,6 +722,10 @@
     "playchannel",
     "musikch",
     "chmusik",
+    "upch",
+    "uploadch",
+    "sendch",
+    "kirimch",
     "save",
     "simpan",
     "listsave",
@@ -3039,6 +3043,10 @@
     "mc",
     "msc",
     "musiccard",
+    "topuang",
+    "topsaldo",
+    "terkaya",
+    "richlist",
     "chatgpt3",
     "gptfree",
     "cgpt",
@@ -3635,7 +3643,7 @@
     "script": 3,
     "joinrpg": 11,
     "mentahan": 1,
-    "claim": 15,
+    "claim": 16,
     "cekidch": 2,
     "tourl": 10,
     "title": 1,
@@ -4205,7 +4213,9 @@
     "uch": 1,
     "joinch": 1,
     "htspam": 1,
-    "rating": 3
+    "rating": 3,
+    "rampokatm": 1,
+    "topuang": 1
   },
-  "lastUpdated": 1774274867796
+  "lastUpdated": 1774274927791
 }
