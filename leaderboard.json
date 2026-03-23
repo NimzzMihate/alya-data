@@ -51,8 +51,8 @@
     {
       "name": "Zxiox",
       "level": 46,
-      "exp": 112637,
-      "saldo": 20645
+      "exp": 112756,
+      "saldo": 18000000000000020000
     },
     {
       "name": "Lejen",
@@ -153,6 +153,12 @@
       "saldo": 620197648978201000000
     },
     {
+      "name": "Zxiox",
+      "level": 46,
+      "exp": 112756,
+      "saldo": 18000000000000020000
+    },
+    {
       "name": "renita",
       "level": 9,
       "exp": 22642,
@@ -235,12 +241,6 @@
       "level": 12,
       "exp": 30689,
       "saldo": 1722760
-    },
-    {
-      "name": "Axel suka kyouka",
-      "level": 10,
-      "exp": 25864,
-      "saldo": 1355999
     }
   ],
   "exp": [
@@ -295,8 +295,8 @@
     {
       "name": "Zxiox",
       "level": 46,
-      "exp": 112637,
-      "saldo": 20645
+      "exp": 112756,
+      "saldo": 18000000000000020000
     },
     {
       "name": "Lejen",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774279437109
+  "lastUpdated": 1774279497111
 }
