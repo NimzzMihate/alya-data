@@ -3639,7 +3639,7 @@
     "cekidch": 2,
     "tourl": 10,
     "title": 1,
-    "6281393286345": 27,
+    "6281393286345": 28,
     ">": 4,
     "addapi": 2,
     "pin": 62,
@@ -4084,10 +4084,10 @@
     "cekbatang": 19,
     "tahun": 1,
     "6289530116661": 1,
-    "adoptpet": 11,
+    "adoptpet": 12,
     "petstat": 10,
     "playpet": 17,
-    "feedpet": 24,
+    "feedpet": 25,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4123,7 +4123,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 19,
+    "battlepet": 20,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4157,7 +4157,7 @@
     "vium": 1,
     "kasih": 1,
     "jointpg": 1,
-    "listpet": 1,
+    "listpet": 2,
     "listbug": 1,
     "listban": 1,
     "cekstatus": 1,
@@ -4170,7 +4170,8 @@
     "lesby": 3,
     "bokeppaksa": 1,
     "taksi": 1,
-    "bangsat": 1
+    "bangsat": 1,
+    "foodpet": 1
   },
-  "lastUpdated": 1774246098233
+  "lastUpdated": 1774246158234
 }
