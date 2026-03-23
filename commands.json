@@ -4085,7 +4085,7 @@
     "tahun": 1,
     "6289530116661": 1,
     "adoptpet": 12,
-    "petstat": 10,
+    "petstat": 11,
     "playpet": 17,
     "feedpet": 25,
     "namapet": 1,
@@ -4173,5 +4173,5 @@
     "bangsat": 1,
     "foodpet": 1
   },
-  "lastUpdated": 1774246158234
+  "lastUpdated": 1774246218234
 }
