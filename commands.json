@@ -3598,8 +3598,8 @@
     "backup": 2,
     "get": 16,
     "tohtml": 8,
-    "ranked": 55,
-    "mobaprofile": 12,
+    "ranked": 58,
+    "mobaprofile": 13,
     "playmoba": 38,
     "ngaji": 16,
     "ewe-paksa": 17,
@@ -4086,8 +4086,8 @@
     "6289530116661": 1,
     "adoptpet": 11,
     "petstat": 7,
-    "playpet": 14,
-    "feedpet": 14,
+    "playpet": 15,
+    "feedpet": 16,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4167,5 +4167,5 @@
     "healfull": 2,
     "mute": 1
   },
-  "lastUpdated": 1774244460199
+  "lastUpdated": 1774244538177
 }
