@@ -3702,7 +3702,7 @@
     "cekpasangan": 11,
     "6281283401829": 1,
     "tembak": 4,
-    "terima": 3,
+    "terima": 5,
     "cium": 17,
     "6281915895220": 1,
     "6281215537344": 3,
@@ -4085,7 +4085,7 @@
     "tahun": 1,
     "6289530116661": 1,
     "adoptpet": 11,
-    "petstat": 8,
+    "petstat": 9,
     "playpet": 15,
     "feedpet": 17,
     "namapet": 1,
@@ -4101,9 +4101,9 @@
     "6282327857595": 2,
     "roast": 15,
     "rampokin": 6,
-    "nikahpaksa": 10,
+    "nikahpaksa": 11,
     "tolak": 1,
-    "batalnikah": 4,
+    "batalnikah": 5,
     "ꮋꭿꮑꮏꮼ:yang": 1,
     "259468235436086": 2,
     "6281374721324": 1,
@@ -4165,7 +4165,8 @@
     "atmall": 3,
     "inv": 1,
     "healfull": 2,
-    "mute": 1
+    "mute": 1,
+    "perstat": 1
   },
-  "lastUpdated": 1774244598187
+  "lastUpdated": 1774244658190
 }
