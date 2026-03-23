@@ -4085,9 +4085,9 @@
     "tahun": 1,
     "6289530116661": 1,
     "adoptpet": 11,
-    "petstat": 6,
-    "playpet": 8,
-    "feedpet": 10,
+    "petstat": 7,
+    "playpet": 9,
+    "feedpet": 11,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4159,5 +4159,5 @@
     "jointpg": 1,
     "listpet": 1
   },
-  "lastUpdated": 1774232698795
+  "lastUpdated": 1774232758804
 }
