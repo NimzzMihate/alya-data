@@ -3615,7 +3615,7 @@
     "ewe-paksa": 18,
     "me": 135,
     "setbg": 8,
-    "rampok2": 166,
+    "rampok2": 167,
     "6285609504925": 13,
     "atm": 47,
     "bank": 19,
@@ -3643,7 +3643,7 @@
     "menu": 22,
     "owner": 2,
     "script": 3,
-    "joinrpg": 11,
+    "joinrpg": 13,
     "mentahan": 1,
     "claim": 16,
     "cekidch": 2,
@@ -4091,7 +4091,7 @@
     "babi": 5,
     "dongo": 2,
     "rampok3": 2,
-    "cekbatang": 20,
+    "cekbatang": 21,
     "tahun": 2,
     "6289530116661": 1,
     "adoptpet": 16,
@@ -4233,10 +4233,10 @@
     "gempa": 1,
     "tebakkata": 2,
     "tebakpacarorang": 1,
-    "gachawaifu": 2,
+    "gachawaifu": 4,
     "curipacarorang": 1,
     "user": 1,
     "gerobak": 1
   },
-  "lastUpdated": 1774277986882
+  "lastUpdated": 1774278046882
 }
