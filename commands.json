@@ -3635,7 +3635,7 @@
     "script": 3,
     "joinrpg": 11,
     "mentahan": 1,
-    "claim": 14,
+    "claim": 15,
     "cekidch": 2,
     "tourl": 10,
     "title": 1,
@@ -3969,7 +3969,7 @@
     "sell": 24,
     "jual": 16,
     "vid": 2,
-    "nfsw": 1,
+    "nfsw": 2,
     "vidmg": 1,
     "vidio": 1,
     "tovid": 1,
@@ -4192,5 +4192,5 @@
     "oom": 1,
     "inventory": 1
   },
-  "lastUpdated": 1774268782934
+  "lastUpdated": 1774268842929
 }
