@@ -3706,7 +3706,7 @@
     "cium": 21,
     "6281915895220": 1,
     "6281215537344": 3,
-    "rampok": 44,
+    "rampok": 45,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -4086,8 +4086,8 @@
     "6289530116661": 1,
     "adoptpet": 16,
     "petstat": 15,
-    "playpet": 24,
-    "feedpet": 34,
+    "playpet": 27,
+    "feedpet": 36,
     "namapet": 1,
     "namepet": 7,
     "statpet": 1,
@@ -4123,7 +4123,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 30,
+    "battlepet": 32,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4200,5 +4200,5 @@
     "ai2": 1,
     "ajg": 1
   },
-  "lastUpdated": 1774271387405
+  "lastUpdated": 1774271447398
 }
