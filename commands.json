@@ -3674,7 +3674,7 @@
     "listowner": 7,
     "brat": 20,
     "brathd": 1,
-    "editfoto": 41,
+    "editfoto": 42,
     "dailymisi": 29,
     "open-bo": 28,
     "ewepaksa": 24,
@@ -4092,7 +4092,7 @@
     "dongo": 2,
     "rampok3": 2,
     "cekbatang": 20,
-    "tahun": 1,
+    "tahun": 2,
     "6289530116661": 1,
     "adoptpet": 16,
     "petstat": 17,
@@ -4238,5 +4238,5 @@
     "user": 1,
     "gerobak": 1
   },
-  "lastUpdated": 1774277686885
+  "lastUpdated": 1774277746892
 }
