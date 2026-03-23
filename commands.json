@@ -3762,7 +3762,7 @@
     "verify": 9,
     "daftr": 4,
     "status": 6,
-    "pap": 46,
+    "pap": 47,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4230,7 +4230,12 @@
     "cekaetia": 1,
     "semua": 1,
     "catbox": 1,
-    "gempa": 1
+    "gempa": 1,
+    "tebakkata": 2,
+    "tebakpacarorang": 1,
+    "gachawaifu": 1,
+    "curipacarorang": 1,
+    "user": 1
   },
-  "lastUpdated": 1774277537548
+  "lastUpdated": 1774277597546
 }
