@@ -3608,7 +3608,7 @@
     "rampok2": 150,
     "6285609504925": 13,
     "atm": 43,
-    "bank": 17,
+    "bank": 18,
     "afk": 153,
     "kerja": 17,
     "628176533297": 13,
@@ -3694,7 +3694,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 44,
+    "cekprofile": 45,
     "tes": 70,
     "listown": 9,
     "getpp": 3,
@@ -3825,7 +3825,7 @@
     "happy": 1,
     "sad": 1,
     "bully": 1,
-    "atmpull": 19,
+    "atmpull": 21,
     "promote": 4,
     "reset": 1,
     "memasak": 1,
@@ -3873,7 +3873,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 12,
-    "forward": 57,
+    "forward": 60,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -4162,7 +4162,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 1,
-    "atmall": 7,
+    "atmall": 8,
     "inv": 9,
     "healfull": 3,
     "mute": 1,
@@ -4198,5 +4198,5 @@
     "terimanikah": 2,
     "6283133734215": 1
   },
-  "lastUpdated": 1774270643011
+  "lastUpdated": 1774270703013
 }
