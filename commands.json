@@ -3711,7 +3711,7 @@
     "linkgc": 4,
     "cekpasangan": 14,
     "6281283401829": 1,
-    "tembak": 12,
+    "tembak": 15,
     "terima": 14,
     "cium": 26,
     "6281915895220": 1,
@@ -3762,7 +3762,7 @@
     "verify": 12,
     "daftr": 7,
     "status": 7,
-    "pap": 80,
+    "pap": 81,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3829,7 +3829,7 @@
     "fitnah": 28,
     "puji": 16,
     "pacar": 2,
-    "carikarakter": 72,
+    "carikarakter": 73,
     "nembak": 36,
     "cry": 3,
     "happy": 1,
@@ -4283,5 +4283,5 @@
     "buatkan": 1,
     "getname": 1
   },
-  "lastUpdated": 1774283168389
+  "lastUpdated": 1774283228386
 }
