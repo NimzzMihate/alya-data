@@ -3695,7 +3695,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 45,
-    "tes": 70,
+    "tes": 71,
     "listown": 9,
     "getpp": 3,
     "linkgc": 4,
@@ -3945,7 +3945,7 @@
     "yumeko": 1,
     "mahiru": 1,
     "marshaandthebear": 1,
-    "allmenu": 2,
+    "allmenu": 3,
     "gamemenu": 1,
     "catur": 26,
     "mulai": 1,
@@ -4074,7 +4074,7 @@
     "maaf": 2,
     "sg": 15,
     "shop": 4,
-    "168238516305969": 2,
+    "168238516305969": 3,
     "atmtake": 9,
     "giftshop": 1,
     "kasihnamaanak": 1,
@@ -4197,7 +4197,8 @@
     "yearly": 1,
     "terimanikah": 2,
     "6283133734215": 1,
-    "ai2": 1
+    "ai2": 1,
+    "ajg": 1
   },
-  "lastUpdated": 1774271063078
+  "lastUpdated": 1774271123077
 }
