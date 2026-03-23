@@ -3685,7 +3685,7 @@
     "195520047915190": 1,
     "setpp": 8,
     "265944542793975": 1,
-    "berburu": 11,
+    "berburu": 12,
     "masak": 8,
     "rpgmenu": 7,
     "makan": 2,
@@ -3769,7 +3769,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 29,
+    "saldo": 31,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4222,5 +4222,5 @@
     "topsaldo": 1,
     "bernuru": 1
   },
-  "lastUpdated": 1774275796995
+  "lastUpdated": 1774275856994
 }
