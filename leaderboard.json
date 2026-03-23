@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 224,
-      "exp": 538361,
+      "exp": 538431,
       "saldo": 0
     },
     {
@@ -238,9 +238,9 @@
     },
     {
       "name": "Player-293",
-      "level": 0,
-      "exp": 2364,
-      "saldo": 4860103
+      "level": 1,
+      "exp": 2453,
+      "saldo": 9522885
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 224,
-      "exp": 538361,
+      "exp": 538431,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774268782934
+  "lastUpdated": 1774268842929
 }
