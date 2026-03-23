@@ -3664,7 +3664,7 @@
     "listowner": 7,
     "brat": 20,
     "brathd": 1,
-    "editfoto": 35,
+    "editfoto": 36,
     "dailymisi": 29,
     "open-bo": 28,
     "ewepaksa": 22,
@@ -3694,14 +3694,14 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 41,
+    "cekprofile": 42,
     "tes": 70,
     "listown": 9,
     "getpp": 3,
     "linkgc": 4,
-    "cekpasangan": 12,
+    "cekpasangan": 14,
     "6281283401829": 1,
-    "tembak": 9,
+    "tembak": 10,
     "terima": 12,
     "cium": 21,
     "6281915895220": 1,
@@ -4195,7 +4195,8 @@
     "suka": 1,
     "monthly": 1,
     "yearly": 1,
-    "terimanikah": 2
+    "terimanikah": 2,
+    "6283133734215": 1
   },
-  "lastUpdated": 1774270103009
+  "lastUpdated": 1774270163008
 }
