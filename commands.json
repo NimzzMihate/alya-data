@@ -3762,7 +3762,7 @@
     "verify": 11,
     "daftr": 7,
     "status": 7,
-    "pap": 60,
+    "pap": 61,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4276,5 +4276,5 @@
     "carikaraketer": 1,
     "botakkan": 1
   },
-  "lastUpdated": 1774282153985
+  "lastUpdated": 1774282213984
 }
