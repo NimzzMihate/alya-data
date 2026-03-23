@@ -3605,7 +3605,7 @@
     "ewe-paksa": 17,
     "me": 115,
     "setbg": 8,
-    "rampok2": 115,
+    "rampok2": 116,
     "6285609504925": 13,
     "atm": 31,
     "bank": 13,
@@ -3701,7 +3701,7 @@
     "linkgc": 4,
     "cekpasangan": 11,
     "6281283401829": 1,
-    "tembak": 3,
+    "tembak": 4,
     "terima": 3,
     "cium": 17,
     "6281915895220": 1,
@@ -3761,7 +3761,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 21,
+    "saldo": 22,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4167,5 +4167,5 @@
     "healfull": 2,
     "mute": 1
   },
-  "lastUpdated": 1774243620192
+  "lastUpdated": 1774243680192
 }
