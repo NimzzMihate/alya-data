@@ -3677,7 +3677,7 @@
     "195520047915190": 1,
     "setpp": 8,
     "265944542793975": 1,
-    "berburu": 6,
+    "berburu": 7,
     "masak": 8,
     "rpgmenu": 3,
     "makan": 2,
@@ -4073,7 +4073,7 @@
     "beli": 1,
     "maaf": 1,
     "sg": 15,
-    "shop": 2,
+    "shop": 3,
     "168238516305969": 1,
     "atmtake": 7,
     "giftshop": 1,
@@ -4179,5 +4179,5 @@
     "stamina": 1,
     "negararusia": 1
   },
-  "lastUpdated": 1774254579967
+  "lastUpdated": 1774254639968
 }
