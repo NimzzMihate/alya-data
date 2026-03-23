@@ -3607,7 +3607,7 @@
     "setbg": 8,
     "rampok2": 150,
     "6285609504925": 13,
-    "atm": 41,
+    "atm": 42,
     "bank": 16,
     "afk": 153,
     "kerja": 17,
@@ -3825,7 +3825,7 @@
     "happy": 1,
     "sad": 1,
     "bully": 1,
-    "atmpull": 16,
+    "atmpull": 17,
     "promote": 4,
     "reset": 1,
     "memasak": 1,
@@ -3873,7 +3873,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 11,
-    "forward": 51,
+    "forward": 54,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -3957,7 +3957,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 38,
+    "tf": 41,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4162,7 +4162,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 1,
-    "atmall": 6,
+    "atmall": 7,
     "inv": 9,
     "healfull": 3,
     "mute": 1,
@@ -4198,5 +4198,5 @@
     "terimanikah": 2,
     "6283133734215": 1
   },
-  "lastUpdated": 1774270403010
+  "lastUpdated": 1774270463011
 }
