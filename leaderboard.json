@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 209,
-      "exp": 502216,
-      "saldo": 0
+      "exp": 502515,
+      "saldo": 1.5048822633035607e+42
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -122,6 +122,12 @@
     }
   ],
   "saldo": [
+    {
+      "name": "Pillaaaaa",
+      "level": 209,
+      "exp": 502515,
+      "saldo": 1.5048822633035607e+42
+    },
     {
       "name": "Naylaa",
       "level": 510,
@@ -235,12 +241,6 @@
       "level": 0,
       "exp": 672,
       "saldo": 10045000
-    },
-    {
-      "name": "Player-293",
-      "level": 0,
-      "exp": 2364,
-      "saldo": 4860103
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 209,
-      "exp": 502216,
-      "saldo": 0
+      "exp": 502515,
+      "saldo": 1.5048822633035607e+42
     },
     {
       "name": "Naylaa",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774228738780
+  "lastUpdated": 1774228798778
 }
