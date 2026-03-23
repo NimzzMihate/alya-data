@@ -3713,7 +3713,7 @@
     "6281283401829": 1,
     "tembak": 10,
     "terima": 14,
-    "cium": 22,
+    "cium": 23,
     "6281915895220": 1,
     "6281215537344": 3,
     "rampok": 48,
@@ -3760,7 +3760,7 @@
     "profile": 5,
     "topactive": 23,
     "verify": 9,
-    "daftr": 4,
+    "daftr": 5,
     "status": 6,
     "pap": 47,
     "tebakbendera": 14,
@@ -3827,10 +3827,10 @@
     "d": 41,
     "pabrik": 1,
     "fitnah": 28,
-    "puji": 12,
+    "puji": 13,
     "pacar": 2,
     "carikarakter": 34,
-    "nembak": 22,
+    "nembak": 24,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -3907,7 +3907,7 @@
     "statusanak": 11,
     "wink": 1,
     "kecocokan": 10,
-    "register": 4,
+    "register": 6,
     "rename": 1,
     "cn": 3,
     "cari": 2,
@@ -4242,5 +4242,5 @@
     "hadiah": 1,
     "id": 1
   },
-  "lastUpdated": 1774278286883
+  "lastUpdated": 1774278346907
 }
