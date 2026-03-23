@@ -3966,8 +3966,8 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 19,
-    "jual": 15,
+    "sell": 21,
+    "jual": 16,
     "vid": 2,
     "nfsw": 1,
     "vidmg": 1,
@@ -4086,8 +4086,8 @@
     "6289530116661": 1,
     "adoptpet": 16,
     "petstat": 15,
-    "playpet": 20,
-    "feedpet": 29,
+    "playpet": 21,
+    "feedpet": 30,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4180,7 +4180,7 @@
     "negararusia": 1,
     "exitrpg": 2,
     "nyampah": 1,
-    "berlayar": 4
+    "berlayar": 5
   },
-  "lastUpdated": 1774260165285
+  "lastUpdated": 1774260225288
 }
