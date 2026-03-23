@@ -3603,7 +3603,7 @@
     "playmoba": 38,
     "ngaji": 16,
     "ewe-paksa": 17,
-    "me": 114,
+    "me": 115,
     "setbg": 8,
     "rampok2": 113,
     "6285609504925": 13,
@@ -3683,7 +3683,7 @@
     "makan": 2,
     "repair": 1,
     "kapal": 5,
-    "craft": 72,
+    "craft": 73,
     "listheri": 1,
     "listhero": 5,
     "mancing": 1,
@@ -3966,7 +3966,7 @@
     "aiart": 1,
     "f": 2,
     "heal.": 1,
-    "sell": 16,
+    "sell": 17,
     "jual": 9,
     "vid": 2,
     "nfsw": 1,
@@ -4165,5 +4165,5 @@
     "atmall": 2,
     "inv": 1
   },
-  "lastUpdated": 1774238100156
+  "lastUpdated": 1774238160154
 }
