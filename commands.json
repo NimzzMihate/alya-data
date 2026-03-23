@@ -3642,7 +3642,7 @@
     "6281393286345": 28,
     ">": 4,
     "addapi": 2,
-    "pin": 69,
+    "pin": 70,
     "hd": 56,
     "useitem": 7,
     "77605898313906": 54,
@@ -3752,7 +3752,7 @@
     "verify": 8,
     "daftr": 4,
     "status": 6,
-    "pap": 39,
+    "pap": 40,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4202,5 +4202,5 @@
     "wibu": 1,
     "non": 1
   },
-  "lastUpdated": 1774272587409
+  "lastUpdated": 1774272647411
 }
