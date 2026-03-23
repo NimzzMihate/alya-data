@@ -3605,7 +3605,7 @@
     "ewe-paksa": 18,
     "me": 125,
     "setbg": 8,
-    "rampok2": 148,
+    "rampok2": 149,
     "6285609504925": 13,
     "atm": 39,
     "bank": 15,
@@ -3981,7 +3981,7 @@
     "ttslide": 1,
     "hilangkan": 1,
     "236606158053483": 1,
-    "118056370061403": 1,
+    "118056370061403": 2,
     "list": 2,
     "pib": 1,
     "kirimucapan": 1,
@@ -4087,7 +4087,7 @@
     "adoptpet": 16,
     "petstat": 15,
     "playpet": 23,
-    "feedpet": 32,
+    "feedpet": 33,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4162,7 +4162,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 1,
-    "atmall": 4,
+    "atmall": 5,
     "inv": 9,
     "healfull": 3,
     "mute": 1,
@@ -4192,5 +4192,5 @@
     "oom": 1,
     "inventory": 1
   },
-  "lastUpdated": 1774269382942
+  "lastUpdated": 1774269442943
 }
