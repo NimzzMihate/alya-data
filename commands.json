@@ -3628,7 +3628,7 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 8,
+    "wikwik": 9,
     "heal": 18,
     "menu": 20,
     "owner": 2,
@@ -3645,7 +3645,7 @@
     "pin": 61,
     "hd": 47,
     "useitem": 7,
-    "77605898313906": 36,
+    "77605898313906": 37,
     "huxin": 1,
     "usaha": 9,
     "memancing": 3,
@@ -3774,7 +3774,7 @@
     "snippet": 5,
     "updatealya": 21,
     "kencan": 18,
-    "kasihsusu": 8,
+    "kasihsusu": 9,
     "wm": 21,
     "absen": 2,
     "mulaiabsen": 2,
@@ -3894,7 +3894,7 @@
     "pindl": 11,
     "totalfitur": 1,
     "mie": 1,
-    "statusanak": 7,
+    "statusanak": 9,
     "wink": 1,
     "kecocokan": 10,
     "register": 4,
@@ -4072,7 +4072,7 @@
     "lamar": 4,
     "beli": 1,
     "maaf": 1,
-    "sg": 13,
+    "sg": 14,
     "shop": 2,
     "168238516305969": 1,
     "atmtake": 4,
@@ -4164,5 +4164,5 @@
     "cekprofil": 1,
     "atmall": 2
   },
-  "lastUpdated": 1774236718623
+  "lastUpdated": 1774236778622
 }
