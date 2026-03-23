@@ -3605,7 +3605,7 @@
     "ewe-paksa": 17,
     "me": 106,
     "setbg": 8,
-    "rampok2": 98,
+    "rampok2": 99,
     "6285609504925": 13,
     "atm": 27,
     "bank": 13,
@@ -4086,8 +4086,8 @@
     "6289530116661": 1,
     "adoptpet": 10,
     "petstat": 4,
-    "playpet": 7,
-    "feedpet": 7,
+    "playpet": 8,
+    "feedpet": 9,
     "namapet": 1,
     "namepet": 4,
     "statpet": 1,
@@ -4157,5 +4157,5 @@
     "vium": 1,
     "kasih": 1
   },
-  "lastUpdated": 1774231018794
+  "lastUpdated": 1774231078791
 }
