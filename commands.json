@@ -3613,7 +3613,7 @@
     "ewe-paksa": 18,
     "me": 133,
     "setbg": 8,
-    "rampok2": 154,
+    "rampok2": 156,
     "6285609504925": 13,
     "atm": 46,
     "bank": 19,
@@ -3676,7 +3676,7 @@
     "dailymisi": 29,
     "open-bo": 28,
     "ewepaksa": 24,
-    "topglobal": 7,
+    "topglobal": 8,
     "6285789692015": 1,
     "buy": 136,
     "smeme": 17,
@@ -3769,7 +3769,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 26,
+    "saldo": 27,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4220,5 +4220,5 @@
     "atn": 1,
     "6288747505928": 1
   },
-  "lastUpdated": 1774275527794
+  "lastUpdated": 1774275587794
 }
