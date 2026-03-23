@@ -3613,7 +3613,7 @@
     "ewe-paksa": 18,
     "me": 133,
     "setbg": 8,
-    "rampok2": 159,
+    "rampok2": 160,
     "6285609504925": 13,
     "atm": 47,
     "bank": 19,
@@ -3664,7 +3664,7 @@
     "ajakmain": 16,
     "daily": 9,
     "adventure": 6,
-    "cf": 13,
+    "cf": 14,
     "nai2": 3,
     "6282137487477": 9,
     "removebg": 36,
@@ -4095,7 +4095,7 @@
     "adoptpet": 16,
     "petstat": 17,
     "playpet": 28,
-    "feedpet": 37,
+    "feedpet": 42,
     "namapet": 1,
     "namepet": 7,
     "statpet": 1,
@@ -4222,5 +4222,5 @@
     "topsaldo": 1,
     "bernuru": 1
   },
-  "lastUpdated": 1774276216998
+  "lastUpdated": 1774276276995
 }
