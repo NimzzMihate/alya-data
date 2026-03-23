@@ -344,6 +344,7 @@
     "rampok2",
     "rampokin",
     "coprampok",
+    "cekkesetiaan",
     "ewepaksa",
     "ewe-paksa",
     "open-bo",
@@ -4171,7 +4172,7 @@
     "cekstatus": 1,
     "cekprofil": 2,
     "atmall": 14,
-    "inv": 10,
+    "inv": 11,
     "healfull": 3,
     "mute": 1,
     "perstat": 1,
@@ -4221,10 +4222,10 @@
     "6288747505928": 1,
     "topsaldo": 1,
     "bernuru": 1,
-    "cekkesetiaan": 4,
+    "cekkesetiaan": 6,
     "ceksetia": 1,
     "tolaknikah": 1,
     "6282146357295": 1
   },
-  "lastUpdated": 1774276637000
+  "lastUpdated": 1774276697002
 }
