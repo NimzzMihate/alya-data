@@ -3605,7 +3605,7 @@
     "ewe-paksa": 17,
     "me": 115,
     "setbg": 8,
-    "rampok2": 128,
+    "rampok2": 129,
     "6285609504925": 13,
     "atm": 31,
     "bank": 13,
@@ -3694,7 +3694,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 39,
+    "cekprofile": 40,
     "tes": 68,
     "listown": 9,
     "getpp": 3,
@@ -4086,8 +4086,8 @@
     "6289530116661": 1,
     "adoptpet": 14,
     "petstat": 11,
-    "playpet": 17,
-    "feedpet": 25,
+    "playpet": 18,
+    "feedpet": 26,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4123,7 +4123,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 20,
+    "battlepet": 21,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4179,5 +4179,5 @@
     "stamina": 1,
     "negararusia": 1
   },
-  "lastUpdated": 1774255479979
+  "lastUpdated": 1774255539976
 }
