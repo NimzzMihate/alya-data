@@ -3640,7 +3640,7 @@
     "61405583679507": 1,
     "wikwik": 9,
     "heal": 27,
-    "menu": 23,
+    "menu": 24,
     "owner": 2,
     "script": 4,
     "joinrpg": 17,
@@ -4282,7 +4282,9 @@
     "setname": 1,
     "buatkan": 1,
     "getname": 1,
-    "amann": 1
+    "amann": 1,
+    "resetnama": 2,
+    "menuprem": 1
   },
-  "lastUpdated": 1774283288386
+  "lastUpdated": 1774283348385
 }
