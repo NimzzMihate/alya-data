@@ -3762,7 +3762,7 @@
     "verify": 11,
     "daftr": 7,
     "status": 7,
-    "pap": 61,
+    "pap": 63,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3829,7 +3829,7 @@
     "fitnah": 28,
     "puji": 14,
     "pacar": 2,
-    "carikarakter": 67,
+    "carikarakter": 68,
     "nembak": 35,
     "cry": 3,
     "happy": 1,
@@ -4267,7 +4267,7 @@
     "jadimanusia": 1,
     "resetregister": 1,
     "resetpacar": 1,
-    "7452120617023": 3,
+    "7452120617023": 4,
     "resetperan": 1,
     "resigner": 3,
     "cekpacar": 1,
@@ -4276,5 +4276,5 @@
     "carikaraketer": 1,
     "botakkan": 1
   },
-  "lastUpdated": 1774282213984
+  "lastUpdated": 1774282273985
 }
