@@ -4084,7 +4084,7 @@
     "cekbatang": 19,
     "tahun": 1,
     "6289530116661": 1,
-    "adoptpet": 13,
+    "adoptpet": 14,
     "petstat": 11,
     "playpet": 17,
     "feedpet": 25,
@@ -4099,7 +4099,7 @@
     "bego": 5,
     "haram": 1,
     "6282327857595": 2,
-    "roast": 18,
+    "roast": 19,
     "rampokin": 6,
     "nikahpaksa": 14,
     "tolak": 3,
@@ -4157,7 +4157,7 @@
     "vium": 1,
     "kasih": 1,
     "jointpg": 1,
-    "listpet": 2,
+    "listpet": 3,
     "listbug": 1,
     "listban": 1,
     "cekstatus": 1,
@@ -4175,5 +4175,5 @@
     "releaseper": 1,
     "releasepet": 1
   },
-  "lastUpdated": 1774246338236
+  "lastUpdated": 1774246398234
 }
