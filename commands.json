@@ -3771,7 +3771,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 32,
+    "saldo": 33,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3962,7 +3962,7 @@
     "e2": 2,
     "6285180841166": 1,
     "limt": 1,
-    "limit": 3,
+    "limit": 4,
     "cihuy": 1,
     "afk\ntidur": 1,
     "mong": 1,
@@ -4231,9 +4231,9 @@
     "semua": 1,
     "catbox": 1,
     "gempa": 1,
-    "tebakkata": 13,
+    "tebakkata": 15,
     "tebakpacarorang": 1,
-    "gachawaifu": 4,
+    "gachawaifu": 6,
     "curipacarorang": 1,
     "user": 1,
     "gerobak": 1,
@@ -4246,7 +4246,8 @@
     "tabakkata": 1,
     "tebakgambar": 2,
     "tebaktebakan": 1,
-    "tambahwaktu": 1
+    "tambahwaktu": 1,
+    "menyerah": 1
   },
-  "lastUpdated": 1774279197110
+  "lastUpdated": 1774279257109
 }
