@@ -3759,7 +3759,7 @@
     "daftar": 9,
     "profile": 5,
     "topactive": 23,
-    "verify": 9,
+    "verify": 10,
     "daftr": 5,
     "status": 6,
     "pap": 47,
@@ -3829,8 +3829,8 @@
     "fitnah": 28,
     "puji": 13,
     "pacar": 2,
-    "carikarakter": 34,
-    "nembak": 24,
+    "carikarakter": 35,
+    "nembak": 26,
     "cry": 3,
     "happy": 1,
     "sad": 1,
@@ -4242,5 +4242,5 @@
     "hadiah": 1,
     "id": 1
   },
-  "lastUpdated": 1774278346907
+  "lastUpdated": 1774278406908
 }
