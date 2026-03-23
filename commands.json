@@ -3645,7 +3645,7 @@
     "pin": 62,
     "hd": 48,
     "useitem": 7,
-    "77605898313906": 40,
+    "77605898313906": 41,
     "huxin": 1,
     "usaha": 9,
     "memancing": 3,
@@ -4085,9 +4085,9 @@
     "tahun": 1,
     "6289530116661": 1,
     "adoptpet": 11,
-    "petstat": 7,
+    "petstat": 8,
     "playpet": 15,
-    "feedpet": 16,
+    "feedpet": 17,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4167,5 +4167,5 @@
     "healfull": 2,
     "mute": 1
   },
-  "lastUpdated": 1774244538177
+  "lastUpdated": 1774244598187
 }
