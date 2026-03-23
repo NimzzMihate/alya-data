@@ -3629,7 +3629,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 9,
-    "heal": 21,
+    "heal": 23,
     "menu": 21,
     "owner": 2,
     "script": 3,
@@ -3667,7 +3667,7 @@
     "editfoto": 29,
     "dailymisi": 26,
     "open-bo": 23,
-    "ewepaksa": 17,
+    "ewepaksa": 19,
     "topglobal": 5,
     "6285789692015": 1,
     "buy": 108,
@@ -4164,7 +4164,7 @@
     "cekprofil": 1,
     "atmall": 3,
     "inv": 1,
-    "healfull": 2,
+    "healfull": 3,
     "mute": 1,
     "perstat": 1,
     "lesby": 3,
@@ -4178,5 +4178,5 @@
     "openbo": 1,
     "stamina": 1
   },
-  "lastUpdated": 1774252299965
+  "lastUpdated": 1774252359958
 }
