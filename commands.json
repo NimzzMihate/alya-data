@@ -3605,7 +3605,7 @@
     "ewe-paksa": 17,
     "me": 107,
     "setbg": 8,
-    "rampok2": 103,
+    "rampok2": 104,
     "6285609504925": 13,
     "atm": 27,
     "bank": 13,
@@ -3873,7 +3873,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 7,
-    "forward": 24,
+    "forward": 25,
     "6283147484272": 5,
     "cekfemboty": 1,
     "2590335057971": 8,
@@ -4072,7 +4072,7 @@
     "lamar": 4,
     "beli": 1,
     "maaf": 1,
-    "sg": 10,
+    "sg": 11,
     "shop": 2,
     "168238516305969": 1,
     "atmtake": 3,
@@ -4111,7 +4111,7 @@
     "cek": 1,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 2,
+    "bailout": 4,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4157,5 +4157,5 @@
     "vium": 1,
     "kasih": 1
   },
-  "lastUpdated": 1774231618794
+  "lastUpdated": 1774231678792
 }
