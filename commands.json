@@ -3775,7 +3775,7 @@
     "updatealya": 21,
     "kencan": 18,
     "kasihsusu": 9,
-    "wm": 21,
+    "wm": 22,
     "absen": 2,
     "mulaiabsen": 2,
     "6283848672013": 2,
@@ -3924,7 +3924,7 @@
     "38796926128361": 2,
     "narik": 1,
     "toimg": 5,
-    "runtime": 1,
+    "runtime": 2,
     "ephotomenu": 1,
     "6283839942035": 3,
     "herolist": 1,
@@ -4183,7 +4183,9 @@
     "berlayar": 5,
     "6285817528851": 2,
     "reedem": 1,
-    "redeem": 1
+    "redeem": 1,
+    "startinpostor": 1,
+    "startimpostor": 1
   },
-  "lastUpdated": 1774263048378
+  "lastUpdated": 1774263108384
 }
