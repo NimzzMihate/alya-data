@@ -3,8 +3,8 @@
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 608,
-      "exp": 1459839,
-      "saldo": 5.969071234347232e+24
+      "exp": 1459994,
+      "saldo": 0
     },
     {
       "name": "Naylaa",
@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 225,
-      "exp": 540501,
+      "exp": 540583,
       "saldo": 4e+38
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Pillaaaaa",
       "level": 225,
-      "exp": 540501,
+      "exp": 540583,
       "saldo": 4e+38
     },
     {
@@ -145,12 +145,6 @@
       "level": 5,
       "exp": 12176,
       "saldo": 1.000000001e+28
-    },
-    {
-      "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
-      "level": 608,
-      "exp": 1459839,
-      "saldo": 5.969071234347232e+24
     },
     {
       "name": "nama amar",
@@ -241,14 +235,20 @@
       "level": 1,
       "exp": 2515,
       "saldo": 9522885
+    },
+    {
+      "name": "Yogie ganteng",
+      "level": 12,
+      "exp": 30632,
+      "saldo": 1722760
     }
   ],
   "exp": [
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 608,
-      "exp": 1459839,
-      "saldo": 5.969071234347232e+24
+      "exp": 1459994,
+      "saldo": 0
     },
     {
       "name": "Ditz ketoprak",
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 225,
-      "exp": 540501,
+      "exp": 540583,
       "saldo": 4e+38
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774270643011
+  "lastUpdated": 1774270703013
 }
