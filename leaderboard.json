@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 224,
-      "exp": 537617,
-      "saldo": 0
+      "exp": 537960,
+      "saldo": 4.0992101250574985e+43
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 53,
-      "exp": 129009,
+      "exp": 129136,
       "saldo": 0
     },
     {
@@ -122,6 +122,12 @@
     }
   ],
   "saldo": [
+    {
+      "name": "Pillaaaaa",
+      "level": 224,
+      "exp": 537960,
+      "saldo": 4.0992101250574985e+43
+    },
     {
       "name": "Naylaa",
       "level": 510,
@@ -235,12 +241,6 @@
       "level": 0,
       "exp": 2364,
       "saldo": 4860103
-    },
-    {
-      "name": "Yogie ganteng",
-      "level": 12,
-      "exp": 30632,
-      "saldo": 1722760
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 224,
-      "exp": 537617,
-      "saldo": 0
+      "exp": 537960,
+      "saldo": 4.0992101250574985e+43
     },
     {
       "name": "Naylaa",
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 53,
-      "exp": 129009,
+      "exp": 129136,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774268028526
+  "lastUpdated": 1774268088515
 }
