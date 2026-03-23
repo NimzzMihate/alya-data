@@ -3702,7 +3702,7 @@
     "cekpasangan": 11,
     "6281283401829": 1,
     "tembak": 4,
-    "terima": 6,
+    "terima": 8,
     "cium": 17,
     "6281915895220": 1,
     "6281215537344": 3,
@@ -3843,8 +3843,8 @@
     "playch": 19,
     "cekganteng": 19,
     "crkganteng": 1,
-    "puqi": 27,
-    "anj": 17,
+    "puqi": 28,
+    "anj": 19,
     "anjing": 17,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4038,7 +4038,7 @@
     "cekkontol": 2,
     "cekpentil": 33,
     "45978245714088": 2,
-    "monyet": 2,
+    "monyet": 3,
     "v": 1,
     "39076216463471": 1,
     "6289673557732": 1,
@@ -4087,7 +4087,7 @@
     "adoptpet": 11,
     "petstat": 9,
     "playpet": 15,
-    "feedpet": 17,
+    "feedpet": 18,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4168,5 +4168,5 @@
     "mute": 1,
     "perstat": 1
   },
-  "lastUpdated": 1774244778200
+  "lastUpdated": 1774244838191
 }
