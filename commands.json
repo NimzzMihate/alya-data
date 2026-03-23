@@ -3873,7 +3873,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 7,
-    "forward": 26,
+    "forward": 27,
     "6283147484272": 5,
     "cekfemboty": 1,
     "2590335057971": 8,
@@ -3957,7 +3957,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 24,
+    "tf": 26,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4089,7 +4089,7 @@
     "playpet": 8,
     "feedpet": 9,
     "namapet": 1,
-    "namepet": 5,
+    "namepet": 6,
     "statpet": 1,
     "makannin": 1,
     "pepek": 1,
@@ -4157,5 +4157,5 @@
     "vium": 1,
     "kasih": 1
   },
-  "lastUpdated": 1774231738792
+  "lastUpdated": 1774231798793
 }
