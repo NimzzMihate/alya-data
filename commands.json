@@ -3629,7 +3629,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 9,
-    "heal": 18,
+    "heal": 20,
     "menu": 21,
     "owner": 2,
     "script": 3,
@@ -3667,7 +3667,7 @@
     "editfoto": 29,
     "dailymisi": 26,
     "open-bo": 23,
-    "ewepaksa": 16,
+    "ewepaksa": 17,
     "topglobal": 5,
     "6285789692015": 1,
     "buy": 108,
@@ -4174,7 +4174,8 @@
     "foodpet": 1,
     "releaseper": 1,
     "releasepet": 1,
-    "remini": 3
+    "remini": 3,
+    "openbo": 1
   },
-  "lastUpdated": 1774251879952
+  "lastUpdated": 1774251939952
 }
