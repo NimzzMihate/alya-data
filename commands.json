@@ -3667,7 +3667,7 @@
     "editfoto": 27,
     "dailymisi": 26,
     "open-bo": 23,
-    "ewepaksa": 15,
+    "ewepaksa": 16,
     "topglobal": 5,
     "6285789692015": 1,
     "buy": 108,
@@ -4086,8 +4086,8 @@
     "6289530116661": 1,
     "adoptpet": 11,
     "petstat": 9,
-    "playpet": 16,
-    "feedpet": 22,
+    "playpet": 17,
+    "feedpet": 23,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4123,7 +4123,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 16,
+    "battlepet": 17,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4140,7 +4140,7 @@
     "entod": 1,
     "plenger": 1,
     "gak": 1,
-    "gay": 3,
+    "gay": 4,
     "ayonontonjojobiarsigma": 1,
     "6282340184735": 2,
     "213675277316327": 1,
@@ -4171,5 +4171,5 @@
     "bokeppaksa": 1,
     "taksi": 1
   },
-  "lastUpdated": 1774245678195
+  "lastUpdated": 1774245738196
 }
