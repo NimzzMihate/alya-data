@@ -3,8 +3,8 @@
   "totalUsers": 1019,
   "totalGroups": 37,
   "totalFeatures": 3590,
-  "totalCmd": 4189,
-  "totalChat": 4189,
+  "totalCmd": 4198,
+  "totalChat": 4198,
   "topCommands": [
     {
       "cmd": "afk",
@@ -16,7 +16,7 @@
     },
     {
       "cmd": "buy",
-      "count": 130
+      "count": 131
     },
     {
       "cmd": "me",
@@ -28,7 +28,7 @@
     },
     {
       "cmd": "tes",
-      "count": 68
+      "count": 69
     },
     {
       "cmd": "pin",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "10.0",
   "ratingTotal": 5,
-  "uptimeSeconds": 3721,
-  "lastUpdated": 1774259997135
+  "uptimeSeconds": 61,
+  "lastUpdated": 1774260105306
 }
