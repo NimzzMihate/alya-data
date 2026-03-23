@@ -3605,7 +3605,7 @@
     "ewe-paksa": 18,
     "me": 129,
     "setbg": 8,
-    "rampok2": 150,
+    "rampok2": 151,
     "6285609504925": 13,
     "atm": 43,
     "bank": 18,
@@ -3825,7 +3825,7 @@
     "happy": 1,
     "sad": 1,
     "bully": 1,
-    "atmpull": 21,
+    "atmpull": 22,
     "promote": 4,
     "reset": 1,
     "memasak": 1,
@@ -3957,7 +3957,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 46,
+    "tf": 47,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4198,5 +4198,5 @@
     "terimanikah": 2,
     "6283133734215": 1
   },
-  "lastUpdated": 1774270763013
+  "lastUpdated": 1774270823019
 }
