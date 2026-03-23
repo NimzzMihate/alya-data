@@ -15,14 +15,14 @@
     {
       "name": "Ditz ketoprak",
       "level": 286,
-      "exp": 687592,
+      "exp": 687651,
       "saldo": 732936227977760
     },
     {
       "name": "Pillaaaaa",
       "level": 219,
-      "exp": 527155,
-      "saldo": 0
+      "exp": 527285,
+      "saldo": 1.5048822633035607e+42
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -33,8 +33,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 73,
-      "exp": 176172,
-      "saldo": 100000
+      "exp": 176325,
+      "saldo": 1100000
     },
     {
       "name": "Joishi ganteng",
@@ -123,6 +123,12 @@
   ],
   "saldo": [
     {
+      "name": "Pillaaaaa",
+      "level": 219,
+      "exp": 527285,
+      "saldo": 1.5048822633035607e+42
+    },
+    {
       "name": "Naylaa",
       "level": 510,
       "exp": 306620,
@@ -167,7 +173,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 286,
-      "exp": 687592,
+      "exp": 687651,
       "saldo": 732936227977760
     },
     {
@@ -235,12 +241,6 @@
       "level": 12,
       "exp": 30632,
       "saldo": 1722760
-    },
-    {
-      "name": "Axel suka kyouka",
-      "level": 10,
-      "exp": 25864,
-      "saldo": 1355999
     }
   ],
   "exp": [
@@ -253,14 +253,14 @@
     {
       "name": "Ditz ketoprak",
       "level": 286,
-      "exp": 687592,
+      "exp": 687651,
       "saldo": 732936227977760
     },
     {
       "name": "Pillaaaaa",
       "level": 219,
-      "exp": 527155,
-      "saldo": 0
+      "exp": 527285,
+      "saldo": 1.5048822633035607e+42
     },
     {
       "name": "Naylaa",
@@ -271,8 +271,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 73,
-      "exp": 176172,
-      "saldo": 100000
+      "exp": 176325,
+      "saldo": 1100000
     },
     {
       "name": "Joishi ganteng",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774236778622
+  "lastUpdated": 1774236838619
 }
