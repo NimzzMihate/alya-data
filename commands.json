@@ -3771,7 +3771,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 33,
+    "saldo": 36,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4231,7 +4231,7 @@
     "semua": 1,
     "catbox": 1,
     "gempa": 1,
-    "tebakkata": 15,
+    "tebakkata": 17,
     "tebakpacarorang": 1,
     "gachawaifu": 6,
     "curipacarorang": 1,
@@ -4247,7 +4247,8 @@
     "tebakgambar": 2,
     "tebaktebakan": 1,
     "tambahwaktu": 1,
-    "menyerah": 1
+    "menyerah": 1,
+    "(": 1
   },
-  "lastUpdated": 1774279257109
+  "lastUpdated": 1774279317111
 }
