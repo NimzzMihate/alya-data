@@ -3611,7 +3611,7 @@
     "playmoba": 38,
     "ngaji": 20,
     "ewe-paksa": 18,
-    "me": 131,
+    "me": 132,
     "setbg": 8,
     "rampok2": 153,
     "6285609504925": 13,
@@ -3833,7 +3833,7 @@
     "happy": 1,
     "sad": 1,
     "bully": 1,
-    "atmpull": 22,
+    "atmpull": 23,
     "promote": 4,
     "reset": 1,
     "memasak": 1,
@@ -4215,9 +4215,9 @@
     "htspam": 1,
     "rating": 3,
     "rampokatm": 1,
-    "topuang": 1,
+    "topuang": 2,
     "tabung": 1,
     "atn": 1
   },
-  "lastUpdated": 1774275347794
+  "lastUpdated": 1774275407795
 }
