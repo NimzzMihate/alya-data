@@ -3762,7 +3762,7 @@
     "verify": 12,
     "daftr": 7,
     "status": 7,
-    "pap": 81,
+    "pap": 83,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4091,7 +4091,7 @@
     "babi": 5,
     "dongo": 2,
     "rampok3": 3,
-    "cekbatang": 21,
+    "cekbatang": 23,
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 16,
@@ -4283,8 +4283,8 @@
     "buatkan": 1,
     "getname": 1,
     "amann": 1,
-    "resetnama": 2,
+    "resetnama": 3,
     "menuprem": 1
   },
-  "lastUpdated": 1774283348385
+  "lastUpdated": 1774283408390
 }
