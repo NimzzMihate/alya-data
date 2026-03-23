@@ -3761,8 +3761,8 @@
     "topactive": 24,
     "verify": 11,
     "daftr": 7,
-    "status": 6,
-    "pap": 58,
+    "status": 7,
+    "pap": 60,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3827,7 +3827,7 @@
     "d": 41,
     "pabrik": 1,
     "fitnah": 28,
-    "puji": 13,
+    "puji": 14,
     "pacar": 2,
     "carikarakter": 67,
     "nembak": 35,
@@ -3870,7 +3870,7 @@
     "...": 1,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 47,
+    "statuspacar": 49,
     "kasihmakan": 8,
     "kasihminum": 7,
     "naena": 2,
@@ -4276,5 +4276,5 @@
     "carikaraketer": 1,
     "botakkan": 1
   },
-  "lastUpdated": 1774282093984
+  "lastUpdated": 1774282153985
 }
