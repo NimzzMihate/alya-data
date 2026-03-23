@@ -3776,8 +3776,8 @@
     "kencan": 24,
     "kasihsusu": 11,
     "wm": 22,
-    "absen": 2,
-    "mulaiabsen": 2,
+    "absen": 3,
+    "mulaiabsen": 3,
     "6283848672013": 2,
     "ratebot": 1,
     "webfeedback": 2,
@@ -4207,5 +4207,5 @@
     "htspam": 1,
     "rating": 3
   },
-  "lastUpdated": 1774274627783
+  "lastUpdated": 1774274687782
 }
