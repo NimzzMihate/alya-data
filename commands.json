@@ -3752,7 +3752,7 @@
     "verify": 8,
     "daftr": 4,
     "status": 6,
-    "pap": 43,
+    "pap": 44,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3868,7 +3868,7 @@
     "6282115911954": 2,
     "6281455125940": 2,
     "6285761349641": 5,
-    "pap2": 21,
+    "pap2": 22,
     "getcase": 1,
     "/": 1,
     "cekcantik": 2,
@@ -4202,5 +4202,5 @@
     "wibu": 1,
     "non": 1
   },
-  "lastUpdated": 1774272947414
+  "lastUpdated": 1774273007432
 }
