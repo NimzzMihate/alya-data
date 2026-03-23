@@ -4189,7 +4189,8 @@
     "vote": 1,
     "join": 1,
     "monopoli": 3,
-    "oom": 1
+    "oom": 1,
+    "inventory": 1
   },
-  "lastUpdated": 1774268448530
+  "lastUpdated": 1774268508530
 }
