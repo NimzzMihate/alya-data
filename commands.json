@@ -3615,7 +3615,7 @@
     "ewe-paksa": 18,
     "me": 135,
     "setbg": 8,
-    "rampok2": 160,
+    "rampok2": 161,
     "6285609504925": 13,
     "atm": 47,
     "bank": 19,
@@ -3674,7 +3674,7 @@
     "listowner": 7,
     "brat": 20,
     "brathd": 1,
-    "editfoto": 40,
+    "editfoto": 41,
     "dailymisi": 29,
     "open-bo": 28,
     "ewepaksa": 24,
@@ -3789,7 +3789,7 @@
     "absen": 3,
     "mulaiabsen": 3,
     "6283848672013": 2,
-    "ratebot": 1,
+    "ratebot": 2,
     "webfeedback": 2,
     "171511465922650": 1,
     "apin\naku": 1,
@@ -3802,7 +3802,7 @@
     "antivirtex": 2,
     "bugwangcap": 1,
     "colong": 1,
-    "ttf": 11,
+    "ttf": 12,
     "cekfemboy": 44,
     "restart": 2,
     "kontol": 3,
@@ -4235,7 +4235,8 @@
     "tebakpacarorang": 1,
     "gachawaifu": 1,
     "curipacarorang": 1,
-    "user": 1
+    "user": 1,
+    "gerobak": 1
   },
-  "lastUpdated": 1774277597546
+  "lastUpdated": 1774277686885
 }
