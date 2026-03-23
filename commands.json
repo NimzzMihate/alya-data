@@ -3677,13 +3677,13 @@
     "195520047915190": 1,
     "setpp": 8,
     "265944542793975": 1,
-    "berburu": 5,
+    "berburu": 6,
     "masak": 8,
     "rpgmenu": 3,
     "makan": 2,
     "repair": 1,
     "kapal": 5,
-    "craft": 74,
+    "craft": 75,
     "listheri": 1,
     "listhero": 5,
     "mancing": 1,
@@ -4179,5 +4179,5 @@
     "stamina": 1,
     "negararusia": 1
   },
-  "lastUpdated": 1774254159976
+  "lastUpdated": 1774254219974
 }
