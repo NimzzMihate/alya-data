@@ -3787,7 +3787,7 @@
     "255336476880929": 5,
     "lebaran": 3,
     "80290588442827": 38,
-    "hdvid": 1,
+    "hdvid": 2,
     "kalo": 1,
     "antivirtex": 2,
     "bugwangcap": 1,
@@ -4061,7 +4061,7 @@
     "istiku": 1,
     "cerai": 2,
     "putus": 2,
-    "crop": 3,
+    "crop": 4,
     "shopgift": 4,
     "give": 2,
     "asep": 1,
@@ -4173,7 +4173,8 @@
     "bangsat": 1,
     "foodpet": 1,
     "releaseper": 1,
-    "releasepet": 1
+    "releasepet": 1,
+    "remini": 1
   },
-  "lastUpdated": 1774251699956
+  "lastUpdated": 1774251759951
 }
