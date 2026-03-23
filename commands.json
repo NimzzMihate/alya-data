@@ -3598,7 +3598,7 @@
     "backup": 2,
     "get": 16,
     "tohtml": 8,
-    "ranked": 53,
+    "ranked": 54,
     "mobaprofile": 12,
     "playmoba": 35,
     "ngaji": 15,
@@ -4157,5 +4157,5 @@
     "vium": 1,
     "kasih": 1
   },
-  "lastUpdated": 1774231138793
+  "lastUpdated": 1774231198792
 }
