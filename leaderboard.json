@@ -38,8 +38,8 @@
     },
     {
       "name": "Joishi ganteng",
-      "level": 71,
-      "exp": 172706,
+      "level": 72,
+      "exp": 179953,
       "saldo": 2.400002134874413e+33
     },
     {
@@ -130,8 +130,8 @@
     },
     {
       "name": "Joishi ganteng",
-      "level": 71,
-      "exp": 172706,
+      "level": 72,
+      "exp": 179953,
       "saldo": 2.400002134874413e+33
     },
     {
@@ -269,16 +269,16 @@
       "saldo": 5.852005205519986e+33
     },
     {
+      "name": "Joishi ganteng",
+      "level": 72,
+      "exp": 179953,
+      "saldo": 2.400002134874413e+33
+    },
+    {
       "name": "Flonα Lyzellé ❀.",
       "level": 73,
       "exp": 177121,
       "saldo": 74000
-    },
-    {
-      "name": "Joishi ganteng",
-      "level": 71,
-      "exp": 172706,
-      "saldo": 2.400002134874413e+33
     },
     {
       "name": "apip",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774275107797
+  "lastUpdated": 1774275167792
 }
