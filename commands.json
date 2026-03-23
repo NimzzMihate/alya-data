@@ -3615,7 +3615,7 @@
     "ewe-paksa": 18,
     "me": 139,
     "setbg": 8,
-    "rampok2": 174,
+    "rampok2": 175,
     "6285609504925": 13,
     "atm": 50,
     "bank": 20,
@@ -4015,7 +4015,7 @@
     "cariin": 1,
     "harian": 1,
     "oke": 1,
-    "nikah": 21,
+    "nikah": 22,
     "stiker": 1,
     "6285766167323": 2,
     "delede": 1,
@@ -4253,7 +4253,10 @@
     "but": 1,
     "cekstatuspacar": 1,
     "tff": 1,
-    "tft": 2
+    "tft": 2,
+    "toko": 1,
+    "penjara": 1,
+    "ambil": 1
   },
-  "lastUpdated": 1774280217136
+  "lastUpdated": 1774280277150
 }
