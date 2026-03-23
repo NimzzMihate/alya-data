@@ -3642,7 +3642,7 @@
     "6281393286345": 28,
     ">": 4,
     "addapi": 2,
-    "pin": 64,
+    "pin": 65,
     "hd": 56,
     "useitem": 7,
     "77605898313906": 52,
@@ -3677,7 +3677,7 @@
     "195520047915190": 1,
     "setpp": 8,
     "265944542793975": 1,
-    "berburu": 8,
+    "berburu": 10,
     "masak": 8,
     "rpgmenu": 6,
     "makan": 2,
@@ -3686,7 +3686,7 @@
     "craft": 109,
     "listheri": 1,
     "listhero": 5,
-    "mancing": 1,
+    "mancing": 2,
     "randomba": 1,
     "chatgpt3": 4,
     "tofigure": 1,
@@ -3702,7 +3702,7 @@
     "cekpasangan": 11,
     "6281283401829": 1,
     "tembak": 4,
-    "terima": 8,
+    "terima": 9,
     "cium": 21,
     "6281915895220": 1,
     "6281215537344": 3,
@@ -4101,7 +4101,7 @@
     "6282327857595": 2,
     "roast": 26,
     "rampokin": 7,
-    "nikahpaksa": 14,
+    "nikahpaksa": 16,
     "tolak": 3,
     "batalnikah": 6,
     "ꮋꭿꮑꮏꮼ:yang": 1,
@@ -4192,5 +4192,5 @@
     "oom": 1,
     "inventory": 1
   },
-  "lastUpdated": 1774268508530
+  "lastUpdated": 1774268602934
 }
