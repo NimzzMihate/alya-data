@@ -3752,7 +3752,7 @@
     "verify": 8,
     "daftr": 4,
     "status": 6,
-    "pap": 42,
+    "pap": 43,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4202,5 +4202,5 @@
     "wibu": 1,
     "non": 1
   },
-  "lastUpdated": 1774272767414
+  "lastUpdated": 1774272827414
 }
