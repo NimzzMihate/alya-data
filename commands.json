@@ -3643,7 +3643,7 @@
     "menu": 22,
     "owner": 2,
     "script": 3,
-    "joinrpg": 14,
+    "joinrpg": 15,
     "mentahan": 1,
     "claim": 16,
     "cekidch": 2,
@@ -3680,7 +3680,7 @@
     "ewepaksa": 24,
     "topglobal": 8,
     "6285789692015": 1,
-    "buy": 147,
+    "buy": 148,
     "smeme": 17,
     "getno": 7,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3693,7 +3693,7 @@
     "makan": 2,
     "repair": 1,
     "kapal": 5,
-    "craft": 111,
+    "craft": 113,
     "listheri": 1,
     "listhero": 5,
     "mancing": 2,
@@ -4251,5 +4251,5 @@
     "(": 1,
     "buycincin": 1
   },
-  "lastUpdated": 1774279557109
+  "lastUpdated": 1774279617112
 }
