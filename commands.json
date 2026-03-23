@@ -3607,7 +3607,7 @@
     "setbg": 8,
     "rampok2": 147,
     "6285609504925": 13,
-    "atm": 31,
+    "atm": 32,
     "bank": 15,
     "afk": 152,
     "kerja": 17,
@@ -3761,7 +3761,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 23,
+    "saldo": 24,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3873,7 +3873,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 10,
-    "forward": 42,
+    "forward": 43,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -4190,5 +4190,5 @@
     "join": 1,
     "monopoli": 3
   },
-  "lastUpdated": 1774267308515
+  "lastUpdated": 1774267368516
 }
