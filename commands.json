@@ -3873,7 +3873,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 12,
-    "forward": 61,
+    "forward": 62,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -3957,7 +3957,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 47,
+    "tf": 48,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4162,7 +4162,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 1,
-    "atmall": 8,
+    "atmall": 9,
     "inv": 9,
     "healfull": 3,
     "mute": 1,
@@ -4199,5 +4199,5 @@
     "6283133734215": 1,
     "ai2": 1
   },
-  "lastUpdated": 1774270943080
+  "lastUpdated": 1774271003067
 }
