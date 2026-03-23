@@ -3674,7 +3674,7 @@
     "listowner": 7,
     "brat": 20,
     "brathd": 1,
-    "editfoto": 39,
+    "editfoto": 40,
     "dailymisi": 29,
     "open-bo": 28,
     "ewepaksa": 24,
@@ -4006,7 +4006,7 @@
     "profil": 5,
     "prefix": 1,
     "6282313526033": 4,
-    "game": 1,
+    "game": 2,
     "main": 1,
     "moba": 1,
     "mobaprofil": 1,
@@ -4232,5 +4232,5 @@
     "catbox": 1,
     "gempa": 1
   },
-  "lastUpdated": 1774277477535
+  "lastUpdated": 1774277537548
 }
