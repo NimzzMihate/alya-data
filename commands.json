@@ -4061,7 +4061,7 @@
     "istiku": 1,
     "cerai": 2,
     "putus": 2,
-    "crop": 5,
+    "crop": 6,
     "shopgift": 4,
     "give": 2,
     "asep": 1,
@@ -4174,7 +4174,7 @@
     "foodpet": 1,
     "releaseper": 1,
     "releasepet": 1,
-    "remini": 2
+    "remini": 3
   },
-  "lastUpdated": 1774251819963
+  "lastUpdated": 1774251879952
 }
