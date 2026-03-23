@@ -3612,7 +3612,7 @@
     "mobaprofile": 14,
     "playmoba": 38,
     "ngaji": 20,
-    "ewe-paksa": 21,
+    "ewe-paksa": 25,
     "me": 140,
     "setbg": 8,
     "rampok2": 176,
@@ -3643,7 +3643,7 @@
     "menu": 23,
     "owner": 2,
     "script": 4,
-    "joinrpg": 16,
+    "joinrpg": 17,
     "mentahan": 1,
     "claim": 16,
     "cekidch": 2,
@@ -3716,7 +3716,7 @@
     "cium": 26,
     "6281915895220": 1,
     "6281215537344": 3,
-    "rampok": 57,
+    "rampok": 58,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -4276,5 +4276,5 @@
     "carikaraketer": 1,
     "botakkan": 1
   },
-  "lastUpdated": 1774282634015
+  "lastUpdated": 1774282694102
 }
