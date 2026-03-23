@@ -3607,7 +3607,7 @@
     "setbg": 8,
     "rampok2": 112,
     "6285609504925": 13,
-    "atm": 28,
+    "atm": 30,
     "bank": 13,
     "afk": 142,
     "kerja": 17,
@@ -3957,7 +3957,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 29,
+    "tf": 30,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4075,7 +4075,7 @@
     "sg": 14,
     "shop": 2,
     "168238516305969": 1,
-    "atmtake": 4,
+    "atmtake": 7,
     "giftshop": 1,
     "kasihnamaanak": 1,
     "babi": 4,
@@ -4164,5 +4164,5 @@
     "cekprofil": 1,
     "atmall": 2
   },
-  "lastUpdated": 1774236778622
+  "lastUpdated": 1774236838619
 }
