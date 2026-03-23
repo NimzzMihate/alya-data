@@ -3667,7 +3667,7 @@
     "editfoto": 35,
     "dailymisi": 29,
     "open-bo": 28,
-    "ewepaksa": 21,
+    "ewepaksa": 22,
     "topglobal": 7,
     "6285789692015": 1,
     "buy": 135,
@@ -3702,7 +3702,7 @@
     "cekpasangan": 11,
     "6281283401829": 1,
     "tembak": 5,
-    "terima": 9,
+    "terima": 10,
     "cium": 21,
     "6281915895220": 1,
     "6281215537344": 3,
@@ -4101,9 +4101,9 @@
     "6282327857595": 2,
     "roast": 26,
     "rampokin": 7,
-    "nikahpaksa": 16,
+    "nikahpaksa": 17,
     "tolak": 3,
-    "batalnikah": 6,
+    "batalnikah": 7,
     "ꮋꭿꮑꮏꮼ:yang": 1,
     "259468235436086": 2,
     "6281374721324": 4,
@@ -4192,7 +4192,9 @@
     "oom": 1,
     "inventory": 1,
     "like": 1,
-    "suka": 1
+    "suka": 1,
+    "monthly": 1,
+    "yearly": 1
   },
-  "lastUpdated": 1774269742950
+  "lastUpdated": 1774269802953
 }
