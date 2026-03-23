@@ -3683,7 +3683,7 @@
     "makan": 2,
     "repair": 1,
     "kapal": 5,
-    "craft": 88,
+    "craft": 94,
     "listheri": 1,
     "listhero": 5,
     "mancing": 1,
@@ -3967,7 +3967,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 19,
-    "jual": 11,
+    "jual": 12,
     "vid": 2,
     "nfsw": 1,
     "vidmg": 1,
@@ -4180,5 +4180,5 @@
     "negararusia": 1,
     "exitrpg": 2
   },
-  "lastUpdated": 1774257776985
+  "lastUpdated": 1774257836995
 }
