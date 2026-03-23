@@ -3,8 +3,8 @@
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 607,
-      "exp": 1457430,
-      "saldo": 4.4907185812630237e+21
+      "exp": 1457540,
+      "saldo": 251
     },
     {
       "name": "Naylaa",
@@ -153,12 +153,6 @@
       "saldo": 6.673568075175613e+21
     },
     {
-      "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
-      "level": 607,
-      "exp": 1457430,
-      "saldo": 4.4907185812630237e+21
-    },
-    {
       "name": "Ditz ketoprak",
       "level": 293,
       "exp": 704007,
@@ -241,14 +235,20 @@
       "level": 1,
       "exp": 2515,
       "saldo": 9522885
+    },
+    {
+      "name": "Yogie ganteng",
+      "level": 12,
+      "exp": 30632,
+      "saldo": 1722760
     }
   ],
   "exp": [
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 607,
-      "exp": 1457430,
-      "saldo": 4.4907185812630237e+21
+      "exp": 1457540,
+      "saldo": 251
     },
     {
       "name": "Ditz ketoprak",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774269442943
+  "lastUpdated": 1774269502941
 }
