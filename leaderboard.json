@@ -3,8 +3,8 @@
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 607,
-      "exp": 1457240,
-      "saldo": 99999707315
+      "exp": 1457430,
+      "saldo": 4.4907185812630237e+21
     },
     {
       "name": "Naylaa",
@@ -28,7 +28,7 @@
       "name": "RYZSUKASUPERCAR",
       "level": 122,
       "exp": 114966,
-      "saldo": 2.245359290581512e+22
+      "saldo": 1.7962874324652097e+22
     },
     {
       "name": "Flonα Lyzellé ❀.",
@@ -144,13 +144,19 @@
       "name": "RYZSUKASUPERCAR",
       "level": 122,
       "exp": 114966,
-      "saldo": 2.245359290581512e+22
+      "saldo": 1.7962874324652097e+22
     },
     {
       "name": "nama amar",
       "level": 0,
       "exp": 581,
       "saldo": 6.673568075175613e+21
+    },
+    {
+      "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
+      "level": 607,
+      "exp": 1457430,
+      "saldo": 4.4907185812630237e+21
     },
     {
       "name": "Ditz ketoprak",
@@ -213,12 +219,6 @@
       "saldo": 9999843197198
     },
     {
-      "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
-      "level": 607,
-      "exp": 1457240,
-      "saldo": 99999707315
-    },
-    {
       "name": "Souta",
       "level": 26,
       "exp": 63672,
@@ -247,8 +247,8 @@
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 607,
-      "exp": 1457240,
-      "saldo": 99999707315
+      "exp": 1457430,
+      "saldo": 4.4907185812630237e+21
     },
     {
       "name": "Ditz ketoprak",
@@ -290,7 +290,7 @@
       "name": "RYZSUKASUPERCAR",
       "level": 122,
       "exp": 114966,
-      "saldo": 2.245359290581512e+22
+      "saldo": 1.7962874324652097e+22
     },
     {
       "name": "Zxiox",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774269382942
+  "lastUpdated": 1774269442943
 }
