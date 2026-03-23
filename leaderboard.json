@@ -3,8 +3,8 @@
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 590,
-      "exp": 1416492,
-      "saldo": 2.407811637240008e+41
+      "exp": 1416598,
+      "saldo": 998888999918892
     },
     {
       "name": "Naylaa",
@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 220,
-      "exp": 530047,
-      "saldo": 0
+      "exp": 530234,
+      "saldo": 345
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -123,12 +123,6 @@
   ],
   "saldo": [
     {
-      "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
-      "level": 590,
-      "exp": 1416492,
-      "saldo": 2.407811637240008e+41
-    },
-    {
       "name": "Naylaa",
       "level": 510,
       "exp": 306620,
@@ -163,6 +157,12 @@
       "level": 0,
       "exp": 1982,
       "saldo": 10000000000045000
+    },
+    {
+      "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
+      "level": 590,
+      "exp": 1416598,
+      "saldo": 998888999918892
     },
     {
       "name": "Lejen",
@@ -247,8 +247,8 @@
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 590,
-      "exp": 1416492,
-      "saldo": 2.407811637240008e+41
+      "exp": 1416598,
+      "saldo": 998888999918892
     },
     {
       "name": "Ditz ketoprak",
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 220,
-      "exp": 530047,
-      "saldo": 0
+      "exp": 530234,
+      "saldo": 345
     },
     {
       "name": "Naylaa",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774244400215
+  "lastUpdated": 1774244460199
 }
