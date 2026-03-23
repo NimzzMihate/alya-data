@@ -3615,7 +3615,7 @@
     "setbg": 8,
     "rampok2": 153,
     "6285609504925": 13,
-    "atm": 45,
+    "atm": 46,
     "bank": 19,
     "afk": 156,
     "kerja": 17,
@@ -4170,7 +4170,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 1,
-    "atmall": 10,
+    "atmall": 11,
     "inv": 9,
     "healfull": 3,
     "mute": 1,
@@ -4209,13 +4209,15 @@
     "ajg": 1,
     "wibu": 1,
     "non": 1,
-    "upch": 6,
+    "upch": 8,
     "uch": 1,
     "joinch": 1,
     "htspam": 1,
     "rating": 3,
     "rampokatm": 1,
-    "topuang": 1
+    "topuang": 1,
+    "tabung": 1,
+    "atn": 1
   },
-  "lastUpdated": 1774275047794
+  "lastUpdated": 1774275107797
 }
