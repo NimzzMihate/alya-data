@@ -3613,11 +3613,11 @@
     "ewe-paksa": 18,
     "me": 132,
     "setbg": 8,
-    "rampok2": 153,
+    "rampok2": 154,
     "6285609504925": 13,
     "atm": 46,
     "bank": 19,
-    "afk": 156,
+    "afk": 157,
     "kerja": 17,
     "628176533297": 13,
     "s": 51,
@@ -4169,7 +4169,7 @@
     "listbug": 1,
     "listban": 1,
     "cekstatus": 1,
-    "cekprofil": 1,
+    "cekprofil": 2,
     "atmall": 11,
     "inv": 9,
     "healfull": 3,
@@ -4215,9 +4215,10 @@
     "htspam": 1,
     "rating": 3,
     "rampokatm": 1,
-    "topuang": 2,
+    "topuang": 3,
     "tabung": 1,
-    "atn": 1
+    "atn": 1,
+    "6288747505928": 1
   },
-  "lastUpdated": 1774275407795
+  "lastUpdated": 1774275467792
 }
