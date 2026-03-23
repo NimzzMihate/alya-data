@@ -3603,12 +3603,12 @@
     "playmoba": 38,
     "ngaji": 16,
     "ewe-paksa": 17,
-    "me": 116,
+    "me": 118,
     "setbg": 8,
-    "rampok2": 132,
+    "rampok2": 134,
     "6285609504925": 13,
     "atm": 31,
-    "bank": 13,
+    "bank": 14,
     "afk": 149,
     "kerja": 17,
     "628176533297": 12,
@@ -3683,7 +3683,7 @@
     "makan": 2,
     "repair": 1,
     "kapal": 5,
-    "craft": 77,
+    "craft": 78,
     "listheri": 1,
     "listhero": 5,
     "mancing": 1,
@@ -3706,7 +3706,7 @@
     "cium": 17,
     "6281915895220": 1,
     "6281215537344": 3,
-    "rampok": 39,
+    "rampok": 40,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -4180,5 +4180,5 @@
     "negararusia": 1,
     "exitrpg": 1
   },
-  "lastUpdated": 1774256079981
+  "lastUpdated": 1774256140039
 }
