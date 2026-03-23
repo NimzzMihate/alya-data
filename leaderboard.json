@@ -15,14 +15,14 @@
     {
       "name": "Ditz ketoprak",
       "level": 293,
-      "exp": 703688,
+      "exp": 703762,
       "saldo": 620197648978201000000
     },
     {
       "name": "Pillaaaaa",
       "level": 223,
-      "exp": 537196,
-      "saldo": 345
+      "exp": 537226,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -45,7 +45,7 @@
     {
       "name": "bímm",
       "level": 53,
-      "exp": 127798,
+      "exp": 128028,
       "saldo": 0
     },
     {
@@ -155,7 +155,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 293,
-      "exp": 703688,
+      "exp": 703762,
       "saldo": 620197648978201000000
     },
     {
@@ -253,14 +253,14 @@
     {
       "name": "Ditz ketoprak",
       "level": 293,
-      "exp": 703688,
+      "exp": 703762,
       "saldo": 620197648978201000000
     },
     {
       "name": "Pillaaaaa",
       "level": 223,
-      "exp": 537196,
-      "saldo": 345
+      "exp": 537226,
+      "saldo": 0
     },
     {
       "name": "Naylaa",
@@ -283,7 +283,7 @@
     {
       "name": "bímm",
       "level": 53,
-      "exp": 127798,
+      "exp": 128028,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774267488513
+  "lastUpdated": 1774267548513
 }
