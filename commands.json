@@ -4093,7 +4093,7 @@
     "tahun": 1,
     "6289530116661": 1,
     "adoptpet": 16,
-    "petstat": 15,
+    "petstat": 16,
     "playpet": 28,
     "feedpet": 37,
     "namapet": 1,
@@ -4131,7 +4131,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 35,
+    "battlepet": 37,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4222,5 +4222,5 @@
     "topsaldo": 1,
     "bernuru": 1
   },
-  "lastUpdated": 1774276096997
+  "lastUpdated": 1774276156995
 }
