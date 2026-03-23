@@ -3613,7 +3613,7 @@
     "playmoba": 38,
     "ngaji": 20,
     "ewe-paksa": 26,
-    "me": 140,
+    "me": 141,
     "setbg": 8,
     "rampok2": 176,
     "6285609504925": 13,
@@ -3755,7 +3755,7 @@
     "628998866123": 4,
     "166121432961259": 7,
     "....": 1,
-    "setprofile": 24,
+    "setprofile": 25,
     "daftar": 10,
     "profile": 5,
     "topactive": 25,
@@ -4278,7 +4278,10 @@
     "pal": 1,
     ")": 1,
     "pa": 1,
-    "pqp": 1
+    "pqp": 1,
+    "setname": 1,
+    "buatkan": 1,
+    "getname": 1
   },
-  "lastUpdated": 1774282988346
+  "lastUpdated": 1774283048389
 }
