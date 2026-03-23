@@ -3613,9 +3613,9 @@
     "ewe-paksa": 18,
     "me": 130,
     "setbg": 8,
-    "rampok2": 152,
+    "rampok2": 153,
     "6285609504925": 13,
-    "atm": 44,
+    "atm": 45,
     "bank": 19,
     "afk": 156,
     "kerja": 17,
@@ -3769,7 +3769,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 25,
+    "saldo": 26,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4209,7 +4209,7 @@
     "ajg": 1,
     "wibu": 1,
     "non": 1,
-    "upch": 5,
+    "upch": 6,
     "uch": 1,
     "joinch": 1,
     "htspam": 1,
@@ -4217,5 +4217,5 @@
     "rampokatm": 1,
     "topuang": 1
   },
-  "lastUpdated": 1774274987792
+  "lastUpdated": 1774275047794
 }
