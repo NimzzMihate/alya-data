@@ -3609,7 +3609,7 @@
     "6285609504925": 13,
     "atm": 31,
     "bank": 15,
-    "afk": 151,
+    "afk": 152,
     "kerja": 17,
     "628176533297": 12,
     "s": 45,
@@ -3679,7 +3679,7 @@
     "265944542793975": 1,
     "berburu": 8,
     "masak": 8,
-    "rpgmenu": 4,
+    "rpgmenu": 6,
     "makan": 2,
     "repair": 1,
     "kapal": 5,
@@ -4180,7 +4180,10 @@
     "negararusia": 1,
     "exitrpg": 2,
     "nyampah": 1,
-    "berlayar": 5
+    "berlayar": 5,
+    "6285817528851": 2,
+    "reedem": 1,
+    "redeem": 1
   },
-  "lastUpdated": 1774262925301
+  "lastUpdated": 1774263048378
 }
