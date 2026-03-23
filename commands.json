@@ -3762,7 +3762,7 @@
     "verify": 10,
     "daftr": 6,
     "status": 6,
-    "pap": 47,
+    "pap": 48,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3837,7 +3837,7 @@
     "bully": 1,
     "atmpull": 25,
     "promote": 4,
-    "reset": 1,
+    "reset": 2,
     "memasak": 1,
     "wm\n>": 2,
     "iqc": 1,
@@ -4264,7 +4264,11 @@
     "cara": 1,
     "meny": 1,
     "selingkuh": 1,
-    "jadimanusia": 1
+    "jadimanusia": 1,
+    "resetregister": 1,
+    "resetpacar": 1,
+    "7452120617023": 1,
+    "resetperan": 1
   },
-  "lastUpdated": 1774281638503
+  "lastUpdated": 1774281698504
 }
