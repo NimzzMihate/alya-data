@@ -3678,7 +3678,7 @@
     "dailymisi": 29,
     "open-bo": 28,
     "ewepaksa": 24,
-    "topglobal": 8,
+    "topglobal": 10,
     "6285789692015": 1,
     "buy": 167,
     "smeme": 17,
@@ -3829,7 +3829,7 @@
     "fitnah": 28,
     "puji": 13,
     "pacar": 2,
-    "carikarakter": 37,
+    "carikarakter": 38,
     "nembak": 28,
     "cry": 3,
     "happy": 1,
@@ -3870,7 +3870,7 @@
     "...": 1,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 44,
+    "statuspacar": 45,
     "kasihmakan": 8,
     "kasihminum": 7,
     "naena": 2,
@@ -4255,8 +4255,9 @@
     "tff": 1,
     "tft": 2,
     "toko": 1,
-    "penjara": 1,
-    "ambil": 1
+    "penjara": 2,
+    "ambil": 1,
+    "listchat": 1
   },
-  "lastUpdated": 1774280277150
+  "lastUpdated": 1774280378524
 }
