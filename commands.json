@@ -3629,7 +3629,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 9,
-    "heal": 20,
+    "heal": 21,
     "menu": 21,
     "owner": 2,
     "script": 3,
@@ -4175,7 +4175,8 @@
     "releaseper": 1,
     "releasepet": 1,
     "remini": 3,
-    "openbo": 1
+    "openbo": 1,
+    "stamina": 1
   },
-  "lastUpdated": 1774251939952
+  "lastUpdated": 1774251999956
 }
