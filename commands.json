@@ -3598,7 +3598,7 @@
     "backup": 2,
     "get": 16,
     "tohtml": 8,
-    "ranked": 58,
+    "ranked": 59,
     "mobaprofile": 13,
     "playmoba": 38,
     "ngaji": 16,
@@ -4123,7 +4123,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 15,
+    "battlepet": 16,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4171,5 +4171,5 @@
     "bokeppaksa": 1,
     "taksi": 1
   },
-  "lastUpdated": 1774245618197
+  "lastUpdated": 1774245678195
 }
