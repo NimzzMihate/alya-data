@@ -3608,12 +3608,12 @@
     "backup": 2,
     "get": 16,
     "tohtml": 8,
-    "ranked": 63,
+    "ranked": 64,
     "mobaprofile": 14,
     "playmoba": 38,
     "ngaji": 20,
     "ewe-paksa": 18,
-    "me": 138,
+    "me": 139,
     "setbg": 8,
     "rampok2": 174,
     "6285609504925": 13,
@@ -3680,7 +3680,7 @@
     "ewepaksa": 24,
     "topglobal": 8,
     "6285789692015": 1,
-    "buy": 166,
+    "buy": 167,
     "smeme": 17,
     "getno": 7,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3716,7 +3716,7 @@
     "cium": 24,
     "6281915895220": 1,
     "6281215537344": 3,
-    "rampok": 53,
+    "rampok": 54,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -4253,5 +4253,5 @@
     "but": 1,
     "cekstatuspacar": 1
   },
-  "lastUpdated": 1774280097136
+  "lastUpdated": 1774280157142
 }
