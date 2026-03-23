@@ -3618,7 +3618,7 @@
     "rampok2": 175,
     "6285609504925": 13,
     "atm": 51,
-    "bank": 20,
+    "bank": 22,
     "afk": 157,
     "kerja": 17,
     "628176533297": 13,
@@ -3760,7 +3760,7 @@
     "profile": 5,
     "topactive": 24,
     "verify": 10,
-    "daftr": 5,
+    "daftr": 6,
     "status": 6,
     "pap": 47,
     "tebakbendera": 14,
@@ -4085,7 +4085,7 @@
     "sg": 15,
     "shop": 5,
     "168238516305969": 3,
-    "atmtake": 14,
+    "atmtake": 15,
     "giftshop": 1,
     "kasihnamaanak": 1,
     "babi": 5,
@@ -4257,7 +4257,8 @@
     "toko": 1,
     "penjara": 2,
     "ambil": 1,
-    "listchat": 1
+    "listchat": 1,
+    "cecan": 1
   },
-  "lastUpdated": 1774280678488
+  "lastUpdated": 1774280738490
 }
