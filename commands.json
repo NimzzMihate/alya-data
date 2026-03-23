@@ -3683,7 +3683,7 @@
     "makan": 2,
     "repair": 1,
     "kapal": 5,
-    "craft": 75,
+    "craft": 76,
     "listheri": 1,
     "listhero": 5,
     "mancing": 1,
@@ -4081,7 +4081,7 @@
     "babi": 5,
     "dongo": 2,
     "rampok3": 2,
-    "cekbatang": 19,
+    "cekbatang": 20,
     "tahun": 1,
     "6289530116661": 1,
     "adoptpet": 14,
@@ -4179,5 +4179,5 @@
     "stamina": 1,
     "negararusia": 1
   },
-  "lastUpdated": 1774254519966
+  "lastUpdated": 1774254579967
 }
