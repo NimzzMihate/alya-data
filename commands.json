@@ -3711,12 +3711,12 @@
     "linkgc": 4,
     "cekpasangan": 14,
     "6281283401829": 1,
-    "tembak": 11,
+    "tembak": 12,
     "terima": 14,
     "cium": 26,
     "6281915895220": 1,
     "6281215537344": 3,
-    "rampok": 58,
+    "rampok": 61,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -3762,7 +3762,7 @@
     "verify": 11,
     "daftr": 7,
     "status": 7,
-    "pap": 77,
+    "pap": 80,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4277,7 +4277,8 @@
     "botakkan": 1,
     "pal": 1,
     ")": 1,
-    "pa": 1
+    "pa": 1,
+    "pqp": 1
   },
-  "lastUpdated": 1774282928346
+  "lastUpdated": 1774282988346
 }
