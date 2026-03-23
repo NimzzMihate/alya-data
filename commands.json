@@ -3650,7 +3650,7 @@
     "6281393286345": 28,
     ">": 4,
     "addapi": 2,
-    "pin": 71,
+    "pin": 73,
     "hd": 57,
     "useitem": 7,
     "77605898313906": 55,
@@ -3881,7 +3881,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 12,
-    "forward": 63,
+    "forward": 64,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -4107,9 +4107,9 @@
     "bego": 5,
     "haram": 1,
     "6282327857595": 2,
-    "roast": 28,
+    "roast": 29,
     "rampokin": 7,
-    "nikahpaksa": 23,
+    "nikahpaksa": 24,
     "tolak": 4,
     "batalnikah": 9,
     "ꮋꭿꮑꮏꮼ:yang": 1,
@@ -4203,7 +4203,7 @@
     "suka": 1,
     "monthly": 1,
     "yearly": 1,
-    "terimanikah": 4,
+    "terimanikah": 5,
     "6283133734215": 1,
     "ai2": 1,
     "ajg": 1,
@@ -4222,7 +4222,9 @@
     "topsaldo": 1,
     "bernuru": 1,
     "cekkesetiaan": 3,
-    "ceksetia": 1
+    "ceksetia": 1,
+    "tolaknikah": 1,
+    "6282146357295": 1
   },
-  "lastUpdated": 1774276517008
+  "lastUpdated": 1774276577004
 }
