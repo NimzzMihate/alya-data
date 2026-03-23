@@ -3706,7 +3706,7 @@
     "cium": 21,
     "6281915895220": 1,
     "6281215537344": 3,
-    "rampok": 41,
+    "rampok": 42,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -3873,7 +3873,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 10,
-    "forward": 43,
+    "forward": 44,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -4086,8 +4086,8 @@
     "6289530116661": 1,
     "adoptpet": 16,
     "petstat": 15,
-    "playpet": 23,
-    "feedpet": 33,
+    "playpet": 24,
+    "feedpet": 34,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4123,7 +4123,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 27,
+    "battlepet": 29,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4190,7 +4190,8 @@
     "join": 1,
     "monopoli": 3,
     "oom": 1,
-    "inventory": 1
+    "inventory": 1,
+    "like": 1
   },
-  "lastUpdated": 1774269502941
+  "lastUpdated": 1774269562938
 }
