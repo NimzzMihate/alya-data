@@ -3603,9 +3603,9 @@
     "playmoba": 38,
     "ngaji": 16,
     "ewe-paksa": 17,
-    "me": 110,
+    "me": 111,
     "setbg": 8,
-    "rampok2": 110,
+    "rampok2": 111,
     "6285609504925": 13,
     "atm": 28,
     "bank": 13,
@@ -3701,7 +3701,7 @@
     "linkgc": 4,
     "cekpasangan": 11,
     "6281283401829": 1,
-    "tembak": 2,
+    "tembak": 3,
     "terima": 3,
     "cium": 17,
     "6281915895220": 1,
@@ -4100,7 +4100,7 @@
     "haram": 1,
     "6282327857595": 2,
     "roast": 14,
-    "rampokin": 4,
+    "rampokin": 5,
     "nikahpaksa": 10,
     "tolak": 1,
     "batalnikah": 4,
@@ -4159,7 +4159,10 @@
     "jointpg": 1,
     "listpet": 1,
     "listbug": 1,
-    "listban": 1
+    "listban": 1,
+    "cekstatus": 1,
+    "cekprofil": 1,
+    "atmall": 2
   },
-  "lastUpdated": 1774236478623
+  "lastUpdated": 1774236538623
 }
