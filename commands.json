@@ -3829,7 +3829,7 @@
     "fitnah": 28,
     "puji": 13,
     "pacar": 2,
-    "carikarakter": 57,
+    "carikarakter": 58,
     "nembak": 32,
     "cry": 3,
     "happy": 1,
@@ -4070,7 +4070,7 @@
     "buatanak": 5,
     "istiku": 1,
     "cerai": 2,
-    "putus": 9,
+    "putus": 10,
     "crop": 7,
     "shopgift": 6,
     "give": 3,
@@ -4249,7 +4249,7 @@
     "tambahwaktu": 1,
     "menyerah": 1,
     "(": 1,
-    "buycincin": 1,
+    "buycincin": 2,
     "but": 1,
     "cekstatuspacar": 1,
     "tff": 1,
@@ -4264,5 +4264,5 @@
     "cara": 1,
     "meny": 1
   },
-  "lastUpdated": 1774281398495
+  "lastUpdated": 1774281458496
 }
