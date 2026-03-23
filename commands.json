@@ -3605,7 +3605,7 @@
     "ewe-paksa": 17,
     "me": 118,
     "setbg": 8,
-    "rampok2": 135,
+    "rampok2": 137,
     "6285609504925": 13,
     "atm": 31,
     "bank": 14,
@@ -3633,7 +3633,7 @@
     "menu": 21,
     "owner": 2,
     "script": 3,
-    "joinrpg": 10,
+    "joinrpg": 11,
     "mentahan": 1,
     "claim": 14,
     "cekidch": 2,
@@ -3670,7 +3670,7 @@
     "ewepaksa": 19,
     "topglobal": 5,
     "6285789692015": 1,
-    "buy": 118,
+    "buy": 121,
     "smeme": 17,
     "getno": 7,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3683,7 +3683,7 @@
     "makan": 2,
     "repair": 1,
     "kapal": 5,
-    "craft": 79,
+    "craft": 80,
     "listheri": 1,
     "listhero": 5,
     "mancing": 1,
@@ -3706,7 +3706,7 @@
     "cium": 17,
     "6281915895220": 1,
     "6281215537344": 3,
-    "rampok": 40,
+    "rampok": 41,
     "listapi": 3,
     "family100": 1,
     "tebakpokemon": 1,
@@ -3872,7 +3872,7 @@
     "getcase": 1,
     "/": 1,
     "cekcantik": 2,
-    "toplocal": 9,
+    "toplocal": 10,
     "forward": 42,
     "6283147484272": 6,
     "cekfemboty": 1,
@@ -4178,7 +4178,7 @@
     "openbo": 1,
     "stamina": 1,
     "negararusia": 1,
-    "exitrpg": 1
+    "exitrpg": 2
   },
-  "lastUpdated": 1774256200028
+  "lastUpdated": 1774256260139
 }
