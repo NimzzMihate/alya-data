@@ -4085,9 +4085,9 @@
     "tahun": 1,
     "6289530116661": 1,
     "adoptpet": 14,
-    "petstat": 11,
-    "playpet": 18,
-    "feedpet": 26,
+    "petstat": 12,
+    "playpet": 20,
+    "feedpet": 27,
     "namapet": 1,
     "namepet": 6,
     "statpet": 1,
@@ -4099,7 +4099,7 @@
     "bego": 5,
     "haram": 1,
     "6282327857595": 2,
-    "roast": 19,
+    "roast": 21,
     "rampokin": 7,
     "nikahpaksa": 14,
     "tolak": 3,
@@ -4179,5 +4179,5 @@
     "stamina": 1,
     "negararusia": 1
   },
-  "lastUpdated": 1774255539976
+  "lastUpdated": 1774255599978
 }
