@@ -3682,7 +3682,7 @@
     "rpgmenu": 3,
     "makan": 2,
     "repair": 1,
-    "kapal": 4,
+    "kapal": 5,
     "craft": 65,
     "listheri": 1,
     "listhero": 5,
@@ -4158,5 +4158,5 @@
     "kasih": 1,
     "jointpg": 1
   },
-  "lastUpdated": 1774232338800
+  "lastUpdated": 1774232398801
 }
