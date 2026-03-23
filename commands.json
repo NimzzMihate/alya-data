@@ -3598,7 +3598,7 @@
     "backup": 2,
     "get": 16,
     "tohtml": 8,
-    "ranked": 60,
+    "ranked": 61,
     "mobaprofile": 14,
     "playmoba": 38,
     "ngaji": 20,
@@ -3653,7 +3653,7 @@
     "6285189358241": 25,
     "huxinn😡😡": 1,
     "gift": 39,
-    "ajakmain": 15,
+    "ajakmain": 16,
     "daily": 9,
     "adventure": 6,
     "cf": 12,
@@ -3701,7 +3701,7 @@
     "linkgc": 4,
     "cekpasangan": 11,
     "6281283401829": 1,
-    "tembak": 4,
+    "tembak": 5,
     "terima": 9,
     "cium": 21,
     "6281915895220": 1,
@@ -4005,7 +4005,7 @@
     "cariin": 1,
     "harian": 1,
     "oke": 1,
-    "nikah": 14,
+    "nikah": 15,
     "stiker": 1,
     "6285766167323": 2,
     "delede": 1,
@@ -4060,7 +4060,7 @@
     "buatanak": 5,
     "istiku": 1,
     "cerai": 2,
-    "putus": 2,
+    "putus": 3,
     "crop": 7,
     "shopgift": 4,
     "give": 2,
@@ -4194,5 +4194,5 @@
     "like": 1,
     "suka": 1
   },
-  "lastUpdated": 1774269622944
+  "lastUpdated": 1774269682949
 }
