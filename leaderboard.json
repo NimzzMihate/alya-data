@@ -2,8 +2,8 @@
   "level": [
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
-      "level": 608,
-      "exp": 1461561,
+      "level": 609,
+      "exp": 1461623,
       "saldo": 1004
     },
     {
@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 225,
-      "exp": 542211,
-      "saldo": 8.012808800023528e+40
+      "exp": 542349,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -33,8 +33,8 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 180287,
-      "saldo": 2.400002134874413e+33
+      "exp": 180438,
+      "saldo": 2.016001793294507e+33
     },
     {
       "name": "Flonα Lyzellé ❀.",
@@ -123,12 +123,6 @@
   ],
   "saldo": [
     {
-      "name": "Pillaaaaa",
-      "level": 225,
-      "exp": 542211,
-      "saldo": 8.012808800023528e+40
-    },
-    {
       "name": "Naylaa",
       "level": 510,
       "exp": 307829,
@@ -137,8 +131,8 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 180287,
-      "saldo": 2.400002134874413e+33
+      "exp": 180438,
+      "saldo": 2.016001793294507e+33
     },
     {
       "name": "naa",
@@ -241,13 +235,19 @@
       "level": 12,
       "exp": 30632,
       "saldo": 1722760
+    },
+    {
+      "name": "Axel suka kyouka",
+      "level": 10,
+      "exp": 25864,
+      "saldo": 1355999
     }
   ],
   "exp": [
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
-      "level": 608,
-      "exp": 1461561,
+      "level": 609,
+      "exp": 1461623,
       "saldo": 1004
     },
     {
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 225,
-      "exp": 542211,
-      "saldo": 8.012808800023528e+40
+      "exp": 542349,
+      "saldo": 0
     },
     {
       "name": "Naylaa",
@@ -271,8 +271,8 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 180287,
-      "saldo": 2.400002134874413e+33
+      "exp": 180438,
+      "saldo": 2.016001793294507e+33
     },
     {
       "name": "Flonα Lyzellé ❀.",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774275647794
+  "lastUpdated": 1774275707812
 }
