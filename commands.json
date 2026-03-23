@@ -3645,7 +3645,7 @@
     "mentahan": 1,
     "claim": 16,
     "cekidch": 2,
-    "tourl": 10,
+    "tourl": 11,
     "title": 1,
     "6281393286345": 28,
     ">": 4,
@@ -3710,7 +3710,7 @@
     "cekpasangan": 14,
     "6281283401829": 1,
     "tembak": 10,
-    "terima": 12,
+    "terima": 13,
     "cium": 21,
     "6281915895220": 1,
     "6281215537344": 3,
@@ -4109,9 +4109,9 @@
     "6282327857595": 2,
     "roast": 28,
     "rampokin": 7,
-    "nikahpaksa": 20,
+    "nikahpaksa": 23,
     "tolak": 4,
-    "batalnikah": 8,
+    "batalnikah": 9,
     "ꮋꭿꮑꮏꮼ:yang": 1,
     "259468235436086": 2,
     "6281374721324": 4,
@@ -4203,7 +4203,7 @@
     "suka": 1,
     "monthly": 1,
     "yearly": 1,
-    "terimanikah": 2,
+    "terimanikah": 4,
     "6283133734215": 1,
     "ai2": 1,
     "ajg": 1,
@@ -4224,5 +4224,5 @@
     "cekkesetiaan": 3,
     "ceksetia": 1
   },
-  "lastUpdated": 1774276457001
+  "lastUpdated": 1774276517008
 }
