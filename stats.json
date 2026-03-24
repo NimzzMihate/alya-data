@@ -3,8 +3,8 @@
   "totalUsers": 1036,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 8014,
-  "totalChat": 8014,
+  "totalCmd": 8022,
+  "totalChat": 8022,
   "topCommands": [
     {
       "cmd": "forward",
@@ -15,12 +15,12 @@
       "count": 286
     },
     {
-      "cmd": "me",
-      "count": 262
+      "cmd": "pap",
+      "count": 266
     },
     {
-      "cmd": "pap",
-      "count": 261
+      "cmd": "me",
+      "count": 262
     },
     {
       "cmd": "rampok2",
@@ -32,7 +32,7 @@
     },
     {
       "cmd": "gift",
-      "count": 146
+      "count": 147
     },
     {
       "cmd": "craft",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 1021,
-  "lastUpdated": 1774365380373
+  "uptimeSeconds": 1081,
+  "lastUpdated": 1774365440375
 }
