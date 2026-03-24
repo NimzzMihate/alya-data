@@ -3970,7 +3970,7 @@
     "e2": 2,
     "6285180841166": 1,
     "limt": 1,
-    "limit": 12,
+    "limit": 13,
     "cihuy": 1,
     "afk\ntidur": 1,
     "mong": 1,
@@ -4471,7 +4471,7 @@
     "art": 1,
     "voicemenu": 1,
     "smooth": 5,
-    "fast": 10,
+    "fast": 12,
     "deep": 16,
     "isi": 1,
     "62881024436220": 2,
@@ -4500,5 +4500,5 @@
     "bulkinh": 1,
     "apsi": 1
   },
-  "lastUpdated": 1774367375851
+  "lastUpdated": 1774367435848
 }
