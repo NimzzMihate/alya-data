@@ -225,12 +225,6 @@
       "saldo": 81084237669526
     },
     {
-      "name": "Kayy",
-      "level": 7,
-      "exp": 17373,
-      "saldo": 100000000000
-    },
-    {
       "name": "vannzz",
       "level": 11,
       "exp": 27454,
@@ -241,6 +235,12 @@
       "level": 27,
       "exp": 66335,
       "saldo": 480606500
+    },
+    {
+      "name": "xeno la nigger",
+      "level": 4,
+      "exp": 10261,
+      "saldo": 104016372
     }
   ],
   "exp": [
@@ -365,5 +365,5 @@
       "saldo": 664
     }
   ],
-  "lastUpdated": 1774360418666
+  "lastUpdated": 1774360478667
 }
