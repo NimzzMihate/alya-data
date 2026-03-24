@@ -3693,7 +3693,7 @@
     "getno": 7,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
     "195520047915190": 1,
-    "setpp": 24,
+    "setpp": 26,
     "265944542793975": 1,
     "berburu": 14,
     "masak": 9,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 266,
+    "pap": 269,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3835,7 +3835,7 @@
     "d": 44,
     "pabrik": 1,
     "fitnah": 41,
-    "puji": 63,
+    "puji": 67,
     "pacar": 56,
     "carikarakter": 99,
     "nembak": 54,
@@ -4078,7 +4078,7 @@
     "buatanak": 8,
     "istiku": 1,
     "cerai": 5,
-    "putus": 27,
+    "putus": 28,
     "crop": 12,
     "shopgift": 28,
     "give": 3,
@@ -4476,7 +4476,8 @@
     "isi": 1,
     "62881024436220": 1,
     "dandelions": 1,
-    "slow": 1
+    "slow": 1,
+    "piji": 1
   },
-  "lastUpdated": 1774365440376
+  "lastUpdated": 1774365554228
 }
