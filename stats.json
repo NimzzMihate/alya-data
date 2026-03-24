@@ -3,8 +3,8 @@
   "totalUsers": 1032,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 6550,
-  "totalChat": 6550,
+  "totalCmd": 6561,
+  "totalChat": 6561,
   "topCommands": [
     {
       "cmd": "forward",
@@ -15,12 +15,12 @@
       "count": 223
     },
     {
-      "cmd": "rampok2",
+      "cmd": "me",
       "count": 205
     },
     {
-      "cmd": "me",
-      "count": 204
+      "cmd": "rampok2",
+      "count": 205
     },
     {
       "cmd": "afk",
@@ -36,7 +36,7 @@
     },
     {
       "cmd": "gift",
-      "count": 86
+      "count": 87
     },
     {
       "cmd": "pin",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 781,
-  "lastUpdated": 1774346242369
+  "uptimeSeconds": 841,
+  "lastUpdated": 1774346302368
 }
