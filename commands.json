@@ -3649,7 +3649,7 @@
     "heal": 37,
     "menu": 44,
     "owner": 5,
-    "script": 6,
+    "script": 7,
     "joinrpg": 20,
     "mentahan": 1,
     "claim": 21,
@@ -4059,7 +4059,7 @@
     "v": 1,
     "39076216463471": 1,
     "6289673557732": 1,
-    "tolol": 15,
+    "tolol": 16,
     "puki": 1,
     "goblok": 17,
     "suki": 1,
@@ -4400,7 +4400,9 @@
     "games": 1,
     "katasenja": 1,
     "quotesbucin": 1,
-    "doang'?": 1
+    "doang'?": 1,
+    "bodoh": 1,
+    "pintar": 1
   },
-  "lastUpdated": 1774350596857
+  "lastUpdated": 1774350656856
 }
