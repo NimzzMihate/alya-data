@@ -15,13 +15,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 302,
-      "exp": 725757,
+      "exp": 725810,
       "saldo": 620197648978201000000
     },
     {
       "name": "Pillaaaaa",
       "level": 237,
-      "exp": 570624,
+      "exp": 570662,
       "saldo": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 55,
-      "exp": 134135,
-      "saldo": 384085577042747
+      "exp": 134312,
+      "saldo": 384085577210447
     },
     {
       "name": "Zxiox",
@@ -93,7 +93,7 @@
     {
       "name": "axell",
       "level": 11,
-      "exp": 27112,
+      "exp": 27261,
       "saldo": 1362999
     },
     {
@@ -141,9 +141,9 @@
       "saldo": 1.000000001e+28
     },
     {
-      "name": "vanzzz",
+      "name": "haimiya",
       "level": 4,
-      "exp": 11637,
+      "exp": 11756,
       "saldo": 1e+25
     },
     {
@@ -155,7 +155,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 302,
-      "exp": 725757,
+      "exp": 725810,
       "saldo": 620197648978201000000
     },
     {
@@ -179,8 +179,8 @@
     {
       "name": "apip",
       "level": 55,
-      "exp": 134135,
-      "saldo": 384085577042747
+      "exp": 134312,
+      "saldo": 384085577210447
     },
     {
       "name": "danz",
@@ -225,12 +225,6 @@
       "saldo": 104016372
     },
     {
-      "name": "kenntod",
-      "level": 7,
-      "exp": 17530,
-      "saldo": 70005001
-    },
-    {
       "name": "radit",
       "level": 0,
       "exp": 922,
@@ -241,6 +235,12 @@
       "level": 1,
       "exp": 2515,
       "saldo": 9522885
+    },
+    {
+      "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
+      "level": 618,
+      "exp": 1483409,
+      "saldo": 2043545
     }
   ],
   "exp": [
@@ -253,13 +253,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 302,
-      "exp": 725757,
+      "exp": 725810,
       "saldo": 620197648978201000000
     },
     {
       "name": "Pillaaaaa",
       "level": 237,
-      "exp": 570624,
+      "exp": 570662,
       "saldo": 0
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 55,
-      "exp": 134135,
-      "saldo": 384085577042747
+      "exp": 134312,
+      "saldo": 384085577210447
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -337,7 +337,7 @@
     {
       "name": "axell",
       "level": 11,
-      "exp": 27112,
+      "exp": 27261,
       "saldo": 1362999
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774346182362
+  "lastUpdated": 1774346242370
 }
