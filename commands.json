@@ -3650,7 +3650,7 @@
     "menu": 43,
     "owner": 5,
     "script": 6,
-    "joinrpg": 19,
+    "joinrpg": 20,
     "mentahan": 1,
     "claim": 21,
     "cekidch": 2,
@@ -3745,7 +3745,7 @@
     "228673269583986": 1,
     "6281539969085": 9,
     "all": 15,
-    "tt": 28,
+    "tt": 29,
     "kickall": 7,
     "78817548841029": 2,
     "104797353033809": 3,
@@ -4204,7 +4204,7 @@
     "startinpostor": 1,
     "startimpostor": 2,
     "vote": 1,
-    "join": 1,
+    "join": 2,
     "monopoli": 3,
     "oom": 1,
     "inventory": 1,
@@ -4362,7 +4362,7 @@
     "carabuylimit": 1,
     "nulis": 2,
     "listrank": 1,
-    "68458205204495": 1,
+    "68458205204495": 2,
     "invpd": 1,
     "628895327267": 3,
     "ceklimit": 2,
@@ -4384,5 +4384,5 @@
     "ownermenu": 1,
     "self": 1
   },
-  "lastUpdated": 1774348080617
+  "lastUpdated": 1774348140621
 }
