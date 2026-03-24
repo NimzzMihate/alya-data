@@ -3,8 +3,8 @@
   "totalUsers": 1035,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 7081,
-  "totalChat": 7081,
+  "totalCmd": 7088,
+  "totalChat": 7088,
   "topCommands": [
     {
       "cmd": "forward",
@@ -36,7 +36,7 @@
     },
     {
       "cmd": "gift",
-      "count": 98
+      "count": 100
     },
     {
       "cmd": "carikarakter",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 361,
-  "lastUpdated": 1774354134244
+  "uptimeSeconds": 421,
+  "lastUpdated": 1774354194244
 }
