@@ -3622,7 +3622,7 @@
     "ewe-paksa": 30,
     "me": 177,
     "setbg": 8,
-    "rampok2": 198,
+    "rampok2": 199,
     "6285609504925": 13,
     "atm": 58,
     "bank": 28,
@@ -3679,7 +3679,7 @@
     "removebg": 36,
     "addown": 7,
     "listowner": 7,
-    "brat": 20,
+    "brat": 23,
     "brathd": 1,
     "editfoto": 47,
     "dailymisi": 32,
@@ -4352,5 +4352,5 @@
     "ai": 1,
     "infobot": 1
   },
-  "lastUpdated": 1774341046861
+  "lastUpdated": 1774341106855
 }
