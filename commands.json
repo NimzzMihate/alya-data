@@ -3813,7 +3813,7 @@
     "ttf": 12,
     "cekfemboy": 54,
     "restart": 3,
-    "kontol": 3,
+    "kontol": 4,
     "93283032285420": 6,
     "188571210244160": 3,
     "222531466350642": 1,
@@ -4438,7 +4438,8 @@
     "cekdroplet": 1,
     "detailkarakter": 1,
     "gcsider": 1,
-    "quoted": 15
+    "quoted": 15,
+    "pentol": 1
   },
-  "lastUpdated": 1774357713097
+  "lastUpdated": 1774357773102
 }
