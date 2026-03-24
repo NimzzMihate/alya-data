@@ -3769,7 +3769,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 148,
+    "pap": 150,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3790,7 +3790,7 @@
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
-    "kencan": 38,
+    "kencan": 39,
     "kasihsusu": 14,
     "wm": 22,
     "absen": 3,
@@ -3834,7 +3834,7 @@
     "d": 44,
     "pabrik": 1,
     "fitnah": 41,
-    "puji": 37,
+    "puji": 38,
     "pacar": 18,
     "carikarakter": 92,
     "nembak": 49,
@@ -4402,5 +4402,5 @@
     "quotesbucin": 1,
     "doang'?": 1
   },
-  "lastUpdated": 1774350236855
+  "lastUpdated": 1774350296855
 }
