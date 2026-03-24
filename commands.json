@@ -3648,7 +3648,7 @@
     "wikwik": 9,
     "heal": 28,
     "menu": 34,
-    "owner": 3,
+    "owner": 5,
     "script": 5,
     "joinrpg": 18,
     "mentahan": 1,
@@ -3711,7 +3711,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 64,
+    "cekprofile": 65,
     "tes": 81,
     "listown": 9,
     "getpp": 3,
@@ -4352,7 +4352,8 @@
     "ai": 1,
     "infobot": 1,
     "feedper": 1,
-    "kasohsusu": 1
+    "kasohsusu": 1,
+    "readmore": 1
   },
-  "lastUpdated": 1774344438126
+  "lastUpdated": 1774344498121
 }
