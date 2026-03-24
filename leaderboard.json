@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 239,
-      "exp": 574758,
-      "saldo": 5.550812809428424e+43
+      "exp": 574959,
+      "saldo": 1.5508128094284243e+43
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -111,8 +111,8 @@
     {
       "name": "vannzz",
       "level": 9,
-      "exp": 23004,
-      "saldo": 2014099999
+      "exp": 23160,
+      "saldo": 2013599999
     },
     {
       "name": "renita",
@@ -125,8 +125,8 @@
     {
       "name": "Pillaaaaa",
       "level": 239,
-      "exp": 574758,
-      "saldo": 5.550812809428424e+43
+      "exp": 574959,
+      "saldo": 1.5508128094284243e+43
     },
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
@@ -219,16 +219,10 @@
       "saldo": 81084237669526
     },
     {
-      "name": "Kayy",
-      "level": 5,
-      "exp": 13180,
-      "saldo": 9997942636
-    },
-    {
       "name": "vannzz",
       "level": 9,
-      "exp": 23004,
-      "saldo": 2014099999
+      "exp": 23160,
+      "saldo": 2013599999
     },
     {
       "name": "Souta",
@@ -241,6 +235,12 @@
       "level": 4,
       "exp": 10261,
       "saldo": 104016372
+    },
+    {
+      "name": "radit",
+      "level": 0,
+      "exp": 1021,
+      "saldo": 10045000
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 239,
-      "exp": 574758,
-      "saldo": 5.550812809428424e+43
+      "exp": 574959,
+      "saldo": 1.5508128094284243e+43
     },
     {
       "name": "Naylaa",
@@ -355,8 +355,8 @@
     {
       "name": "vannzz",
       "level": 9,
-      "exp": 23004,
-      "saldo": 2014099999
+      "exp": 23160,
+      "saldo": 2013599999
     },
     {
       "name": "renita",
@@ -365,5 +365,5 @@
       "saldo": 1000479451246953000
     }
   ],
-  "lastUpdated": 1774355879564
+  "lastUpdated": 1774355939555
 }
