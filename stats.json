@@ -3,12 +3,12 @@
   "totalUsers": 1031,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 5948,
-  "totalChat": 5948,
+  "totalCmd": 5957,
+  "totalChat": 5957,
   "topCommands": [
     {
       "cmd": "buy",
-      "count": 206
+      "count": 207
     },
     {
       "cmd": "rampok2",
@@ -24,7 +24,7 @@
     },
     {
       "cmd": "pap",
-      "count": 126
+      "count": 127
     },
     {
       "cmd": "craft",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 661,
-  "lastUpdated": 1774338406781
+  "uptimeSeconds": 721,
+  "lastUpdated": 1774338466784
 }
