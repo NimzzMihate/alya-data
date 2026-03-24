@@ -3645,8 +3645,8 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 17,
-    "heal": 28,
+    "wikwik": 20,
+    "heal": 29,
     "menu": 39,
     "owner": 5,
     "script": 5,
@@ -4381,5 +4381,5 @@
     "hdvideo": 3,
     "getlinkgc": 1
   },
-  "lastUpdated": 1774347720615
+  "lastUpdated": 1774347780615
 }
