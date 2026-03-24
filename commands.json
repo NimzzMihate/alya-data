@@ -3660,7 +3660,7 @@
     "6281393286345": 35,
     ">": 4,
     "addapi": 2,
-    "pin": 90,
+    "pin": 91,
     "hd": 72,
     "useitem": 7,
     "77605898313906": 63,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 238,
+    "pap": 244,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3805,7 +3805,7 @@
     "255336476880929": 10,
     "lebaran": 3,
     "80290588442827": 55,
-    "hdvid": 3,
+    "hdvid": 4,
     "kalo": 1,
     "antivirtex": 2,
     "bugwangcap": 1,
@@ -3837,8 +3837,8 @@
     "fitnah": 41,
     "puji": 61,
     "pacar": 51,
-    "carikarakter": 94,
-    "nembak": 49,
+    "carikarakter": 95,
+    "nembak": 51,
     "cry": 4,
     "happy": 3,
     "sad": 1,
@@ -4468,5 +4468,5 @@
     "si'": 1,
     "judi": 1
   },
-  "lastUpdated": 1774364203560
+  "lastUpdated": 1774364263596
 }
