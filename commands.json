@@ -3670,8 +3670,8 @@
     "271481040834666": 10,
     "6285189358241": 29,
     "huxinn😡😡": 1,
-    "gift": 145,
-    "ajakmain": 33,
+    "gift": 146,
+    "ajakmain": 34,
     "daily": 10,
     "adventure": 15,
     "cf": 16,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 254,
+    "pap": 255,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3835,7 +3835,7 @@
     "d": 44,
     "pabrik": 1,
     "fitnah": 41,
-    "puji": 62,
+    "puji": 63,
     "pacar": 55,
     "carikarakter": 99,
     "nembak": 54,
@@ -4470,12 +4470,13 @@
     "toolsmenu": 1,
     "art": 1,
     "voicemenu": 1,
-    "smooth": 2,
-    "fast": 3,
+    "smooth": 3,
+    "fast": 4,
     "deep": 10,
     "isi": 1,
     "62881024436220": 1,
-    "dandelions": 1
+    "dandelions": 1,
+    "slow": 1
   },
-  "lastUpdated": 1774365080373
+  "lastUpdated": 1774365140377
 }
