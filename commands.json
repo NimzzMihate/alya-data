@@ -3779,7 +3779,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 60,
+    "saldo": 61,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3921,7 +3921,7 @@
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
-    "dagang": 7,
+    "dagang": 8,
     "gccanvas": 2,
     "totalchat": 1,
     "145161355005957": 6,
@@ -3975,7 +3975,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 81,
+    "tf": 82,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4449,5 +4449,5 @@
     "rampo²": 1,
     "enana": 1
   },
-  "lastUpdated": 1774360358671
+  "lastUpdated": 1774360418666
 }
