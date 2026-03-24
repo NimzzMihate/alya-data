@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 240,
-      "exp": 577666,
+      "exp": 577751,
       "saldo": 1.5508128094284243e+43
     },
     {
@@ -93,8 +93,8 @@
     {
       "name": "vannzz",
       "level": 11,
-      "exp": 28231,
-      "saldo": 2095078120
+      "exp": 28366,
+      "saldo": 2095083484
     },
     {
       "name": "axell",
@@ -125,7 +125,7 @@
     {
       "name": "Pillaaaaa",
       "level": 240,
-      "exp": 577666,
+      "exp": 577751,
       "saldo": 1.5508128094284243e+43
     },
     {
@@ -227,8 +227,8 @@
     {
       "name": "vannzz",
       "level": 11,
-      "exp": 28231,
-      "saldo": 2095078120
+      "exp": 28366,
+      "saldo": 2095083484
     },
     {
       "name": "Souta",
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 240,
-      "exp": 577666,
+      "exp": 577751,
       "saldo": 1.5508128094284243e+43
     },
     {
@@ -337,8 +337,8 @@
     {
       "name": "vannzz",
       "level": 11,
-      "exp": 28231,
-      "saldo": 2095078120
+      "exp": 28366,
+      "saldo": 2095083484
     },
     {
       "name": "axell",
@@ -365,5 +365,5 @@
       "saldo": 664
     }
   ],
-  "lastUpdated": 1774362338687
+  "lastUpdated": 1774362414480
 }
