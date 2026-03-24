@@ -3769,7 +3769,7 @@
     "verify": 14,
     "daftr": 7,
     "status": 7,
-    "pap": 139,
+    "pap": 140,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3860,7 +3860,7 @@
     "playch": 25,
     "cekganteng": 20,
     "crkganteng": 1,
-    "puqi": 30,
+    "puqi": 32,
     "anj": 25,
     "anjing": 22,
     "winkhd": 1,
@@ -4059,9 +4059,9 @@
     "v": 1,
     "39076216463471": 1,
     "6289673557732": 1,
-    "tolol": 14,
+    "tolol": 15,
     "puki": 1,
-    "goblok": 16,
+    "goblok": 17,
     "suki": 1,
     "kanjut": 1,
     "ubah": 2,
@@ -4096,7 +4096,7 @@
     "giftshop": 1,
     "kasihnamaanak": 1,
     "babi": 5,
-    "dongo": 2,
+    "dongo": 4,
     "rampok3": 4,
     "cekbatang": 28,
     "tahun": 3,
@@ -4353,5 +4353,5 @@
     "infobot": 1,
     "feedper": 1
   },
-  "lastUpdated": 1774342839683
+  "lastUpdated": 1774342899678
 }
