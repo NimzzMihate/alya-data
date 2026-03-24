@@ -3622,7 +3622,7 @@
     "ewe-paksa": 30,
     "me": 217,
     "setbg": 8,
-    "rampok2": 218,
+    "rampok2": 220,
     "6285609504925": 13,
     "atm": 62,
     "bank": 34,
@@ -3711,7 +3711,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 69,
+    "cekprofile": 70,
     "tes": 84,
     "listown": 9,
     "getpp": 3,
@@ -3755,7 +3755,7 @@
     "ytmp3": 48,
     "152609298108555": 22,
     "35588770111681": 1,
-    "intro": 22,
+    "intro": 23,
     "up": 1,
     "40210104643627": 1,
     "..": 1,
@@ -3974,7 +3974,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 60,
+    "tf": 62,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4410,7 +4410,8 @@
     "pulsa-tsel": 1,
     "savanah": 1,
     "jnban": 1,
-    "unban": 1
+    "unban": 1,
+    "uncap": 1
   },
-  "lastUpdated": 1774352458061
+  "lastUpdated": 1774352518075
 }
