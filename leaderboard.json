@@ -97,6 +97,12 @@
       "saldo": 1722760
     },
     {
+      "name": "kenntod",
+      "level": 11,
+      "exp": 27728,
+      "saldo": 0
+    },
+    {
       "name": "axell",
       "level": 11,
       "exp": 27480,
@@ -105,20 +111,14 @@
     {
       "name": "Zaki",
       "level": 11,
-      "exp": 27093,
-      "saldo": 8467
+      "exp": 27175,
+      "saldo": 700
     },
     {
       "name": "Tya",
       "level": 10,
       "exp": 24352,
       "saldo": 139052
-    },
-    {
-      "name": "kenntod",
-      "level": 9,
-      "exp": 27599,
-      "saldo": 14573
     }
   ],
   "saldo": [
@@ -342,9 +342,9 @@
     },
     {
       "name": "kenntod",
-      "level": 9,
-      "exp": 27599,
-      "saldo": 14573
+      "level": 11,
+      "exp": 27728,
+      "saldo": 0
     },
     {
       "name": "axell",
@@ -355,8 +355,8 @@
     {
       "name": "Zaki",
       "level": 11,
-      "exp": 27093,
-      "saldo": 8467
+      "exp": 27175,
+      "saldo": 700
     },
     {
       "name": "Tya",
@@ -365,5 +365,5 @@
       "saldo": 139052
     }
   ],
-  "lastUpdated": 1774364083527
+  "lastUpdated": 1774364143533
 }
