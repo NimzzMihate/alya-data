@@ -3626,7 +3626,7 @@
     "6285609504925": 13,
     "atm": 63,
     "bank": 35,
-    "afk": 167,
+    "afk": 168,
     "kerja": 26,
     "628176533297": 14,
     "s": 72,
@@ -3679,7 +3679,7 @@
     "removebg": 36,
     "addown": 7,
     "listowner": 8,
-    "brat": 24,
+    "brat": 25,
     "brathd": 1,
     "editfoto": 48,
     "dailymisi": 32,
@@ -4105,7 +4105,7 @@
     "petstat": 19,
     "playpet": 39,
     "feedpet": 59,
-    "namapet": 1,
+    "namapet": 3,
     "namepet": 7,
     "statpet": 1,
     "makannin": 1,
@@ -4417,5 +4417,5 @@
     "pet": 1,
     "cewe": 1
   },
-  "lastUpdated": 1774353166805
+  "lastUpdated": 1774353226806
 }
