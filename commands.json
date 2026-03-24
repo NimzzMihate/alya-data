@@ -3627,7 +3627,7 @@
     "atm": 62,
     "bank": 34,
     "afk": 167,
-    "kerja": 23,
+    "kerja": 25,
     "628176533297": 14,
     "s": 70,
     "jwkwnwkabs": 1,
@@ -3687,7 +3687,7 @@
     "ewepaksa": 35,
     "topglobal": 11,
     "6285789692015": 1,
-    "buy": 241,
+    "buy": 243,
     "smeme": 18,
     "getno": 7,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3842,7 +3842,7 @@
     "happy": 2,
     "sad": 1,
     "bully": 1,
-    "atmpull": 37,
+    "atmpull": 38,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4179,7 +4179,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 6,
-    "atmall": 25,
+    "atmall": 26,
     "inv": 13,
     "healfull": 3,
     "mute": 1,
@@ -4391,7 +4391,8 @@
     "polisi": 1,
     "job": 2,
     "minum": 1,
-    "atmpullall": 1
+    "atmpullall": 1,
+    "worker": 1
   },
-  "lastUpdated": 1774349575976
+  "lastUpdated": 1774349696844
 }
