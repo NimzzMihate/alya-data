@@ -3621,7 +3621,7 @@
     "playmoba": 38,
     "ngaji": 21,
     "ewe-paksa": 31,
-    "me": 257,
+    "me": 258,
     "setbg": 10,
     "rampok2": 239,
     "6285609504925": 13,
@@ -3721,7 +3721,7 @@
     "6281283401829": 1,
     "tembak": 19,
     "terima": 15,
-    "cium": 44,
+    "cium": 46,
     "6281915895220": 1,
     "6281215537344": 3,
     "rampok": 82,
@@ -3836,7 +3836,7 @@
     "pabrik": 1,
     "fitnah": 41,
     "puji": 49,
-    "pacar": 36,
+    "pacar": 37,
     "carikarakter": 92,
     "nembak": 49,
     "cry": 4,
@@ -4075,7 +4075,7 @@
     "statusistri": 4,
     "bratvid": 1,
     "karakter": 1,
-    "buatanak": 7,
+    "buatanak": 8,
     "istiku": 1,
     "cerai": 5,
     "putus": 26,
@@ -4453,8 +4453,8 @@
     "iya": 1,
     "abu": 1,
     "dajjal": 1,
-    "dakjal": 1,
+    "dakjal": 2,
     "goft": 1
   },
-  "lastUpdated": 1774362218681
+  "lastUpdated": 1774362278689
 }
