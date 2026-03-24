@@ -3647,7 +3647,7 @@
     "61405583679507": 1,
     "wikwik": 21,
     "heal": 37,
-    "menu": 47,
+    "menu": 48,
     "owner": 5,
     "script": 7,
     "joinrpg": 20,
@@ -3778,7 +3778,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 46,
+    "saldo": 48,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3790,7 +3790,7 @@
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
-    "kencan": 40,
+    "kencan": 41,
     "kasihsusu": 14,
     "wm": 22,
     "absen": 3,
@@ -3932,7 +3932,7 @@
     "6281393699096": 2,
     "tests": 2,
     "groupinfo": 3,
-    "cap": 15,
+    "cap": 16,
     "s.whatsapp.net": 1,
     "ttaudio": 7,
     "6282151553767": 2,
@@ -4365,7 +4365,7 @@
     "68458205204495": 3,
     "invpd": 1,
     "628895327267": 3,
-    "ceklimit": 2,
+    "ceklimit": 3,
     "ceksaldo": 1,
     "selectskill": 1,
     "ternak": 1,
@@ -4413,5 +4413,5 @@
     "unban": 1,
     "uncap": 2
   },
-  "lastUpdated": 1774352578074
+  "lastUpdated": 1774352638075
 }
