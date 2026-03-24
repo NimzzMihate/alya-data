@@ -3622,7 +3622,7 @@
     "ewe-paksa": 30,
     "me": 239,
     "setbg": 9,
-    "rampok2": 223,
+    "rampok2": 224,
     "6285609504925": 13,
     "atm": 63,
     "bank": 35,
@@ -3711,7 +3711,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 70,
+    "cekprofile": 71,
     "tes": 85,
     "listown": 9,
     "getpp": 3,
@@ -3737,7 +3737,7 @@
     "202766010036371": 7,
     "89374091944116": 43,
     "80548286464072": 7,
-    "250693499797710": 21,
+    "250693499797710": 22,
     "??": 5,
     "izinnnnn": 1,
     "fathir": 1,
@@ -4005,7 +4005,7 @@
     "tiktok": 12,
     "tiktokmp3": 1,
     "139685271736427": 1,
-    "setprofil": 9,
+    "setprofil": 11,
     "cm": 1,
     "warn": 2,
     "tagme": 4,
@@ -4421,7 +4421,8 @@
     "cekskill": 1,
     "scale": 1,
     "smile": 1,
-    "rasio": 1
+    "rasio": 1,
+    "ewe": 1
   },
-  "lastUpdated": 1774354734250
+  "lastUpdated": 1774354814387
 }
