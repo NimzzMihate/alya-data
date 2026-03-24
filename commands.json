@@ -3656,7 +3656,7 @@
     "6281393286345": 29,
     ">": 4,
     "addapi": 2,
-    "pin": 79,
+    "pin": 80,
     "hd": 63,
     "useitem": 7,
     "77605898313906": 59,
@@ -3694,7 +3694,7 @@
     "berburu": 14,
     "masak": 8,
     "rpgmenu": 7,
-    "makan": 3,
+    "makan": 4,
     "repair": 1,
     "kapal": 5,
     "craft": 113,
@@ -3875,7 +3875,7 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 56,
-    "kasihmakan": 8,
+    "kasihmakan": 9,
     "kasihminum": 7,
     "naena": 2,
     "noenc": 1,
@@ -4073,7 +4073,7 @@
     "karakter": 1,
     "buatanak": 5,
     "istiku": 1,
-    "cerai": 2,
+    "cerai": 3,
     "putus": 11,
     "crop": 9,
     "shopgift": 8,
@@ -4323,5 +4323,5 @@
     "nahida": 8,
     "pasanganmenu": 1
   },
-  "lastUpdated": 1774328256625
+  "lastUpdated": 1774328316628
 }
