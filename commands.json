@@ -3640,9 +3640,9 @@
     "61405583679507": 1,
     "wikwik": 9,
     "heal": 28,
-    "menu": 26,
+    "menu": 28,
     "owner": 2,
-    "script": 4,
+    "script": 5,
     "joinrpg": 18,
     "mentahan": 1,
     "claim": 17,
@@ -4096,7 +4096,7 @@
     "6289530116661": 1,
     "adoptpet": 16,
     "petstat": 19,
-    "playpet": 35,
+    "playpet": 36,
     "feedpet": 52,
     "namapet": 1,
     "namepet": 7,
@@ -4133,7 +4133,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 50,
+    "battlepet": 51,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4153,7 +4153,7 @@
     "gay": 8,
     "ayonontonjojobiarsigma": 1,
     "6282340184735": 2,
-    "213675277316327": 1,
+    "213675277316327": 2,
     "628818366526": 3,
     "rampoki": 1,
     "6287870709356": 2,
@@ -4311,5 +4311,5 @@
     "pinh": 1,
     "39397852504138": 1
   },
-  "lastUpdated": 1774325034870
+  "lastUpdated": 1774325094874
 }
