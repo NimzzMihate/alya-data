@@ -3,8 +3,8 @@
   "totalUsers": 1032,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 6496,
-  "totalChat": 6496,
+  "totalCmd": 6505,
+  "totalChat": 6505,
   "topCommands": [
     {
       "cmd": "forward",
@@ -20,7 +20,7 @@
     },
     {
       "cmd": "me",
-      "count": 201
+      "count": 202
     },
     {
       "cmd": "afk",
@@ -44,11 +44,11 @@
     },
     {
       "cmd": "carikarakter",
-      "count": 79
+      "count": 80
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 541,
-  "lastUpdated": 1774346002326
+  "uptimeSeconds": 601,
+  "lastUpdated": 1774346062326
 }
