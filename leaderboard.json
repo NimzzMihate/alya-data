@@ -219,12 +219,6 @@
       "saldo": 104016372
     },
     {
-      "name": "kenntod",
-      "level": 8,
-      "exp": 19408,
-      "saldo": 100017902
-    },
-    {
       "name": "radit",
       "level": 0,
       "exp": 922,
@@ -241,6 +235,12 @@
       "level": 619,
       "exp": 1485881,
       "saldo": 2050545
+    },
+    {
+      "name": "Yogie ganteng",
+      "level": 12,
+      "exp": 30689,
+      "saldo": 1722760
     }
   ],
   "exp": [
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774349575976
+  "lastUpdated": 1774349696844
 }
