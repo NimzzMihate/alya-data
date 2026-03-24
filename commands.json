@@ -3171,6 +3171,10 @@
     "skortotak",
     "todakskor",
     "leaderboardtodak",
+    "tts2",
+    "nahida",
+    "ntts",
+    "voice",
     "tests",
     "embut",
     "wkwk",
@@ -4315,7 +4319,8 @@
     "toaudio": 1,
     "speed": 1,
     "bass": 1,
-    "earrape": 1
+    "earrape": 1,
+    "nahida": 2
   },
-  "lastUpdated": 1774327896620
+  "lastUpdated": 1774327956620
 }
