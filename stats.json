@@ -3,8 +3,8 @@
   "totalUsers": 1028,
   "totalGroups": 37,
   "totalFeatures": 3600,
-  "totalCmd": 5327,
-  "totalChat": 5327,
+  "totalCmd": 5336,
+  "totalChat": 5336,
   "topCommands": [
     {
       "cmd": "rampok2",
@@ -39,16 +39,16 @@
       "count": 76
     },
     {
-      "cmd": "carikarakter",
-      "count": 74
+      "cmd": "forward",
+      "count": 76
     },
     {
-      "cmd": "forward",
-      "count": 73
+      "cmd": "carikarakter",
+      "count": 74
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 121,
-  "lastUpdated": 1774320292036
+  "uptimeSeconds": 181,
+  "lastUpdated": 1774320352037
 }
