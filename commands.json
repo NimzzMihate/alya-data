@@ -3659,7 +3659,7 @@
     "pin": 79,
     "hd": 63,
     "useitem": 7,
-    "77605898313906": 58,
+    "77605898313906": 59,
     "huxin": 1,
     "usaha": 18,
     "memancing": 6,
@@ -4320,7 +4320,8 @@
     "speed": 1,
     "bass": 1,
     "earrape": 1,
-    "nahida": 7
+    "nahida": 8,
+    "pasanganmenu": 1
   },
-  "lastUpdated": 1774328136619
+  "lastUpdated": 1774328196622
 }
