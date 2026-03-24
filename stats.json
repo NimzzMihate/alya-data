@@ -3,8 +3,8 @@
   "totalUsers": 1031,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 5853,
-  "totalChat": 5853,
+  "totalCmd": 5862,
+  "totalChat": 5862,
   "topCommands": [
     {
       "cmd": "rampok2",
@@ -24,7 +24,7 @@
     },
     {
       "cmd": "pap",
-      "count": 114
+      "count": 118
     },
     {
       "cmd": "craft",
@@ -44,11 +44,11 @@
     },
     {
       "cmd": "carikarakter",
-      "count": 77
+      "count": 78
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 5701,
-  "lastUpdated": 1774337666448
+  "uptimeSeconds": 5761,
+  "lastUpdated": 1774337726453
 }
