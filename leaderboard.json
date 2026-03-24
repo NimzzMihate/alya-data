@@ -33,7 +33,7 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 181792,
+      "exp": 181856,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 181792,
+      "exp": 181856,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 181792,
+      "exp": 181856,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 664
     }
   ],
-  "lastUpdated": 1774362038685
+  "lastUpdated": 1774362098675
 }
