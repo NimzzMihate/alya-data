@@ -3651,7 +3651,7 @@
     "menu": 57,
     "owner": 6,
     "script": 7,
-    "joinrpg": 23,
+    "joinrpg": 24,
     "mentahan": 1,
     "claim": 21,
     "cekidch": 2,
@@ -3685,7 +3685,7 @@
     "editfoto": 57,
     "dailymisi": 32,
     "open-bo": 30,
-    "ewepaksa": 44,
+    "ewepaksa": 45,
     "topglobal": 13,
     "6285789692015": 1,
     "buy": 286,
@@ -4503,5 +4503,5 @@
     "pdf": 1,
     "6283133793517": 1
   },
-  "lastUpdated": 1774371344836
+  "lastUpdated": 1774371404836
 }
