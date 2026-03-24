@@ -3613,7 +3613,7 @@
     "225": 1,
     "2694099605": 6,
     "backup": 2,
-    "get": 20,
+    "get": 22,
     "tohtml": 8,
     "ranked": 64,
     "mobaprofile": 14,
@@ -4350,5 +4350,5 @@
     "buysaldo": 2,
     "tarik": 1
   },
-  "lastUpdated": 1774339846851
+  "lastUpdated": 1774339906855
 }
