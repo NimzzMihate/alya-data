@@ -3704,7 +3704,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 51,
+    "cekprofile": 52,
     "tes": 76,
     "listown": 9,
     "getpp": 3,
@@ -4097,7 +4097,7 @@
     "adoptpet": 16,
     "petstat": 18,
     "playpet": 31,
-    "feedpet": 47,
+    "feedpet": 48,
     "namapet": 1,
     "namepet": 7,
     "statpet": 1,
@@ -4133,7 +4133,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 43,
+    "battlepet": 45,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4293,5 +4293,5 @@
     ".e": 1,
     "kokop": 1
   },
-  "lastUpdated": 1774319670462
+  "lastUpdated": 1774319730454
 }
