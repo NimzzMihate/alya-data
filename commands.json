@@ -3769,7 +3769,7 @@
     "verify": 14,
     "daftr": 7,
     "status": 7,
-    "pap": 131,
+    "pap": 132,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3834,7 +3834,7 @@
     "d": 44,
     "pabrik": 1,
     "fitnah": 32,
-    "puji": 27,
+    "puji": 28,
     "pacar": 5,
     "carikarakter": 79,
     "nembak": 45,
@@ -4350,5 +4350,5 @@
     "buysaldo": 2,
     "tarik": 1
   },
-  "lastUpdated": 1774339426848
+  "lastUpdated": 1774339486851
 }
