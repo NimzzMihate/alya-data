@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 252,
+    "pap": 253,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3838,7 +3838,7 @@
     "puji": 62,
     "pacar": 54,
     "carikarakter": 99,
-    "nembak": 52,
+    "nembak": 54,
     "cry": 4,
     "happy": 3,
     "sad": 1,
@@ -3995,7 +3995,7 @@
     "tee": 1,
     "6283182874975": 12,
     "6285883750934": 1,
-    "6287883938757": 20,
+    "6287883938757": 21,
     "ttslide": 1,
     "hilangkan": 1,
     "236606158053483": 1,
@@ -4471,7 +4471,8 @@
     "art": 1,
     "voicemenu": 1,
     "smooth": 2,
-    "fast": 1
+    "fast": 1,
+    "deep": 1
   },
-  "lastUpdated": 1774364540353
+  "lastUpdated": 1774364600365
 }
