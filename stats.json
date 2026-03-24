@@ -3,8 +3,8 @@
   "totalUsers": 1032,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 6519,
-  "totalChat": 6519,
+  "totalCmd": 6538,
+  "totalChat": 6538,
   "topCommands": [
     {
       "cmd": "forward",
@@ -20,7 +20,7 @@
     },
     {
       "cmd": "me",
-      "count": 202
+      "count": 203
     },
     {
       "cmd": "afk",
@@ -35,20 +35,20 @@
       "count": 114
     },
     {
-      "cmd": "tes",
+      "cmd": "pin",
       "count": 83
     },
     {
-      "cmd": "pin",
-      "count": 82
+      "cmd": "gift",
+      "count": 83
     },
     {
-      "cmd": "carikarakter",
-      "count": 80
+      "cmd": "tes",
+      "count": 83
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 661,
-  "lastUpdated": 1774346122327
+  "uptimeSeconds": 721,
+  "lastUpdated": 1774346182361
 }
