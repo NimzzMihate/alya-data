@@ -3716,7 +3716,7 @@
     "listown": 9,
     "getpp": 3,
     "linkgc": 4,
-    "cekpasangan": 16,
+    "cekpasangan": 17,
     "6281283401829": 1,
     "tembak": 17,
     "terima": 15,
@@ -3769,7 +3769,7 @@
     "verify": 14,
     "daftr": 7,
     "status": 8,
-    "pap": 144,
+    "pap": 145,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4363,7 +4363,8 @@
     "nulis": 2,
     "listrank": 1,
     "68458205204495": 1,
-    "invpd": 1
+    "invpd": 1,
+    "628895327267": 1
   },
-  "lastUpdated": 1774345642328
+  "lastUpdated": 1774345702328
 }
