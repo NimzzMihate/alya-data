@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 251,
+    "pap": 252,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3836,7 +3836,7 @@
     "pabrik": 1,
     "fitnah": 41,
     "puji": 62,
-    "pacar": 51,
+    "pacar": 54,
     "carikarakter": 97,
     "nembak": 52,
     "cry": 4,
@@ -4023,7 +4023,7 @@
     "cariin": 1,
     "harian": 1,
     "oke": 1,
-    "nikah": 44,
+    "nikah": 45,
     "stiker": 1,
     "6285766167323": 2,
     "delede": 1,
@@ -4468,7 +4468,9 @@
     "si'": 1,
     "judi": 1,
     "toolsmenu": 1,
-    "art": 1
+    "art": 1,
+    "voicemenu": 1,
+    "smooth": 1
   },
-  "lastUpdated": 1774364420358
+  "lastUpdated": 1774364480353
 }
