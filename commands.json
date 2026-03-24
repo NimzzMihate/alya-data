@@ -3648,7 +3648,7 @@
     "61405583679507": 1,
     "wikwik": 25,
     "heal": 48,
-    "menu": 55,
+    "menu": 57,
     "owner": 6,
     "script": 7,
     "joinrpg": 22,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 271,
+    "pap": 272,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3840,7 +3840,7 @@
     "carikarakter": 100,
     "nembak": 55,
     "cry": 4,
-    "happy": 3,
+    "happy": 4,
     "sad": 1,
     "bully": 1,
     "atmpull": 49,
@@ -3873,7 +3873,7 @@
     "250113796636693": 1,
     "197195135496303": 20,
     "menu-x": 2,
-    "gcbot": 3,
+    "gcbot": 4,
     "cik": 1,
     "...": 1,
     "bratt": 1,
@@ -3963,7 +3963,7 @@
     "yumeko": 1,
     "mahiru": 1,
     "marshaandthebear": 1,
-    "allmenu": 5,
+    "allmenu": 6,
     "gamemenu": 1,
     "catur": 28,
     "mulai": 1,
@@ -4479,7 +4479,8 @@
     "slow": 2,
     "piji": 1,
     "sailor": 2,
-    "6282164933109": 1
+    "6282164933109": 2,
+    "happiness": 1
   },
-  "lastUpdated": 1774365974250
+  "lastUpdated": 1774366034256
 }
