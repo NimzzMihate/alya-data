@@ -3639,7 +3639,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 9,
-    "heal": 27,
+    "heal": 28,
     "menu": 24,
     "owner": 2,
     "script": 4,
@@ -3676,8 +3676,8 @@
     "brathd": 1,
     "editfoto": 42,
     "dailymisi": 29,
-    "open-bo": 28,
-    "ewepaksa": 24,
+    "open-bo": 29,
+    "ewepaksa": 25,
     "topglobal": 10,
     "6285789692015": 1,
     "buy": 171,
@@ -4121,7 +4121,7 @@
     "cek": 4,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 5,
+    "bailout": 6,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4289,5 +4289,5 @@
     "?": 1,
     "@250693499797710": 1
   },
-  "lastUpdated": 1774313348525
+  "lastUpdated": 1774313408536
 }
