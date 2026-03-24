@@ -3836,7 +3836,7 @@
     "pabrik": 1,
     "fitnah": 41,
     "puji": 44,
-    "pacar": 32,
+    "pacar": 33,
     "carikarakter": 92,
     "nembak": 49,
     "cry": 4,
@@ -4080,7 +4080,7 @@
     "cerai": 5,
     "putus": 26,
     "crop": 12,
-    "shopgift": 23,
+    "shopgift": 24,
     "give": 3,
     "asep": 1,
     "pasangan": 2,
@@ -4444,5 +4444,5 @@
     ".pacar": 1,
     "cium.cium": 1
   },
-  "lastUpdated": 1774358713991
+  "lastUpdated": 1774358773985
 }
