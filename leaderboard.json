@@ -81,7 +81,7 @@
     {
       "name": "danz",
       "level": 15,
-      "exp": 36794,
+      "exp": 36856,
       "saldo": 252183670087847
     },
     {
@@ -99,13 +99,13 @@
     {
       "name": "kenntod",
       "level": 11,
-      "exp": 28049,
+      "exp": 28159,
       "saldo": 0
     },
     {
       "name": "Zaki",
       "level": 11,
-      "exp": 27701,
+      "exp": 27865,
       "saldo": 700
     },
     {
@@ -197,7 +197,7 @@
     {
       "name": "danz",
       "level": 15,
-      "exp": 36794,
+      "exp": 36856,
       "saldo": 252183670087847
     },
     {
@@ -325,7 +325,7 @@
     {
       "name": "danz",
       "level": 15,
-      "exp": 36794,
+      "exp": 36856,
       "saldo": 252183670087847
     },
     {
@@ -343,13 +343,13 @@
     {
       "name": "kenntod",
       "level": 11,
-      "exp": 28049,
+      "exp": 28159,
       "saldo": 0
     },
     {
       "name": "Zaki",
       "level": 11,
-      "exp": 27701,
+      "exp": 27865,
       "saldo": 700
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 139052
     }
   ],
-  "lastUpdated": 1774364420358
+  "lastUpdated": 1774364480353
 }
