@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 203,
+    "pap": 205,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3835,7 +3835,7 @@
     "d": 44,
     "pabrik": 1,
     "fitnah": 41,
-    "puji": 45,
+    "puji": 48,
     "pacar": 34,
     "carikarakter": 92,
     "nembak": 49,
@@ -4444,5 +4444,5 @@
     ".pacar": 1,
     "cium.cium": 1
   },
-  "lastUpdated": 1774359433991
+  "lastUpdated": 1774359493996
 }
