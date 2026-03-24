@@ -3891,7 +3891,7 @@
     "/": 3,
     "cekcantik": 4,
     "toplocal": 16,
-    "forward": 327,
+    "forward": 328,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -4103,9 +4103,9 @@
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 20,
-    "petstat": 21,
+    "petstat": 22,
     "playpet": 41,
-    "feedpet": 63,
+    "feedpet": 64,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4141,7 +4141,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 64,
+    "battlepet": 66,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4478,5 +4478,5 @@
     "dandelions": 1,
     "slow": 1
   },
-  "lastUpdated": 1774365320373
+  "lastUpdated": 1774365380374
 }
