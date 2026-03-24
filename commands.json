@@ -3762,7 +3762,7 @@
     "verify": 12,
     "daftr": 7,
     "status": 7,
-    "pap": 89,
+    "pap": 91,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3878,7 +3878,7 @@
     "6282115911954": 2,
     "6281455125940": 2,
     "6285761349641": 6,
-    "pap2": 27,
+    "pap2": 28,
     "getcase": 1,
     "/": 1,
     "cekcantik": 2,
@@ -3905,7 +3905,7 @@
     "totalfitur": 1,
     "mie": 1,
     "statusanak": 12,
-    "wink": 1,
+    "wink": 2,
     "kecocokan": 10,
     "register": 10,
     "rename": 1,
@@ -4300,7 +4300,10 @@
     "𝙢𝙚": 1,
     "ceraipaksa": 1,
     "meu": 2,
-    "nsfwmenu": 1
+    "nsfwmenu": 1,
+    "trap": 1,
+    "neko": 1,
+    "slap": 1
   },
-  "lastUpdated": 1774321682931
+  "lastUpdated": 1774321742932
 }
