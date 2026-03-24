@@ -3625,7 +3625,7 @@
     "setbg": 10,
     "rampok2": 249,
     "6285609504925": 15,
-    "atm": 70,
+    "atm": 72,
     "bank": 37,
     "afk": 187,
     "kerja": 40,
@@ -3787,7 +3787,7 @@
     "uprepo": 3,
     "ssweb": 4,
     "𝗔𝗹𝘆𝗮": 4,
-    "youtuber": 65,
+    "youtuber": 68,
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
@@ -3963,7 +3963,7 @@
     "yumeko": 1,
     "mahiru": 1,
     "marshaandthebear": 1,
-    "allmenu": 6,
+    "allmenu": 7,
     "gamemenu": 1,
     "catur": 28,
     "mulai": 1,
@@ -4489,7 +4489,9 @@
     "mp3": 1,
     "overlay": 2,
     "saham": 1,
-    "create": 1
+    "create": 1,
+    "bankall": 1,
+    "atmmenu": 1
   },
-  "lastUpdated": 1774366934265
+  "lastUpdated": 1774366994257
 }
