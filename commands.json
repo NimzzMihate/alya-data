@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 223,
+    "pap": 225,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3804,7 +3804,7 @@
     "q": 2,
     "255336476880929": 10,
     "lebaran": 3,
-    "80290588442827": 54,
+    "80290588442827": 55,
     "hdvid": 3,
     "kalo": 1,
     "antivirtex": 2,
@@ -3835,8 +3835,8 @@
     "d": 44,
     "pabrik": 1,
     "fitnah": 41,
-    "puji": 56,
-    "pacar": 41,
+    "puji": 58,
+    "pacar": 42,
     "carikarakter": 92,
     "nembak": 49,
     "cry": 4,
@@ -4151,7 +4151,7 @@
     "berikanakuperisaiantirampok": 1,
     "kapan": 1,
     "cheat": 1,
-    "chat": 45,
+    "chat": 46,
     "unlimited": 1,
     "ppobindonesia": 2,
     "money": 2,
@@ -4460,8 +4460,9 @@
     "ubahnamaanak": 1,
     "⁨𝐂𝐏𝐈": 1,
     "152609298108555tuh": 1,
-    "anak": 1,
-    "buat": 1
+    "anak": 2,
+    "buat": 1,
+    "ritualtakdir": 1
   },
-  "lastUpdated": 1774363374552
+  "lastUpdated": 1774363483509
 }
