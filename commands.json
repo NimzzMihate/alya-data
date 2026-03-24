@@ -3660,7 +3660,7 @@
     ">": 4,
     "addapi": 2,
     "pin": 81,
-    "hd": 65,
+    "hd": 66,
     "useitem": 7,
     "77605898313906": 59,
     "huxin": 1,
@@ -3728,7 +3728,7 @@
     "family100": 1,
     "tebakpokemon": 1,
     "6283869039585": 8,
-    "nyerah": 10,
+    "nyerah": 11,
     "mf": 1,
     "261581174734897": 1,
     "80505152212993": 1,
@@ -3837,7 +3837,7 @@
     "puji": 24,
     "pacar": 2,
     "carikarakter": 75,
-    "nembak": 38,
+    "nembak": 39,
     "cry": 4,
     "happy": 2,
     "sad": 1,
@@ -4022,7 +4022,7 @@
     "cariin": 1,
     "harian": 1,
     "oke": 1,
-    "nikah": 29,
+    "nikah": 30,
     "stiker": 1,
     "6285766167323": 2,
     "delede": 1,
@@ -4343,7 +4343,8 @@
     "tebakanime": 1,
     "tebaklogo": 1,
     "tebakgame": 2,
-    "blowjob": 1
+    "blowjob": 1,
+    "nyrah": 1
   },
-  "lastUpdated": 1774337306442
+  "lastUpdated": 1774337366454
 }
