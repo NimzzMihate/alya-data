@@ -3648,7 +3648,7 @@
     "61405583679507": 1,
     "wikwik": 25,
     "heal": 48,
-    "menu": 49,
+    "menu": 50,
     "owner": 5,
     "script": 7,
     "joinrpg": 21,
@@ -3697,7 +3697,7 @@
     "265944542793975": 1,
     "berburu": 14,
     "masak": 9,
-    "rpgmenu": 10,
+    "rpgmenu": 11,
     "makan": 6,
     "repair": 1,
     "kapal": 5,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 205,
+    "pap": 206,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3835,7 +3835,7 @@
     "d": 44,
     "pabrik": 1,
     "fitnah": 41,
-    "puji": 48,
+    "puji": 49,
     "pacar": 34,
     "carikarakter": 92,
     "nembak": 49,
@@ -4080,7 +4080,7 @@
     "cerai": 5,
     "putus": 26,
     "crop": 12,
-    "shopgift": 25,
+    "shopgift": 26,
     "give": 3,
     "asep": 1,
     "pasangan": 2,
@@ -4444,5 +4444,5 @@
     ".pacar": 1,
     "cium.cium": 1
   },
-  "lastUpdated": 1774359493996
+  "lastUpdated": 1774359553990
 }
