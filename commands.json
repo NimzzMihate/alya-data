@@ -3787,7 +3787,7 @@
     "uprepo": 3,
     "ssweb": 4,
     "𝗔𝗹𝘆𝗮": 4,
-    "youtuber": 57,
+    "youtuber": 61,
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
@@ -4180,7 +4180,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 6,
-    "atmall": 34,
+    "atmall": 35,
     "inv": 13,
     "healfull": 3,
     "mute": 1,
@@ -4487,7 +4487,9 @@
     "mau": 1,
     "command": 1,
     "mp3": 1,
-    "overlay": 2
+    "overlay": 2,
+    "saham": 1,
+    "create": 1
   },
-  "lastUpdated": 1774366814257
+  "lastUpdated": 1774366874263
 }
