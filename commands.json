@@ -3674,7 +3674,7 @@
     "daily": 10,
     "adventure": 11,
     "cf": 16,
-    "nai2": 3,
+    "nai2": 4,
     "6282137487477": 9,
     "removebg": 36,
     "addown": 7,
@@ -4348,7 +4348,8 @@
     "120753005527234": 1,
     "ann": 1,
     "buysaldo": 2,
-    "tarik": 1
+    "tarik": 1,
+    "ai": 1
   },
-  "lastUpdated": 1774340446859
+  "lastUpdated": 1774340506861
 }
