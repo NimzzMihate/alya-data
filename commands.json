@@ -3682,7 +3682,7 @@
     "listowner": 9,
     "brat": 50,
     "brathd": 1,
-    "editfoto": 51,
+    "editfoto": 52,
     "dailymisi": 32,
     "open-bo": 30,
     "ewepaksa": 41,
@@ -4438,8 +4438,8 @@
     "cekdroplet": 1,
     "detailkarakter": 1,
     "gcsider": 1,
-    "quoted": 15,
+    "quoted": 16,
     "pentol": 1
   },
-  "lastUpdated": 1774357773102
+  "lastUpdated": 1774357833099
 }
