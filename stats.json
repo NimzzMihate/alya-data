@@ -3,8 +3,8 @@
   "totalUsers": 1035,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 6888,
-  "totalChat": 6888,
+  "totalCmd": 6891,
+  "totalChat": 6891,
   "topCommands": [
     {
       "cmd": "forward",
@@ -35,12 +35,12 @@
       "count": 114
     },
     {
-      "cmd": "carikarakter",
+      "cmd": "gift",
       "count": 92
     },
     {
-      "cmd": "gift",
-      "count": 91
+      "cmd": "carikarakter",
+      "count": 92
     },
     {
       "cmd": "pin",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 661,
-  "lastUpdated": 1774350296854
+  "uptimeSeconds": 721,
+  "lastUpdated": 1774350356854
 }
