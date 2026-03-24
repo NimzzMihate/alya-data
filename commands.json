@@ -3622,7 +3622,7 @@
     "ewe-paksa": 30,
     "me": 214,
     "setbg": 8,
-    "rampok2": 215,
+    "rampok2": 216,
     "6285609504925": 13,
     "atm": 62,
     "bank": 34,
@@ -3834,15 +3834,15 @@
     "d": 44,
     "pabrik": 1,
     "fitnah": 41,
-    "puji": 36,
-    "pacar": 17,
+    "puji": 37,
+    "pacar": 18,
     "carikarakter": 92,
     "nembak": 49,
     "cry": 4,
     "happy": 2,
     "sad": 1,
     "bully": 1,
-    "atmpull": 38,
+    "atmpull": 39,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4179,7 +4179,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 6,
-    "atmall": 26,
+    "atmall": 27,
     "inv": 13,
     "healfull": 3,
     "mute": 1,
@@ -4396,5 +4396,5 @@
     "pemadam": 1,
     "mandi": 1
   },
-  "lastUpdated": 1774349816840
+  "lastUpdated": 1774349876840
 }
