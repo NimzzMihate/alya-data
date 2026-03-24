@@ -3626,7 +3626,7 @@
     "rampok2": 249,
     "6285609504925": 15,
     "atm": 70,
-    "bank": 36,
+    "bank": 37,
     "afk": 187,
     "kerja": 40,
     "628176533297": 14,
@@ -3651,7 +3651,7 @@
     "menu": 57,
     "owner": 6,
     "script": 7,
-    "joinrpg": 22,
+    "joinrpg": 23,
     "mentahan": 1,
     "claim": 21,
     "cekidch": 2,
@@ -3745,7 +3745,7 @@
     "kick": 15,
     "228673269583986": 1,
     "6281539969085": 9,
-    "all": 18,
+    "all": 19,
     "tt": 33,
     "kickall": 7,
     "78817548841029": 2,
@@ -3787,7 +3787,7 @@
     "uprepo": 3,
     "ssweb": 4,
     "𝗔𝗹𝘆𝗮": 4,
-    "youtuber": 51,
+    "youtuber": 57,
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
@@ -4489,5 +4489,5 @@
     "mp3": 1,
     "overlay": 2
   },
-  "lastUpdated": 1774366754257
+  "lastUpdated": 1774366814257
 }
