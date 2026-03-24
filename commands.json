@@ -3647,7 +3647,7 @@
     "61405583679507": 1,
     "wikwik": 9,
     "heal": 28,
-    "menu": 32,
+    "menu": 33,
     "owner": 2,
     "script": 5,
     "joinrpg": 18,
@@ -3718,7 +3718,7 @@
     "linkgc": 4,
     "cekpasangan": 15,
     "6281283401829": 1,
-    "tembak": 15,
+    "tembak": 17,
     "terima": 14,
     "cium": 32,
     "6281915895220": 1,
@@ -3962,7 +3962,7 @@
     "yumeko": 1,
     "mahiru": 1,
     "marshaandthebear": 1,
-    "allmenu": 3,
+    "allmenu": 4,
     "gamemenu": 1,
     "catur": 26,
     "mulai": 1,
@@ -4342,5 +4342,5 @@
     "tebakkat": 1,
     "tebakanime": 1
   },
-  "lastUpdated": 1774337006440
+  "lastUpdated": 1774337066442
 }
