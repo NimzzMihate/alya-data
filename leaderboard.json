@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 235,
-      "exp": 566187,
+      "exp": 566242,
       "saldo": 1996281
     },
     {
@@ -98,9 +98,9 @@
     },
     {
       "name": "Tya",
-      "level": 9,
-      "exp": 23825,
-      "saldo": 132052
+      "level": 10,
+      "exp": 24076,
+      "saldo": 139052
     },
     {
       "name": "Zaki",
@@ -239,7 +239,7 @@
     {
       "name": "Pillaaaaa",
       "level": 235,
-      "exp": 566187,
+      "exp": 566242,
       "saldo": 1996281
     }
   ],
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 235,
-      "exp": 566187,
+      "exp": 566242,
       "saldo": 1996281
     },
     {
@@ -342,9 +342,9 @@
     },
     {
       "name": "Tya",
-      "level": 9,
-      "exp": 23825,
-      "saldo": 132052
+      "level": 10,
+      "exp": 24076,
+      "saldo": 139052
     },
     {
       "name": "Zaki",
@@ -365,5 +365,5 @@
       "saldo": 1000479451246953000
     }
   ],
-  "lastUpdated": 1774323335816
+  "lastUpdated": 1774323395816
 }
