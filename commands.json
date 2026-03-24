@@ -3837,7 +3837,7 @@
     "fitnah": 41,
     "puji": 62,
     "pacar": 54,
-    "carikarakter": 97,
+    "carikarakter": 99,
     "nembak": 52,
     "cry": 4,
     "happy": 3,
@@ -4322,7 +4322,7 @@
     "spotifydl": 2,
     "toaudio": 2,
     "speed": 1,
-    "bass": 1,
+    "bass": 2,
     "earrape": 1,
     "nahida": 29,
     "pasanganmenu": 3,
@@ -4470,7 +4470,8 @@
     "toolsmenu": 1,
     "art": 1,
     "voicemenu": 1,
-    "smooth": 1
+    "smooth": 2,
+    "fast": 1
   },
-  "lastUpdated": 1774364480353
+  "lastUpdated": 1774364540353
 }
