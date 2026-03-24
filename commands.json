@@ -3646,8 +3646,8 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 22,
-    "heal": 39,
+    "wikwik": 24,
+    "heal": 43,
     "menu": 48,
     "owner": 5,
     "script": 7,
@@ -3685,7 +3685,7 @@
     "editfoto": 51,
     "dailymisi": 32,
     "open-bo": 30,
-    "ewepaksa": 39,
+    "ewepaksa": 40,
     "topglobal": 13,
     "6285789692015": 1,
     "buy": 279,
@@ -4431,5 +4431,5 @@
     "addsaldo": 1,
     "3260467388514": 1
   },
-  "lastUpdated": 1774356059556
+  "lastUpdated": 1774356119558
 }
