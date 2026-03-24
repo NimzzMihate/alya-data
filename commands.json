@@ -3660,7 +3660,7 @@
     ">": 4,
     "addapi": 2,
     "pin": 84,
-    "hd": 68,
+    "hd": 70,
     "useitem": 7,
     "77605898313906": 63,
     "huxin": 1,
@@ -3681,7 +3681,7 @@
     "listowner": 8,
     "brat": 35,
     "brathd": 1,
-    "editfoto": 48,
+    "editfoto": 49,
     "dailymisi": 32,
     "open-bo": 30,
     "ewepaksa": 39,
@@ -3791,7 +3791,7 @@
     "snippet": 5,
     "updatealya": 21,
     "kencan": 41,
-    "kasihsusu": 14,
+    "kasihsusu": 15,
     "wm": 22,
     "absen": 3,
     "mulaiabsen": 3,
@@ -4078,7 +4078,7 @@
     "istiku": 1,
     "cerai": 5,
     "putus": 22,
-    "crop": 9,
+    "crop": 10,
     "shopgift": 18,
     "give": 3,
     "asep": 1,
@@ -4418,7 +4418,8 @@
     "cewe": 1,
     "mana": 1,
     "dana": 1,
-    "cekskill": 1
+    "cekskill": 1,
+    "scale": 1
   },
-  "lastUpdated": 1774354314246
+  "lastUpdated": 1774354374250
 }
