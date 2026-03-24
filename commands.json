@@ -4061,7 +4061,7 @@
     "buylimit": 1,
     "wagyy": 1,
     "wangyy": 2,
-    "wangy": 2,
+    "wangy": 3,
     "97874318782647": 1,
     "nikah2": 4,
     "statusistri": 2,
@@ -4157,7 +4157,7 @@
     "628818366526": 3,
     "rampoki": 1,
     "6287870709356": 2,
-    "6281290311984": 3,
+    "6281290311984": 4,
     "buyallxp": 1,
     "xp": 1,
     "delsampah": 2,
@@ -4294,9 +4294,9 @@
     "kokop": 1,
     "bailoutt": 1,
     "bailout.": 1,
-    "setserial": 1,
+    "setserial": 2,
     "getserial": 2,
     "getsarial": 1
   },
-  "lastUpdated": 1774320592040
+  "lastUpdated": 1774320652041
 }
