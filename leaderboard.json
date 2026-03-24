@@ -209,13 +209,13 @@
     {
       "name": "Kayy",
       "level": 4,
-      "exp": 10776,
+      "exp": 10814,
       "saldo": 10000042636
     },
     {
       "name": "vannzz",
       "level": 8,
-      "exp": 19369,
+      "exp": 19438,
       "saldo": 1000000000
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774352338062
+  "lastUpdated": 1774352398065
 }
