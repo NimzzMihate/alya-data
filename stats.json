@@ -3,8 +3,8 @@
   "totalUsers": 1032,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 6029,
-  "totalChat": 6029,
+  "totalCmd": 6032,
+  "totalChat": 6032,
   "topCommands": [
     {
       "cmd": "buy",
@@ -40,7 +40,7 @@
     },
     {
       "cmd": "tes",
-      "count": 80
+      "count": 81
     },
     {
       "cmd": "carikarakter",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 3361,
-  "lastUpdated": 1774341106854
+  "uptimeSeconds": 3421,
+  "lastUpdated": 1774341166859
 }
