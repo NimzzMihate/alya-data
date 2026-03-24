@@ -14,14 +14,14 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 299,
-      "exp": 725009,
+      "level": 302,
+      "exp": 725090,
       "saldo": 620197648978201000000
     },
     {
       "name": "Pillaaaaa",
       "level": 234,
-      "exp": 563223,
+      "exp": 563288,
       "saldo": 82654
     },
     {
@@ -148,8 +148,8 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 299,
-      "exp": 725009,
+      "level": 302,
+      "exp": 725090,
       "saldo": 620197648978201000000
     },
     {
@@ -252,14 +252,14 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 299,
-      "exp": 725009,
+      "level": 302,
+      "exp": 725090,
       "saldo": 620197648978201000000
     },
     {
       "name": "Pillaaaaa",
       "level": 234,
-      "exp": 563223,
+      "exp": 563288,
       "saldo": 82654
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 35065
     }
   ],
-  "lastUpdated": 1774320090457
+  "lastUpdated": 1774320150466
 }
