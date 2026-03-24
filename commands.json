@@ -3624,8 +3624,8 @@
     "setbg": 8,
     "rampok2": 198,
     "6285609504925": 13,
-    "atm": 55,
-    "bank": 25,
+    "atm": 57,
+    "bank": 27,
     "afk": 164,
     "kerja": 18,
     "628176533297": 14,
@@ -3652,7 +3652,7 @@
     "script": 5,
     "joinrpg": 18,
     "mentahan": 1,
-    "claim": 18,
+    "claim": 19,
     "cekidch": 2,
     "tourl": 13,
     "title": 1,
@@ -4342,5 +4342,5 @@
     "tebakkat": 1,
     "tebakanime": 1
   },
-  "lastUpdated": 1774336946443
+  "lastUpdated": 1774337006440
 }
