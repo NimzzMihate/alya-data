@@ -3623,10 +3623,10 @@
     "ewe-paksa": 35,
     "me": 262,
     "setbg": 10,
-    "rampok2": 249,
+    "rampok2": 250,
     "6285609504925": 15,
     "atm": 72,
-    "bank": 37,
+    "bank": 38,
     "afk": 187,
     "kerja": 40,
     "628176533297": 14,
@@ -3787,7 +3787,7 @@
     "uprepo": 3,
     "ssweb": 4,
     "𝗔𝗹𝘆𝗮": 4,
-    "youtuber": 72,
+    "youtuber": 77,
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
@@ -3843,7 +3843,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 1,
-    "atmpull": 50,
+    "atmpull": 52,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4180,7 +4180,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 6,
-    "atmall": 36,
+    "atmall": 38,
     "inv": 13,
     "healfull": 3,
     "mute": 1,
@@ -4494,5 +4494,5 @@
     "atmmenu": 1,
     "-bank": 1
   },
-  "lastUpdated": 1774367054267
+  "lastUpdated": 1774367114262
 }
