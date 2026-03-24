@@ -3621,7 +3621,7 @@
     "playmoba": 38,
     "ngaji": 21,
     "ewe-paksa": 35,
-    "me": 260,
+    "me": 261,
     "setbg": 10,
     "rampok2": 246,
     "6285609504925": 13,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 255,
+    "pap": 256,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4471,12 +4471,12 @@
     "art": 1,
     "voicemenu": 1,
     "smooth": 3,
-    "fast": 4,
-    "deep": 10,
+    "fast": 5,
+    "deep": 11,
     "isi": 1,
     "62881024436220": 1,
     "dandelions": 1,
     "slow": 1
   },
-  "lastUpdated": 1774365140377
+  "lastUpdated": 1774365200376
 }
