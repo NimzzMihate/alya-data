@@ -3613,7 +3613,7 @@
     "playmoba": 38,
     "ngaji": 21,
     "ewe-paksa": 28,
-    "me": 150,
+    "me": 151,
     "setbg": 8,
     "rampok2": 181,
     "6285609504925": 13,
@@ -3883,7 +3883,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 13,
-    "forward": 89,
+    "forward": 90,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -4022,7 +4022,7 @@
     "delete": 1,
     "18232723431562": 1,
     "kennsesanpai": 1,
-    "setrole": 11,
+    "setrole": 12,
     "setstatus": 1,
     "pin.": 1,
     "bounty": 2,
@@ -4061,7 +4061,7 @@
     "buylimit": 1,
     "wagyy": 1,
     "wangyy": 2,
-    "wangy": 4,
+    "wangy": 5,
     "97874318782647": 1,
     "nikah2": 4,
     "statusistri": 2,
@@ -4157,7 +4157,7 @@
     "628818366526": 3,
     "rampoki": 1,
     "6287870709356": 2,
-    "6281290311984": 4,
+    "6281290311984": 5,
     "buyallxp": 1,
     "xp": 1,
     "delsampah": 2,
@@ -4296,7 +4296,8 @@
     "bailout.": 1,
     "setserial": 2,
     "getserial": 2,
-    "getsarial": 1
+    "getsarial": 1,
+    "𝙢𝙚": 1
   },
-  "lastUpdated": 1774321012043
+  "lastUpdated": 1774321072043
 }
