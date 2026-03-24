@@ -3620,7 +3620,7 @@
     "playmoba": 38,
     "ngaji": 21,
     "ewe-paksa": 30,
-    "me": 193,
+    "me": 194,
     "setbg": 8,
     "rampok2": 202,
     "6285609504925": 13,
@@ -3648,7 +3648,7 @@
     "wikwik": 9,
     "heal": 28,
     "menu": 34,
-    "owner": 2,
+    "owner": 3,
     "script": 5,
     "joinrpg": 18,
     "mentahan": 1,
@@ -3890,7 +3890,7 @@
     "/": 3,
     "cekcantik": 2,
     "toplocal": 15,
-    "forward": 232,
+    "forward": 233,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -4029,7 +4029,7 @@
     "delete": 1,
     "18232723431562": 1,
     "kennsesanpai": 1,
-    "setrole": 24,
+    "setrole": 25,
     "setstatus": 2,
     "pin.": 1,
     "bounty": 2,
@@ -4354,5 +4354,5 @@
     "feedper": 1,
     "kasohsusu": 1
   },
-  "lastUpdated": 1774344378120
+  "lastUpdated": 1774344438126
 }
