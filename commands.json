@@ -3721,7 +3721,7 @@
     "6281283401829": 1,
     "tembak": 20,
     "terima": 15,
-    "cium": 52,
+    "cium": 55,
     "6281915895220": 1,
     "6281215537344": 3,
     "rampok": 87,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 256,
+    "pap": 259,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4478,5 +4478,5 @@
     "dandelions": 1,
     "slow": 1
   },
-  "lastUpdated": 1774365200376
+  "lastUpdated": 1774365260373
 }
