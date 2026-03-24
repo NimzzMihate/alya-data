@@ -4435,7 +4435,9 @@
     "statuspet": 1,
     "commandowner": 1,
     "digitalocean": 1,
-    "cekdroplet": 1
+    "cekdroplet": 1,
+    "detailkarakter": 1,
+    "gcsider": 1
   },
-  "lastUpdated": 1774357353097
+  "lastUpdated": 1774357413100
 }
