@@ -3,8 +3,8 @@
   "totalUsers": 1032,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 6077,
-  "totalChat": 6077,
+  "totalCmd": 6080,
+  "totalChat": 6080,
   "topCommands": [
     {
       "cmd": "buy",
@@ -24,7 +24,7 @@
     },
     {
       "cmd": "pap",
-      "count": 138
+      "count": 139
     },
     {
       "cmd": "craft",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 1501,
-  "lastUpdated": 1774342779678
+  "uptimeSeconds": 1561,
+  "lastUpdated": 1774342839682
 }
