@@ -3622,7 +3622,7 @@
     "ewe-paksa": 30,
     "me": 240,
     "setbg": 9,
-    "rampok2": 225,
+    "rampok2": 227,
     "6285609504925": 13,
     "atm": 63,
     "bank": 35,
@@ -3769,7 +3769,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 156,
+    "pap": 159,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4128,7 +4128,7 @@
     "cek": 5,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 13,
+    "bailout": 14,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4424,5 +4424,5 @@
     "rasio": 1,
     "ewe": 1
   },
-  "lastUpdated": 1774354934394
+  "lastUpdated": 1774354994399
 }
