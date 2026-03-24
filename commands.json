@@ -3687,7 +3687,7 @@
     "ewepaksa": 35,
     "topglobal": 11,
     "6285789692015": 1,
-    "buy": 235,
+    "buy": 239,
     "smeme": 18,
     "getno": 7,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3697,7 +3697,7 @@
     "berburu": 14,
     "masak": 8,
     "rpgmenu": 8,
-    "makan": 5,
+    "makan": 6,
     "repair": 1,
     "kapal": 5,
     "craft": 114,
@@ -4257,7 +4257,7 @@
     "menyerah": 1,
     "(": 1,
     "buycincin": 2,
-    "but": 1,
+    "but": 2,
     "cekstatuspacar": 1,
     "tff": 1,
     "tft": 2,
@@ -4387,7 +4387,10 @@
     "ubahnama": 1,
     "setgender": 1,
     "sapi": 1,
-    "gun": 1
+    "gun": 1,
+    "polisi": 1,
+    "job": 2,
+    "minum": 1
   },
-  "lastUpdated": 1774349455756
+  "lastUpdated": 1774349515763
 }
