@@ -3622,10 +3622,10 @@
     "ewe-paksa": 30,
     "me": 183,
     "setbg": 8,
-    "rampok2": 200,
+    "rampok2": 202,
     "6285609504925": 13,
     "atm": 61,
-    "bank": 30,
+    "bank": 32,
     "afk": 164,
     "kerja": 22,
     "628176533297": 14,
@@ -3786,7 +3786,7 @@
     "uprepo": 3,
     "ssweb": 4,
     "𝗔𝗹𝘆𝗮": 4,
-    "youtuber": 38,
+    "youtuber": 39,
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
@@ -4030,7 +4030,7 @@
     "18232723431562": 1,
     "kennsesanpai": 1,
     "setrole": 14,
-    "setstatus": 1,
+    "setstatus": 2,
     "pin.": 1,
     "bounty": 2,
     "listcase": 1,
@@ -4224,7 +4224,7 @@
     "htspam": 1,
     "rating": 3,
     "rampokatm": 1,
-    "topuang": 4,
+    "topuang": 5,
     "tabung": 1,
     "atn": 1,
     "6288747505928": 1,
@@ -4353,5 +4353,5 @@
     "infobot": 1,
     "feedper": 1
   },
-  "lastUpdated": 1774343199688
+  "lastUpdated": 1774343259688
 }
