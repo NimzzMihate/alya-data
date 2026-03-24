@@ -33,7 +33,7 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 181712,
+      "exp": 181792,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -99,8 +99,8 @@
     {
       "name": "vannzz",
       "level": 11,
-      "exp": 27412,
-      "saldo": 1995074999
+      "exp": 27454,
+      "saldo": 2095074998
     },
     {
       "name": "Tya",
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 181712,
+      "exp": 181792,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -225,22 +225,22 @@
       "saldo": 81084237669526
     },
     {
+      "name": "Kayy",
+      "level": 7,
+      "exp": 17373,
+      "saldo": 100000000000
+    },
+    {
       "name": "vannzz",
       "level": 11,
-      "exp": 27412,
-      "saldo": 1995074999
+      "exp": 27454,
+      "saldo": 2095074998
     },
     {
       "name": "Souta",
       "level": 27,
       "exp": 66335,
       "saldo": 480606500
-    },
-    {
-      "name": "xeno la nigger",
-      "level": 4,
-      "exp": 10261,
-      "saldo": 104016372
     }
   ],
   "exp": [
@@ -271,7 +271,7 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 181712,
+      "exp": 181792,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -343,8 +343,8 @@
     {
       "name": "vannzz",
       "level": 11,
-      "exp": 27412,
-      "saldo": 1995074999
+      "exp": 27454,
+      "saldo": 2095074998
     },
     {
       "name": "Tya",
@@ -365,5 +365,5 @@
       "saldo": 664
     }
   ],
-  "lastUpdated": 1774360358671
+  "lastUpdated": 1774360418666
 }
