@@ -3883,7 +3883,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 13,
-    "forward": 90,
+    "forward": 91,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -4022,7 +4022,7 @@
     "delete": 1,
     "18232723431562": 1,
     "kennsesanpai": 1,
-    "setrole": 12,
+    "setrole": 13,
     "setstatus": 1,
     "pin.": 1,
     "bounty": 2,
@@ -4297,7 +4297,8 @@
     "setserial": 2,
     "getserial": 2,
     "getsarial": 1,
-    "𝙢𝙚": 1
+    "𝙢𝙚": 1,
+    "ceraipaksa": 1
   },
-  "lastUpdated": 1774321072043
+  "lastUpdated": 1774321132043
 }
