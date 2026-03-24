@@ -3836,7 +3836,7 @@
     "pabrik": 1,
     "fitnah": 41,
     "puji": 44,
-    "pacar": 30,
+    "pacar": 32,
     "carikarakter": 92,
     "nembak": 49,
     "cry": 4,
@@ -4440,7 +4440,8 @@
     "gcsider": 1,
     "quoted": 16,
     "pentol": 1,
-    "wajib": 1
+    "wajib": 1,
+    ".pacar": 1
   },
-  "lastUpdated": 1774358553104
+  "lastUpdated": 1774358613105
 }
