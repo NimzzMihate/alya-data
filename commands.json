@@ -3769,7 +3769,7 @@
     "verify": 13,
     "daftr": 7,
     "status": 7,
-    "pap": 105,
+    "pap": 106,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4336,7 +4336,8 @@
     "kill": 1,
     "kiss": 1,
     "wangi": 1,
-    "toplay": 2
+    "toplay": 3,
+    "jadian": 1
   },
-  "lastUpdated": 1774331736723
+  "lastUpdated": 1774331796712
 }
