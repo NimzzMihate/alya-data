@@ -3640,7 +3640,7 @@
     "61405583679507": 1,
     "wikwik": 9,
     "heal": 28,
-    "menu": 25,
+    "menu": 26,
     "owner": 2,
     "script": 4,
     "joinrpg": 17,
@@ -4061,7 +4061,7 @@
     "buylimit": 1,
     "wagyy": 1,
     "wangyy": 2,
-    "wangy": 6,
+    "wangy": 7,
     "97874318782647": 1,
     "nikah2": 4,
     "statusistri": 2,
@@ -4157,7 +4157,7 @@
     "628818366526": 3,
     "rampoki": 1,
     "6287870709356": 2,
-    "6281290311984": 5,
+    "6281290311984": 6,
     "buyallxp": 1,
     "xp": 1,
     "delsampah": 2,
@@ -4299,7 +4299,8 @@
     "getsarial": 1,
     "𝙢𝙚": 1,
     "ceraipaksa": 1,
-    "meu": 2
+    "meu": 2,
+    "nsfwmenu": 1
   },
-  "lastUpdated": 1774321622935
+  "lastUpdated": 1774321682931
 }
