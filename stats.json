@@ -3,8 +3,8 @@
   "totalUsers": 1028,
   "totalGroups": 37,
   "totalFeatures": 3600,
-  "totalCmd": 5336,
-  "totalChat": 5336,
+  "totalCmd": 5350,
+  "totalChat": 5350,
   "topCommands": [
     {
       "cmd": "rampok2",
@@ -31,15 +31,15 @@
       "count": 89
     },
     {
+      "cmd": "forward",
+      "count": 83
+    },
+    {
       "cmd": "pin",
       "count": 79
     },
     {
       "cmd": "tes",
-      "count": 76
-    },
-    {
-      "cmd": "forward",
       "count": 76
     },
     {
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 181,
-  "lastUpdated": 1774320352037
+  "uptimeSeconds": 241,
+  "lastUpdated": 1774320412038
 }
