@@ -3625,9 +3625,9 @@
     "rampok2": 199,
     "6285609504925": 13,
     "atm": 58,
-    "bank": 28,
+    "bank": 29,
     "afk": 164,
-    "kerja": 21,
+    "kerja": 22,
     "628176533297": 14,
     "s": 65,
     "jwkwnwkabs": 1,
@@ -3712,7 +3712,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 60,
-    "tes": 80,
+    "tes": 81,
     "listown": 9,
     "getpp": 3,
     "linkgc": 4,
@@ -4352,5 +4352,5 @@
     "ai": 1,
     "infobot": 1
   },
-  "lastUpdated": 1774341106855
+  "lastUpdated": 1774341166860
 }
