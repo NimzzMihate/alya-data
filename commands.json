@@ -3679,7 +3679,7 @@
     "removebg": 36,
     "addown": 7,
     "listowner": 7,
-    "brat": 23,
+    "brat": 24,
     "brathd": 1,
     "editfoto": 47,
     "dailymisi": 32,
@@ -3723,7 +3723,7 @@
     "cium": 35,
     "6281915895220": 1,
     "6281215537344": 3,
-    "rampok": 72,
+    "rampok": 73,
     "listapi": 6,
     "family100": 1,
     "tebakpokemon": 1,
@@ -4352,5 +4352,5 @@
     "ai": 1,
     "infobot": 1
   },
-  "lastUpdated": 1774341226860
+  "lastUpdated": 1774341339676
 }
