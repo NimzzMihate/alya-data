@@ -3620,7 +3620,7 @@
     "playmoba": 38,
     "ngaji": 21,
     "ewe-paksa": 30,
-    "me": 208,
+    "me": 209,
     "setbg": 8,
     "rampok2": 211,
     "6285609504925": 13,
@@ -3753,7 +3753,7 @@
     "buyitem": 1,
     "play": 58,
     "ytmp3": 48,
-    "152609298108555": 21,
+    "152609298108555": 22,
     "35588770111681": 1,
     "intro": 21,
     "up": 1,
@@ -3836,8 +3836,8 @@
     "fitnah": 41,
     "puji": 34,
     "pacar": 14,
-    "carikarakter": 85,
-    "nembak": 47,
+    "carikarakter": 86,
+    "nembak": 48,
     "cry": 4,
     "happy": 2,
     "sad": 1,
@@ -3877,7 +3877,7 @@
     "...": 1,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 75,
+    "statuspacar": 76,
     "kasihmakan": 9,
     "kasihminum": 7,
     "naena": 5,
@@ -4077,7 +4077,7 @@
     "buatanak": 5,
     "istiku": 1,
     "cerai": 4,
-    "putus": 19,
+    "putus": 21,
     "crop": 9,
     "shopgift": 17,
     "give": 3,
@@ -4384,5 +4384,5 @@
     "ownermenu": 1,
     "self": 1
   },
-  "lastUpdated": 1774348320744
+  "lastUpdated": 1774348380745
 }
