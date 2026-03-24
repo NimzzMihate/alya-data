@@ -3,8 +3,8 @@
   "totalUsers": 1032,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 6444,
-  "totalChat": 6444,
+  "totalCmd": 6454,
+  "totalChat": 6454,
   "topCommands": [
     {
       "cmd": "forward",
@@ -12,7 +12,7 @@
     },
     {
       "cmd": "buy",
-      "count": 215
+      "count": 217
     },
     {
       "cmd": "rampok2",
@@ -35,12 +35,12 @@
       "count": 113
     },
     {
-      "cmd": "pin",
-      "count": 82
+      "cmd": "tes",
+      "count": 83
     },
     {
-      "cmd": "tes",
-      "count": 81
+      "cmd": "pin",
+      "count": 82
     },
     {
       "cmd": "carikarakter",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 121,
-  "lastUpdated": 1774345582325
+  "uptimeSeconds": 181,
+  "lastUpdated": 1774345642327
 }
