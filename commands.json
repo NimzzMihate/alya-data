@@ -3682,7 +3682,7 @@
     "listowner": 9,
     "brat": 50,
     "brathd": 1,
-    "editfoto": 53,
+    "editfoto": 54,
     "dailymisi": 32,
     "open-bo": 30,
     "ewepaksa": 41,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 189,
+    "pap": 191,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4241,7 +4241,7 @@
     "gempa": 1,
     "tebakkata": 31,
     "tebakpacarorang": 1,
-    "gachawaifu": 15,
+    "gachawaifu": 16,
     "curipacarorang": 1,
     "user": 2,
     "gerobak": 1,
@@ -4441,5 +4441,5 @@
     "quoted": 16,
     "pentol": 1
   },
-  "lastUpdated": 1774357953102
+  "lastUpdated": 1774358013100
 }
