@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 230,
+    "pap": 231,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3843,7 +3843,7 @@
     "happy": 3,
     "sad": 1,
     "bully": 1,
-    "atmpull": 46,
+    "atmpull": 48,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4090,8 +4090,8 @@
     "lamar": 11,
     "beli": 2,
     "maaf": 3,
-    "sg": 37,
-    "shop": 7,
+    "sg": 38,
+    "shop": 8,
     "168238516305969": 6,
     "atmtake": 16,
     "giftshop": 1,
@@ -4462,7 +4462,9 @@
     "152609298108555tuh": 1,
     "anak": 4,
     "buat": 1,
-    "ritualtakdir": 2
+    "ritualtakdir": 2,
+    "belisusu": 1,
+    "berisusu": 1
   },
-  "lastUpdated": 1774363843525
+  "lastUpdated": 1774363903527
 }
