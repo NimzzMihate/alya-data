@@ -3674,7 +3674,7 @@
     "listowner": 7,
     "brat": 20,
     "brathd": 1,
-    "editfoto": 43,
+    "editfoto": 44,
     "dailymisi": 32,
     "open-bo": 30,
     "ewepaksa": 27,
@@ -3762,7 +3762,7 @@
     "verify": 12,
     "daftr": 7,
     "status": 7,
-    "pap": 93,
+    "pap": 94,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4305,5 +4305,5 @@
     "neko": 1,
     "slap": 1
   },
-  "lastUpdated": 1774321802931
+  "lastUpdated": 1774321862930
 }
