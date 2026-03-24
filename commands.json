@@ -3622,7 +3622,7 @@
     "ewe-paksa": 30,
     "me": 214,
     "setbg": 8,
-    "rampok2": 214,
+    "rampok2": 215,
     "6285609504925": 13,
     "atm": 62,
     "bank": 34,
@@ -3816,7 +3816,7 @@
     "93283032285420": 6,
     "188571210244160": 3,
     "222531466350642": 1,
-    "tidur": 8,
+    "tidur": 10,
     "akun": 1,
     "jembott": 1,
     "kuis": 4,
@@ -4134,7 +4134,7 @@
     "tranfer2000": 1,
     "bot": 2,
     "tf+62": 1,
-    "dokter": 1,
+    "dokter": 2,
     "carikarakter[shizuka": 1,
     "nama": 3,
     "petmenu": 1,
@@ -4392,7 +4392,9 @@
     "job": 2,
     "minum": 1,
     "atmpullall": 1,
-    "worker": 1
+    "worker": 1,
+    "pemadam": 1,
+    "mandi": 1
   },
-  "lastUpdated": 1774349756840
+  "lastUpdated": 1774349816840
 }
