@@ -3647,7 +3647,7 @@
     "61405583679507": 1,
     "wikwik": 17,
     "heal": 28,
-    "menu": 38,
+    "menu": 39,
     "owner": 5,
     "script": 5,
     "joinrpg": 19,
@@ -3871,7 +3871,7 @@
     "111558118097146": 2,
     "250113796636693": 1,
     "197195135496303": 16,
-    "menu-x": 1,
+    "menu-x": 2,
     "gcbot": 2,
     "cik": 1,
     "...": 1,
@@ -4150,7 +4150,7 @@
     "berikanakuperisaiantirampok": 1,
     "kapan": 1,
     "cheat": 1,
-    "chat": 20,
+    "chat": 21,
     "unlimited": 1,
     "ppobindonesia": 1,
     "money": 2,
@@ -4380,5 +4380,5 @@
     "revoke": 2,
     "hdvideo": 2
   },
-  "lastUpdated": 1774347600279
+  "lastUpdated": 1774347660281
 }
