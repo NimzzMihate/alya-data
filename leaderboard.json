@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 235,
-      "exp": 565917,
-      "saldo": 0
+      "exp": 565966,
+      "saldo": 2000000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -237,10 +237,10 @@
       "saldo": 4023130
     },
     {
-      "name": "Yogie ganteng",
-      "level": 12,
-      "exp": 30689,
-      "saldo": 1722760
+      "name": "Pillaaaaa",
+      "level": 235,
+      "exp": 565966,
+      "saldo": 2000000
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 235,
-      "exp": 565917,
-      "saldo": 0
+      "exp": 565966,
+      "saldo": 2000000
     },
     {
       "name": "Naylaa",
@@ -365,5 +365,5 @@
       "saldo": 1000479451246953000
     }
   ],
-  "lastUpdated": 1774323095811
+  "lastUpdated": 1774323155812
 }
