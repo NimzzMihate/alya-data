@@ -3622,7 +3622,7 @@
     "ewe-paksa": 30,
     "me": 217,
     "setbg": 8,
-    "rampok2": 216,
+    "rampok2": 218,
     "6285609504925": 13,
     "atm": 62,
     "bank": 34,
@@ -3647,7 +3647,7 @@
     "61405583679507": 1,
     "wikwik": 21,
     "heal": 37,
-    "menu": 43,
+    "menu": 44,
     "owner": 5,
     "script": 6,
     "joinrpg": 20,
@@ -3675,7 +3675,7 @@
     "adventure": 11,
     "cf": 16,
     "nai2": 4,
-    "6282137487477": 9,
+    "6282137487477": 10,
     "removebg": 36,
     "addown": 7,
     "listowner": 8,
@@ -4335,7 +4335,7 @@
     "puisi": 1,
     "kill": 1,
     "kiss": 1,
-    "wangi": 3,
+    "wangi": 4,
     "toplay": 3,
     "jadian": 1,
     "info": 3,
@@ -4402,5 +4402,5 @@
     "quotesbucin": 1,
     "doang'?": 1
   },
-  "lastUpdated": 1774350536860
+  "lastUpdated": 1774350596857
 }
