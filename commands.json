@@ -3995,7 +3995,7 @@
     "list": 2,
     "pib": 1,
     "kirimucapan": 1,
-    "tiktok": 7,
+    "tiktok": 8,
     "tiktokmp3": 1,
     "139685271736427": 1,
     "setprofil": 1,
@@ -4095,9 +4095,9 @@
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 16,
-    "petstat": 18,
-    "playpet": 32,
-    "feedpet": 50,
+    "petstat": 19,
+    "playpet": 34,
+    "feedpet": 51,
     "namapet": 1,
     "namepet": 7,
     "statpet": 1,
@@ -4109,7 +4109,7 @@
     "bego": 5,
     "haram": 1,
     "6282327857595": 2,
-    "roast": 30,
+    "roast": 31,
     "rampokin": 7,
     "nikahpaksa": 24,
     "tolak": 4,
@@ -4310,5 +4310,5 @@
     "set": 1,
     "pinh": 1
   },
-  "lastUpdated": 1774324434868
+  "lastUpdated": 1774324494869
 }
