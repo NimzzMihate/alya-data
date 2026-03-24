@@ -207,6 +207,12 @@
       "saldo": 81084237669526
     },
     {
+      "name": "vannzz",
+      "level": 7,
+      "exp": 18016,
+      "saldo": 1000000000
+    },
+    {
       "name": "Souta",
       "level": 27,
       "exp": 65736,
@@ -235,12 +241,6 @@
       "level": 619,
       "exp": 1485881,
       "saldo": 2050545
-    },
-    {
-      "name": "Yogie ganteng",
-      "level": 12,
-      "exp": 30689,
-      "saldo": 1722760
     }
   ],
   "exp": [
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774349816840
+  "lastUpdated": 1774349876840
 }
