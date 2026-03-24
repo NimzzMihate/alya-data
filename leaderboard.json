@@ -20,9 +20,9 @@
     },
     {
       "name": "Pillaaaaa",
-      "level": 234,
-      "exp": 563884,
-      "saldo": 4.0800000000000004e+43
+      "level": 235,
+      "exp": 564039,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -122,12 +122,6 @@
     }
   ],
   "saldo": [
-    {
-      "name": "Pillaaaaa",
-      "level": 234,
-      "exp": 563884,
-      "saldo": 4.0800000000000004e+43
-    },
     {
       "name": "Naylaa",
       "level": 510,
@@ -241,6 +235,12 @@
       "level": 613,
       "exp": 1472783,
       "saldo": 4016130
+    },
+    {
+      "name": "Yogie ganteng",
+      "level": 12,
+      "exp": 30689,
+      "saldo": 1722760
     }
   ],
   "exp": [
@@ -258,9 +258,9 @@
     },
     {
       "name": "Pillaaaaa",
-      "level": 234,
-      "exp": 563884,
-      "saldo": 4.0800000000000004e+43
+      "level": 235,
+      "exp": 564039,
+      "saldo": 0
     },
     {
       "name": "Naylaa",
@@ -365,5 +365,5 @@
       "saldo": 35065
     }
   ],
-  "lastUpdated": 1774320532039
+  "lastUpdated": 1774320592040
 }
