@@ -3882,7 +3882,7 @@
     "getcase": 1,
     "/": 1,
     "cekcantik": 2,
-    "toplocal": 12,
+    "toplocal": 13,
     "forward": 66,
     "6283147484272": 6,
     "cekfemboty": 1,
@@ -4096,8 +4096,8 @@
     "6289530116661": 1,
     "adoptpet": 16,
     "petstat": 18,
-    "playpet": 31,
-    "feedpet": 48,
+    "playpet": 32,
+    "feedpet": 50,
     "namapet": 1,
     "namepet": 7,
     "statpet": 1,
@@ -4293,5 +4293,5 @@
     ".e": 1,
     "kokop": 1
   },
-  "lastUpdated": 1774319730454
+  "lastUpdated": 1774319790453
 }
