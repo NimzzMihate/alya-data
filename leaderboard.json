@@ -2,9 +2,9 @@
   "level": [
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
-      "level": 617,
-      "exp": 1483124,
-      "saldo": 2036545
+      "level": 618,
+      "exp": 1483409,
+      "saldo": 2043545
     },
     {
       "name": "Naylaa",
@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 55,
-      "exp": 134095,
+      "exp": 134135,
       "saldo": 384085577042747
     },
     {
@@ -93,7 +93,7 @@
     {
       "name": "axell",
       "level": 11,
-      "exp": 26941,
+      "exp": 27112,
       "saldo": 1362999
     },
     {
@@ -109,16 +109,16 @@
       "saldo": 664
     },
     {
+      "name": "renita",
+      "level": 9,
+      "exp": 22996,
+      "saldo": 1000479451246953000
+    },
+    {
       "name": "Ilham",
       "level": 9,
       "exp": 22989,
       "saldo": 0
-    },
-    {
-      "name": "renita",
-      "level": 9,
-      "exp": 22960,
-      "saldo": 1000479451246953000
     }
   ],
   "saldo": [
@@ -143,7 +143,7 @@
     {
       "name": "vanzzz",
       "level": 4,
-      "exp": 11504,
+      "exp": 11637,
       "saldo": 1e+25
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "renita",
       "level": 9,
-      "exp": 22960,
+      "exp": 22996,
       "saldo": 1000479451246953000
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "apip",
       "level": 55,
-      "exp": 134095,
+      "exp": 134135,
       "saldo": 384085577042747
     },
     {
@@ -227,7 +227,7 @@
     {
       "name": "kenntod",
       "level": 7,
-      "exp": 17306,
+      "exp": 17530,
       "saldo": 70005001
     },
     {
@@ -246,9 +246,9 @@
   "exp": [
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
-      "level": 617,
-      "exp": 1483124,
-      "saldo": 2036545
+      "level": 618,
+      "exp": 1483409,
+      "saldo": 2043545
     },
     {
       "name": "Ditz ketoprak",
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 55,
-      "exp": 134095,
+      "exp": 134135,
       "saldo": 384085577042747
     },
     {
@@ -337,7 +337,7 @@
     {
       "name": "axell",
       "level": 11,
-      "exp": 26941,
+      "exp": 27112,
       "saldo": 1362999
     },
     {
@@ -353,17 +353,17 @@
       "saldo": 664
     },
     {
+      "name": "renita",
+      "level": 9,
+      "exp": 22996,
+      "saldo": 1000479451246953000
+    },
+    {
       "name": "Ilham",
       "level": 9,
       "exp": 22989,
       "saldo": 0
-    },
-    {
-      "name": "renita",
-      "level": 9,
-      "exp": 22960,
-      "saldo": 1000479451246953000
     }
   ],
-  "lastUpdated": 1774346122328
+  "lastUpdated": 1774346182362
 }
