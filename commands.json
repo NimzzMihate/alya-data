@@ -3615,7 +3615,7 @@
     "ewe-paksa": 30,
     "me": 165,
     "setbg": 8,
-    "rampok2": 192,
+    "rampok2": 193,
     "6285609504925": 13,
     "atm": 54,
     "bank": 25,
@@ -4096,8 +4096,8 @@
     "6289530116661": 1,
     "adoptpet": 16,
     "petstat": 19,
-    "playpet": 34,
-    "feedpet": 51,
+    "playpet": 35,
+    "feedpet": 52,
     "namapet": 1,
     "namepet": 7,
     "statpet": 1,
@@ -4125,7 +4125,7 @@
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
-    "bot": 1,
+    "bot": 2,
     "tf+62": 1,
     "dokter": 1,
     "carikarakter[shizuka": 1,
@@ -4133,7 +4133,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 48,
+    "battlepet": 50,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4311,5 +4311,5 @@
     "pinh": 1,
     "39397852504138": 1
   },
-  "lastUpdated": 1774324974868
+  "lastUpdated": 1774325034870
 }
