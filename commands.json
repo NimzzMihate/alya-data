@@ -3877,7 +3877,7 @@
     "...": 1,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 64,
+    "statuspacar": 65,
     "kasihmakan": 9,
     "kasihminum": 7,
     "naena": 5,
@@ -4022,14 +4022,14 @@
     "cariin": 1,
     "harian": 1,
     "oke": 1,
-    "nikah": 32,
+    "nikah": 33,
     "stiker": 1,
     "6285766167323": 2,
     "delede": 1,
     "delete": 1,
     "18232723431562": 1,
     "kennsesanpai": 1,
-    "setrole": 14,
+    "setrole": 15,
     "setstatus": 2,
     "pin.": 1,
     "bounty": 2,
@@ -4089,7 +4089,7 @@
     "lamar": 9,
     "beli": 1,
     "maaf": 3,
-    "sg": 26,
+    "sg": 27,
     "shop": 7,
     "168238516305969": 3,
     "atmtake": 16,
@@ -4353,5 +4353,5 @@
     "infobot": 1,
     "feedper": 1
   },
-  "lastUpdated": 1774343259688
+  "lastUpdated": 1774343319688
 }
