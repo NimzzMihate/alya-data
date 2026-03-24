@@ -3625,7 +3625,7 @@
     "rampok2": 222,
     "6285609504925": 13,
     "atm": 63,
-    "bank": 34,
+    "bank": 35,
     "afk": 167,
     "kerja": 26,
     "628176533297": 14,
@@ -3712,7 +3712,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 70,
-    "tes": 84,
+    "tes": 85,
     "listown": 9,
     "getpp": 3,
     "linkgc": 5,
@@ -3932,7 +3932,7 @@
     "6281393699096": 2,
     "tests": 2,
     "groupinfo": 3,
-    "cap": 19,
+    "cap": 21,
     "s.whatsapp.net": 1,
     "ttaudio": 7,
     "6282151553767": 2,
@@ -3979,7 +3979,7 @@
     "47039270359040": 3,
     "autosahur": 1,
     "6285855009121": 3,
-    "listcap": 5,
+    "listcap": 6,
     "aiart": 1,
     "f": 3,
     "heal.": 1,
@@ -4104,7 +4104,7 @@
     "adoptpet": 16,
     "petstat": 19,
     "playpet": 39,
-    "feedpet": 57,
+    "feedpet": 59,
     "namapet": 1,
     "namepet": 7,
     "statpet": 1,
@@ -4413,7 +4413,8 @@
     "unban": 1,
     "uncap": 3,
     "jembod": 1,
-    "femboy": 1
+    "femboy": 1,
+    "pet": 1
   },
-  "lastUpdated": 1774352986796
+  "lastUpdated": 1774353046796
 }
