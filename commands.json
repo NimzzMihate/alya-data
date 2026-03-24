@@ -3672,7 +3672,7 @@
     "gift": 95,
     "ajakmain": 26,
     "daily": 10,
-    "adventure": 11,
+    "adventure": 13,
     "cf": 16,
     "nai2": 4,
     "6282137487477": 10,
@@ -3696,7 +3696,7 @@
     "265944542793975": 1,
     "berburu": 14,
     "masak": 9,
-    "rpgmenu": 9,
+    "rpgmenu": 10,
     "makan": 6,
     "repair": 1,
     "kapal": 5,
@@ -4407,7 +4407,8 @@
     "undang": 1,
     "lepas": 1,
     "tarik😹": 1,
-    "pulsa-tsel": 1
+    "pulsa-tsel": 1,
+    "savanah": 1
   },
-  "lastUpdated": 1774351738066
+  "lastUpdated": 1774351798065
 }
