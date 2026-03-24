@@ -3612,7 +3612,7 @@
     "mobaprofile": 14,
     "playmoba": 38,
     "ngaji": 21,
-    "ewe-paksa": 26,
+    "ewe-paksa": 28,
     "me": 145,
     "setbg": 8,
     "rampok2": 181,
@@ -4022,7 +4022,7 @@
     "delete": 1,
     "18232723431562": 1,
     "kennsesanpai": 1,
-    "setrole": 3,
+    "setrole": 4,
     "setstatus": 1,
     "pin.": 1,
     "bounty": 2,
@@ -4295,5 +4295,5 @@
     "bailoutt": 1,
     "bailout.": 1
   },
-  "lastUpdated": 1774320030457
+  "lastUpdated": 1774320090457
 }
