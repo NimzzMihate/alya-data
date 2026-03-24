@@ -3623,7 +3623,7 @@
     "ewe-paksa": 31,
     "me": 248,
     "setbg": 10,
-    "rampok2": 230,
+    "rampok2": 231,
     "6285609504925": 13,
     "atm": 67,
     "bank": 36,
@@ -4161,7 +4161,7 @@
     "gay": 8,
     "ayonontonjojobiarsigma": 1,
     "6282340184735": 2,
-    "213675277316327": 6,
+    "213675277316327": 7,
     "628818366526": 3,
     "rampoki": 1,
     "6287870709356": 2,
@@ -4437,7 +4437,8 @@
     "digitalocean": 1,
     "cekdroplet": 1,
     "detailkarakter": 1,
-    "gcsider": 1
+    "gcsider": 1,
+    "quoted": 4
   },
-  "lastUpdated": 1774357413100
+  "lastUpdated": 1774357473097
 }
