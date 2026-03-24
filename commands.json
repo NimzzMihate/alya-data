@@ -3769,7 +3769,7 @@
     "verify": 14,
     "daftr": 7,
     "status": 7,
-    "pap": 114,
+    "pap": 119,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3836,7 +3836,7 @@
     "fitnah": 32,
     "puji": 24,
     "pacar": 2,
-    "carikarakter": 77,
+    "carikarakter": 78,
     "nembak": 44,
     "cry": 4,
     "happy": 2,
@@ -3886,8 +3886,8 @@
     "6281455125940": 2,
     "6285761349641": 10,
     "pap2": 30,
-    "getcase": 2,
-    "/": 2,
+    "getcase": 3,
+    "/": 3,
     "cekcantik": 2,
     "toplocal": 14,
     "forward": 96,
@@ -3917,7 +3917,7 @@
     "register": 11,
     "rename": 1,
     "cn": 3,
-    "cari": 2,
+    "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
     "dagang": 2,
@@ -4348,5 +4348,5 @@
     "120753005527234": 1,
     "ann": 1
   },
-  "lastUpdated": 1774337666449
+  "lastUpdated": 1774337726454
 }
