@@ -3651,7 +3651,7 @@
     "menu": 50,
     "owner": 5,
     "script": 7,
-    "joinrpg": 21,
+    "joinrpg": 22,
     "mentahan": 1,
     "claim": 21,
     "cekidch": 2,
@@ -3921,7 +3921,7 @@
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
-    "dagang": 2,
+    "dagang": 5,
     "gccanvas": 2,
     "totalchat": 1,
     "145161355005957": 6,
@@ -4444,5 +4444,5 @@
     ".pacar": 1,
     "cium.cium": 1
   },
-  "lastUpdated": 1774359553990
+  "lastUpdated": 1774359613995
 }
