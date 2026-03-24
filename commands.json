@@ -3625,7 +3625,7 @@
     "rampok2": 199,
     "6285609504925": 13,
     "atm": 60,
-    "bank": 29,
+    "bank": 30,
     "afk": 164,
     "kerja": 22,
     "628176533297": 14,
@@ -3778,7 +3778,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 40,
+    "saldo": 41,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4352,5 +4352,5 @@
     "ai": 1,
     "infobot": 1
   },
-  "lastUpdated": 1774341519683
+  "lastUpdated": 1774341579673
 }
