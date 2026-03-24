@@ -3627,7 +3627,7 @@
     "atm": 62,
     "bank": 34,
     "afk": 167,
-    "kerja": 25,
+    "kerja": 26,
     "628176533297": 14,
     "s": 70,
     "jwkwnwkabs": 1,
@@ -4388,11 +4388,11 @@
     "setgender": 1,
     "sapi": 1,
     "gun": 1,
-    "polisi": 1,
+    "polisi": 2,
     "job": 2,
     "minum": 1,
     "atmpullall": 1,
     "worker": 1
   },
-  "lastUpdated": 1774349696844
+  "lastUpdated": 1774349756840
 }
