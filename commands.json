@@ -3617,7 +3617,7 @@
     "setbg": 8,
     "rampok2": 181,
     "6285609504925": 13,
-    "atm": 53,
+    "atm": 54,
     "bank": 24,
     "afk": 157,
     "kerja": 18,
@@ -4295,8 +4295,8 @@
     "bailoutt": 1,
     "bailout.": 1,
     "setserial": 1,
-    "getserial": 1,
+    "getserial": 2,
     "getsarial": 1
   },
-  "lastUpdated": 1774320532039
+  "lastUpdated": 1774320592040
 }
