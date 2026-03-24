@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 239,
-      "exp": 573922,
+      "exp": 574005,
       "saldo": 3110
     },
     {
@@ -215,13 +215,13 @@
     {
       "name": "Kayy",
       "level": 5,
-      "exp": 12279,
-      "saldo": 10002942636
+      "exp": 12496,
+      "saldo": 10001942636
     },
     {
       "name": "vannzz",
       "level": 9,
-      "exp": 22582,
+      "exp": 22697,
       "saldo": 1996599999
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 239,
-      "exp": 573922,
+      "exp": 574005,
       "saldo": 3110
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774355534414
+  "lastUpdated": 1774355594417
 }
