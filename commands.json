@@ -3680,7 +3680,7 @@
     "removebg": 36,
     "addown": 7,
     "listowner": 8,
-    "brat": 49,
+    "brat": 50,
     "brathd": 1,
     "editfoto": 51,
     "dailymisi": 32,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 186,
+    "pap": 187,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4433,5 +4433,5 @@
     "peluk": 1,
     "nambahpacat": 1
   },
-  "lastUpdated": 1774356693091
+  "lastUpdated": 1774356753094
 }
