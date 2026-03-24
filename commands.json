@@ -3779,7 +3779,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 59,
+    "saldo": 60,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3878,11 +3878,11 @@
     "...": 1,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 83,
+    "statuspacar": 84,
     "kasihmakan": 9,
     "kasihminum": 7,
     "naena": 8,
-    "noenc": 17,
+    "noenc": 19,
     "6282115911954": 2,
     "6281455125940": 2,
     "6285761349641": 10,
@@ -4090,7 +4090,7 @@
     "lamar": 11,
     "beli": 2,
     "maaf": 3,
-    "sg": 34,
+    "sg": 35,
     "shop": 7,
     "168238516305969": 6,
     "atmtake": 16,
@@ -4446,7 +4446,8 @@
     "bisnis": 2,
     "merampok": 1,
     "yampah": 1,
-    "rampo²": 1
+    "rampo²": 1,
+    "enana": 1
   },
-  "lastUpdated": 1774360214021
+  "lastUpdated": 1774360273997
 }
