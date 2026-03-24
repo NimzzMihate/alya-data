@@ -3766,7 +3766,7 @@
     "daftar": 12,
     "profile": 5,
     "topactive": 26,
-    "verify": 13,
+    "verify": 14,
     "daftr": 7,
     "status": 7,
     "pap": 113,
@@ -3837,7 +3837,7 @@
     "puji": 24,
     "pacar": 2,
     "carikarakter": 77,
-    "nembak": 42,
+    "nembak": 43,
     "cry": 4,
     "happy": 2,
     "sad": 1,
@@ -3914,7 +3914,7 @@
     "statusanak": 13,
     "wink": 2,
     "kecocokan": 10,
-    "register": 10,
+    "register": 11,
     "rename": 1,
     "cn": 3,
     "cari": 2,
@@ -4347,5 +4347,5 @@
     "nyrah": 1,
     "120753005527234": 1
   },
-  "lastUpdated": 1774337546458
+  "lastUpdated": 1774337606448
 }
