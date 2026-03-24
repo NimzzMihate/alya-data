@@ -3659,8 +3659,8 @@
     "6281393286345": 29,
     ">": 4,
     "addapi": 2,
-    "pin": 84,
-    "hd": 71,
+    "pin": 86,
+    "hd": 72,
     "useitem": 7,
     "77605898313906": 63,
     "huxin": 1,
@@ -3835,7 +3835,7 @@
     "pabrik": 1,
     "fitnah": 41,
     "puji": 41,
-    "pacar": 21,
+    "pacar": 22,
     "carikarakter": 92,
     "nembak": 49,
     "cry": 4,
@@ -4423,5 +4423,5 @@
     "smile": 1,
     "rasio": 1
   },
-  "lastUpdated": 1774354554249
+  "lastUpdated": 1774354614250
 }
