@@ -3615,12 +3615,12 @@
     "backup": 2,
     "get": 24,
     "tohtml": 8,
-    "ranked": 65,
+    "ranked": 66,
     "mobaprofile": 14,
     "playmoba": 38,
     "ngaji": 21,
     "ewe-paksa": 30,
-    "me": 180,
+    "me": 181,
     "setbg": 8,
     "rampok2": 200,
     "6285609504925": 13,
@@ -3946,7 +3946,7 @@
     "6283839942035": 3,
     "herolist": 1,
     "232414219628797": 3,
-    "buyhero": 2,
+    "buyhero": 4,
     "selecthero": 4,
     "211394498711641": 1,
     "271850458320966": 1,
@@ -4178,7 +4178,7 @@
     "listbug": 1,
     "listban": 1,
     "cekstatus": 1,
-    "cekprofil": 4,
+    "cekprofil": 6,
     "atmall": 23,
     "inv": 11,
     "healfull": 3,
@@ -4353,5 +4353,5 @@
     "infobot": 1,
     "feedper": 1
   },
-  "lastUpdated": 1774343079685
+  "lastUpdated": 1774343139689
 }
