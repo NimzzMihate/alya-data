@@ -3626,7 +3626,7 @@
     "6285609504925": 13,
     "atm": 62,
     "bank": 33,
-    "afk": 165,
+    "afk": 166,
     "kerja": 22,
     "628176533297": 14,
     "s": 70,
@@ -3834,10 +3834,10 @@
     "d": 44,
     "pabrik": 1,
     "fitnah": 41,
-    "puji": 35,
+    "puji": 36,
     "pacar": 15,
-    "carikarakter": 90,
-    "nembak": 48,
+    "carikarakter": 92,
+    "nembak": 49,
     "cry": 4,
     "happy": 2,
     "sad": 1,
@@ -4115,7 +4115,7 @@
     "statuspasangan": 1,
     "bego": 5,
     "haram": 1,
-    "6282327857595": 2,
+    "6282327857595": 3,
     "roast": 34,
     "rampokin": 7,
     "nikahpaksa": 27,
@@ -4362,7 +4362,7 @@
     "carabuylimit": 1,
     "nulis": 2,
     "listrank": 1,
-    "68458205204495": 2,
+    "68458205204495": 3,
     "invpd": 1,
     "628895327267": 3,
     "ceklimit": 2,
@@ -4384,5 +4384,5 @@
     "ownermenu": 1,
     "self": 1
   },
-  "lastUpdated": 1774348500745
+  "lastUpdated": 1774348560747
 }
