@@ -3680,7 +3680,7 @@
     "removebg": 36,
     "addown": 7,
     "listowner": 8,
-    "brat": 46,
+    "brat": 49,
     "brathd": 1,
     "editfoto": 51,
     "dailymisi": 32,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 185,
+    "pap": 186,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4099,7 +4099,7 @@
     "babi": 6,
     "dongo": 4,
     "rampok3": 4,
-    "cekbatang": 39,
+    "cekbatang": 40,
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 18,
@@ -4433,5 +4433,5 @@
     "peluk": 1,
     "nambahpacat": 1
   },
-  "lastUpdated": 1774356599564
+  "lastUpdated": 1774356693091
 }
