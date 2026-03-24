@@ -3,8 +3,8 @@
   "totalUsers": 1035,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 7197,
-  "totalChat": 7197,
+  "totalCmd": 7212,
+  "totalChat": 7212,
   "topCommands": [
     {
       "cmd": "forward",
@@ -12,7 +12,7 @@
     },
     {
       "cmd": "buy",
-      "count": 263
+      "count": 264
     },
     {
       "cmd": "me",
@@ -23,12 +23,12 @@
       "count": 227
     },
     {
-      "cmd": "afk",
-      "count": 169
+      "cmd": "pap",
+      "count": 171
     },
     {
-      "cmd": "pap",
-      "count": 163
+      "cmd": "afk",
+      "count": 169
     },
     {
       "cmd": "craft",
@@ -36,7 +36,7 @@
     },
     {
       "cmd": "gift",
-      "count": 104
+      "count": 106
     },
     {
       "cmd": "carikarakter",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 481,
-  "lastUpdated": 1774355234394
+  "uptimeSeconds": 541,
+  "lastUpdated": 1774355294394
 }
