@@ -3724,7 +3724,7 @@
     "cium": 44,
     "6281915895220": 1,
     "6281215537344": 3,
-    "rampok": 81,
+    "rampok": 82,
     "listapi": 6,
     "family100": 1,
     "tebakpokemon": 1,
@@ -3921,7 +3921,7 @@
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
-    "dagang": 5,
+    "dagang": 6,
     "gccanvas": 2,
     "totalchat": 1,
     "145161355005957": 6,
@@ -4129,7 +4129,7 @@
     "cek": 5,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 15,
+    "bailout": 16,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4197,7 +4197,7 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 2,
-    "nyampah": 2,
+    "nyampah": 3,
     "berlayar": 9,
     "6285817528851": 2,
     "reedem": 1,
@@ -4444,7 +4444,9 @@
     ".pacar": 1,
     "cium.cium": 1,
     "bisnis": 1,
-    "merampok": 1
+    "merampok": 1,
+    "yampah": 1,
+    "rampo²": 1
   },
-  "lastUpdated": 1774359913994
+  "lastUpdated": 1774359973993
 }
