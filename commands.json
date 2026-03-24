@@ -3761,7 +3761,7 @@
     "..": 1,
     "628998866123": 4,
     "166121432961259": 7,
-    "....": 1,
+    "....": 2,
     "setprofile": 35,
     "daftar": 12,
     "profile": 7,
@@ -3769,7 +3769,7 @@
     "verify": 14,
     "daftr": 7,
     "status": 7,
-    "pap": 137,
+    "pap": 138,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4103,8 +4103,8 @@
     "6289530116661": 1,
     "adoptpet": 16,
     "petstat": 19,
-    "playpet": 36,
-    "feedpet": 52,
+    "playpet": 38,
+    "feedpet": 55,
     "namapet": 1,
     "namepet": 7,
     "statpet": 1,
@@ -4140,7 +4140,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 55,
+    "battlepet": 57,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4350,7 +4350,8 @@
     "buysaldo": 2,
     "tarik": 1,
     "ai": 1,
-    "infobot": 1
+    "infobot": 1,
+    "feedper": 1
   },
-  "lastUpdated": 1774342599679
+  "lastUpdated": 1774342659682
 }
