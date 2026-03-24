@@ -97,6 +97,12 @@
       "saldo": 1355999
     },
     {
+      "name": "Tya",
+      "level": 9,
+      "exp": 23671,
+      "saldo": 132333
+    },
+    {
       "name": "Zaki",
       "level": 9,
       "exp": 23255,
@@ -111,14 +117,8 @@
     {
       "name": "renita",
       "level": 9,
-      "exp": 22886,
+      "exp": 22926,
       "saldo": 1000479451246953000
-    },
-    {
-      "name": "Palzz",
-      "level": 9,
-      "exp": 22409,
-      "saldo": 35065
     }
   ],
   "saldo": [
@@ -155,7 +155,7 @@
     {
       "name": "renita",
       "level": 9,
-      "exp": 22886,
+      "exp": 22926,
       "saldo": 1000479451246953000
     },
     {
@@ -342,9 +342,9 @@
     },
     {
       "name": "Tya",
-      "level": 7,
-      "exp": 23634,
-      "saldo": 127333
+      "level": 9,
+      "exp": 23671,
+      "saldo": 132333
     },
     {
       "name": "Zaki",
@@ -361,9 +361,9 @@
     {
       "name": "renita",
       "level": 9,
-      "exp": 22886,
+      "exp": 22926,
       "saldo": 1000479451246953000
     }
   ],
-  "lastUpdated": 1774323035810
+  "lastUpdated": 1774323095811
 }
