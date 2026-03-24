@@ -3762,7 +3762,7 @@
     "verify": 12,
     "daftr": 7,
     "status": 7,
-    "pap": 95,
+    "pap": 96,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3920,7 +3920,7 @@
     "istriku": 15,
     "271966086938834": 1,
     "51338180305071": 6,
-    "hitamkan": 7,
+    "hitamkan": 8,
     "hitam": 1,
     "6281393699096": 2,
     "tests": 2,
@@ -4091,7 +4091,7 @@
     "babi": 5,
     "dongo": 2,
     "rampok3": 4,
-    "cekbatang": 23,
+    "cekbatang": 24,
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 16,
@@ -4304,7 +4304,8 @@
     "trap": 1,
     "neko": 1,
     "slap": 1,
-    "ajakmaij": 1
+    "ajakmaij": 1,
+    "hytamkan": 1
   },
-  "lastUpdated": 1774322282932
+  "lastUpdated": 1774322342933
 }
