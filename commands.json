@@ -3647,9 +3647,9 @@
     "61405583679507": 1,
     "wikwik": 21,
     "heal": 30,
-    "menu": 40,
+    "menu": 41,
     "owner": 5,
-    "script": 5,
+    "script": 6,
     "joinrpg": 19,
     "mentahan": 1,
     "claim": 21,
@@ -4380,7 +4380,8 @@
     "revoke": 2,
     "hdvideo": 3,
     "getlinkgc": 1,
-    "131203332047033": 1
+    "131203332047033": 1,
+    "ownermenu": 1
   },
-  "lastUpdated": 1774347840614
+  "lastUpdated": 1774347900616
 }
