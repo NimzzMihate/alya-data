@@ -4133,7 +4133,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 54,
+    "battlepet": 55,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4311,7 +4311,11 @@
     "pinh": 1,
     "39397852504138": 1,
     "hachawaifu": 1,
-    "spotifydl": 1
+    "spotifydl": 1,
+    "toaudio": 1,
+    "speed": 1,
+    "bass": 1,
+    "earrape": 1
   },
-  "lastUpdated": 1774327596623
+  "lastUpdated": 1774327656616
 }
