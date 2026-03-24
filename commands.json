@@ -3762,7 +3762,7 @@
     "verify": 12,
     "daftr": 7,
     "status": 7,
-    "pap": 86,
+    "pap": 87,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3827,7 +3827,7 @@
     "d": 42,
     "pabrik": 1,
     "fitnah": 28,
-    "puji": 18,
+    "puji": 19,
     "pacar": 2,
     "carikarakter": 74,
     "nembak": 36,
@@ -4292,5 +4292,5 @@
     "rt": 1,
     ".e": 1
   },
-  "lastUpdated": 1774314389529
+  "lastUpdated": 1774314449536
 }
