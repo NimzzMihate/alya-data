@@ -103,16 +103,16 @@
       "saldo": 0
     },
     {
+      "name": "Zaki",
+      "level": 11,
+      "exp": 27528,
+      "saldo": 700
+    },
+    {
       "name": "axell",
       "level": 11,
       "exp": 27480,
       "saldo": 1312999
-    },
-    {
-      "name": "Zaki",
-      "level": 11,
-      "exp": 27367,
-      "saldo": 700
     },
     {
       "name": "Tya",
@@ -347,16 +347,16 @@
       "saldo": 0
     },
     {
+      "name": "Zaki",
+      "level": 11,
+      "exp": 27528,
+      "saldo": 700
+    },
+    {
       "name": "axell",
       "level": 11,
       "exp": 27480,
       "saldo": 1312999
-    },
-    {
-      "name": "Zaki",
-      "level": 11,
-      "exp": 27367,
-      "saldo": 700
     },
     {
       "name": "Tya",
@@ -365,5 +365,5 @@
       "saldo": 139052
     }
   ],
-  "lastUpdated": 1774364263596
+  "lastUpdated": 1774364324064
 }
