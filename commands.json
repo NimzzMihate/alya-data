@@ -3675,8 +3675,8 @@
     "brat": 20,
     "brathd": 1,
     "editfoto": 42,
-    "dailymisi": 30,
-    "open-bo": 29,
+    "dailymisi": 32,
+    "open-bo": 30,
     "ewepaksa": 27,
     "topglobal": 10,
     "6285789692015": 1,
@@ -3809,7 +3809,7 @@
     "93283032285420": 6,
     "188571210244160": 3,
     "222531466350642": 1,
-    "tidur": 7,
+    "tidur": 8,
     "akun": 1,
     "jembott": 1,
     "kuis": 4,
@@ -3853,7 +3853,7 @@
     "playch": 21,
     "cekganteng": 19,
     "crkganteng": 1,
-    "puqi": 29,
+    "puqi": 30,
     "anj": 24,
     "anjing": 22,
     "winkhd": 1,
@@ -4022,7 +4022,7 @@
     "delete": 1,
     "18232723431562": 1,
     "kennsesanpai": 1,
-    "setrole": 1,
+    "setrole": 3,
     "setstatus": 1,
     "pin.": 1,
     "bounty": 2,
@@ -4295,5 +4295,5 @@
     "bailoutt": 1,
     "bailout.": 1
   },
-  "lastUpdated": 1774319970453
+  "lastUpdated": 1774320030457
 }
