@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 239,
-      "exp": 575410,
+      "exp": 575526,
       "saldo": 1.5508128094284243e+43
     },
     {
@@ -33,14 +33,14 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 181587,
+      "exp": 181712,
       "saldo": 2.016001793294507e+33
     },
     {
       "name": "Flonα Lyzellé ❀.",
-      "level": 74,
-      "exp": 179829,
-      "saldo": 107000
+      "level": 75,
+      "exp": 180026,
+      "saldo": 114000
     },
     {
       "name": "apip",
@@ -97,16 +97,16 @@
       "saldo": 1312999
     },
     {
+      "name": "vannzz",
+      "level": 10,
+      "exp": 24356,
+      "saldo": 2013579999
+    },
+    {
       "name": "Tya",
       "level": 10,
       "exp": 24352,
       "saldo": 139052
-    },
-    {
-      "name": "vannzz",
-      "level": 10,
-      "exp": 24310,
-      "saldo": 2013579999
     },
     {
       "name": "Zaki",
@@ -125,7 +125,7 @@
     {
       "name": "Pillaaaaa",
       "level": 239,
-      "exp": 575410,
+      "exp": 575526,
       "saldo": 1.5508128094284243e+43
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 181587,
+      "exp": 181712,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -221,13 +221,13 @@
     {
       "name": "Kayy",
       "level": 6,
-      "exp": 14847,
+      "exp": 14967,
       "saldo": 9997433137
     },
     {
       "name": "vannzz",
       "level": 10,
-      "exp": 24310,
+      "exp": 24356,
       "saldo": 2013579999
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 239,
-      "exp": 575410,
+      "exp": 575526,
       "saldo": 1.5508128094284243e+43
     },
     {
@@ -271,14 +271,14 @@
     {
       "name": "Joishi ganteng",
       "level": 75,
-      "exp": 181587,
+      "exp": 181712,
       "saldo": 2.016001793294507e+33
     },
     {
       "name": "Flonα Lyzellé ❀.",
-      "level": 74,
-      "exp": 179829,
-      "saldo": 107000
+      "level": 75,
+      "exp": 180026,
+      "saldo": 114000
     },
     {
       "name": "apip",
@@ -341,16 +341,16 @@
       "saldo": 1312999
     },
     {
+      "name": "vannzz",
+      "level": 10,
+      "exp": 24356,
+      "saldo": 2013579999
+    },
+    {
       "name": "Tya",
       "level": 10,
       "exp": 24352,
       "saldo": 139052
-    },
-    {
-      "name": "vannzz",
-      "level": 10,
-      "exp": 24310,
-      "saldo": 2013579999
     },
     {
       "name": "Zaki",
@@ -365,5 +365,5 @@
       "saldo": 1000479451246953000
     }
   ],
-  "lastUpdated": 1774356419560
+  "lastUpdated": 1774356479560
 }
