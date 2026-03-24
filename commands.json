@@ -4102,12 +4102,12 @@
     "cekbatang": 40,
     "tahun": 3,
     "6289530116661": 1,
-    "adoptpet": 19,
+    "adoptpet": 20,
     "petstat": 20,
     "playpet": 40,
-    "feedpet": 60,
+    "feedpet": 61,
     "namapet": 3,
-    "namepet": 7,
+    "namepet": 8,
     "statpet": 1,
     "makannin": 1,
     "pepek": 1,
@@ -4433,5 +4433,5 @@
     "peluk": 1,
     "nambahpacat": 1
   },
-  "lastUpdated": 1774357113096
+  "lastUpdated": 1774357173102
 }
