@@ -3660,7 +3660,7 @@
     ">": 4,
     "addapi": 2,
     "pin": 81,
-    "hd": 64,
+    "hd": 65,
     "useitem": 7,
     "77605898313906": 59,
     "huxin": 1,
@@ -4022,7 +4022,7 @@
     "cariin": 1,
     "harian": 1,
     "oke": 1,
-    "nikah": 28,
+    "nikah": 29,
     "stiker": 1,
     "6285766167323": 2,
     "delede": 1,
@@ -4340,7 +4340,8 @@
     "jadian": 1,
     "info": 2,
     "tebakkat": 1,
-    "tebakanime": 1
+    "tebakanime": 1,
+    "tebaklogo": 1
   },
-  "lastUpdated": 1774337066442
+  "lastUpdated": 1774337126441
 }
