@@ -3836,7 +3836,7 @@
     "fitnah": 32,
     "puji": 23,
     "pacar": 2,
-    "carikarakter": 74,
+    "carikarakter": 75,
     "nembak": 38,
     "cry": 3,
     "happy": 2,
@@ -4337,7 +4337,8 @@
     "kiss": 1,
     "wangi": 1,
     "toplay": 3,
-    "jadian": 1
+    "jadian": 1,
+    "info": 2
   },
-  "lastUpdated": 1774331916721
+  "lastUpdated": 1774332026393
 }
