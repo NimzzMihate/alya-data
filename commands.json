@@ -3769,7 +3769,7 @@
     "verify": 14,
     "daftr": 7,
     "status": 7,
-    "pap": 133,
+    "pap": 134,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -4179,7 +4179,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 4,
-    "atmall": 21,
+    "atmall": 22,
     "inv": 11,
     "healfull": 3,
     "mute": 1,
@@ -4352,5 +4352,5 @@
     "ai": 1,
     "infobot": 1
   },
-  "lastUpdated": 1774341699673
+  "lastUpdated": 1774341759675
 }
