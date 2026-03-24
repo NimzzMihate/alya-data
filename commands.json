@@ -3621,7 +3621,7 @@
     "playmoba": 38,
     "ngaji": 21,
     "ewe-paksa": 31,
-    "me": 250,
+    "me": 251,
     "setbg": 10,
     "rampok2": 236,
     "6285609504925": 13,
@@ -3680,7 +3680,7 @@
     "removebg": 36,
     "addown": 7,
     "listowner": 9,
-    "brat": 50,
+    "brat": 51,
     "brathd": 1,
     "editfoto": 57,
     "dailymisi": 32,
@@ -3770,7 +3770,7 @@
     "verify": 16,
     "daftr": 10,
     "status": 10,
-    "pap": 198,
+    "pap": 199,
     "tebakbendera": 14,
     "tebak": 1,
     "gantinama": 1,
@@ -3779,7 +3779,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 58,
+    "saldo": 59,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4151,7 +4151,7 @@
     "berikanakuperisaiantirampok": 1,
     "kapan": 1,
     "cheat": 1,
-    "chat": 40,
+    "chat": 42,
     "unlimited": 1,
     "ppobindonesia": 2,
     "money": 2,
@@ -4444,5 +4444,5 @@
     ".pacar": 1,
     "cium.cium": 1
   },
-  "lastUpdated": 1774359193987
+  "lastUpdated": 1774359253987
 }
