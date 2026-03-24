@@ -3836,7 +3836,7 @@
     "carikarakter": 74,
     "nembak": 38,
     "cry": 3,
-    "happy": 1,
+    "happy": 2,
     "sad": 1,
     "bully": 1,
     "atmpull": 30,
@@ -4324,7 +4324,8 @@
     "pasanganmenu": 1,
     "menupasangan": 1,
     "katjiwa": 1,
-    "ler": 1
+    "ler": 1,
+    "tts": 4
   },
-  "lastUpdated": 1774329036625
+  "lastUpdated": 1774329096625
 }
