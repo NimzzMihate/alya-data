@@ -3711,7 +3711,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 61,
+    "cekprofile": 62,
     "tes": 81,
     "listown": 9,
     "getpp": 3,
@@ -3822,7 +3822,7 @@
     "kuis": 4,
     "32968236081310": 18,
     "6283152469722": 4,
-    "6285649132023": 27,
+    "6285649132023": 28,
     "oldyk": 2,
     "no": 1,
     "edit": 5,
@@ -4008,7 +4008,7 @@
     "setprofil": 3,
     "cm": 1,
     "warn": 2,
-    "tagme": 2,
+    "tagme": 3,
     "130365243027683": 2,
     "profil": 7,
     "prefix": 1,
@@ -4335,7 +4335,7 @@
     "puisi": 1,
     "kill": 1,
     "kiss": 1,
-    "wangi": 2,
+    "wangi": 3,
     "toplay": 3,
     "jadian": 1,
     "info": 3,
@@ -4353,5 +4353,5 @@
     "infobot": 1,
     "feedper": 1
   },
-  "lastUpdated": 1774342959685
+  "lastUpdated": 1774343019687
 }
