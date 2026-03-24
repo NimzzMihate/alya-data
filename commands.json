@@ -3728,7 +3728,7 @@
     "revomebg": 2,
     "rvo": 7,
     "202766010036371": 7,
-    "89374091944116": 41,
+    "89374091944116": 42,
     "80548286464072": 5,
     "250693499797710": 17,
     "??": 5,
@@ -3835,7 +3835,7 @@
     "happy": 1,
     "sad": 1,
     "bully": 1,
-    "atmpull": 27,
+    "atmpull": 30,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -3883,7 +3883,7 @@
     "/": 1,
     "cekcantik": 2,
     "toplocal": 13,
-    "forward": 76,
+    "forward": 83,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -4172,7 +4172,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 2,
-    "atmall": 17,
+    "atmall": 20,
     "inv": 11,
     "healfull": 3,
     "mute": 1,
@@ -4295,5 +4295,5 @@
     "bailoutt": 1,
     "bailout.": 1
   },
-  "lastUpdated": 1774320352038
+  "lastUpdated": 1774320412039
 }
