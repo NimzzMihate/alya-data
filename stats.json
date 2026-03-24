@@ -3,8 +3,8 @@
   "totalUsers": 1035,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 7254,
-  "totalChat": 7254,
+  "totalCmd": 7263,
+  "totalChat": 7263,
   "topCommands": [
     {
       "cmd": "forward",
@@ -12,7 +12,7 @@
     },
     {
       "cmd": "buy",
-      "count": 271
+      "count": 273
     },
     {
       "cmd": "me",
@@ -24,7 +24,7 @@
     },
     {
       "cmd": "pap",
-      "count": 176
+      "count": 177
     },
     {
       "cmd": "afk",
@@ -36,7 +36,7 @@
     },
     {
       "cmd": "gift",
-      "count": 110
+      "count": 111
     },
     {
       "cmd": "carikarakter",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 781,
-  "lastUpdated": 1774355534413
+  "uptimeSeconds": 841,
+  "lastUpdated": 1774355594416
 }
