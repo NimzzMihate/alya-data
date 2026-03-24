@@ -103,16 +103,16 @@
       "saldo": 139052
     },
     {
+      "name": "vannzz",
+      "level": 9,
+      "exp": 23373,
+      "saldo": 2013579999
+    },
+    {
       "name": "Zaki",
       "level": 9,
       "exp": 23255,
       "saldo": 664
-    },
-    {
-      "name": "vannzz",
-      "level": 9,
-      "exp": 23194,
-      "saldo": 2013599999
     },
     {
       "name": "renita",
@@ -221,8 +221,8 @@
     {
       "name": "vannzz",
       "level": 9,
-      "exp": 23194,
-      "saldo": 2013599999
+      "exp": 23373,
+      "saldo": 2013579999
     },
     {
       "name": "Souta",
@@ -347,16 +347,16 @@
       "saldo": 139052
     },
     {
+      "name": "vannzz",
+      "level": 9,
+      "exp": 23373,
+      "saldo": 2013579999
+    },
+    {
       "name": "Zaki",
       "level": 9,
       "exp": 23255,
       "saldo": 664
-    },
-    {
-      "name": "vannzz",
-      "level": 9,
-      "exp": 23194,
-      "saldo": 2013599999
     },
     {
       "name": "renita",
@@ -365,5 +365,5 @@
       "saldo": 1000479451246953000
     }
   ],
-  "lastUpdated": 1774355999556
+  "lastUpdated": 1774356059556
 }
