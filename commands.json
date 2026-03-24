@@ -4471,10 +4471,10 @@
     "art": 1,
     "voicemenu": 1,
     "smooth": 2,
-    "fast": 1,
-    "deep": 4,
+    "fast": 2,
+    "deep": 6,
     "isi": 1,
     "62881024436220": 1
   },
-  "lastUpdated": 1774364780366
+  "lastUpdated": 1774364840383
 }
