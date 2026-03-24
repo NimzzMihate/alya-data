@@ -3,8 +3,8 @@
   "totalUsers": 1028,
   "totalGroups": 37,
   "totalFeatures": 3600,
-  "totalCmd": 5444,
-  "totalChat": 5444,
+  "totalCmd": 5447,
+  "totalChat": 5447,
   "topCommands": [
     {
       "cmd": "rampok2",
@@ -16,11 +16,11 @@
     },
     {
       "cmd": "afk",
-      "count": 158
+      "count": 159
     },
     {
       "cmd": "me",
-      "count": 155
+      "count": 156
     },
     {
       "cmd": "craft",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 1141,
-  "lastUpdated": 1774322582936
+  "uptimeSeconds": 1201,
+  "lastUpdated": 1774322642940
 }
