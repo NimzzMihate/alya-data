@@ -91,16 +91,16 @@
       "saldo": 1722760
     },
     {
+      "name": "vannzz",
+      "level": 11,
+      "exp": 27514,
+      "saldo": 2095074998
+    },
+    {
       "name": "axell",
       "level": 11,
       "exp": 27480,
       "saldo": 1312999
-    },
-    {
-      "name": "vannzz",
-      "level": 11,
-      "exp": 27454,
-      "saldo": 2095074998
     },
     {
       "name": "Tya",
@@ -227,7 +227,7 @@
     {
       "name": "vannzz",
       "level": 11,
-      "exp": 27454,
+      "exp": 27514,
       "saldo": 2095074998
     },
     {
@@ -335,16 +335,16 @@
       "saldo": 1722760
     },
     {
+      "name": "vannzz",
+      "level": 11,
+      "exp": 27514,
+      "saldo": 2095074998
+    },
+    {
       "name": "axell",
       "level": 11,
       "exp": 27480,
       "saldo": 1312999
-    },
-    {
-      "name": "vannzz",
-      "level": 11,
-      "exp": 27454,
-      "saldo": 2095074998
     },
     {
       "name": "Tya",
@@ -365,5 +365,5 @@
       "saldo": 664
     }
   ],
-  "lastUpdated": 1774360478667
+  "lastUpdated": 1774360538672
 }
