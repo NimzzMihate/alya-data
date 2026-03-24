@@ -3,8 +3,8 @@
   "totalUsers": 1036,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 8022,
-  "totalChat": 8022,
+  "totalCmd": 8033,
+  "totalChat": 8033,
   "topCommands": [
     {
       "cmd": "forward",
@@ -16,7 +16,7 @@
     },
     {
       "cmd": "pap",
-      "count": 266
+      "count": 269
     },
     {
       "cmd": "me",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 1081,
-  "lastUpdated": 1774365440375
+  "uptimeSeconds": 61,
+  "lastUpdated": 1774365554226
 }
