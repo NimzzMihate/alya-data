@@ -103,22 +103,22 @@
       "saldo": 1312999
     },
     {
+      "name": "Zaki",
+      "level": 11,
+      "exp": 27093,
+      "saldo": 8467
+    },
+    {
       "name": "Tya",
       "level": 10,
       "exp": 24352,
       "saldo": 139052
     },
     {
-      "name": "renita",
+      "name": "kenntod",
       "level": 9,
-      "exp": 23389,
-      "saldo": 1.0001000449351247e+22
-    },
-    {
-      "name": "Zaki",
-      "level": 9,
-      "exp": 23359,
-      "saldo": 664
+      "exp": 27599,
+      "saldo": 14573
     }
   ],
   "saldo": [
@@ -155,7 +155,7 @@
     {
       "name": "NarennDurenn",
       "level": 1,
-      "exp": 2737,
+      "exp": 2796,
       "saldo": 1.0000000000009998e+23
     },
     {
@@ -341,29 +341,29 @@
       "saldo": 1722760
     },
     {
+      "name": "kenntod",
+      "level": 9,
+      "exp": 27599,
+      "saldo": 14573
+    },
+    {
       "name": "axell",
       "level": 11,
       "exp": 27480,
       "saldo": 1312999
     },
     {
+      "name": "Zaki",
+      "level": 11,
+      "exp": 27093,
+      "saldo": 8467
+    },
+    {
       "name": "Tya",
       "level": 10,
       "exp": 24352,
       "saldo": 139052
-    },
-    {
-      "name": "renita",
-      "level": 9,
-      "exp": 23389,
-      "saldo": 1.0001000449351247e+22
-    },
-    {
-      "name": "Zaki",
-      "level": 9,
-      "exp": 23359,
-      "saldo": 664
     }
   ],
-  "lastUpdated": 1774364023529
+  "lastUpdated": 1774364083527
 }
