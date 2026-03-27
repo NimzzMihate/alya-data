@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 254,
-      "exp": 611814,
+      "exp": 611853,
       "saldo": 0
     },
     {
@@ -81,7 +81,7 @@
     {
       "name": "*KUROSE*",
       "level": 17,
-      "exp": 41875,
+      "exp": 41948,
       "saldo": 2
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Putzz?",
       "level": 254,
-      "exp": 611814,
+      "exp": 611853,
       "saldo": 0
     },
     {
@@ -325,7 +325,7 @@
     {
       "name": "*KUROSE*",
       "level": 17,
-      "exp": 41875,
+      "exp": 41948,
       "saldo": 2
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774619606757
+  "lastUpdated": 1774619666763
 }
