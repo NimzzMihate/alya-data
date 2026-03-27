@@ -3,7 +3,7 @@
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 622,
-      "exp": 1492989,
+      "exp": 1493095,
       "saldo": 1.1973162574747806e+40
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 252,
-      "exp": 605896,
+      "exp": 605997,
       "saldo": 4620
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 60,
-      "exp": 144608,
+      "exp": 144725,
       "saldo": 0
     },
     {
@@ -87,8 +87,8 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 35245,
-      "saldo": 1
+      "exp": 35489,
+      "saldo": 10000000001
     },
     {
       "name": "Yogie ganteng",
@@ -97,16 +97,16 @@
       "saldo": 1722760
     },
     {
+      "name": "Kayy",
+      "level": 12,
+      "exp": 29871,
+      "saldo": 0
+    },
+    {
       "name": "Zaki",
       "level": 12,
       "exp": 29868,
       "saldo": 700
-    },
-    {
-      "name": "Kayy",
-      "level": 12,
-      "exp": 29750,
-      "saldo": 0
     },
     {
       "name": "kenntod",
@@ -125,7 +125,7 @@
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 622,
-      "exp": 1492989,
+      "exp": 1493095,
       "saldo": 1.1973162574747806e+40
     },
     {
@@ -213,6 +213,12 @@
       "saldo": 81084237669526
     },
     {
+      "name": "vannzz",
+      "level": 14,
+      "exp": 35489,
+      "saldo": 10000000001
+    },
+    {
       "name": "Souta",
       "level": 27,
       "exp": 66335,
@@ -235,19 +241,13 @@
       "level": 1,
       "exp": 2515,
       "saldo": 9522885
-    },
-    {
-      "name": "Rey",
-      "level": 3,
-      "exp": 7471,
-      "saldo": 2519175
     }
   ],
   "exp": [
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 622,
-      "exp": 1492989,
+      "exp": 1493095,
       "saldo": 1.1973162574747806e+40
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 252,
-      "exp": 605896,
+      "exp": 605997,
       "saldo": 4620
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 60,
-      "exp": 144608,
+      "exp": 144725,
       "saldo": 0
     },
     {
@@ -331,8 +331,8 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 35245,
-      "saldo": 1
+      "exp": 35489,
+      "saldo": 10000000001
     },
     {
       "name": "Yogie ganteng",
@@ -341,16 +341,16 @@
       "saldo": 1722760
     },
     {
+      "name": "Kayy",
+      "level": 12,
+      "exp": 29871,
+      "saldo": 0
+    },
+    {
       "name": "Zaki",
       "level": 12,
       "exp": 29868,
       "saldo": 700
-    },
-    {
-      "name": "Kayy",
-      "level": 12,
-      "exp": 29750,
-      "saldo": 0
     },
     {
       "name": "kenntod",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774602941596
+  "lastUpdated": 1774603001597
 }
