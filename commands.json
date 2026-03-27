@@ -3796,7 +3796,7 @@
     "wm": 23,
     "absen": 3,
     "mulaiabsen": 3,
-    "6283848672013": 12,
+    "6283848672013": 13,
     "ratebot": 2,
     "webfeedback": 2,
     "171511465922650": 1,
@@ -4104,8 +4104,8 @@
     "6289530116661": 1,
     "adoptpet": 20,
     "petstat": 22,
-    "playpet": 42,
-    "feedpet": 65,
+    "playpet": 43,
+    "feedpet": 66,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4336,7 +4336,7 @@
     "puisi": 1,
     "kill": 1,
     "kiss": 14,
-    "wangi": 21,
+    "wangi": 22,
     "toplay": 3,
     "jadian": 1,
     "info": 4,
@@ -4556,5 +4556,5 @@
     "ulartangga": 73,
     "gp": 2
   },
-  "lastUpdated": 1774605660161
+  "lastUpdated": 1774605720157
 }
