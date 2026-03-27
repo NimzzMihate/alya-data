@@ -4182,7 +4182,7 @@
     "listbug": 1,
     "listban": 1,
     "cekstatus": 1,
-    "cekprofil": 6,
+    "cekprofil": 7,
     "atmall": 38,
     "inv": 16,
     "healfull": 3,
@@ -4603,5 +4603,5 @@
     "memu": 1,
     "227552249524236": 3
   },
-  "lastUpdated": 1774637731536
+  "lastUpdated": 1774637791546
 }
