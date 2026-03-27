@@ -3080,6 +3080,8 @@
     "getnomor",
     "updatealya",
     "pushalya",
+    "updateaniflow",
+    "updateanime",
     "kirimgc",
     "sendgc",
     "kirimke",
@@ -3671,7 +3673,7 @@
     "6285189358241": 33,
     "huxinn😡😡": 1,
     "gift": 167,
-    "ajakmain": 40,
+    "ajakmain": 41,
     "daily": 11,
     "adventure": 16,
     "cf": 16,
@@ -4557,7 +4559,8 @@
     "gp": 2,
     "menuuu": 1,
     "h": 1,
-    "41782045892753": 1
+    "41782045892753": 1,
+    "updateanime": 1
   },
-  "lastUpdated": 1774613984255
+  "lastUpdated": 1774614044261
 }
