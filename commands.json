@@ -4431,7 +4431,7 @@
     "mabar": 1,
     "malam": 3,
     "addsaldo": 2,
-    "3260467388514": 5,
+    "3260467388514": 6,
     "peluk": 2,
     "nambahpacat": 1,
     "statuspet": 1,
@@ -4575,7 +4575,8 @@
     "wait": 1,
     "log": 5,
     "jadibot": 1,
-    "aturanbot": 1
+    "aturanbot": 1,
+    "aturan": 1
   },
-  "lastUpdated": 1774618226743
+  "lastUpdated": 1774618286746
 }
