@@ -3,8 +3,8 @@
   "totalUsers": 1037,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 8279,
-  "totalChat": 8279,
+  "totalCmd": 8289,
+  "totalChat": 8289,
   "topCommands": [
     {
       "cmd": "forward",
@@ -32,7 +32,7 @@
     },
     {
       "cmd": "gift",
-      "count": 148
+      "count": 151
     },
     {
       "cmd": "craft",
@@ -43,12 +43,12 @@
       "count": 100
     },
     {
-      "cmd": "pin",
-      "count": 92
+      "cmd": "youtuber",
+      "count": 93
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 481,
-  "lastUpdated": 1774589678865
+  "uptimeSeconds": 541,
+  "lastUpdated": 1774589738904
 }
