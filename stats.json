@@ -3,8 +3,8 @@
   "totalUsers": 1040,
   "totalGroups": 37,
   "totalFeatures": 3609,
-  "totalCmd": 9329,
-  "totalChat": 9329,
+  "totalCmd": 9330,
+  "totalChat": 9330,
   "topCommands": [
     {
       "cmd": "forward",
@@ -39,16 +39,16 @@
       "count": 120
     },
     {
-      "cmd": "carikarakter",
+      "cmd": "tes",
       "count": 100
     },
     {
-      "cmd": "tes",
-      "count": 99
+      "cmd": "carikarakter",
+      "count": 100
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 181,
-  "lastUpdated": 1774617320834
+  "uptimeSeconds": 241,
+  "lastUpdated": 1774617380835
 }
