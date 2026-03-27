@@ -3836,7 +3836,7 @@
     "hargasewa": 1,
     "d": 45,
     "pabrik": 1,
-    "fitnah": 43,
+    "fitnah": 44,
     "puji": 75,
     "pacar": 59,
     "carikarakter": 100,
@@ -4131,7 +4131,7 @@
     "cek": 12,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 19,
+    "bailout": 20,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4578,5 +4578,5 @@
     "aturanbot": 1,
     "aturan": 1
   },
-  "lastUpdated": 1774619906759
+  "lastUpdated": 1774619966773
 }
