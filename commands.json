@@ -3649,7 +3649,7 @@
     "wikwik": 28,
     "heal": 52,
     "menu": 71,
-    "owner": 7,
+    "owner": 8,
     "script": 7,
     "joinrpg": 24,
     "mentahan": 1,
@@ -3713,7 +3713,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 75,
-    "tes": 97,
+    "tes": 98,
     "listown": 9,
     "getpp": 3,
     "linkgc": 5,
@@ -3867,7 +3867,7 @@
     "winkhd": 1,
     "winkuhd": 3,
     "edan": 7,
-    "ping": 8,
+    "ping": 9,
     "sticker": 3,
     "111558118097146": 2,
     "250113796636693": 1,
@@ -4559,5 +4559,5 @@
     "h": 1,
     "41782045892753": 1
   },
-  "lastUpdated": 1774612445087
+  "lastUpdated": 1774612505087
 }
