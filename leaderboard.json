@@ -81,8 +81,8 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 39813,
-      "saldo": 10000011897
+      "exp": 40164,
+      "saldo": 1030000003896
     },
     {
       "name": "danz",
@@ -99,7 +99,7 @@
     {
       "name": "Kayy",
       "level": 12,
-      "exp": 29962,
+      "exp": 30020,
       "saldo": 0
     },
     {
@@ -215,8 +215,8 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 39813,
-      "saldo": 10000011897
+      "exp": 40164,
+      "saldo": 1030000003896
     },
     {
       "name": "Souta",
@@ -325,8 +325,8 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 39813,
-      "saldo": 10000011897
+      "exp": 40164,
+      "saldo": 1030000003896
     },
     {
       "name": "danz",
@@ -343,7 +343,7 @@
     {
       "name": "Kayy",
       "level": 12,
-      "exp": 29962,
+      "exp": 30020,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774605840162
+  "lastUpdated": 1774605900168
 }
