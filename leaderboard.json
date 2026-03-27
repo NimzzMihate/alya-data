@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 604570,
+      "exp": 604686,
       "saldo": 0
     },
     {
@@ -111,7 +111,7 @@
     {
       "name": "Kayy",
       "level": 11,
-      "exp": 27949,
+      "exp": 27994,
       "saldo": 0
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 604570,
+      "exp": 604686,
       "saldo": 0
     },
     {
@@ -355,7 +355,7 @@
     {
       "name": "Kayy",
       "level": 11,
-      "exp": 27949,
+      "exp": 27994,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774601902404
+  "lastUpdated": 1774601962404
 }
