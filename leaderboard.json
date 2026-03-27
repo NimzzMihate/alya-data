@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 603266,
-      "saldo": 2.010475081280943e+47
+      "exp": 603340,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 142078,
-      "saldo": 1e+28
+      "exp": 142217,
+      "saldo": 0
     },
     {
       "name": "Zxiox",
@@ -117,17 +117,11 @@
     {
       "name": "Kayy",
       "level": 11,
-      "exp": 26443,
-      "saldo": 1.0000000000008299e+23
+      "exp": 26477,
+      "saldo": 0
     }
   ],
   "saldo": [
-    {
-      "name": "Pillaaaaa",
-      "level": 251,
-      "exp": 603266,
-      "saldo": 2.010475081280943e+47
-    },
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 621,
@@ -153,22 +147,10 @@
       "saldo": 1.000000001e+28
     },
     {
-      "name": "apip",
-      "level": 59,
-      "exp": 142078,
-      "saldo": 1e+28
-    },
-    {
       "name": "NarennDurenn",
       "level": 1,
       "exp": 3941,
       "saldo": 1.0000000000009998e+23
-    },
-    {
-      "name": "Kayy",
-      "level": 11,
-      "exp": 26443,
-      "saldo": 1.0000000000008299e+23
     },
     {
       "name": "renita",
@@ -241,6 +223,24 @@
       "level": 4,
       "exp": 10261,
       "saldo": 104016372
+    },
+    {
+      "name": "radit",
+      "level": 0,
+      "exp": 1083,
+      "saldo": 10045000
+    },
+    {
+      "name": "Player-293",
+      "level": 1,
+      "exp": 2515,
+      "saldo": 9522885
+    },
+    {
+      "name": "Rey",
+      "level": 3,
+      "exp": 7471,
+      "saldo": 2519175
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 603266,
-      "saldo": 2.010475081280943e+47
+      "exp": 603340,
+      "saldo": 0
     },
     {
       "name": "Naylaa",
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 142078,
-      "saldo": 1e+28
+      "exp": 142217,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -361,9 +361,9 @@
     {
       "name": "Kayy",
       "level": 11,
-      "exp": 26443,
-      "saldo": 1.0000000000008299e+23
+      "exp": 26477,
+      "saldo": 0
     }
   ],
-  "lastUpdated": 1774601422403
+  "lastUpdated": 1774601482404
 }
