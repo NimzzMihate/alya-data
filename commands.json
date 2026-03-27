@@ -3865,7 +3865,7 @@
     "cekganteng": 34,
     "crkganteng": 1,
     "puqi": 32,
-    "anj": 31,
+    "anj": 32,
     "anjing": 25,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4063,7 +4063,7 @@
     "v": 6,
     "39076216463471": 1,
     "6289673557732": 1,
-    "tolol": 27,
+    "tolol": 28,
     "puki": 1,
     "goblok": 22,
     "suki": 1,
@@ -4161,7 +4161,7 @@
     "entod": 2,
     "plenger": 1,
     "gak": 1,
-    "gay": 9,
+    "gay": 10,
     "ayonontonjojobiarsigma": 1,
     "6282340184735": 2,
     "213675277316327": 10,
@@ -4191,7 +4191,7 @@
     "lesby": 5,
     "bokeppaksa": 1,
     "taksi": 3,
-    "bangsat": 4,
+    "bangsat": 5,
     "foodpet": 1,
     "releaseper": 1,
     "releasepet": 1,
@@ -4597,7 +4597,8 @@
     "surrend": 1,
     "6285794072771": 1,
     "gf": 1,
-    "gantinamaaanak": 1
+    "gantinamaaanak": 1,
+    "bangke": 1
   },
-  "lastUpdated": 1774630366518
+  "lastUpdated": 1774630426516
 }
