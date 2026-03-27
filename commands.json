@@ -3756,7 +3756,7 @@
     "buyitem": 1,
     "play": 63,
     "ytmp3": 52,
-    "152609298108555": 30,
+    "152609298108555": 31,
     "35588770111681": 1,
     "intro": 31,
     "up": 1,
@@ -3838,7 +3838,7 @@
     "pabrik": 1,
     "fitnah": 44,
     "puji": 80,
-    "pacar": 63,
+    "pacar": 64,
     "carikarakter": 100,
     "nembak": 55,
     "cry": 6,
@@ -3881,8 +3881,8 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 94,
-    "kasihmakan": 18,
-    "kasihminum": 13,
+    "kasihmakan": 22,
+    "kasihminum": 15,
     "naena": 10,
     "noenc": 19,
     "6282115911954": 2,
@@ -4590,7 +4590,9 @@
     "bite": 2,
     "time": 1,
     "628983980541": 2,
-    "kasihminuman": 1
+    "kasihminuman": 1,
+    "kasihcincin": 1,
+    "pacad": 1
   },
-  "lastUpdated": 1774627731291
+  "lastUpdated": 1774627791295
 }
