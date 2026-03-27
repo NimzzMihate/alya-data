@@ -3811,7 +3811,7 @@
     "bugwangcap": 1,
     "colong": 1,
     "ttf": 13,
-    "cekfemboy": 73,
+    "cekfemboy": 78,
     "restart": 3,
     "kontol": 4,
     "93283032285420": 7,
@@ -4096,7 +4096,7 @@
     "atmtake": 16,
     "giftshop": 1,
     "kasihnamaanak": 5,
-    "babi": 7,
+    "babi": 8,
     "dongo": 4,
     "rampok3": 4,
     "cekbatang": 48,
@@ -4216,7 +4216,7 @@
     "terimanikah": 5,
     "6283133734215": 1,
     "ai2": 1,
-    "ajg": 3,
+    "ajg": 4,
     "wibu": 4,
     "non": 1,
     "upch": 8,
@@ -4528,7 +4528,9 @@
     "armor": 3,
     "fish": 1,
     "poke": 1,
-    "anjg": 1
+    "anjg": 2,
+    "cekbank": 1,
+    "cektomboy": 1
   },
-  "lastUpdated": 1774601662405
+  "lastUpdated": 1774601722402
 }
