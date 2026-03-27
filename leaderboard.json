@@ -231,16 +231,16 @@
       "saldo": 999998000000
     },
     {
+      "name": "Kayy",
+      "level": 7,
+      "exp": 17576,
+      "saldo": 109996233631
+    },
+    {
       "name": "Souta",
       "level": 27,
       "exp": 66335,
       "saldo": 480606500
-    },
-    {
-      "name": "xeno la nigger",
-      "level": 4,
-      "exp": 10261,
-      "saldo": 104016372
     }
   ],
   "exp": [
@@ -365,5 +365,5 @@
       "saldo": 139052
     }
   ],
-  "lastUpdated": 1774599888188
+  "lastUpdated": 1774599948205
 }
