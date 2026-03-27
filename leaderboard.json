@@ -20,9 +20,9 @@
     },
     {
       "name": "Putzz?",
-      "level": 254,
-      "exp": 611964,
-      "saldo": 0
+      "level": 255,
+      "exp": 612079,
+      "saldo": 7000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -258,9 +258,9 @@
     },
     {
       "name": "Putzz?",
-      "level": 254,
-      "exp": 611964,
-      "saldo": 0
+      "level": 255,
+      "exp": 612079,
+      "saldo": 7000
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774620811202
+  "lastUpdated": 1774620871194
 }
