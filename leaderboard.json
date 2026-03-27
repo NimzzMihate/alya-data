@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 602795,
+      "exp": 603062,
       "saldo": 2.010475081280943e+47
     },
     {
@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 141663,
-      "saldo": 1000060232323627000
+      "exp": 141819,
+      "saldo": 0
     },
     {
       "name": "Zxiox",
@@ -87,8 +87,8 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 34333,
-      "saldo": 1.0010000000000003e+28
+      "exp": 34438,
+      "saldo": 0
     },
     {
       "name": "Yogie ganteng",
@@ -117,15 +117,15 @@
     {
       "name": "Kayy",
       "level": 10,
-      "exp": 25833,
-      "saldo": 1.00000000000001e+23
+      "exp": 26138,
+      "saldo": 1801
     }
   ],
   "saldo": [
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 602795,
+      "exp": 603062,
       "saldo": 2.010475081280943e+47
     },
     {
@@ -147,12 +147,6 @@
       "saldo": 2.016001793294507e+33
     },
     {
-      "name": "vannzz",
-      "level": 14,
-      "exp": 34333,
-      "saldo": 1.0010000000000003e+28
-    },
-    {
       "name": "naa",
       "level": 5,
       "exp": 12176,
@@ -163,12 +157,6 @@
       "level": 1,
       "exp": 3941,
       "saldo": 1.0000000000009998e+23
-    },
-    {
-      "name": "Kayy",
-      "level": 10,
-      "exp": 25833,
-      "saldo": 1.00000000000001e+23
     },
     {
       "name": "renita",
@@ -187,12 +175,6 @@
       "level": 313,
       "exp": 752568,
       "saldo": 620197598968204400000
-    },
-    {
-      "name": "apip",
-      "level": 59,
-      "exp": 141663,
-      "saldo": 1000060232323627000
     },
     {
       "name": "Sanzx",
@@ -241,6 +223,24 @@
       "level": 27,
       "exp": 66335,
       "saldo": 480606500
+    },
+    {
+      "name": "xeno la nigger",
+      "level": 4,
+      "exp": 10261,
+      "saldo": 104016372
+    },
+    {
+      "name": "radit",
+      "level": 0,
+      "exp": 1083,
+      "saldo": 10045000
+    },
+    {
+      "name": "Player-293",
+      "level": 1,
+      "exp": 2515,
+      "saldo": 9522885
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 602795,
+      "exp": 603062,
       "saldo": 2.010475081280943e+47
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 141663,
-      "saldo": 1000060232323627000
+      "exp": 141819,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -331,8 +331,8 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 34333,
-      "saldo": 1.0010000000000003e+28
+      "exp": 34438,
+      "saldo": 0
     },
     {
       "name": "Yogie ganteng",
@@ -361,9 +361,9 @@
     {
       "name": "Kayy",
       "level": 10,
-      "exp": 25833,
-      "saldo": 1.00000000000001e+23
+      "exp": 26138,
+      "saldo": 1801
     }
   ],
-  "lastUpdated": 1774601148507
+  "lastUpdated": 1774601242403
 }
