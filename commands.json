@@ -3621,11 +3621,11 @@
     "playmoba": 38,
     "ngaji": 21,
     "ewe-paksa": 35,
-    "me": 263,
+    "me": 264,
     "setbg": 10,
     "rampok2": 254,
     "6285609504925": 15,
-    "atm": 72,
+    "atm": 73,
     "bank": 41,
     "afk": 195,
     "kerja": 40,
@@ -3891,7 +3891,7 @@
     "/": 3,
     "cekcantik": 4,
     "toplocal": 16,
-    "forward": 328,
+    "forward": 329,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 11,
@@ -4030,7 +4030,7 @@
     "delete": 1,
     "18232723431562": 1,
     "kennsesanpai": 1,
-    "setrole": 34,
+    "setrole": 35,
     "setstatus": 2,
     "pin.": 1,
     "bounty": 2,
@@ -4506,5 +4506,5 @@
     "males": 1,
     "628811416831": 2
   },
-  "lastUpdated": 1774589438864
+  "lastUpdated": 1774589498867
 }
