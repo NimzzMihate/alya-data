@@ -9,7 +9,7 @@
     {
       "name": "Naylaa",
       "level": 510,
-      "exp": 316220,
+      "exp": 316284,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 253,
-      "exp": 609190,
+      "exp": 609477,
       "saldo": 2006929
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Joishi ganteng",
       "level": 79,
-      "exp": 191877,
+      "exp": 191939,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -131,13 +131,13 @@
     {
       "name": "Naylaa",
       "level": 510,
-      "exp": 316220,
+      "exp": 316284,
       "saldo": 5.852005205519986e+33
     },
     {
       "name": "Joishi ganteng",
       "level": 79,
-      "exp": 191877,
+      "exp": 191939,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -259,19 +259,19 @@
     {
       "name": "Pillaaaaa",
       "level": 253,
-      "exp": 609190,
+      "exp": 609477,
       "saldo": 2006929
     },
     {
       "name": "Naylaa",
       "level": 510,
-      "exp": 316220,
+      "exp": 316284,
       "saldo": 5.852005205519986e+33
     },
     {
       "name": "Joishi ganteng",
       "level": 79,
-      "exp": 191877,
+      "exp": 191939,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774616128488
+  "lastUpdated": 1774616188487
 }
