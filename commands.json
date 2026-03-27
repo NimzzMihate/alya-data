@@ -3841,7 +3841,7 @@
     "puji": 80,
     "pacar": 64,
     "carikarakter": 100,
-    "nembak": 55,
+    "nembak": 56,
     "cry": 6,
     "happy": 4,
     "sad": 1,
@@ -4439,7 +4439,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 2,
+    "detailkarakter": 3,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 1,
@@ -4602,5 +4602,5 @@
     "anjj": 1,
     "memu": 1
   },
-  "lastUpdated": 1774631206537
+  "lastUpdated": 1774631266536
 }
