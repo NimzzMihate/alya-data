@@ -3623,7 +3623,7 @@
     "playmoba": 38,
     "ngaji": 24,
     "ewe-paksa": 40,
-    "me": 290,
+    "me": 291,
     "setbg": 13,
     "rampok2": 283,
     "6285609504925": 15,
@@ -3730,7 +3730,7 @@
     "listapi": 6,
     "family100": 2,
     "tebakpokemon": 1,
-    "6283869039585": 14,
+    "6283869039585": 16,
     "nyerah": 17,
     "mf": 1,
     "261581174734897": 1,
@@ -4070,7 +4070,7 @@
     "ubah": 2,
     "buylimit": 2,
     "wagyy": 1,
-    "wangyy": 3,
+    "wangyy": 4,
     "wangy": 22,
     "97874318782647": 1,
     "nikah2": 4,
@@ -4338,7 +4338,7 @@
     "puisi": 2,
     "kill": 1,
     "kiss": 14,
-    "wangi": 23,
+    "wangi": 24,
     "toplay": 3,
     "jadian": 1,
     "info": 4,
@@ -4369,7 +4369,7 @@
     "invpd": 1,
     "628895327267": 3,
     "ceklimit": 5,
-    "ceksaldo": 1,
+    "ceksaldo": 2,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -4578,5 +4578,5 @@
     "aturanbot": 1,
     "aturan": 1
   },
-  "lastUpdated": 1774619426753
+  "lastUpdated": 1774619486763
 }
