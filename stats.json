@@ -3,8 +3,8 @@
   "totalUsers": 1037,
   "totalGroups": 37,
   "totalFeatures": 3607,
-  "totalCmd": 8517,
-  "totalChat": 8517,
+  "totalCmd": 8520,
+  "totalChat": 8520,
   "topCommands": [
     {
       "cmd": "forward",
@@ -36,7 +36,7 @@
     },
     {
       "cmd": "craft",
-      "count": 116
+      "count": 117
     },
     {
       "cmd": "carikarakter",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 1801,
-  "lastUpdated": 1774600248197
+  "uptimeSeconds": 1861,
+  "lastUpdated": 1774600308197
 }
