@@ -3836,7 +3836,7 @@
     "hargasewa": 1,
     "d": 45,
     "pabrik": 1,
-    "fitnah": 41,
+    "fitnah": 43,
     "puji": 75,
     "pacar": 59,
     "carikarakter": 100,
@@ -3977,7 +3977,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 95,
+    "tf": 98,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4578,5 +4578,5 @@
     "aturanbot": 1,
     "aturan": 1
   },
-  "lastUpdated": 1774619726755
+  "lastUpdated": 1774619786761
 }
