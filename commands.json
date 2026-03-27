@@ -3843,7 +3843,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 61,
+    "atmpull": 62,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -3970,7 +3970,7 @@
     "e2": 2,
     "6285180841166": 1,
     "limt": 1,
-    "limit": 14,
+    "limit": 15,
     "cihuy": 1,
     "afk\ntidur": 1,
     "mong": 1,
@@ -4555,5 +4555,5 @@
     "cekgemini": 1,
     "ulartangga": 73
   },
-  "lastUpdated": 1774604084269
+  "lastUpdated": 1774604207584
 }
