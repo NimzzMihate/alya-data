@@ -4248,7 +4248,7 @@
     "user": 2,
     "gerobak": 1,
     "airdrop": 1,
-    "rpg": 1,
+    "rpg": 2,
     "hadiah": 1,
     "id": 1,
     "joiningrpg": 1,
@@ -4581,5 +4581,5 @@
     "afl": 1,
     "6285778376770": 1
   },
-  "lastUpdated": 1774623271210
+  "lastUpdated": 1774623331213
 }
