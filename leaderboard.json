@@ -81,8 +81,8 @@
     {
       "name": "*KUROSE*",
       "level": 17,
-      "exp": 42808,
-      "saldo": 10007002
+      "exp": 42965,
+      "saldo": 10002002
     },
     {
       "name": "danz",
@@ -93,7 +93,7 @@
     {
       "name": "Kayy",
       "level": 13,
-      "exp": 31656,
+      "exp": 31724,
       "saldo": 0
     },
     {
@@ -233,8 +233,8 @@
     {
       "name": "*KUROSE*",
       "level": 17,
-      "exp": 42808,
-      "saldo": 10007002
+      "exp": 42965,
+      "saldo": 10002002
     },
     {
       "name": "Player-293",
@@ -325,8 +325,8 @@
     {
       "name": "*KUROSE*",
       "level": 17,
-      "exp": 42808,
-      "saldo": 10007002
+      "exp": 42965,
+      "saldo": 10002002
     },
     {
       "name": "danz",
@@ -337,7 +337,7 @@
     {
       "name": "Kayy",
       "level": 13,
-      "exp": 31656,
+      "exp": 31724,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774626658311
+  "lastUpdated": 1774626718312
 }
