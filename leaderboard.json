@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 253,
-      "exp": 608086,
-      "saldo": 11620
+      "exp": 608202,
+      "saldo": 11618
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -81,8 +81,8 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 40164,
-      "saldo": 1030000003896
+      "exp": 40298,
+      "saldo": 930000003898
     },
     {
       "name": "danz",
@@ -99,8 +99,8 @@
     {
       "name": "Kayy",
       "level": 12,
-      "exp": 30020,
-      "saldo": 0
+      "exp": 30106,
+      "saldo": 1.0000000000008299e+23
     },
     {
       "name": "Zaki",
@@ -153,6 +153,12 @@
       "saldo": 1.0000000000009998e+23
     },
     {
+      "name": "Kayy",
+      "level": 12,
+      "exp": 30106,
+      "saldo": 1.0000000000008299e+23
+    },
+    {
       "name": "renita",
       "level": 9,
       "exp": 23844,
@@ -161,7 +167,7 @@
     {
       "name": "nama amar",
       "level": 0,
-      "exp": 710,
+      "exp": 760,
       "saldo": 6.673568075175613e+21
     },
     {
@@ -215,8 +221,8 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 40164,
-      "saldo": 1030000003896
+      "exp": 40298,
+      "saldo": 930000003898
     },
     {
       "name": "Souta",
@@ -235,12 +241,6 @@
       "level": 0,
       "exp": 1083,
       "saldo": 10045000
-    },
-    {
-      "name": "Player-293",
-      "level": 1,
-      "exp": 2515,
-      "saldo": 9522885
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 253,
-      "exp": 608086,
-      "saldo": 11620
+      "exp": 608202,
+      "saldo": 11618
     },
     {
       "name": "Naylaa",
@@ -325,8 +325,8 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 40164,
-      "saldo": 1030000003896
+      "exp": 40298,
+      "saldo": 930000003898
     },
     {
       "name": "danz",
@@ -343,8 +343,8 @@
     {
       "name": "Kayy",
       "level": 12,
-      "exp": 30020,
-      "saldo": 0
+      "exp": 30106,
+      "saldo": 1.0000000000008299e+23
     },
     {
       "name": "Zaki",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774605900168
+  "lastUpdated": 1774605960157
 }
