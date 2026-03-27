@@ -4328,7 +4328,7 @@
     "bass": 2,
     "earrape": 1,
     "nahida": 30,
-    "pasanganmenu": 5,
+    "pasanganmenu": 6,
     "menupasangan": 1,
     "katjiwa": 2,
     "ler": 1,
@@ -4439,7 +4439,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 1,
+    "detailkarakter": 2,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 1,
@@ -4602,5 +4602,5 @@
     "anjj": 1,
     "memu": 1
   },
-  "lastUpdated": 1774631146538
+  "lastUpdated": 1774631206537
 }
