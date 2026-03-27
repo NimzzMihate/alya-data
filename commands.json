@@ -3779,7 +3779,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 74,
+    "saldo": 75,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3975,7 +3975,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 90,
+    "tf": 91,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4308,7 +4308,7 @@
     "𝙢𝙚": 1,
     "ceraipaksa": 2,
     "meu": 2,
-    "nsfwmenu": 2,
+    "nsfwmenu": 3,
     "trap": 1,
     "neko": 1,
     "slap": 9,
@@ -4528,5 +4528,5 @@
     "armor": 3,
     "fish": 1
   },
-  "lastUpdated": 1774601362401
+  "lastUpdated": 1774601422403
 }
