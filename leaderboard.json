@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 254,
-      "exp": 609962,
+      "exp": 610104,
       "saldo": 2013929
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "name": "Joishi ganteng",
-      "level": 79,
-      "exp": 191995,
+      "level": 80,
+      "exp": 192034,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -91,16 +91,16 @@
       "saldo": 252183670087847
     },
     {
+      "name": "Kayy",
+      "level": 12,
+      "exp": 30758,
+      "saldo": 1
+    },
+    {
       "name": "Yogie ganteng",
       "level": 12,
       "exp": 30689,
       "saldo": 1722760
-    },
-    {
-      "name": "Kayy",
-      "level": 12,
-      "exp": 30663,
-      "saldo": 1
     },
     {
       "name": "Zaki",
@@ -136,8 +136,8 @@
     },
     {
       "name": "Joishi ganteng",
-      "level": 79,
-      "exp": 191995,
+      "level": 80,
+      "exp": 192034,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 254,
-      "exp": 609962,
+      "exp": 610104,
       "saldo": 2013929
     },
     {
@@ -270,8 +270,8 @@
     },
     {
       "name": "Joishi ganteng",
-      "level": 79,
-      "exp": 191995,
+      "level": 80,
+      "exp": 192034,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -335,16 +335,16 @@
       "saldo": 252183670087847
     },
     {
+      "name": "Kayy",
+      "level": 12,
+      "exp": 30758,
+      "saldo": 1
+    },
+    {
       "name": "Yogie ganteng",
       "level": 12,
       "exp": 30689,
       "saldo": 1722760
-    },
-    {
-      "name": "Kayy",
-      "level": 12,
-      "exp": 30663,
-      "saldo": 1
     },
     {
       "name": "Zaki",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774616909172
+  "lastUpdated": 1774616969174
 }
