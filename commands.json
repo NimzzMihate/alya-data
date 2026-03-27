@@ -3893,7 +3893,7 @@
     "/": 3,
     "cekcantik": 9,
     "toplocal": 16,
-    "forward": 329,
+    "forward": 330,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 12,
@@ -3919,7 +3919,7 @@
     "kecocokan": 10,
     "register": 11,
     "rename": 1,
-    "cn": 4,
+    "cn": 5,
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
@@ -4032,7 +4032,7 @@
     "delete": 1,
     "18232723431562": 1,
     "kennsesanpai": 1,
-    "setrole": 35,
+    "setrole": 36,
     "setstatus": 2,
     "pin.": 1,
     "bounty": 2,
@@ -4578,5 +4578,5 @@
     "aturanbot": 1,
     "aturan": 1
   },
-  "lastUpdated": 1774618946766
+  "lastUpdated": 1774619006751
 }
