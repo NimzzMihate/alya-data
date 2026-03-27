@@ -3701,7 +3701,7 @@
     "makan": 6,
     "repair": 1,
     "kapal": 5,
-    "craft": 116,
+    "craft": 117,
     "listheri": 1,
     "listhero": 6,
     "mancing": 2,
@@ -3835,7 +3835,7 @@
     "d": 45,
     "pabrik": 1,
     "fitnah": 41,
-    "puji": 67,
+    "puji": 68,
     "pacar": 56,
     "carikarakter": 100,
     "nembak": 55,
@@ -3941,7 +3941,7 @@
     "fk": 1,
     "38796926128361": 2,
     "narik": 3,
-    "toimg": 11,
+    "toimg": 12,
     "runtime": 2,
     "ephotomenu": 1,
     "6283839942035": 3,
@@ -4524,5 +4524,5 @@
     "gens-character": 2,
     "asuna": 1
   },
-  "lastUpdated": 1774600248198
+  "lastUpdated": 1774600308199
 }
