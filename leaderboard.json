@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 253,
-      "exp": 608331,
+      "exp": 608395,
       "saldo": 2011604
     },
     {
@@ -81,7 +81,7 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 40345,
+      "exp": 40378,
       "saldo": 930000003900
     },
     {
@@ -99,7 +99,7 @@
     {
       "name": "Kayy",
       "level": 12,
-      "exp": 30261,
+      "exp": 30380,
       "saldo": 0
     },
     {
@@ -161,8 +161,8 @@
     {
       "name": "nama amar",
       "level": 0,
-      "exp": 838,
-      "saldo": 6.673568075175611e+21
+      "exp": 891,
+      "saldo": 6.673568075175608e+21
     },
     {
       "name": "Ditz ketoprak",
@@ -215,7 +215,7 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 40345,
+      "exp": 40378,
       "saldo": 930000003900
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 253,
-      "exp": 608331,
+      "exp": 608395,
       "saldo": 2011604
     },
     {
@@ -325,7 +325,7 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 40345,
+      "exp": 40378,
       "saldo": 930000003900
     },
     {
@@ -343,7 +343,7 @@
     {
       "name": "Kayy",
       "level": 12,
-      "exp": 30261,
+      "exp": 30380,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774606020170
+  "lastUpdated": 1774606080179
 }
