@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 602532,
-      "saldo": 7000
+      "exp": 602661,
+      "saldo": 2.010475081280943e+47
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -87,8 +87,8 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 34054,
-      "saldo": 1999807995000
+      "exp": 34092,
+      "saldo": 1998807995000
     },
     {
       "name": "Yogie ganteng",
@@ -117,11 +117,17 @@
     {
       "name": "Kayy",
       "level": 10,
-      "exp": 25707,
-      "saldo": 0
+      "exp": 25833,
+      "saldo": 1.00000000000001e+23
     }
   ],
   "saldo": [
+    {
+      "name": "Pillaaaaa",
+      "level": 251,
+      "exp": 602661,
+      "saldo": 2.010475081280943e+47
+    },
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 621,
@@ -151,6 +157,12 @@
       "level": 1,
       "exp": 3941,
       "saldo": 1.0000000000009998e+23
+    },
+    {
+      "name": "Kayy",
+      "level": 10,
+      "exp": 25833,
+      "saldo": 1.00000000000001e+23
     },
     {
       "name": "renita",
@@ -221,26 +233,14 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 34054,
-      "saldo": 1999807995000
+      "exp": 34092,
+      "saldo": 1998807995000
     },
     {
       "name": "Souta",
       "level": 27,
       "exp": 66335,
       "saldo": 480606500
-    },
-    {
-      "name": "xeno la nigger",
-      "level": 4,
-      "exp": 10261,
-      "saldo": 104016372
-    },
-    {
-      "name": "radit",
-      "level": 0,
-      "exp": 1083,
-      "saldo": 10045000
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 602532,
-      "saldo": 7000
+      "exp": 602661,
+      "saldo": 2.010475081280943e+47
     },
     {
       "name": "Naylaa",
@@ -331,8 +331,8 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 34054,
-      "saldo": 1999807995000
+      "exp": 34092,
+      "saldo": 1998807995000
     },
     {
       "name": "Yogie ganteng",
@@ -361,9 +361,9 @@
     {
       "name": "Kayy",
       "level": 10,
-      "exp": 25707,
-      "saldo": 0
+      "exp": 25833,
+      "saldo": 1.00000000000001e+23
     }
   ],
-  "lastUpdated": 1774601028329
+  "lastUpdated": 1774601088335
 }
