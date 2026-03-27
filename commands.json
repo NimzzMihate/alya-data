@@ -3859,7 +3859,7 @@
     "ytmp4": 1,
     "ttdl": 3,
     "playch": 25,
-    "cekganteng": 28,
+    "cekganteng": 30,
     "crkganteng": 1,
     "puqi": 32,
     "anj": 27,
@@ -3889,7 +3889,7 @@
     "pap2": 36,
     "getcase": 3,
     "/": 3,
-    "cekcantik": 7,
+    "cekcantik": 8,
     "toplocal": 16,
     "forward": 329,
     "6283147484272": 6,
@@ -4510,7 +4510,8 @@
     "kasiminum": 1,
     "petbattle": 1,
     "deepimg": 1,
-    "rampom2": 1
+    "rampom2": 1,
+    "cekgenteng": 1
   },
-  "lastUpdated": 1774591245933
+  "lastUpdated": 1774591306637
 }
