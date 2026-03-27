@@ -20,9 +20,9 @@
     },
     {
       "name": "Pillaaaaa",
-      "level": 250,
-      "exp": 602392,
-      "saldo": 0
+      "level": 251,
+      "exp": 602532,
+      "saldo": 7000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 58,
-      "exp": 141399,
+      "exp": 141448,
       "saldo": 384033640828433
     },
     {
@@ -87,7 +87,7 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 33806,
+      "exp": 33953,
       "saldo": 1999807995000
     },
     {
@@ -117,7 +117,7 @@
     {
       "name": "Kayy",
       "level": 10,
-      "exp": 25548,
+      "exp": 25640,
       "saldo": 0
     }
   ],
@@ -185,7 +185,7 @@
     {
       "name": "apip",
       "level": 58,
-      "exp": 141399,
+      "exp": 141448,
       "saldo": 384033640828433
     },
     {
@@ -221,7 +221,7 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 33806,
+      "exp": 33953,
       "saldo": 1999807995000
     },
     {
@@ -258,9 +258,9 @@
     },
     {
       "name": "Pillaaaaa",
-      "level": 250,
-      "exp": 602392,
-      "saldo": 0
+      "level": 251,
+      "exp": 602532,
+      "saldo": 7000
     },
     {
       "name": "Naylaa",
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 58,
-      "exp": 141399,
+      "exp": 141448,
       "saldo": 384033640828433
     },
     {
@@ -331,7 +331,7 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 33806,
+      "exp": 33953,
       "saldo": 1999807995000
     },
     {
@@ -361,9 +361,9 @@
     {
       "name": "Kayy",
       "level": 10,
-      "exp": 25548,
+      "exp": 25640,
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774600908271
+  "lastUpdated": 1774600968328
 }
