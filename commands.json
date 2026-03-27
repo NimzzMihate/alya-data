@@ -3726,7 +3726,7 @@
     "6281215537344": 3,
     "rampok": 87,
     "listapi": 6,
-    "family100": 1,
+    "family100": 2,
     "tebakpokemon": 1,
     "6283869039585": 12,
     "nyerah": 16,
@@ -3842,7 +3842,7 @@
     "cry": 5,
     "happy": 4,
     "sad": 1,
-    "bully": 2,
+    "bully": 4,
     "atmpull": 59,
     "promote": 4,
     "reset": 2,
@@ -4448,7 +4448,7 @@
     "yampah": 1,
     "rampo²": 1,
     "enana": 1,
-    "gamesmenu": 1,
+    "gamesmenu": 2,
     "downloadmenu": 1,
     "iya": 1,
     "abu": 1,
@@ -4541,5 +4541,5 @@
     "cum": 1,
     "lum": 2
   },
-  "lastUpdated": 1774602262408
+  "lastUpdated": 1774602322410
 }
