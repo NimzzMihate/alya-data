@@ -3648,7 +3648,7 @@
     "61405583679507": 1,
     "wikwik": 26,
     "heal": 49,
-    "menu": 64,
+    "menu": 66,
     "owner": 6,
     "script": 7,
     "joinrpg": 24,
@@ -3842,7 +3842,7 @@
     "cry": 5,
     "happy": 4,
     "sad": 1,
-    "bully": 1,
+    "bully": 2,
     "atmpull": 59,
     "promote": 4,
     "reset": 2,
@@ -4308,7 +4308,7 @@
     "𝙢𝙚": 1,
     "ceraipaksa": 2,
     "meu": 2,
-    "nsfwmenu": 3,
+    "nsfwmenu": 4,
     "trap": 1,
     "neko": 1,
     "slap": 10,
@@ -4537,7 +4537,9 @@
     "pria": 1,
     "601121817858": 1,
     "when": 1,
-    "gemini": 4
+    "gemini": 4,
+    "cum": 1,
+    "lum": 2
   },
-  "lastUpdated": 1774602202409
+  "lastUpdated": 1774602262408
 }
