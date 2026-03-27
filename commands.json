@@ -3837,7 +3837,7 @@
     "d": 45,
     "pabrik": 1,
     "fitnah": 41,
-    "puji": 72,
+    "puji": 74,
     "pacar": 59,
     "carikarakter": 100,
     "nembak": 55,
@@ -3919,7 +3919,7 @@
     "kecocokan": 10,
     "register": 11,
     "rename": 1,
-    "cn": 3,
+    "cn": 4,
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
@@ -4431,7 +4431,7 @@
     "mabar": 1,
     "malam": 3,
     "addsaldo": 2,
-    "3260467388514": 3,
+    "3260467388514": 5,
     "peluk": 2,
     "nambahpacat": 1,
     "statuspet": 1,
@@ -4568,7 +4568,9 @@
     "nyari": 1,
     "pushmenu": 1,
     "pushkontak": 1,
-    "antibot": 1
+    "antibot": 1,
+    "quotesmenu": 1,
+    "faktaunik": 1
   },
-  "lastUpdated": 1774616969174
+  "lastUpdated": 1774617030122
 }
