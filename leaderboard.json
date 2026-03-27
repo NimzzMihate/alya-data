@@ -15,13 +15,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 303,
-      "exp": 727225,
+      "exp": 727329,
       "saldo": 620197598968201000000
     },
     {
       "name": "Pillaaaaa",
-      "level": 240,
-      "exp": 578264,
+      "level": 241,
+      "exp": 578449,
       "saldo": 1.5508128094284233e+43
     },
     {
@@ -87,8 +87,8 @@
     {
       "name": "vannzz",
       "level": 13,
-      "exp": 32197,
-      "saldo": 1e+28
+      "exp": 32324,
+      "saldo": 1000000000000
     },
     {
       "name": "Yogie ganteng",
@@ -124,8 +124,8 @@
   "saldo": [
     {
       "name": "Pillaaaaa",
-      "level": 240,
-      "exp": 578264,
+      "level": 241,
+      "exp": 578449,
       "saldo": 1.5508128094284233e+43
     },
     {
@@ -153,12 +153,6 @@
       "saldo": 1.000000001e+28
     },
     {
-      "name": "vannzz",
-      "level": 13,
-      "exp": 32197,
-      "saldo": 1e+28
-    },
-    {
       "name": "NarennDurenn",
       "level": 1,
       "exp": 3095,
@@ -179,7 +173,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 303,
-      "exp": 727225,
+      "exp": 727329,
       "saldo": 620197598968201000000
     },
     {
@@ -231,6 +225,12 @@
       "saldo": 81084237669526
     },
     {
+      "name": "vannzz",
+      "level": 13,
+      "exp": 32324,
+      "saldo": 1000000000000
+    },
+    {
       "name": "Souta",
       "level": 27,
       "exp": 66335,
@@ -253,13 +253,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 303,
-      "exp": 727225,
+      "exp": 727329,
       "saldo": 620197598968201000000
     },
     {
       "name": "Pillaaaaa",
-      "level": 240,
-      "exp": 578264,
+      "level": 241,
+      "exp": 578449,
       "saldo": 1.5508128094284233e+43
     },
     {
@@ -331,8 +331,8 @@
     {
       "name": "vannzz",
       "level": 13,
-      "exp": 32197,
-      "saldo": 1e+28
+      "exp": 32324,
+      "saldo": 1000000000000
     },
     {
       "name": "Yogie ganteng",
@@ -365,5 +365,5 @@
       "saldo": 139052
     }
   ],
-  "lastUpdated": 1774589498867
+  "lastUpdated": 1774589558865
 }
