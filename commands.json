@@ -3650,7 +3650,7 @@
     "61405583679507": 1,
     "wikwik": 28,
     "heal": 52,
-    "menu": 78,
+    "menu": 80,
     "owner": 8,
     "script": 7,
     "joinrpg": 24,
@@ -3967,7 +3967,7 @@
     "marshaandthebear": 1,
     "allmenu": 7,
     "gamemenu": 2,
-    "catur": 47,
+    "catur": 50,
     "mulai": 1,
     "e2": 2,
     "6285180841166": 1,
@@ -4016,7 +4016,7 @@
     "profil": 7,
     "prefix": 1,
     "6282313526033": 4,
-    "game": 3,
+    "game": 4,
     "main": 2,
     "moba": 1,
     "mobaprofil": 1,
@@ -4450,7 +4450,7 @@
     "yampah": 1,
     "rampo²": 1,
     "enana": 1,
-    "gamesmenu": 2,
+    "gamesmenu": 3,
     "downloadmenu": 1,
     "iya": 1,
     "abu": 1,
@@ -4594,5 +4594,5 @@
     "kasihcincin": 1,
     "pacad": 1
   },
-  "lastUpdated": 1774627851298
+  "lastUpdated": 1774627911291
 }
