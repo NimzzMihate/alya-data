@@ -3648,7 +3648,7 @@
     "61405583679507": 1,
     "wikwik": 26,
     "heal": 49,
-    "menu": 62,
+    "menu": 63,
     "owner": 6,
     "script": 7,
     "joinrpg": 24,
@@ -4335,7 +4335,7 @@
     "pussy": 1,
     "puisi": 1,
     "kill": 1,
-    "kiss": 7,
+    "kiss": 8,
     "wangi": 5,
     "toplay": 3,
     "jadian": 1,
@@ -4524,8 +4524,9 @@
     "gens-character": 2,
     "asuna": 1,
     "45904929247295": 1,
-    "nomor": 1,
-    "armor": 1
+    "nomor": 2,
+    "armor": 3,
+    "fish": 1
   },
-  "lastUpdated": 1774601302401
+  "lastUpdated": 1774601362401
 }
