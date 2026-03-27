@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 252,
-      "exp": 605997,
+      "exp": 606040,
       "saldo": 4620
     },
     {
@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 61,
-      "exp": 147050,
-      "saldo": 1.0101010000991276e+28
+      "exp": 147237,
+      "saldo": 0
     },
     {
       "name": "Zxiox",
@@ -139,12 +139,6 @@
       "level": 79,
       "exp": 190815,
       "saldo": 2.016001793294507e+33
-    },
-    {
-      "name": "apip",
-      "level": 61,
-      "exp": 147050,
-      "saldo": 1.0101010000991276e+28
     },
     {
       "name": "naa",
@@ -241,6 +235,12 @@
       "level": 0,
       "exp": 1083,
       "saldo": 10045000
+    },
+    {
+      "name": "Player-293",
+      "level": 1,
+      "exp": 2515,
+      "saldo": 9522885
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 252,
-      "exp": 605997,
+      "exp": 606040,
       "saldo": 4620
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 61,
-      "exp": 147050,
-      "saldo": 1.0101010000991276e+28
+      "exp": 147237,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774604207584
+  "lastUpdated": 1774604267590
 }
