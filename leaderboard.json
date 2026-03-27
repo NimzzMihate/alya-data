@@ -21,8 +21,8 @@
     {
       "name": "Pillaaaaa",
       "level": 253,
-      "exp": 608202,
-      "saldo": 11618
+      "exp": 608331,
+      "saldo": 2011604
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -81,8 +81,8 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 40298,
-      "saldo": 930000003898
+      "exp": 40345,
+      "saldo": 930000003900
     },
     {
       "name": "danz",
@@ -99,8 +99,8 @@
     {
       "name": "Kayy",
       "level": 12,
-      "exp": 30106,
-      "saldo": 1.0000000000008299e+23
+      "exp": 30261,
+      "saldo": 0
     },
     {
       "name": "Zaki",
@@ -153,12 +153,6 @@
       "saldo": 1.0000000000009998e+23
     },
     {
-      "name": "Kayy",
-      "level": 12,
-      "exp": 30106,
-      "saldo": 1.0000000000008299e+23
-    },
-    {
       "name": "renita",
       "level": 9,
       "exp": 23844,
@@ -167,8 +161,8 @@
     {
       "name": "nama amar",
       "level": 0,
-      "exp": 760,
-      "saldo": 6.673568075175613e+21
+      "exp": 838,
+      "saldo": 6.673568075175611e+21
     },
     {
       "name": "Ditz ketoprak",
@@ -221,8 +215,8 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 40298,
-      "saldo": 930000003898
+      "exp": 40345,
+      "saldo": 930000003900
     },
     {
       "name": "Souta",
@@ -233,14 +227,20 @@
     {
       "name": "xeno la nigger",
       "level": 4,
-      "exp": 10261,
-      "saldo": 104016372
+      "exp": 10326,
+      "saldo": 106134076
     },
     {
       "name": "radit",
       "level": 0,
       "exp": 1083,
       "saldo": 10045000
+    },
+    {
+      "name": "Player-293",
+      "level": 1,
+      "exp": 2515,
+      "saldo": 9522885
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Pillaaaaa",
       "level": 253,
-      "exp": 608202,
-      "saldo": 11618
+      "exp": 608331,
+      "saldo": 2011604
     },
     {
       "name": "Naylaa",
@@ -325,8 +325,8 @@
     {
       "name": "vannzz",
       "level": 16,
-      "exp": 40298,
-      "saldo": 930000003898
+      "exp": 40345,
+      "saldo": 930000003900
     },
     {
       "name": "danz",
@@ -343,8 +343,8 @@
     {
       "name": "Kayy",
       "level": 12,
-      "exp": 30106,
-      "saldo": 1.0000000000008299e+23
+      "exp": 30261,
+      "saldo": 0
     },
     {
       "name": "Zaki",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774605960157
+  "lastUpdated": 1774606020170
 }
