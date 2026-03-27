@@ -3653,7 +3653,7 @@
     "script": 7,
     "joinrpg": 24,
     "mentahan": 1,
-    "claim": 21,
+    "claim": 22,
     "cekidch": 2,
     "tourl": 14,
     "title": 1,
@@ -3713,7 +3713,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 72,
-    "tes": 90,
+    "tes": 91,
     "listown": 9,
     "getpp": 3,
     "linkgc": 5,
@@ -4505,10 +4505,10 @@
     "6285848104186": 1,
     "males": 1,
     "628811416831": 2,
-    "nxr": 2,
+    "nxr": 3,
     "outuber": 1,
     "kasiminum": 1,
     "petbattle": 1
   },
-  "lastUpdated": 1774589979979
+  "lastUpdated": 1774590039974
 }
