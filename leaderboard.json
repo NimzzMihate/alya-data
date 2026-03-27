@@ -81,8 +81,8 @@
     {
       "name": "*KUROSE*",
       "level": 17,
-      "exp": 42566,
-      "saldo": 7002
+      "exp": 42808,
+      "saldo": 10007002
     },
     {
       "name": "danz",
@@ -93,8 +93,8 @@
     {
       "name": "Kayy",
       "level": 13,
-      "exp": 31253,
-      "saldo": 1
+      "exp": 31656,
+      "saldo": 0
     },
     {
       "name": "Yogie ganteng",
@@ -231,16 +231,16 @@
       "saldo": 10045000
     },
     {
+      "name": "*KUROSE*",
+      "level": 17,
+      "exp": 42808,
+      "saldo": 10007002
+    },
+    {
       "name": "Player-293",
       "level": 1,
       "exp": 2593,
       "saldo": 9877967
-    },
-    {
-      "name": "Rey",
-      "level": 3,
-      "exp": 7594,
-      "saldo": 2519175
     }
   ],
   "exp": [
@@ -325,8 +325,8 @@
     {
       "name": "*KUROSE*",
       "level": 17,
-      "exp": 42566,
-      "saldo": 7002
+      "exp": 42808,
+      "saldo": 10007002
     },
     {
       "name": "danz",
@@ -337,8 +337,8 @@
     {
       "name": "Kayy",
       "level": 13,
-      "exp": 31253,
-      "saldo": 1
+      "exp": 31656,
+      "saldo": 0
     },
     {
       "name": "Yogie ganteng",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774626598315
+  "lastUpdated": 1774626658311
 }
