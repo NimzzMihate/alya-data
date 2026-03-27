@@ -16,7 +16,7 @@
       "name": "Ditz ketoprak",
       "level": 314,
       "exp": 754363,
-      "saldo": 50000
+      "saldo": 1050000
     },
     {
       "name": "Putzz?",
@@ -57,8 +57,8 @@
     {
       "name": "Lejen",
       "level": 36,
-      "exp": 86916,
-      "saldo": 611537794510900
+      "exp": 86959,
+      "saldo": 611537793510900
     },
     {
       "name": "Souta",
@@ -173,8 +173,8 @@
     {
       "name": "Lejen",
       "level": 36,
-      "exp": 86916,
-      "saldo": 611537794510900
+      "exp": 86959,
+      "saldo": 611537793510900
     },
     {
       "name": "danz",
@@ -254,7 +254,7 @@
       "name": "Ditz ketoprak",
       "level": 314,
       "exp": 754363,
-      "saldo": 50000
+      "saldo": 1050000
     },
     {
       "name": "Putzz?",
@@ -301,8 +301,8 @@
     {
       "name": "Lejen",
       "level": 36,
-      "exp": 86916,
-      "saldo": 611537794510900
+      "exp": 86959,
+      "saldo": 611537793510900
     },
     {
       "name": "Souta",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774620206772
+  "lastUpdated": 1774620266781
 }
