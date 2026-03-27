@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 253,
-      "exp": 607658,
+      "exp": 607739,
       "saldo": 11620
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 61,
-      "exp": 147909,
+      "exp": 147952,
       "saldo": 0
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 253,
-      "exp": 607658,
+      "exp": 607739,
       "saldo": 11620
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 61,
-      "exp": 147909,
+      "exp": 147952,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774605600164
+  "lastUpdated": 1774605660161
 }
