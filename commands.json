@@ -3650,7 +3650,7 @@
     "61405583679507": 1,
     "wikwik": 28,
     "heal": 52,
-    "menu": 74,
+    "menu": 75,
     "owner": 8,
     "script": 7,
     "joinrpg": 24,
@@ -4008,7 +4008,7 @@
     "tiktok": 13,
     "tiktokmp3": 1,
     "139685271736427": 3,
-    "setprofil": 13,
+    "setprofil": 14,
     "cm": 1,
     "warn": 2,
     "tagme": 4,
@@ -4578,5 +4578,5 @@
     "aturanbot": 1,
     "aturan": 1
   },
-  "lastUpdated": 1774619066765
+  "lastUpdated": 1774619126752
 }
