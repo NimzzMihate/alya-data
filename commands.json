@@ -3650,7 +3650,7 @@
     "61405583679507": 1,
     "wikwik": 28,
     "heal": 52,
-    "menu": 71,
+    "menu": 72,
     "owner": 8,
     "script": 7,
     "joinrpg": 24,
@@ -3838,7 +3838,7 @@
     "pabrik": 1,
     "fitnah": 41,
     "puji": 72,
-    "pacar": 58,
+    "pacar": 59,
     "carikarakter": 100,
     "nembak": 55,
     "cry": 5,
@@ -4044,7 +4044,7 @@
     "banyak": 1,
     "...:https://docs.google.com/forms/d/e/1faipqlsdon8gjz-e4lvyaqerqpqlwsphd4w46xnyndbnu_n_bctib_q/viewform?usp=sf_link": 1,
     "top": 5,
-    "spotifys": 16,
+    "spotifys": 17,
     "ttsearch": 1,
     "6283875289405": 3,
     "118709305766130": 1,
@@ -4321,7 +4321,7 @@
     "pinh": 1,
     "39397852504138": 1,
     "hachawaifu": 1,
-    "spotifydl": 2,
+    "spotifydl": 3,
     "toaudio": 2,
     "speed": 1,
     "bass": 2,
@@ -4565,7 +4565,9 @@
     "ig": 1,
     "tapi": 1,
     "6282252351717": 1,
-    "nyari": 1
+    "nyari": 1,
+    "pushmenu": 1,
+    "pushkontak": 1
   },
-  "lastUpdated": 1774616849172
+  "lastUpdated": 1774616909172
 }
