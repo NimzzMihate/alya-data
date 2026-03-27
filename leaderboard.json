@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 142984,
+      "exp": 143068,
       "saldo": 0
     },
     {
@@ -87,7 +87,7 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 34565,
+      "exp": 34619,
       "saldo": 0
     },
     {
@@ -111,7 +111,7 @@
     {
       "name": "Kayy",
       "level": 11,
-      "exp": 27779,
+      "exp": 27949,
       "saldo": 0
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 142984,
+      "exp": 143068,
       "saldo": 0
     },
     {
@@ -331,7 +331,7 @@
     {
       "name": "vannzz",
       "level": 14,
-      "exp": 34565,
+      "exp": 34619,
       "saldo": 0
     },
     {
@@ -355,7 +355,7 @@
     {
       "name": "Kayy",
       "level": 11,
-      "exp": 27779,
+      "exp": 27949,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774601842403
+  "lastUpdated": 1774601902404
 }
