@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 254,
-      "exp": 610718,
+      "exp": 610764,
       "saldo": 2013929
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Joishi ganteng",
       "level": 80,
-      "exp": 192215,
+      "exp": 192281,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "Joishi ganteng",
       "level": 80,
-      "exp": 192215,
+      "exp": 192281,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 254,
-      "exp": 610718,
+      "exp": 610764,
       "saldo": 2013929
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Joishi ganteng",
       "level": 80,
-      "exp": 192215,
+      "exp": 192281,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774618226743
+  "lastUpdated": 1774618286746
 }
