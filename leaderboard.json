@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 252,
-      "exp": 604818,
+      "exp": 604928,
       "saldo": 7000
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 143391,
+      "exp": 143587,
       "saldo": 0
     },
     {
@@ -105,7 +105,7 @@
     {
       "name": "Kayy",
       "level": 11,
-      "exp": 28441,
+      "exp": 28550,
       "saldo": 0
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 252,
-      "exp": 604818,
+      "exp": 604928,
       "saldo": 7000
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 143391,
+      "exp": 143587,
       "saldo": 0
     },
     {
@@ -349,7 +349,7 @@
     {
       "name": "Kayy",
       "level": 11,
-      "exp": 28441,
+      "exp": 28550,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774602202409
+  "lastUpdated": 1774602262408
 }
