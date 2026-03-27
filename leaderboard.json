@@ -79,16 +79,16 @@
       "saldo": 139079684385625
     },
     {
+      "name": "vannzz",
+      "level": 16,
+      "exp": 39622,
+      "saldo": 10000011897
+    },
+    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
       "saldo": 252183670087847
-    },
-    {
-      "name": "vannzz",
-      "level": 14,
-      "exp": 35769,
-      "saldo": 10000000001
     },
     {
       "name": "Yogie ganteng",
@@ -214,9 +214,9 @@
     },
     {
       "name": "vannzz",
-      "level": 14,
-      "exp": 35769,
-      "saldo": 10000000001
+      "level": 16,
+      "exp": 39622,
+      "saldo": 10000011897
     },
     {
       "name": "Souta",
@@ -323,16 +323,16 @@
       "saldo": 139079684385625
     },
     {
+      "name": "vannzz",
+      "level": 16,
+      "exp": 39622,
+      "saldo": 10000011897
+    },
+    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
       "saldo": 252183670087847
-    },
-    {
-      "name": "vannzz",
-      "level": 14,
-      "exp": 35769,
-      "saldo": 10000000001
     },
     {
       "name": "Yogie ganteng",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774604024280
+  "lastUpdated": 1774604084269
 }
