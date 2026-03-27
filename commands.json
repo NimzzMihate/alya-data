@@ -3714,7 +3714,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 75,
+    "cekprofile": 76,
     "tes": 100,
     "listown": 9,
     "getpp": 3,
@@ -4578,5 +4578,5 @@
     "aturanbot": 1,
     "aturan": 1
   },
-  "lastUpdated": 1774619186753
+  "lastUpdated": 1774619246762
 }
