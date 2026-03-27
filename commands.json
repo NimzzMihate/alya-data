@@ -3629,7 +3629,7 @@
     "6285609504925": 15,
     "atm": 92,
     "bank": 44,
-    "afk": 221,
+    "afk": 223,
     "kerja": 42,
     "628176533297": 14,
     "s": 94,
@@ -3659,7 +3659,7 @@
     "cekidch": 2,
     "tourl": 26,
     "title": 1,
-    "6281393286345": 46,
+    "6281393286345": 50,
     ">": 4,
     "addapi": 2,
     "pin": 92,
@@ -3881,8 +3881,8 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 93,
-    "kasihmakan": 12,
-    "kasihminum": 9,
+    "kasihmakan": 13,
+    "kasihminum": 10,
     "naena": 10,
     "noenc": 19,
     "6282115911954": 2,
@@ -4120,7 +4120,7 @@
     "haram": 1,
     "6282327857595": 6,
     "roast": 38,
-    "rampokin": 10,
+    "rampokin": 11,
     "nikahpaksa": 29,
     "tolak": 5,
     "batalnikah": 10,
@@ -4329,7 +4329,7 @@
     "nahida": 30,
     "pasanganmenu": 5,
     "menupasangan": 1,
-    "katjiwa": 1,
+    "katjiwa": 2,
     "ler": 1,
     "tts": 14,
     "lick": 3,
@@ -4590,5 +4590,5 @@
     "bite": 2,
     "time": 1
   },
-  "lastUpdated": 1774627318314
+  "lastUpdated": 1774627378319
 }
