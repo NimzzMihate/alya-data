@@ -3623,7 +3623,7 @@
     "playmoba": 38,
     "ngaji": 24,
     "ewe-paksa": 40,
-    "me": 284,
+    "me": 285,
     "setbg": 11,
     "rampok2": 282,
     "6285609504925": 15,
@@ -4573,7 +4573,8 @@
     "faktaunik": 3,
     "pantun": 1,
     "wait": 1,
-    "log": 5
+    "log": 5,
+    "jadibot": 1
   },
-  "lastUpdated": 1774617560857
+  "lastUpdated": 1774617686569
 }
