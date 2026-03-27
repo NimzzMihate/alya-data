@@ -3627,7 +3627,7 @@
     "setbg": 13,
     "rampok2": 292,
     "6285609504925": 15,
-    "atm": 93,
+    "atm": 94,
     "bank": 44,
     "afk": 230,
     "kerja": 42,
@@ -3690,7 +3690,7 @@
     "ewepaksa": 55,
     "topglobal": 13,
     "6285789692015": 1,
-    "buy": 321,
+    "buy": 322,
     "smeme": 21,
     "getno": 8,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3845,7 +3845,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 70,
+    "atmpull": 71,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4092,7 +4092,7 @@
     "lamar": 11,
     "beli": 4,
     "maaf": 3,
-    "sg": 43,
+    "sg": 46,
     "shop": 8,
     "168238516305969": 7,
     "atmtake": 17,
@@ -4591,5 +4591,5 @@
     "time": 1,
     "628983980541": 2
   },
-  "lastUpdated": 1774627611291
+  "lastUpdated": 1774627671289
 }
