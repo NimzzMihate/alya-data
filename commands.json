@@ -4132,7 +4132,7 @@
     "cek": 13,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 20,
+    "bailout": 21,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4603,5 +4603,5 @@
     "memu": 1,
     "227552249524236": 3
   },
-  "lastUpdated": 1774654995581
+  "lastUpdated": 1774655055581
 }
