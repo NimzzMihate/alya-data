@@ -3646,7 +3646,7 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 26,
+    "wikwik": 27,
     "heal": 49,
     "menu": 68,
     "owner": 6,
@@ -4141,7 +4141,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 66,
+    "battlepet": 67,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4556,5 +4556,5 @@
     "ulartangga": 73,
     "gp": 2
   },
-  "lastUpdated": 1774605720157
+  "lastUpdated": 1774605780158
 }
