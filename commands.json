@@ -3623,10 +3623,10 @@
     "ewe-paksa": 40,
     "me": 280,
     "setbg": 11,
-    "rampok2": 272,
+    "rampok2": 274,
     "6285609504925": 15,
-    "atm": 89,
-    "bank": 43,
+    "atm": 90,
+    "bank": 44,
     "afk": 201,
     "kerja": 42,
     "628176533297": 14,
@@ -3724,7 +3724,7 @@
     "cium": 60,
     "6281915895220": 3,
     "6281215537344": 3,
-    "rampok": 90,
+    "rampok": 91,
     "listapi": 6,
     "family100": 2,
     "tebakpokemon": 1,
@@ -3843,7 +3843,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 65,
+    "atmpull": 67,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4557,5 +4557,5 @@
     "gp": 2,
     "menuuu": 1
   },
-  "lastUpdated": 1774606140164
+  "lastUpdated": 1774606200158
 }
