@@ -4310,7 +4310,7 @@
     "𝙢𝙚": 1,
     "ceraipaksa": 2,
     "meu": 2,
-    "nsfwmenu": 4,
+    "nsfwmenu": 5,
     "trap": 1,
     "neko": 1,
     "slap": 11,
@@ -4582,7 +4582,9 @@
     "6285778376770": 1,
     "pacae": 1,
     "ritual": 1,
-    "gituan": 3
+    "gituan": 3,
+    "chataimenu": 1,
+    "gpt": 3
   },
-  "lastUpdated": 1774626898313
+  "lastUpdated": 1774626958313
 }
