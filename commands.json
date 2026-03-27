@@ -3695,7 +3695,7 @@
     "getno": 8,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
     "195520047915190": 1,
-    "setpp": 34,
+    "setpp": 35,
     "265944542793975": 1,
     "berburu": 14,
     "masak": 9,
@@ -3841,7 +3841,7 @@
     "pacar": 59,
     "carikarakter": 100,
     "nembak": 55,
-    "cry": 5,
+    "cry": 6,
     "happy": 4,
     "sad": 1,
     "bully": 9,
@@ -4574,7 +4574,8 @@
     "pantun": 1,
     "wait": 1,
     "log": 5,
-    "jadibot": 1
+    "jadibot": 1,
+    "aturanbot": 1
   },
-  "lastUpdated": 1774618166740
+  "lastUpdated": 1774618226743
 }
