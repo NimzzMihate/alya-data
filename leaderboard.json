@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 254,
-      "exp": 609731,
+      "exp": 609764,
       "saldo": 2013929
     },
     {
@@ -81,7 +81,7 @@
     {
       "name": "*KUROSE*",
       "level": 17,
-      "exp": 41686,
+      "exp": 41739,
       "saldo": 2
     },
     {
@@ -99,7 +99,7 @@
     {
       "name": "Kayy",
       "level": 12,
-      "exp": 30631,
+      "exp": 30663,
       "saldo": 1
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 254,
-      "exp": 609731,
+      "exp": 609764,
       "saldo": 2013929
     },
     {
@@ -325,7 +325,7 @@
     {
       "name": "*KUROSE*",
       "level": 17,
-      "exp": 41686,
+      "exp": 41739,
       "saldo": 2
     },
     {
@@ -343,7 +343,7 @@
     {
       "name": "Kayy",
       "level": 12,
-      "exp": 30631,
+      "exp": 30663,
       "saldo": 1
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774616609170
+  "lastUpdated": 1774616669175
 }
