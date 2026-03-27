@@ -3625,7 +3625,7 @@
     "setbg": 11,
     "rampok2": 268,
     "6285609504925": 15,
-    "atm": 88,
+    "atm": 89,
     "bank": 43,
     "afk": 201,
     "kerja": 42,
@@ -3648,8 +3648,8 @@
     "61405583679507": 1,
     "wikwik": 27,
     "heal": 49,
-    "menu": 68,
-    "owner": 6,
+    "menu": 69,
+    "owner": 7,
     "script": 7,
     "joinrpg": 24,
     "mentahan": 1,
@@ -3724,7 +3724,7 @@
     "cium": 60,
     "6281915895220": 3,
     "6281215537344": 3,
-    "rampok": 89,
+    "rampok": 90,
     "listapi": 6,
     "family100": 2,
     "tebakpokemon": 1,
@@ -4557,5 +4557,5 @@
     "gp": 2,
     "menuuu": 1
   },
-  "lastUpdated": 1774606020170
+  "lastUpdated": 1774606080179
 }
