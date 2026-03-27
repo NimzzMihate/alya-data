@@ -39,8 +39,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 75,
-      "exp": 181616,
-      "saldo": 109000
+      "exp": 181753,
+      "saldo": 2109000
     },
     {
       "name": "apip",
@@ -93,7 +93,7 @@
     {
       "name": "Kayy",
       "level": 13,
-      "exp": 33391,
+      "exp": 33585,
       "saldo": 0
     },
     {
@@ -277,8 +277,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 75,
-      "exp": 181616,
-      "saldo": 109000
+      "exp": 181753,
+      "saldo": 2109000
     },
     {
       "name": "apip",
@@ -337,7 +337,7 @@
     {
       "name": "Kayy",
       "level": 13,
-      "exp": 33391,
+      "exp": 33585,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774627318314
+  "lastUpdated": 1774627378319
 }
