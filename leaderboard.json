@@ -21,8 +21,8 @@
     {
       "name": "Putzz?",
       "level": 255,
-      "exp": 613060,
-      "saldo": 7000
+      "exp": 613203,
+      "saldo": 5000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -82,7 +82,7 @@
       "name": "*KUROSE*",
       "level": 17,
       "exp": 42196,
-      "saldo": 2
+      "saldo": 2002
     },
     {
       "name": "danz",
@@ -259,8 +259,8 @@
     {
       "name": "Putzz?",
       "level": 255,
-      "exp": 613060,
-      "saldo": 7000
+      "exp": 613203,
+      "saldo": 5000
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
@@ -326,7 +326,7 @@
       "name": "*KUROSE*",
       "level": 17,
       "exp": 42196,
-      "saldo": 2
+      "saldo": 2002
     },
     {
       "name": "danz",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774623631235
+  "lastUpdated": 1774623691218
 }
