@@ -3912,7 +3912,7 @@
     "pindl": 11,
     "totalfitur": 1,
     "mie": 1,
-    "statusanak": 23,
+    "statusanak": 25,
     "wink": 2,
     "kecocokan": 10,
     "register": 11,
@@ -3941,7 +3941,7 @@
     "fk": 1,
     "38796926128361": 2,
     "narik": 3,
-    "toimg": 10,
+    "toimg": 11,
     "runtime": 2,
     "ephotomenu": 1,
     "6283839942035": 3,
@@ -4462,7 +4462,7 @@
     "152609298108555tuh": 1,
     "anak": 5,
     "buat": 1,
-    "ritualtakdir": 2,
+    "ritualtakdir": 3,
     "belisusu": 1,
     "berisusu": 1,
     "si'": 1,
@@ -4524,5 +4524,5 @@
     "gens-character": 2,
     "asuna": 1
   },
-  "lastUpdated": 1774600188202
+  "lastUpdated": 1774600248198
 }
