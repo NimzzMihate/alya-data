@@ -3614,7 +3614,7 @@
     "225": 1,
     "2694099605": 6,
     "backup": 2,
-    "get": 24,
+    "get": 25,
     "tohtml": 8,
     "ranked": 66,
     "mobaprofile": 14,
@@ -4036,7 +4036,7 @@
     "bounty": 2,
     "listcase": 1,
     "test": 5,
-    "pin2": 5,
+    "pin2": 6,
     "itachi": 1,
     "gojo": 1,
     "banyak": 1,
@@ -4557,5 +4557,5 @@
     "gp": 2,
     "menuuu": 1
   },
-  "lastUpdated": 1774606800168
+  "lastUpdated": 1774606860165
 }
