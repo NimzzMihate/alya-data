@@ -20,9 +20,9 @@
     },
     {
       "name": "Pillaaaaa",
-      "level": 251,
-      "exp": 604742,
-      "saldo": 0
+      "level": 252,
+      "exp": 604818,
+      "saldo": 7000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 143281,
+      "exp": 143327,
       "saldo": 0
     },
     {
@@ -103,15 +103,15 @@
       "saldo": 700
     },
     {
-      "name": "kenntod",
+      "name": "Kayy",
       "level": 11,
-      "exp": 28207,
+      "exp": 28245,
       "saldo": 0
     },
     {
-      "name": "Kayy",
+      "name": "kenntod",
       "level": 11,
-      "exp": 28135,
+      "exp": 28207,
       "saldo": 0
     },
     {
@@ -258,9 +258,9 @@
     },
     {
       "name": "Pillaaaaa",
-      "level": 251,
-      "exp": 604742,
-      "saldo": 0
+      "level": 252,
+      "exp": 604818,
+      "saldo": 7000
     },
     {
       "name": "Naylaa",
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 143281,
+      "exp": 143327,
       "saldo": 0
     },
     {
@@ -347,15 +347,15 @@
       "saldo": 700
     },
     {
-      "name": "kenntod",
+      "name": "Kayy",
       "level": 11,
-      "exp": 28207,
+      "exp": 28245,
       "saldo": 0
     },
     {
-      "name": "Kayy",
+      "name": "kenntod",
       "level": 11,
-      "exp": 28135,
+      "exp": 28207,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774602082412
+  "lastUpdated": 1774602142408
 }
