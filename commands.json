@@ -3688,7 +3688,7 @@
     "ewepaksa": 49,
     "topglobal": 13,
     "6285789692015": 1,
-    "buy": 312,
+    "buy": 315,
     "smeme": 21,
     "getno": 8,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3965,7 +3965,7 @@
     "marshaandthebear": 1,
     "allmenu": 7,
     "gamemenu": 2,
-    "catur": 45,
+    "catur": 47,
     "mulai": 1,
     "e2": 2,
     "6285180841166": 1,
@@ -4206,7 +4206,7 @@
     "startimpostor": 2,
     "vote": 1,
     "join": 2,
-    "monopoli": 7,
+    "monopoli": 9,
     "oom": 1,
     "inventory": 1,
     "like": 1,
@@ -4550,7 +4550,10 @@
     "hit": 1,
     "hiu": 1,
     "pukul": 1,
-    "casino": 3
+    "casino": 3,
+    "cekpemain": 1,
+    "cekgemini": 1,
+    "ulartangga": 2
   },
-  "lastUpdated": 1774602941596
+  "lastUpdated": 1774603001597
 }
