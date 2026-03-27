@@ -21,7 +21,7 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 603224,
+      "exp": 603266,
       "saldo": 2.010475081280943e+47
     },
     {
@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 142041,
-      "saldo": 0
+      "exp": 142078,
+      "saldo": 1e+28
     },
     {
       "name": "Zxiox",
@@ -116,8 +116,8 @@
     },
     {
       "name": "Kayy",
-      "level": 10,
-      "exp": 26395,
+      "level": 11,
+      "exp": 26443,
       "saldo": 1.0000000000008299e+23
     }
   ],
@@ -125,7 +125,7 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 603224,
+      "exp": 603266,
       "saldo": 2.010475081280943e+47
     },
     {
@@ -153,6 +153,12 @@
       "saldo": 1.000000001e+28
     },
     {
+      "name": "apip",
+      "level": 59,
+      "exp": 142078,
+      "saldo": 1e+28
+    },
+    {
       "name": "NarennDurenn",
       "level": 1,
       "exp": 3941,
@@ -160,8 +166,8 @@
     },
     {
       "name": "Kayy",
-      "level": 10,
-      "exp": 26395,
+      "level": 11,
+      "exp": 26443,
       "saldo": 1.0000000000008299e+23
     },
     {
@@ -235,12 +241,6 @@
       "level": 4,
       "exp": 10261,
       "saldo": 104016372
-    },
-    {
-      "name": "radit",
-      "level": 0,
-      "exp": 1083,
-      "saldo": 10045000
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "Pillaaaaa",
       "level": 251,
-      "exp": 603224,
+      "exp": 603266,
       "saldo": 2.010475081280943e+47
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 59,
-      "exp": 142041,
-      "saldo": 0
+      "exp": 142078,
+      "saldo": 1e+28
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -360,10 +360,10 @@
     },
     {
       "name": "Kayy",
-      "level": 10,
-      "exp": 26395,
+      "level": 11,
+      "exp": 26443,
       "saldo": 1.0000000000008299e+23
     }
   ],
-  "lastUpdated": 1774601362401
+  "lastUpdated": 1774601422403
 }
