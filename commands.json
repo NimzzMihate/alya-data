@@ -3628,8 +3628,8 @@
     "setbg": 13,
     "rampok2": 296,
     "6285609504925": 15,
-    "atm": 95,
-    "bank": 44,
+    "atm": 96,
+    "bank": 45,
     "afk": 239,
     "kerja": 42,
     "628176533297": 14,
@@ -4183,7 +4183,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 38,
+    "atmall": 39,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4603,5 +4603,5 @@
     "memu": 1,
     "227552249524236": 3
   },
-  "lastUpdated": 1774653038608
+  "lastUpdated": 1774653098606
 }
