@@ -3648,7 +3648,7 @@
     "61405583679507": 1,
     "wikwik": 25,
     "heal": 48,
-    "menu": 57,
+    "menu": 59,
     "owner": 6,
     "script": 7,
     "joinrpg": 24,
@@ -3779,7 +3779,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 61,
+    "saldo": 62,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3867,7 +3867,7 @@
     "winkhd": 1,
     "winkuhd": 3,
     "edan": 6,
-    "ping": 7,
+    "ping": 8,
     "sticker": 3,
     "111558118097146": 2,
     "250113796636693": 1,
@@ -4506,5 +4506,5 @@
     "males": 1,
     "628811416831": 2
   },
-  "lastUpdated": 1774589258864
+  "lastUpdated": 1774589318863
 }
