@@ -3625,7 +3625,7 @@
     "ewe-paksa": 40,
     "me": 293,
     "setbg": 13,
-    "rampok2": 288,
+    "rampok2": 289,
     "6285609504925": 15,
     "atm": 91,
     "bank": 44,
@@ -3977,7 +3977,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 103,
+    "tf": 104,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4143,7 +4143,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 70,
+    "battlepet": 72,
     "riges": 1,
     "mengangguk": 1,
     "carikarakter[nadeshiko": 1,
@@ -4414,7 +4414,7 @@
     "savanah": 1,
     "jnban": 1,
     "unban": 1,
-    "uncap": 4,
+    "uncap": 5,
     "jembod": 1,
     "femboy": 1,
     "pet": 3,
@@ -4578,5 +4578,5 @@
     "aturanbot": 1,
     "aturan": 1
   },
-  "lastUpdated": 1774620326774
+  "lastUpdated": 1774620451193
 }
