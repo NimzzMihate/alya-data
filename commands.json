@@ -3842,7 +3842,7 @@
     "cry": 5,
     "happy": 4,
     "sad": 1,
-    "bully": 6,
+    "bully": 8,
     "atmpull": 59,
     "promote": 4,
     "reset": 2,
@@ -3965,7 +3965,7 @@
     "marshaandthebear": 1,
     "allmenu": 7,
     "gamemenu": 1,
-    "catur": 39,
+    "catur": 41,
     "mulai": 1,
     "e2": 2,
     "6285180841166": 1,
@@ -4335,7 +4335,7 @@
     "pussy": 1,
     "puisi": 1,
     "kill": 1,
-    "kiss": 11,
+    "kiss": 12,
     "wangi": 5,
     "toplay": 3,
     "jadian": 1,
@@ -4545,7 +4545,8 @@
     "funmenu": 1,
     "sange": 4,
     "horny": 1,
-    "iblis": 1
+    "iblis": 1,
+    "msberwc": 1
   },
-  "lastUpdated": 1774602701595
+  "lastUpdated": 1774602761596
 }
