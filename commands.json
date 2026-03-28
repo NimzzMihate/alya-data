@@ -3970,7 +3970,7 @@
     "marshaandthebear": 1,
     "allmenu": 7,
     "gamemenu": 2,
-    "catur": 147,
+    "catur": 148,
     "mulai": 1,
     "e2": 2,
     "6285180841166": 1,
@@ -4372,7 +4372,7 @@
     "invpd": 1,
     "628895327267": 3,
     "ceklimit": 8,
-    "ceksaldo": 10,
+    "ceksaldo": 11,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -4653,7 +4653,8 @@
     "buyayam": 1,
     "6283192352087": 1,
     "caturg8": 1,
-    "rilog": 1
+    "rilog": 1,
+    "pvp": 1
   },
-  "lastUpdated": 1774712180632
+  "lastUpdated": 1774712240638
 }
