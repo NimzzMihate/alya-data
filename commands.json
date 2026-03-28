@@ -3626,13 +3626,13 @@
     "playmoba": 38,
     "ngaji": 25,
     "ewe-paksa": 41,
-    "me": 318,
+    "me": 319,
     "setbg": 13,
-    "rampok2": 327,
+    "rampok2": 329,
     "6285609504925": 15,
     "atm": 104,
-    "bank": 56,
-    "afk": 304,
+    "bank": 57,
+    "afk": 305,
     "kerja": 45,
     "628176533297": 14,
     "s": 109,
@@ -3784,7 +3784,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 113,
+    "saldo": 114,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4650,7 +4650,8 @@
     "gidt": 1,
     "chess": 25,
     "updateapi": 1,
-    "buyayam": 1
+    "buyayam": 1,
+    "6283192352087": 1
   },
-  "lastUpdated": 1774710177611
+  "lastUpdated": 1774710237607
 }
