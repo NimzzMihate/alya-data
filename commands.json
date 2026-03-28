@@ -3704,7 +3704,7 @@
     "makan": 8,
     "repair": 1,
     "kapal": 5,
-    "craft": 127,
+    "craft": 128,
     "listheri": 1,
     "listhero": 6,
     "mancing": 2,
@@ -3756,7 +3756,7 @@
     "6282130641503": 5,
     "buyitem": 1,
     "play": 72,
-    "ytmp3": 54,
+    "ytmp3": 55,
     "152609298108555": 35,
     "35588770111681": 1,
     "intro": 32,
@@ -3987,7 +3987,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 42,
+    "sell": 43,
     "jual": 18,
     "vid": 2,
     "nfsw": 2,
@@ -4628,5 +4628,5 @@
     "ditolak": 1,
     "kasohmakan": 1
   },
-  "lastUpdated": 1774685026266
+  "lastUpdated": 1774685086263
 }
