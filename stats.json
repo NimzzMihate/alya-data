@@ -3,8 +3,8 @@
   "totalUsers": 1044,
   "totalGroups": 37,
   "totalFeatures": 3611,
-  "totalCmd": 11579,
-  "totalChat": 11579,
+  "totalCmd": 11584,
+  "totalChat": 11584,
   "topCommands": [
     {
       "cmd": "buy",
@@ -43,12 +43,12 @@
       "count": 172
     },
     {
-      "cmd": "craft",
-      "count": 150
+      "cmd": "kasihmakan",
+      "count": 152
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 2161,
-  "lastUpdated": 1774713380671
+  "uptimeSeconds": 2221,
+  "lastUpdated": 1774713440673
 }
