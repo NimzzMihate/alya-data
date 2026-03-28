@@ -69,8 +69,8 @@
     {
       "name": "*KUROSE*",
       "level": 25,
-      "exp": 61156,
-      "saldo": 3758940
+      "exp": 61398,
+      "saldo": 9999950000003807000
     },
     {
       "name": "Oguri cap",
@@ -171,6 +171,12 @@
       "saldo": 6.673568075175608e+21
     },
     {
+      "name": "*KUROSE*",
+      "level": 25,
+      "exp": 61398,
+      "saldo": 9999950000003807000
+    },
+    {
       "name": "Lejen",
       "level": 39,
       "exp": 95158,
@@ -185,7 +191,7 @@
     {
       "name": "murazaki",
       "level": 8,
-      "exp": 21301,
+      "exp": 21547,
       "saldo": 13030000000062388
     },
     {
@@ -235,12 +241,6 @@
       "level": 27,
       "exp": 72062,
       "saldo": 480618437
-    },
-    {
-      "name": "xeno la nigger",
-      "level": 4,
-      "exp": 10446,
-      "saldo": 106134076
     }
   ],
   "exp": [
@@ -313,8 +313,8 @@
     {
       "name": "*KUROSE*",
       "level": 25,
-      "exp": 61156,
-      "saldo": 3758940
+      "exp": 61398,
+      "saldo": 9999950000003807000
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774710357605
+  "lastUpdated": 1774710417605
 }
