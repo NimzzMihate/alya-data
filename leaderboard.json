@@ -15,13 +15,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 326,
-      "exp": 784387,
+      "exp": 784591,
       "saldo": 1201999001009767
     },
     {
       "name": "Putzz?",
       "level": 272,
-      "exp": 653326,
+      "exp": 653401,
       "saldo": 1.1110904750812965e+50
     },
     {
@@ -69,8 +69,8 @@
     {
       "name": "*KUROSE*",
       "level": 24,
-      "exp": 58296,
-      "saldo": 999999927999999
+      "exp": 58452,
+      "saldo": 1e+29
     },
     {
       "name": "Oguri cap",
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 272,
-      "exp": 653326,
+      "exp": 653401,
       "saldo": 1.1110904750812965e+50
     },
     {
@@ -145,6 +145,12 @@
       "level": 80,
       "exp": 193802,
       "saldo": 2.016001793294507e+33
+    },
+    {
+      "name": "*KUROSE*",
+      "level": 24,
+      "exp": 58452,
+      "saldo": 1e+29
     },
     {
       "name": "naa",
@@ -185,14 +191,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 326,
-      "exp": 784387,
+      "exp": 784591,
       "saldo": 1201999001009767
-    },
-    {
-      "name": "*KUROSE*",
-      "level": 24,
-      "exp": 58296,
-      "saldo": 999999927999999
     },
     {
       "name": "Lejen",
@@ -253,13 +253,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 326,
-      "exp": 784387,
+      "exp": 784591,
       "saldo": 1201999001009767
     },
     {
       "name": "Putzz?",
       "level": 272,
-      "exp": 653326,
+      "exp": 653401,
       "saldo": 1.1110904750812965e+50
     },
     {
@@ -313,8 +313,8 @@
     {
       "name": "*KUROSE*",
       "level": 24,
-      "exp": 58296,
-      "saldo": 999999927999999
+      "exp": 58452,
+      "saldo": 1e+29
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774696491627
+  "lastUpdated": 1774696551631
 }
