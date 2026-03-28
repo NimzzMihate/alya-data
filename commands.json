@@ -3624,7 +3624,7 @@
     "playmoba": 38,
     "ngaji": 24,
     "ewe-paksa": 40,
-    "me": 307,
+    "me": 308,
     "setbg": 13,
     "rampok2": 311,
     "6285609504925": 15,
@@ -3654,7 +3654,7 @@
     "menu": 82,
     "owner": 9,
     "script": 7,
-    "joinrpg": 25,
+    "joinrpg": 26,
     "mentahan": 1,
     "claim": 27,
     "cekidch": 2,
@@ -3824,7 +3824,7 @@
     "akun": 1,
     "jembott": 1,
     "kuis": 12,
-    "32968236081310": 55,
+    "32968236081310": 57,
     "6283152469722": 4,
     "6285649132023": 43,
     "oldyk": 2,
@@ -4337,7 +4337,7 @@
     "hentai": 1,
     "pussy": 1,
     "puisi": 2,
-    "kill": 1,
+    "kill": 4,
     "kiss": 14,
     "wangi": 29,
     "toplay": 3,
@@ -4611,7 +4611,8 @@
     "carikaraktet": 2,
     "kencam": 1,
     "jadwalsholat": 2,
-    "byerah": 1
+    "byerah": 1,
+    "hug": 1
   },
-  "lastUpdated": 1774678166843
+  "lastUpdated": 1774678226837
 }
