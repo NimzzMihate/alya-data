@@ -3651,8 +3651,8 @@
     "61405583679507": 1,
     "wikwik": 28,
     "heal": 54,
-    "menu": 81,
-    "owner": 8,
+    "menu": 82,
+    "owner": 9,
     "script": 7,
     "joinrpg": 24,
     "mentahan": 1,
@@ -3865,7 +3865,7 @@
     "cekganteng": 34,
     "crkganteng": 1,
     "puqi": 32,
-    "anj": 33,
+    "anj": 34,
     "anjing": 25,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4531,7 +4531,7 @@
     "armor": 3,
     "fish": 1,
     "poke": 1,
-    "anjg": 44,
+    "anjg": 45,
     "cekbank": 7,
     "cektomboy": 1,
     "bajingan": 2,
@@ -4606,5 +4606,5 @@
     "sado": 1,
     "atmpulll": 1
   },
-  "lastUpdated": 1774667890745
+  "lastUpdated": 1774667950746
 }
