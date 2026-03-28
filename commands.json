@@ -3728,7 +3728,7 @@
     "6281915895220": 3,
     "6281215537344": 3,
     "rampok": 102,
-    "listapi": 7,
+    "listapi": 8,
     "family100": 2,
     "tebakpokemon": 1,
     "6283869039585": 24,
@@ -4129,7 +4129,7 @@
     "259468235436086": 2,
     "6281374721324": 4,
     "cekpenjara": 6,
-    "cek": 14,
+    "cek": 15,
     "forward.forward": 1,
     "hell": 1,
     "bailout": 30,
@@ -4532,7 +4532,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 46,
-    "cekbank": 8,
+    "cekbank": 9,
     "cektomboy": 1,
     "bajingan": 4,
     "tabungan": 1,
@@ -4634,7 +4634,8 @@
     "lencan": 1,
     "6289629162400": 2,
     "meinfo": 1,
-    "kasihmana": 1
+    "kasihmana": 1,
+    "mcp>margacreatorpokemon": 1
   },
-  "lastUpdated": 1774691309445
+  "lastUpdated": 1774691369444
 }
