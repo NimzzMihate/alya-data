@@ -3651,8 +3651,8 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 30,
-    "heal": 61,
+    "wikwik": 31,
+    "heal": 64,
     "menu": 84,
     "owner": 9,
     "script": 7,
@@ -3690,10 +3690,10 @@
     "editfoto": 57,
     "dailymisi": 34,
     "open-bo": 35,
-    "ewepaksa": 62,
+    "ewepaksa": 63,
     "topglobal": 14,
     "6285789692015": 1,
-    "buy": 364,
+    "buy": 365,
     "smeme": 22,
     "getno": 9,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -4185,7 +4185,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 51,
+    "atmall": 52,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4652,5 +4652,5 @@
     "updateapi": 1,
     "buyayam": 1
   },
-  "lastUpdated": 1774710057602
+  "lastUpdated": 1774710117604
 }
