@@ -3,8 +3,8 @@
   "totalUsers": 1042,
   "totalGroups": 37,
   "totalFeatures": 3609,
-  "totalCmd": 10678,
-  "totalChat": 10678,
+  "totalCmd": 10680,
+  "totalChat": 10680,
   "topCommands": [
     {
       "cmd": "buy",
@@ -43,12 +43,12 @@
       "count": 122
     },
     {
-      "cmd": "tf",
+      "cmd": "carikarakter",
       "count": 116
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 901,
-  "lastUpdated": 1774686539202
+  "uptimeSeconds": 961,
+  "lastUpdated": 1774686599199
 }
