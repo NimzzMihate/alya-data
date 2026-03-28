@@ -3,8 +3,8 @@
   "totalUsers": 1042,
   "totalGroups": 37,
   "totalFeatures": 3609,
-  "totalCmd": 10680,
-  "totalChat": 10680,
+  "totalCmd": 10686,
+  "totalChat": 10686,
   "topCommands": [
     {
       "cmd": "buy",
@@ -24,7 +24,7 @@
     },
     {
       "cmd": "pap",
-      "count": 283
+      "count": 287
     },
     {
       "cmd": "afk",
@@ -44,11 +44,11 @@
     },
     {
       "cmd": "carikarakter",
-      "count": 116
+      "count": 117
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 961,
-  "lastUpdated": 1774686599199
+  "uptimeSeconds": 1021,
+  "lastUpdated": 1774686659199
 }
