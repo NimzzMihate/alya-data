@@ -3968,7 +3968,7 @@
     "marshaandthebear": 1,
     "allmenu": 7,
     "gamemenu": 2,
-    "catur": 84,
+    "catur": 86,
     "mulai": 1,
     "e2": 2,
     "6285180841166": 1,
@@ -4096,7 +4096,7 @@
     "sg": 56,
     "shop": 9,
     "168238516305969": 9,
-    "atmtake": 17,
+    "atmtake": 18,
     "giftshop": 1,
     "kasihnamaanak": 6,
     "babi": 17,
@@ -4384,7 +4384,7 @@
     "revoke": 2,
     "hdvideo": 4,
     "getlinkgc": 1,
-    "131203332047033": 1,
+    "131203332047033": 2,
     "ownermenu": 2,
     "self": 1,
     "1319142170762": 1,
@@ -4637,5 +4637,5 @@
     "kasihmana": 1,
     "mcp>margacreatorpokemon": 1
   },
-  "lastUpdated": 1774691429449
+  "lastUpdated": 1774691489443
 }
