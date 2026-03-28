@@ -3882,7 +3882,7 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 102,
-    "kasihmakan": 122,
+    "kasihmakan": 123,
     "kasihminum": 19,
     "naena": 10,
     "noenc": 19,
@@ -4083,7 +4083,7 @@
     "cerai": 5,
     "putus": 28,
     "crop": 13,
-    "shopgift": 32,
+    "shopgift": 33,
     "give": 3,
     "asep": 1,
     "pasangan": 3,
@@ -4636,5 +4636,5 @@
     "meinfo": 1,
     "kasihmana": 1
   },
-  "lastUpdated": 1774689059226
+  "lastUpdated": 1774689119222
 }
