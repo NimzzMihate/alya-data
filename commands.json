@@ -3623,8 +3623,8 @@
     "mobaprofile": 14,
     "playmoba": 38,
     "ngaji": 25,
-    "ewe-paksa": 40,
-    "me": 308,
+    "ewe-paksa": 41,
+    "me": 310,
     "setbg": 13,
     "rampok2": 316,
     "6285609504925": 15,
@@ -3650,7 +3650,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 28,
-    "heal": 57,
+    "heal": 58,
     "menu": 83,
     "owner": 9,
     "script": 7,
@@ -3715,7 +3715,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 85,
+    "cekprofile": 86,
     "tes": 107,
     "listown": 11,
     "getpp": 3,
@@ -4311,7 +4311,7 @@
     "𝙢𝙚": 1,
     "ceraipaksa": 2,
     "meu": 2,
-    "nsfwmenu": 7,
+    "nsfwmenu": 8,
     "trap": 2,
     "neko": 1,
     "slap": 11,
@@ -4627,7 +4627,8 @@
     "feefpet": 2,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 4
+    "mining": 4,
+    "shinobu": 1
   },
-  "lastUpdated": 1774685401022
+  "lastUpdated": 1774685461023
 }
