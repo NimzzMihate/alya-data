@@ -3,8 +3,8 @@
   "totalUsers": 1043,
   "totalGroups": 37,
   "totalFeatures": 3609,
-  "totalCmd": 10734,
-  "totalChat": 10734,
+  "totalCmd": 10741,
+  "totalChat": 10741,
   "topCommands": [
     {
       "cmd": "buy",
@@ -43,12 +43,12 @@
       "count": 124
     },
     {
-      "cmd": "carikarakter",
-      "count": 117
+      "cmd": "kasihmakan",
+      "count": 122
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 3361,
-  "lastUpdated": 1774688999222
+  "uptimeSeconds": 3421,
+  "lastUpdated": 1774689059225
 }
