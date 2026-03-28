@@ -3626,7 +3626,7 @@
     "ewe-paksa": 40,
     "me": 302,
     "setbg": 13,
-    "rampok2": 301,
+    "rampok2": 303,
     "6285609504925": 15,
     "atm": 98,
     "bank": 45,
@@ -3727,7 +3727,7 @@
     "cium": 78,
     "6281915895220": 3,
     "6281215537344": 3,
-    "rampok": 93,
+    "rampok": 94,
     "listapi": 6,
     "family100": 2,
     "tebakpokemon": 1,
@@ -3782,7 +3782,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 87,
+    "saldo": 88,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4606,5 +4606,5 @@
     "sado": 1,
     "atmpulll": 1
   },
-  "lastUpdated": 1774666652482
+  "lastUpdated": 1774666712472
 }
