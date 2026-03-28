@@ -3980,7 +3980,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 201,
+    "tf": 202,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4185,7 +4185,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 52,
+    "atmall": 53,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4655,5 +4655,5 @@
     "caturg8": 1,
     "rilog": 1
   },
-  "lastUpdated": 1774712060633
+  "lastUpdated": 1774712120632
 }
