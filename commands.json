@@ -3631,7 +3631,7 @@
     "rampok2": 323,
     "6285609504925": 15,
     "atm": 104,
-    "bank": 55,
+    "bank": 56,
     "afk": 298,
     "kerja": 45,
     "628176533297": 14,
@@ -3658,7 +3658,7 @@
     "script": 7,
     "joinrpg": 27,
     "mentahan": 1,
-    "claim": 28,
+    "claim": 29,
     "cekidch": 3,
     "tourl": 30,
     "title": 1,
@@ -4185,7 +4185,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 50,
+    "atmall": 51,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4651,5 +4651,5 @@
     "chess": 25,
     "updateapi": 1
   },
-  "lastUpdated": 1774708197584
+  "lastUpdated": 1774708257588
 }
