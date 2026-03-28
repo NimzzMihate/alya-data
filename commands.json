@@ -3704,7 +3704,7 @@
     "makan": 8,
     "repair": 1,
     "kapal": 5,
-    "craft": 124,
+    "craft": 125,
     "listheri": 1,
     "listhero": 6,
     "mancing": 2,
@@ -3782,7 +3782,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 92,
+    "saldo": 93,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3837,7 +3837,7 @@
     "hargasewa": 1,
     "d": 49,
     "pabrik": 1,
-    "fitnah": 47,
+    "fitnah": 50,
     "puji": 121,
     "pacar": 78,
     "carikarakter": 113,
@@ -3987,7 +3987,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 39,
+    "sell": 40,
     "jual": 18,
     "vid": 2,
     "nfsw": 2,
@@ -4628,5 +4628,5 @@
     "ditolak": 1,
     "kasohmakan": 1
   },
-  "lastUpdated": 1774684786250
+  "lastUpdated": 1774684846258
 }
