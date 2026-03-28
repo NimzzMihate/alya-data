@@ -3824,7 +3824,7 @@
     "akun": 1,
     "jembott": 1,
     "kuis": 12,
-    "32968236081310": 62,
+    "32968236081310": 63,
     "6283152469722": 4,
     "6285649132023": 43,
     "oldyk": 2,
@@ -3978,7 +3978,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 119,
+    "tf": 121,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4232,7 +4232,7 @@
     "tabung": 2,
     "atn": 1,
     "6288747505928": 1,
-    "topsaldo": 3,
+    "topsaldo": 4,
     "bernuru": 1,
     "cekkesetiaan": 6,
     "ceksetia": 3,
@@ -4432,7 +4432,7 @@
     "mabar": 1,
     "malam": 3,
     "addsaldo": 6,
-    "3260467388514": 9,
+    "3260467388514": 10,
     "peluk": 2,
     "nambahpacat": 1,
     "statuspet": 1,
@@ -4637,5 +4637,5 @@
     "kasihmana": 1,
     "mcp>margacreatorpokemon": 1
   },
-  "lastUpdated": 1774691489443
+  "lastUpdated": 1774691549470
 }
