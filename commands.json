@@ -3654,7 +3654,7 @@
     "menu": 82,
     "owner": 9,
     "script": 7,
-    "joinrpg": 24,
+    "joinrpg": 25,
     "mentahan": 1,
     "claim": 26,
     "cekidch": 2,
@@ -3664,7 +3664,7 @@
     ">": 4,
     "addapi": 2,
     "pin": 93,
-    "hd": 77,
+    "hd": 78,
     "useitem": 7,
     "77605898313906": 83,
     "huxin": 1,
@@ -4610,5 +4610,5 @@
     "60192070491": 1,
     "carikaraktet": 2
   },
-  "lastUpdated": 1774672630782
+  "lastUpdated": 1774672690786
 }
