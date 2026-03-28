@@ -15,8 +15,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 325,
-      "exp": 780969,
-      "saldo": 202000001017767
+      "exp": 781023,
+      "saldo": 1202000001017767
     },
     {
       "name": "Putzz?",
@@ -75,8 +75,8 @@
     {
       "name": "*KUROSE*",
       "level": 22,
-      "exp": 53955,
-      "saldo": 20000000000000012000
+      "exp": 54051,
+      "saldo": 19988999999998010000
     },
     {
       "name": "kensoy",
@@ -173,14 +173,26 @@
     {
       "name": "*KUROSE*",
       "level": 22,
-      "exp": 53955,
-      "saldo": 20000000000000012000
+      "exp": 54051,
+      "saldo": 19988999999998010000
+    },
+    {
+      "name": "murazaki",
+      "level": 8,
+      "exp": 19624,
+      "saldo": 10000000002033488
     },
     {
       "name": "Sanzx",
       "level": 1,
       "exp": 3970,
       "saldo": 9999948890040000
+    },
+    {
+      "name": "Ditz ketoprak",
+      "level": 325,
+      "exp": 781023,
+      "saldo": 1202000001017767
     },
     {
       "name": "Lejen",
@@ -193,12 +205,6 @@
       "level": 15,
       "exp": 37008,
       "saldo": 252183670087847
-    },
-    {
-      "name": "Ditz ketoprak",
-      "level": 325,
-      "exp": 780969,
-      "saldo": 202000001017767
     },
     {
       "name": "kensoy",
@@ -235,12 +241,6 @@
       "level": 4,
       "exp": 10446,
       "saldo": 106134076
-    },
-    {
-      "name": "radit",
-      "level": 0,
-      "exp": 1083,
-      "saldo": 10045000
     }
   ],
   "exp": [
@@ -253,8 +253,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 325,
-      "exp": 780969,
-      "saldo": 202000001017767
+      "exp": 781023,
+      "saldo": 1202000001017767
     },
     {
       "name": "Putzz?",
@@ -319,8 +319,8 @@
     {
       "name": "*KUROSE*",
       "level": 22,
-      "exp": 53955,
-      "saldo": 20000000000000012000
+      "exp": 54051,
+      "saldo": 19988999999998010000
     },
     {
       "name": "kensoy",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774685521023
+  "lastUpdated": 1774685581033
 }
