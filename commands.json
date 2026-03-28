@@ -3630,7 +3630,7 @@
     "6285609504925": 15,
     "atm": 99,
     "bank": 45,
-    "afk": 248,
+    "afk": 249,
     "kerja": 44,
     "628176533297": 14,
     "s": 100,
@@ -3679,7 +3679,7 @@
     "adventure": 16,
     "cf": 16,
     "nai2": 9,
-    "6282137487477": 13,
+    "6282137487477": 15,
     "removebg": 36,
     "addown": 7,
     "listowner": 10,
@@ -3782,7 +3782,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 88,
+    "saldo": 90,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3978,7 +3978,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 113,
+    "tf": 114,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4612,5 +4612,5 @@
     "kencam": 1,
     "jadwalsholat": 2
   },
-  "lastUpdated": 1774678046837
+  "lastUpdated": 1774678106837
 }
