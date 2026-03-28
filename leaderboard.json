@@ -15,8 +15,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 315,
-      "exp": 756262,
-      "saldo": 202000001052000
+      "exp": 756341,
+      "saldo": 202000000952000
     },
     {
       "name": "Putzz?",
@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 64,
-      "exp": 154584,
-      "saldo": 0
+      "exp": 154615,
+      "saldo": 100000
     },
     {
       "name": "Zxiox",
@@ -81,8 +81,8 @@
     {
       "name": "*KUROSE*",
       "level": 18,
-      "exp": 43596,
-      "saldo": 9997002
+      "exp": 43648,
+      "saldo": 9897002
     },
     {
       "name": "Kayy",
@@ -191,8 +191,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 315,
-      "exp": 756262,
-      "saldo": 202000001052000
+      "exp": 756341,
+      "saldo": 202000000952000
     },
     {
       "name": "kensoy",
@@ -239,8 +239,8 @@
     {
       "name": "*KUROSE*",
       "level": 18,
-      "exp": 43596,
-      "saldo": 9997002
+      "exp": 43648,
+      "saldo": 9897002
     }
   ],
   "exp": [
@@ -253,8 +253,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 315,
-      "exp": 756262,
-      "saldo": 202000001052000
+      "exp": 756341,
+      "saldo": 202000000952000
     },
     {
       "name": "Putzz?",
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 64,
-      "exp": 154584,
-      "saldo": 0
+      "exp": 154615,
+      "saldo": 100000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -325,8 +325,8 @@
     {
       "name": "*KUROSE*",
       "level": 18,
-      "exp": 43596,
-      "saldo": 9997002
+      "exp": 43648,
+      "saldo": 9897002
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774662092364
+  "lastUpdated": 1774662152364
 }
