@@ -3,8 +3,8 @@
   "totalUsers": 1044,
   "totalGroups": 37,
   "totalFeatures": 3609,
-  "totalCmd": 10808,
-  "totalChat": 10808,
+  "totalCmd": 10814,
+  "totalChat": 10814,
   "topCommands": [
     {
       "cmd": "buy",
@@ -39,16 +39,16 @@
       "count": 131
     },
     {
-      "cmd": "kasihmakan",
-      "count": 128
+      "cmd": "tf",
+      "count": 130
     },
     {
-      "cmd": "puji",
-      "count": 124
+      "cmd": "kasihmakan",
+      "count": 128
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 1141,
-  "lastUpdated": 1774692736734
+  "uptimeSeconds": 1201,
+  "lastUpdated": 1774692796920
 }
