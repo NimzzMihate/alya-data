@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 64,
-      "exp": 154662,
-      "saldo": 100000
+      "exp": 154815,
+      "saldo": 95000
     },
     {
       "name": "Zxiox",
@@ -81,7 +81,7 @@
     {
       "name": "*KUROSE*",
       "level": 18,
-      "exp": 43648,
+      "exp": 43680,
       "saldo": 9897002
     },
     {
@@ -239,7 +239,7 @@
     {
       "name": "*KUROSE*",
       "level": 18,
-      "exp": 43648,
+      "exp": 43680,
       "saldo": 9897002
     }
   ],
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 64,
-      "exp": 154662,
-      "saldo": 100000
+      "exp": 154815,
+      "saldo": 95000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -325,7 +325,7 @@
     {
       "name": "*KUROSE*",
       "level": 18,
-      "exp": 43648,
+      "exp": 43680,
       "saldo": 9897002
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774662212368
+  "lastUpdated": 1774662272367
 }
