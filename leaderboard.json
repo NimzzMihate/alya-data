@@ -33,7 +33,7 @@
     {
       "name": "Joishi ganteng",
       "level": 80,
-      "exp": 192742,
+      "exp": 192893,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -87,8 +87,8 @@
     {
       "name": "Kayy",
       "level": 15,
-      "exp": 37426,
-      "saldo": 0
+      "exp": 37646,
+      "saldo": 9.999999999037799e+22
     },
     {
       "name": "danz",
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 80,
-      "exp": 192742,
+      "exp": 192893,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -157,6 +157,12 @@
       "level": 1,
       "exp": 4732,
       "saldo": 1.0000000000009998e+23
+    },
+    {
+      "name": "Kayy",
+      "level": 15,
+      "exp": 37646,
+      "saldo": 9.999999999037799e+22
     },
     {
       "name": "renita",
@@ -235,12 +241,6 @@
       "level": 0,
       "exp": 1083,
       "saldo": 10045000
-    },
-    {
-      "name": "*KUROSE*",
-      "level": 18,
-      "exp": 43204,
-      "saldo": 10002002
     }
   ],
   "exp": [
@@ -271,7 +271,7 @@
     {
       "name": "Joishi ganteng",
       "level": 80,
-      "exp": 192742,
+      "exp": 192893,
       "saldo": 2.016001793294507e+33
     },
     {
@@ -331,8 +331,8 @@
     {
       "name": "Kayy",
       "level": 15,
-      "exp": 37426,
-      "saldo": 0
+      "exp": 37646,
+      "saldo": 9.999999999037799e+22
     },
     {
       "name": "danz",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774660695643
+  "lastUpdated": 1774660755643
 }
