@@ -3840,7 +3840,7 @@
     "fitnah": 44,
     "puji": 118,
     "pacar": 74,
-    "carikarakter": 111,
+    "carikarakter": 112,
     "nembak": 56,
     "cry": 6,
     "happy": 4,
@@ -4439,7 +4439,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 7,
+    "detailkarakter": 8,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 1,
@@ -4611,5 +4611,5 @@
     "carikaraktet": 2,
     "kencam": 1
   },
-  "lastUpdated": 1774673170802
+  "lastUpdated": 1774673230788
 }
