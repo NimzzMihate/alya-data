@@ -3626,7 +3626,7 @@
     "ewe-paksa": 40,
     "me": 305,
     "setbg": 13,
-    "rampok2": 304,
+    "rampok2": 305,
     "6285609504925": 15,
     "atm": 98,
     "bank": 45,
@@ -3715,7 +3715,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 82,
+    "cekprofile": 83,
     "tes": 104,
     "listown": 11,
     "getpp": 3,
@@ -3846,7 +3846,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 76,
+    "atmpull": 77,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -3978,7 +3978,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 112,
+    "tf": 113,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4183,7 +4183,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 41,
+    "atmall": 42,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4610,5 +4610,5 @@
     "60192070491": 1,
     "carikaraktet": 2
   },
-  "lastUpdated": 1774672570784
+  "lastUpdated": 1774672630782
 }
