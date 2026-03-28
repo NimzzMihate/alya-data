@@ -3626,7 +3626,7 @@
     "ewe-paksa": 40,
     "me": 302,
     "setbg": 13,
-    "rampok2": 300,
+    "rampok2": 301,
     "6285609504925": 15,
     "atm": 98,
     "bank": 45,
@@ -3656,7 +3656,7 @@
     "script": 7,
     "joinrpg": 24,
     "mentahan": 1,
-    "claim": 25,
+    "claim": 26,
     "cekidch": 2,
     "tourl": 26,
     "title": 1,
@@ -3686,9 +3686,9 @@
     "brat": 58,
     "brathd": 1,
     "editfoto": 57,
-    "dailymisi": 33,
-    "open-bo": 32,
-    "ewepaksa": 55,
+    "dailymisi": 34,
+    "open-bo": 33,
+    "ewepaksa": 56,
     "topglobal": 14,
     "6285789692015": 1,
     "buy": 324,
@@ -4606,5 +4606,5 @@
     "sado": 1,
     "atmpulll": 1
   },
-  "lastUpdated": 1774666352470
+  "lastUpdated": 1774666412470
 }
