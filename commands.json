@@ -3773,7 +3773,7 @@
     "verify": 18,
     "daftr": 10,
     "status": 10,
-    "pap": 282,
+    "pap": 283,
     "tebakbendera": 15,
     "tebak": 1,
     "gantinama": 1,
@@ -3889,7 +3889,7 @@
     "6282115911954": 2,
     "6281455125940": 2,
     "6285761349641": 12,
-    "pap2": 37,
+    "pap2": 38,
     "getcase": 3,
     "/": 3,
     "cekcantik": 9,
@@ -4122,8 +4122,8 @@
     "6282327857595": 6,
     "roast": 38,
     "rampokin": 11,
-    "nikahpaksa": 30,
-    "tolak": 6,
+    "nikahpaksa": 31,
+    "tolak": 7,
     "batalnikah": 10,
     "ꮋꭿꮑꮏꮼ:yang": 1,
     "259468235436086": 2,
@@ -4431,7 +4431,7 @@
     "naonc": 1,
     "mabar": 1,
     "malam": 3,
-    "addsaldo": 5,
+    "addsaldo": 6,
     "3260467388514": 9,
     "peluk": 2,
     "nambahpacat": 1,
@@ -4624,7 +4624,8 @@
     "sw": 2,
     "upswgc": 1,
     "sendupsw": 1,
-    "feefpet": 2
+    "feefpet": 2,
+    "ditolak": 1
   },
-  "lastUpdated": 1774684028034
+  "lastUpdated": 1774684126239
 }
