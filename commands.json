@@ -3773,7 +3773,7 @@
     "verify": 18,
     "daftr": 10,
     "status": 10,
-    "pap": 283,
+    "pap": 287,
     "tebakbendera": 15,
     "tebak": 1,
     "gantinama": 1,
@@ -3840,7 +3840,7 @@
     "fitnah": 50,
     "puji": 122,
     "pacar": 82,
-    "carikarakter": 116,
+    "carikarakter": 117,
     "nembak": 57,
     "cry": 7,
     "happy": 4,
@@ -3928,7 +3928,7 @@
     "gccanvas": 2,
     "totalchat": 1,
     "145161355005957": 6,
-    "istriku": 16,
+    "istriku": 17,
     "271966086938834": 1,
     "51338180305071": 9,
     "hitamkan": 8,
@@ -4633,5 +4633,5 @@
     "eat": 1,
     "lencan": 1
   },
-  "lastUpdated": 1774686599200
+  "lastUpdated": 1774686659201
 }
