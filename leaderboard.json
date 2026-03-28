@@ -155,7 +155,7 @@
     {
       "name": "NarennDurenn",
       "level": 2,
-      "exp": 5369,
+      "exp": 5426,
       "saldo": 1.0000101000010008e+23
     },
     {
@@ -185,8 +185,8 @@
     {
       "name": "murazaki",
       "level": 8,
-      "exp": 20451,
-      "saldo": 13030000002069388
+      "exp": 20816,
+      "saldo": 13030000000068388
     },
     {
       "name": "Sanzx",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774709997601
+  "lastUpdated": 1774710057602
 }
