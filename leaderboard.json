@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 319664,
+      "exp": 319708,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 272,
-      "exp": 654341,
+      "exp": 654373,
       "saldo": 1.1110904750812965e+50
     },
     {
@@ -68,9 +68,9 @@
     },
     {
       "name": "*KUROSE*",
-      "level": 24,
-      "exp": 59971,
-      "saldo": 99999999500000000000
+      "level": 25,
+      "exp": 60098,
+      "saldo": 99999801500001800000
     },
     {
       "name": "Oguri cap",
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 272,
-      "exp": 654341,
+      "exp": 654373,
       "saldo": 1.1110904750812965e+50
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 319664,
+      "exp": 319708,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -172,9 +172,9 @@
     },
     {
       "name": "*KUROSE*",
-      "level": 24,
-      "exp": 59971,
-      "saldo": 99999999500000000000
+      "level": 25,
+      "exp": 60098,
+      "saldo": 99999801500001800000
     },
     {
       "name": "Lejen",
@@ -259,13 +259,13 @@
     {
       "name": "Putzz?",
       "level": 272,
-      "exp": 654341,
+      "exp": 654373,
       "saldo": 1.1110904750812965e+50
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 319664,
+      "exp": 319708,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -312,9 +312,9 @@
     },
     {
       "name": "*KUROSE*",
-      "level": 24,
-      "exp": 59971,
-      "saldo": 99999999500000000000
+      "level": 25,
+      "exp": 60098,
+      "saldo": 99999801500001800000
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774706527494
+  "lastUpdated": 1774706587494
 }
