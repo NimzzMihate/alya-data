@@ -3082,6 +3082,8 @@
     "pushalya",
     "updateaniflow",
     "updateanime",
+    "updateapi",
+    "updateapis",
     "kirimgc",
     "sendgc",
     "kirimke",
@@ -3671,7 +3673,7 @@
     "usaha": 28,
     "memancing": 8,
     "271481040834666": 39,
-    "6285189358241": 82,
+    "6285189358241": 83,
     "huxinn😡😡": 1,
     "gift": 228,
     "ajakmain": 56,
@@ -4646,7 +4648,8 @@
     "unbl": 1,
     "bangun": 1,
     "gidt": 1,
-    "chess": 20
+    "chess": 21,
+    "updateapi": 1
   },
-  "lastUpdated": 1774707661013
+  "lastUpdated": 1774707721013
 }
