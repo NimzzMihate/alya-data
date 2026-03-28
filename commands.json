@@ -3704,7 +3704,7 @@
     "makan": 8,
     "repair": 1,
     "kapal": 5,
-    "craft": 130,
+    "craft": 131,
     "listheri": 1,
     "listhero": 6,
     "mancing": 2,
@@ -4426,7 +4426,7 @@
     "scale": 1,
     "smile": 3,
     "rasio": 1,
-    "ewe": 1,
+    "ewe": 2,
     "nonc": 1,
     "naonc": 1,
     "mabar": 1,
@@ -4612,7 +4612,7 @@
     "kencam": 1,
     "jadwalsholat": 2,
     "byerah": 1,
-    "hug": 1,
+    "hug": 2,
     "slot": 10,
     "boobs": 1,
     "6283193243270": 2,
@@ -4627,7 +4627,7 @@
     "feefpet": 2,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 1
+    "mining": 4
   },
-  "lastUpdated": 1774685281020
+  "lastUpdated": 1774685341023
 }
