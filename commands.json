@@ -3782,7 +3782,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 104,
+    "saldo": 105,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3882,7 +3882,7 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 103,
-    "kasihmakan": 131,
+    "kasihmakan": 135,
     "kasihminum": 20,
     "naena": 10,
     "noenc": 19,
@@ -3978,7 +3978,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 179,
+    "tf": 180,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4183,7 +4183,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 47,
+    "atmall": 48,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4640,5 +4640,5 @@
     "177962104172551": 1,
     "calon)": 1
   },
-  "lastUpdated": 1774696491627
+  "lastUpdated": 1774696551631
 }
