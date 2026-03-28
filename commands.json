@@ -3782,7 +3782,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 102,
+    "saldo": 103,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3882,7 +3882,7 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 103,
-    "kasihmakan": 129,
+    "kasihmakan": 131,
     "kasihminum": 20,
     "naena": 10,
     "noenc": 19,
@@ -4640,5 +4640,5 @@
     "177962104172551": 1,
     "calon)": 1
   },
-  "lastUpdated": 1774696371628
+  "lastUpdated": 1774696431631
 }
