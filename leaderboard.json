@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 318545,
+      "exp": 318595,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -21,8 +21,8 @@
     {
       "name": "Putzz?",
       "level": 269,
-      "exp": 647161,
-      "saldo": 0
+      "exp": 647266,
+      "saldo": 2.010475081280943e+47
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -123,6 +123,12 @@
   ],
   "saldo": [
     {
+      "name": "Putzz?",
+      "level": 269,
+      "exp": 647266,
+      "saldo": 2.010475081280943e+47
+    },
+    {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
       "level": 623,
       "exp": 1496580,
@@ -131,7 +137,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 318545,
+      "exp": 318595,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -235,12 +241,6 @@
       "level": 19,
       "exp": 46439,
       "saldo": 10004100
-    },
-    {
-      "name": "Player-293",
-      "level": 1,
-      "exp": 3112,
-      "saldo": 9877240
     }
   ],
   "exp": [
@@ -259,13 +259,13 @@
     {
       "name": "Putzz?",
       "level": 269,
-      "exp": 647161,
-      "saldo": 0
+      "exp": 647266,
+      "saldo": 2.010475081280943e+47
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 318545,
+      "exp": 318595,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774678046837
+  "lastUpdated": 1774678106837
 }
