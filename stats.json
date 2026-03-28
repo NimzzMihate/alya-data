@@ -3,8 +3,8 @@
   "totalUsers": 1041,
   "totalGroups": 37,
   "totalFeatures": 3609,
-  "totalCmd": 10237,
-  "totalChat": 10237,
+  "totalCmd": 10238,
+  "totalChat": 10238,
   "topCommands": [
     {
       "cmd": "forward",
@@ -43,12 +43,12 @@
       "count": 118
     },
     {
-      "cmd": "tf",
+      "cmd": "carikarakter",
       "count": 113
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 6001,
-  "lastUpdated": 1774673410804
+  "uptimeSeconds": 6061,
+  "lastUpdated": 1774673470812
 }
