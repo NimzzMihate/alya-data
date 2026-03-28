@@ -15,8 +15,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 314,
-      "exp": 755051,
-      "saldo": 2000001050000
+      "exp": 755155,
+      "saldo": 202000001050000
     },
     {
       "name": "Putzz?",
@@ -189,6 +189,12 @@
       "saldo": 252183670087847
     },
     {
+      "name": "Ditz ketoprak",
+      "level": 314,
+      "exp": 755155,
+      "saldo": 202000001050000
+    },
+    {
       "name": "kensoy",
       "level": 20,
       "exp": 48394,
@@ -211,12 +217,6 @@
       "level": 23,
       "exp": 57179,
       "saldo": 81084237669526
-    },
-    {
-      "name": "Ditz ketoprak",
-      "level": 314,
-      "exp": 755051,
-      "saldo": 2000001050000
     },
     {
       "name": "Souta",
@@ -253,8 +253,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 314,
-      "exp": 755051,
-      "saldo": 2000001050000
+      "exp": 755155,
+      "saldo": 202000001050000
     },
     {
       "name": "Putzz?",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774658955628
+  "lastUpdated": 1774659015625
 }
