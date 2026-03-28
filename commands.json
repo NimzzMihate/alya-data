@@ -3704,7 +3704,7 @@
     "makan": 7,
     "repair": 1,
     "kapal": 5,
-    "craft": 120,
+    "craft": 121,
     "listheri": 1,
     "listhero": 6,
     "mancing": 2,
@@ -4603,5 +4603,5 @@
     "memu": 1,
     "227552249524236": 3
   },
-  "lastUpdated": 1774658895638
+  "lastUpdated": 1774658955628
 }
