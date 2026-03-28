@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 319293,
+      "exp": 319349,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "name": "apip",
-      "level": 65,
-      "exp": 158277,
+      "level": 66,
+      "exp": 158479,
       "saldo": 0
     },
     {
@@ -57,7 +57,7 @@
     {
       "name": "Lejen",
       "level": 38,
-      "exp": 91538,
+      "exp": 91799,
       "saldo": 1000497526798510800
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 319293,
+      "exp": 319349,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -173,7 +173,7 @@
     {
       "name": "Lejen",
       "level": 38,
-      "exp": 91538,
+      "exp": 91799,
       "saldo": 1000497526798510800
     },
     {
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 319293,
+      "exp": 319349,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -282,8 +282,8 @@
     },
     {
       "name": "apip",
-      "level": 65,
-      "exp": 158277,
+      "level": 66,
+      "exp": 158479,
       "saldo": 0
     },
     {
@@ -301,7 +301,7 @@
     {
       "name": "Lejen",
       "level": 38,
-      "exp": 91538,
+      "exp": 91799,
       "saldo": 1000497526798510800
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774698686677
+  "lastUpdated": 1774698746670
 }
