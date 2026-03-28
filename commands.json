@@ -3716,7 +3716,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 88,
-    "tes": 115,
+    "tes": 118,
     "listown": 11,
     "getpp": 3,
     "linkgc": 5,
@@ -3796,7 +3796,7 @@
     "updatealya": 21,
     "kencan": 90,
     "kasihsusu": 35,
-    "wm": 31,
+    "wm": 32,
     "absen": 3,
     "mulaiabsen": 3,
     "6283848672013": 13,
@@ -3968,7 +3968,7 @@
     "marshaandthebear": 1,
     "allmenu": 7,
     "gamemenu": 2,
-    "catur": 119,
+    "catur": 121,
     "mulai": 1,
     "e2": 2,
     "6285180841166": 1,
@@ -4645,7 +4645,8 @@
     "gurita": 1,
     "unbl": 1,
     "bangun": 1,
-    "gidt": 1
+    "gidt": 1,
+    "chess": 2
   },
-  "lastUpdated": 1774706887498
+  "lastUpdated": 1774707059246
 }
