@@ -39,7 +39,7 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 76,
-      "exp": 182608,
+      "exp": 182664,
       "saldo": 2515998
     },
     {
@@ -154,8 +154,8 @@
     },
     {
       "name": "NarennDurenn",
-      "level": 1,
-      "exp": 4732,
+      "level": 2,
+      "exp": 4812,
       "saldo": 1.0000000000009998e+23
     },
     {
@@ -277,7 +277,7 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 76,
-      "exp": 182608,
+      "exp": 182664,
       "saldo": 2515998
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774690289450
+  "lastUpdated": 1774690349447
 }
