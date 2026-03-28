@@ -15,14 +15,14 @@
     {
       "name": "Ditz ketoprak",
       "level": 317,
-      "exp": 761662,
+      "exp": 761808,
       "saldo": 202000000966000
     },
     {
       "name": "Putzz?",
       "level": 270,
-      "exp": 650038,
-      "saldo": 2.010475081299043e+47
+      "exp": 650157,
+      "saldo": 1.1047508129904278e+46
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -81,8 +81,8 @@
     {
       "name": "*KUROSE*",
       "level": 19,
-      "exp": 47732,
-      "saldo": 7019100
+      "exp": 47967,
+      "saldo": 20000000000000000000
     },
     {
       "name": "Kayy",
@@ -125,8 +125,8 @@
     {
       "name": "Putzz?",
       "level": 270,
-      "exp": 650038,
-      "saldo": 2.010475081299043e+47
+      "exp": 650157,
+      "saldo": 1.1047508129904278e+46
     },
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
@@ -171,6 +171,12 @@
       "saldo": 6.673568075175608e+21
     },
     {
+      "name": "*KUROSE*",
+      "level": 19,
+      "exp": 47967,
+      "saldo": 20000000000000000000
+    },
+    {
       "name": "Sanzx",
       "level": 1,
       "exp": 3970,
@@ -191,7 +197,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 317,
-      "exp": 761662,
+      "exp": 761808,
       "saldo": 202000000966000
     },
     {
@@ -235,12 +241,6 @@
       "level": 0,
       "exp": 1083,
       "saldo": 10045000
-    },
-    {
-      "name": "Player-293",
-      "level": 1,
-      "exp": 3637,
-      "saldo": 9877240
     }
   ],
   "exp": [
@@ -253,14 +253,14 @@
     {
       "name": "Ditz ketoprak",
       "level": 317,
-      "exp": 761662,
+      "exp": 761808,
       "saldo": 202000000966000
     },
     {
       "name": "Putzz?",
       "level": 270,
-      "exp": 650038,
-      "saldo": 2.010475081299043e+47
+      "exp": 650157,
+      "saldo": 1.1047508129904278e+46
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
@@ -325,8 +325,8 @@
     {
       "name": "*KUROSE*",
       "level": 19,
-      "exp": 47732,
-      "saldo": 7019100
+      "exp": 47967,
+      "saldo": 20000000000000000000
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774684726246
+  "lastUpdated": 1774684786250
 }
