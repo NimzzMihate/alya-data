@@ -3987,7 +3987,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 46,
+    "sell": 47,
     "jual": 18,
     "vid": 2,
     "nfsw": 2,
@@ -4083,7 +4083,7 @@
     "cerai": 5,
     "putus": 28,
     "crop": 13,
-    "shopgift": 34,
+    "shopgift": 35,
     "give": 3,
     "asep": 1,
     "pasangan": 3,
@@ -4183,7 +4183,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 46,
+    "atmall": 47,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4640,5 +4640,5 @@
     "177962104172551": 1,
     "calon)": 1
   },
-  "lastUpdated": 1774695951586
+  "lastUpdated": 1774696011632
 }
