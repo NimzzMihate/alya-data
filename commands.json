@@ -4146,7 +4146,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 79,
+    "battlepet": 80,
     "riges": 1,
     "mengangguk": 2,
     "carikarakter[nadeshiko": 1,
@@ -4651,5 +4651,5 @@
     "chess": 25,
     "updateapi": 1
   },
-  "lastUpdated": 1774709817603
+  "lastUpdated": 1774709877593
 }
