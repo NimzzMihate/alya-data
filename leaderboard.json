@@ -15,13 +15,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 326,
-      "exp": 784226,
+      "exp": 784278,
       "saldo": 1201999001009767
     },
     {
       "name": "Putzz?",
       "level": 272,
-      "exp": 653199,
+      "exp": 653263,
       "saldo": 1.1110904750812965e+50
     },
     {
@@ -39,7 +39,7 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 77,
-      "exp": 184948,
+      "exp": 185018,
       "saldo": 19978799873139
     },
     {
@@ -69,8 +69,8 @@
     {
       "name": "*KUROSE*",
       "level": 24,
-      "exp": 57979,
-      "saldo": 0
+      "exp": 58168,
+      "saldo": 999999927999999
     },
     {
       "name": "Oguri cap",
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 272,
-      "exp": 653199,
+      "exp": 653263,
       "saldo": 1.1110904750812965e+50
     },
     {
@@ -185,8 +185,14 @@
     {
       "name": "Ditz ketoprak",
       "level": 326,
-      "exp": 784226,
+      "exp": 784278,
       "saldo": 1201999001009767
+    },
+    {
+      "name": "*KUROSE*",
+      "level": 24,
+      "exp": 58168,
+      "saldo": 999999927999999
     },
     {
       "name": "Lejen",
@@ -227,7 +233,7 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 77,
-      "exp": 184948,
+      "exp": 185018,
       "saldo": 19978799873139
     },
     {
@@ -235,12 +241,6 @@
       "level": 27,
       "exp": 72062,
       "saldo": 480618437
-    },
-    {
-      "name": "xeno la nigger",
-      "level": 4,
-      "exp": 10446,
-      "saldo": 106134076
     }
   ],
   "exp": [
@@ -253,13 +253,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 326,
-      "exp": 784226,
+      "exp": 784278,
       "saldo": 1201999001009767
     },
     {
       "name": "Putzz?",
       "level": 272,
-      "exp": 653199,
+      "exp": 653263,
       "saldo": 1.1110904750812965e+50
     },
     {
@@ -277,7 +277,7 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 77,
-      "exp": 184948,
+      "exp": 185018,
       "saldo": 19978799873139
     },
     {
@@ -313,8 +313,8 @@
     {
       "name": "*KUROSE*",
       "level": 24,
-      "exp": 57979,
-      "saldo": 0
+      "exp": 58168,
+      "saldo": 999999927999999
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774696131626
+  "lastUpdated": 1774696191627
 }
