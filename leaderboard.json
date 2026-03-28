@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 326,
-      "exp": 784014,
+      "exp": 784064,
       "saldo": 1201999001024767
     },
     {
@@ -69,8 +69,8 @@
     {
       "name": "*KUROSE*",
       "level": 24,
-      "exp": 57870,
-      "saldo": 1.9999978500000026e+25
+      "exp": 57979,
+      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -153,12 +153,6 @@
       "saldo": 1.000000001e+28
     },
     {
-      "name": "*KUROSE*",
-      "level": 24,
-      "exp": 57870,
-      "saldo": 1.9999978500000026e+25
-    },
-    {
       "name": "NarennDurenn",
       "level": 2,
       "exp": 5369,
@@ -191,7 +185,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 326,
-      "exp": 784014,
+      "exp": 784064,
       "saldo": 1201999001024767
     },
     {
@@ -241,6 +235,12 @@
       "level": 27,
       "exp": 72062,
       "saldo": 480618437
+    },
+    {
+      "name": "xeno la nigger",
+      "level": 4,
+      "exp": 10446,
+      "saldo": 106134076
     }
   ],
   "exp": [
@@ -253,7 +253,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 326,
-      "exp": 784014,
+      "exp": 784064,
       "saldo": 1201999001024767
     },
     {
@@ -313,8 +313,8 @@
     {
       "name": "*KUROSE*",
       "level": 24,
-      "exp": 57870,
-      "saldo": 1.9999978500000026e+25
+      "exp": 57979,
+      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774695951586
+  "lastUpdated": 1774696011632
 }
