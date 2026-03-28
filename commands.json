@@ -3824,7 +3824,7 @@
     "akun": 1,
     "jembott": 1,
     "kuis": 12,
-    "32968236081310": 58,
+    "32968236081310": 59,
     "6283152469722": 4,
     "6285649132023": 43,
     "oldyk": 2,
@@ -3894,7 +3894,7 @@
     "/": 3,
     "cekcantik": 9,
     "toplocal": 16,
-    "forward": 331,
+    "forward": 332,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 12,
@@ -4108,7 +4108,7 @@
     "adoptpet": 20,
     "petstat": 24,
     "playpet": 46,
-    "feedpet": 68,
+    "feedpet": 72,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4144,7 +4144,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 76,
+    "battlepet": 77,
     "riges": 1,
     "mengangguk": 2,
     "carikarakter[nadeshiko": 1,
@@ -4623,7 +4623,8 @@
     "setan": 1,
     "sw": 2,
     "upswgc": 1,
-    "sendupsw": 1
+    "sendupsw": 1,
+    "feefpet": 2
   },
-  "lastUpdated": 1774683787981
+  "lastUpdated": 1774683847982
 }
