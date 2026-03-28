@@ -4183,7 +4183,7 @@
     "listban": 1,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 39,
+    "atmall": 40,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4606,5 +4606,5 @@
     "sado": 1,
     "atmpulll": 1
   },
-  "lastUpdated": 1774666592480
+  "lastUpdated": 1774666652482
 }
