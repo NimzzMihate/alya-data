@@ -3839,7 +3839,7 @@
     "pabrik": 1,
     "fitnah": 50,
     "puji": 124,
-    "pacar": 83,
+    "pacar": 84,
     "carikarakter": 117,
     "nembak": 57,
     "cry": 7,
@@ -3882,7 +3882,7 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 102,
-    "kasihmakan": 113,
+    "kasihmakan": 117,
     "kasihminum": 19,
     "naena": 10,
     "noenc": 19,
@@ -4633,7 +4633,8 @@
     "eat": 1,
     "lencan": 1,
     "6289629162400": 1,
-    "meinfo": 1
+    "meinfo": 1,
+    "kasihmana": 1
   },
-  "lastUpdated": 1774688939218
+  "lastUpdated": 1774688999223
 }
