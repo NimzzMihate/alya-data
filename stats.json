@@ -3,8 +3,8 @@
   "totalUsers": 1041,
   "totalGroups": 37,
   "totalFeatures": 3609,
-  "totalCmd": 10013,
-  "totalChat": 10013,
+  "totalCmd": 10028,
+  "totalChat": 10028,
   "topCommands": [
     {
       "cmd": "forward",
@@ -39,16 +39,16 @@
       "count": 123
     },
     {
-      "cmd": "tf",
-      "count": 110
+      "cmd": "puji",
+      "count": 115
     },
     {
-      "cmd": "puji",
-      "count": 107
+      "cmd": "tf",
+      "count": 110
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 601,
-  "lastUpdated": 1774662332371
+  "uptimeSeconds": 661,
+  "lastUpdated": 1774662392384
 }
