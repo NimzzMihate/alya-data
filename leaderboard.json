@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 65,
-      "exp": 156975,
+      "exp": 157007,
       "saldo": 0
     },
     {
@@ -81,7 +81,7 @@
     {
       "name": "*KUROSE*",
       "level": 18,
-      "exp": 45242,
+      "exp": 45383,
       "saldo": 0
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 65,
-      "exp": 156975,
+      "exp": 157007,
       "saldo": 0
     },
     {
@@ -325,7 +325,7 @@
     {
       "name": "*KUROSE*",
       "level": 18,
-      "exp": 45242,
+      "exp": 45383,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774672750784
+  "lastUpdated": 1774672810823
 }
