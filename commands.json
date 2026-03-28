@@ -3704,7 +3704,7 @@
     "makan": 8,
     "repair": 1,
     "kapal": 5,
-    "craft": 137,
+    "craft": 141,
     "listheri": 1,
     "listhero": 6,
     "mancing": 2,
@@ -4211,7 +4211,7 @@
     "join": 2,
     "monopoli": 9,
     "oom": 1,
-    "inventory": 4,
+    "inventory": 5,
     "like": 1,
     "suka": 1,
     "monthly": 1,
@@ -4646,5 +4646,5 @@
     "unbl": 1,
     "bangun": 1
   },
-  "lastUpdated": 1774704034448
+  "lastUpdated": 1774704094664
 }
