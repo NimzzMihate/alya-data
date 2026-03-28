@@ -4439,7 +4439,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 4,
+    "detailkarakter": 6,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 1,
@@ -4610,5 +4610,5 @@
     "60192070491": 1,
     "carikaraktet": 2
   },
-  "lastUpdated": 1774672030778
+  "lastUpdated": 1774672090778
 }
