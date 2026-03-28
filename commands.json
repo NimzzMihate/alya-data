@@ -3666,7 +3666,7 @@
     "pin": 100,
     "hd": 86,
     "useitem": 7,
-    "77605898313906": 92,
+    "77605898313906": 93,
     "huxin": 1,
     "usaha": 28,
     "memancing": 8,
@@ -3704,7 +3704,7 @@
     "makan": 8,
     "repair": 1,
     "kapal": 5,
-    "craft": 141,
+    "craft": 145,
     "listheri": 1,
     "listhero": 6,
     "mancing": 2,
@@ -3988,7 +3988,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 48,
-    "jual": 19,
+    "jual": 20,
     "vid": 2,
     "nfsw": 2,
     "vidmg": 1,
@@ -4211,7 +4211,7 @@
     "join": 2,
     "monopoli": 9,
     "oom": 1,
-    "inventory": 5,
+    "inventory": 7,
     "like": 1,
     "suka": 1,
     "monthly": 1,
@@ -4646,5 +4646,5 @@
     "unbl": 1,
     "bangun": 1
   },
-  "lastUpdated": 1774704094664
+  "lastUpdated": 1774704187454
 }
