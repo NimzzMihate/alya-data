@@ -4106,9 +4106,9 @@
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 20,
-    "petstat": 22,
+    "petstat": 24,
     "playpet": 46,
-    "feedpet": 67,
+    "feedpet": 68,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4606,5 +4606,5 @@
     "sado": 1,
     "atmpulll": 1
   },
-  "lastUpdated": 1774666532475
+  "lastUpdated": 1774666592480
 }
