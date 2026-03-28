@@ -3628,7 +3628,7 @@
     "ewe-paksa": 41,
     "me": 318,
     "setbg": 13,
-    "rampok2": 323,
+    "rampok2": 324,
     "6285609504925": 15,
     "atm": 104,
     "bank": 56,
@@ -3896,7 +3896,7 @@
     "/": 3,
     "cekcantik": 9,
     "toplocal": 16,
-    "forward": 334,
+    "forward": 335,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 14,
@@ -4146,7 +4146,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 80,
+    "battlepet": 81,
     "riges": 1,
     "mengangguk": 2,
     "carikarakter[nadeshiko": 1,
@@ -4651,5 +4651,5 @@
     "chess": 25,
     "updateapi": 1
   },
-  "lastUpdated": 1774709877593
+  "lastUpdated": 1774709937595
 }
