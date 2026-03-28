@@ -3,8 +3,8 @@
   "totalUsers": 1042,
   "totalGroups": 37,
   "totalFeatures": 3609,
-  "totalCmd": 10337,
-  "totalChat": 10337,
+  "totalCmd": 10345,
+  "totalChat": 10345,
   "topCommands": [
     {
       "cmd": "buy",
@@ -28,7 +28,7 @@
     },
     {
       "cmd": "afk",
-      "count": 248
+      "count": 249
     },
     {
       "cmd": "gift",
@@ -43,12 +43,12 @@
       "count": 120
     },
     {
-      "cmd": "carikarakter",
-      "count": 113
+      "cmd": "tf",
+      "count": 114
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 481,
-  "lastUpdated": 1774678046836
+  "uptimeSeconds": 541,
+  "lastUpdated": 1774678106836
 }
