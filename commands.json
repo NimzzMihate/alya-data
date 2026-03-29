@@ -3656,10 +3656,10 @@
     "61405583679507": 1,
     "wikwik": 31,
     "heal": 65,
-    "menu": 95,
+    "menu": 96,
     "owner": 9,
     "script": 7,
-    "joinrpg": 27,
+    "joinrpg": 28,
     "mentahan": 1,
     "claim": 29,
     "cekidch": 4,
@@ -3673,7 +3673,7 @@
     "useitem": 7,
     "77605898313906": 98,
     "huxin": 1,
-    "usaha": 28,
+    "usaha": 29,
     "memancing": 8,
     "271481040834666": 42,
     "6285189358241": 91,
@@ -3732,7 +3732,7 @@
     "cium": 98,
     "6281915895220": 3,
     "6281215537344": 3,
-    "rampok": 103,
+    "rampok": 104,
     "listapi": 8,
     "family100": 6,
     "tebakpokemon": 1,
@@ -3983,7 +3983,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 207,
+    "tf": 208,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4697,7 +4697,9 @@
     "listmwnu": 1,
     "cl": 5,
     "curi": 1,
-    "mencuri": 1
+    "mencuri": 1,
+    "joindrpg": 1,
+    "invest": 1
   },
-  "lastUpdated": 1774763069502
+  "lastUpdated": 1774763129522
 }
