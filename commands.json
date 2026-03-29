@@ -3973,7 +3973,7 @@
     "marshaandthebear": 1,
     "allmenu": 8,
     "gamemenu": 4,
-    "catur": 200,
+    "catur": 201,
     "mulai": 1,
     "e2": 2,
     "6285180841166": 1,
@@ -4651,7 +4651,7 @@
     "unbl": 1,
     "bangun": 1,
     "gidt": 1,
-    "chess": 73,
+    "chess": 74,
     "updateapi": 4,
     "buyayam": 1,
     "6283192352087": 6,
@@ -4717,5 +4717,5 @@
     "dicktactoe": 1,
     "mesum": 1
   },
-  "lastUpdated": 1774788715631
+  "lastUpdated": 1774788775637
 }
