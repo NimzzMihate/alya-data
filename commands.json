@@ -3787,7 +3787,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 122,
+    "saldo": 123,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4375,7 +4375,7 @@
     "invpd": 1,
     "628895327267": 3,
     "ceklimit": 8,
-    "ceksaldo": 13,
+    "ceksaldo": 14,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -4537,7 +4537,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 46,
-    "cekbank": 16,
+    "cekbank": 18,
     "cektomboy": 1,
     "bajingan": 4,
     "tabungan": 1,
@@ -4693,5 +4693,5 @@
     "halo": 1,
     "draw": 2
   },
-  "lastUpdated": 1774760504474
+  "lastUpdated": 1774760564480
 }
