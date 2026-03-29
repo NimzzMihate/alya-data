@@ -3631,7 +3631,7 @@
     "ewe-paksa": 41,
     "me": 334,
     "setbg": 13,
-    "rampok2": 365,
+    "rampok2": 369,
     "6285609504925": 15,
     "atm": 110,
     "bank": 62,
@@ -3732,7 +3732,7 @@
     "cium": 100,
     "6281915895220": 4,
     "6281215537344": 3,
-    "rampok": 114,
+    "rampok": 115,
     "listapi": 9,
     "family100": 6,
     "tebakpokemon": 1,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 67,
+    "atmall": 68,
     "inv": 39,
     "healfull": 3,
     "mute": 2,
@@ -4729,5 +4729,5 @@
     "gopay": 2,
     "qris": 1
   },
-  "lastUpdated": 1774823439385
+  "lastUpdated": 1774823499381
 }
