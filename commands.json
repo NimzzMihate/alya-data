@@ -3656,7 +3656,7 @@
     "61405583679507": 1,
     "wikwik": 31,
     "heal": 65,
-    "menu": 92,
+    "menu": 95,
     "owner": 9,
     "script": 7,
     "joinrpg": 27,
@@ -3963,7 +3963,7 @@
     "147120178880614": 3,
     "80290588442827hmmmm": 1,
     "ular": 1,
-    "listmenu": 4,
+    "listmenu": 5,
     "animemenu": 4,
     "installermenu": 1,
     "installtemabiling": 1,
@@ -4580,7 +4580,7 @@
     "pantun": 1,
     "wait": 1,
     "log": 5,
-    "jadibot": 1,
+    "jadibot": 2,
     "aturanbot": 1,
     "aturan": 1,
     "@32968236081310": 1,
@@ -4692,7 +4692,9 @@
     "naya": 4,
     "halo": 1,
     "draw": 2,
-    "crop1:1": 1
+    "crop1:1": 1,
+    "othersmenu": 1,
+    "listmwnu": 1
   },
-  "lastUpdated": 1774760864490
+  "lastUpdated": 1774760969488
 }
