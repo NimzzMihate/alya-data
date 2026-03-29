@@ -3656,7 +3656,7 @@
     "61405583679507": 1,
     "wikwik": 31,
     "heal": 64,
-    "menu": 87,
+    "menu": 88,
     "owner": 9,
     "script": 7,
     "joinrpg": 27,
@@ -3761,7 +3761,7 @@
     "6282130641503": 5,
     "buyitem": 1,
     "play": 83,
-    "ytmp3": 66,
+    "ytmp3": 67,
     "152609298108555": 37,
     "35588770111681": 1,
     "intro": 35,
@@ -3964,7 +3964,7 @@
     "80290588442827hmmmm": 1,
     "ular": 1,
     "listmenu": 4,
-    "animemenu": 3,
+    "animemenu": 4,
     "installermenu": 1,
     "installtemabiling": 1,
     "installtemabilling": 1,
@@ -4456,7 +4456,7 @@
     "yampah": 1,
     "rampo²": 1,
     "enana": 1,
-    "gamesmenu": 3,
+    "gamesmenu": 4,
     "downloadmenu": 1,
     "iya": 1,
     "abu": 1,
@@ -4665,5 +4665,5 @@
     "rampokw": 1,
     "tea": 1
   },
-  "lastUpdated": 1774750052429
+  "lastUpdated": 1774750112427
 }
