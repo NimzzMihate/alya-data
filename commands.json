@@ -3983,7 +3983,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 205,
+    "tf": 206,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4695,7 +4695,8 @@
     "crop1:1": 1,
     "othersmenu": 1,
     "listmwnu": 1,
-    "cl": 5
+    "cl": 5,
+    "curi": 1
   },
-  "lastUpdated": 1774762949505
+  "lastUpdated": 1774763009502
 }
