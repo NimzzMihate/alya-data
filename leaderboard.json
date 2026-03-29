@@ -45,14 +45,14 @@
     {
       "name": "apip",
       "level": 70,
-      "exp": 169476,
+      "exp": 169528,
       "saldo": 0
     },
     {
       "name": "Zxiox",
       "level": 47,
-      "exp": 114280,
-      "saldo": 50000
+      "exp": 114337,
+      "saldo": 2050000
     },
     {
       "name": "Lejen",
@@ -111,8 +111,8 @@
     {
       "name": "murazaki",
       "level": 12,
-      "exp": 29237,
-      "saldo": 13030000000056700
+      "exp": 29362,
+      "saldo": 13029999997956700
     },
     {
       "name": "kenntod",
@@ -185,8 +185,8 @@
     {
       "name": "murazaki",
       "level": 12,
-      "exp": 29237,
-      "saldo": 13030000000056700
+      "exp": 29362,
+      "saldo": 13029999997956700
     },
     {
       "name": "Sanzx",
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 70,
-      "exp": 169476,
+      "exp": 169528,
       "saldo": 0
     },
     {
@@ -295,8 +295,8 @@
     {
       "name": "Zxiox",
       "level": 47,
-      "exp": 114280,
-      "saldo": 50000
+      "exp": 114337,
+      "saldo": 2050000
     },
     {
       "name": "Lejen",
@@ -355,8 +355,8 @@
     {
       "name": "murazaki",
       "level": 12,
-      "exp": 29237,
-      "saldo": 13030000000056700
+      "exp": 29362,
+      "saldo": 13029999997956700
     },
     {
       "name": "kenntod",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774823139370
+  "lastUpdated": 1774823199377
 }
