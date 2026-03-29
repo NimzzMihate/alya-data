@@ -3659,7 +3659,7 @@
     "menu": 101,
     "owner": 10,
     "script": 7,
-    "joinrpg": 28,
+    "joinrpg": 30,
     "mentahan": 1,
     "claim": 30,
     "cekidch": 4,
@@ -4112,8 +4112,8 @@
     "6289530116661": 1,
     "adoptpet": 23,
     "petstat": 26,
-    "playpet": 51,
-    "feedpet": 80,
+    "playpet": 52,
+    "feedpet": 82,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4149,7 +4149,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 87,
+    "battlepet": 88,
     "riges": 1,
     "mengangguk": 2,
     "carikarakter[nadeshiko": 1,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 62,
+    "atmall": 64,
     "inv": 39,
     "healfull": 3,
     "mute": 2,
@@ -4671,7 +4671,7 @@
     "bgk": 1,
     "atmpull\n.atmtake": 1,
     "uno": 4,
-    "tictactoe": 6,
+    "tictactoe": 8,
     "gamesmemu": 1,
     "suitpvp": 15,
     "slor": 1,
@@ -4718,5 +4718,5 @@
     "mesum": 1,
     "caturg4": 1
   },
-  "lastUpdated": 1774790135477
+  "lastUpdated": 1774790195478
 }
