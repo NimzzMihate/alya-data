@@ -3721,7 +3721,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 89,
-    "tes": 133,
+    "tes": 134,
     "listown": 11,
     "getpp": 3,
     "linkgc": 6,
@@ -4020,7 +4020,7 @@
     "tagme": 4,
     "130365243027683": 2,
     "profil": 9,
-    "prefix": 1,
+    "prefix": 3,
     "6282313526033": 4,
     "game": 4,
     "main": 2,
@@ -4660,7 +4660,7 @@
     "pvp": 1,
     "stop": 1,
     "hentikan": 1,
-    "mode": 2,
+    "mode": 3,
     "battlepat": 1,
     "rampokw": 1,
     "tea": 1,
@@ -4689,5 +4689,5 @@
     "mainmenu": 1,
     "6357071720498": 1
   },
-  "lastUpdated": 1774759904473
+  "lastUpdated": 1774759964476
 }
