@@ -3721,7 +3721,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 89,
-    "tes": 146,
+    "tes": 152,
     "listown": 12,
     "getpp": 3,
     "linkgc": 6,
@@ -4086,7 +4086,7 @@
     "buatanak": 11,
     "istiku": 1,
     "cerai": 8,
-    "putus": 46,
+    "putus": 48,
     "crop": 16,
     "shopgift": 36,
     "give": 3,
@@ -4627,8 +4627,8 @@
     "cringe": 1,
     "setan": 1,
     "sw": 2,
-    "upswgc": 1,
-    "sendupsw": 1,
+    "upswgc": 2,
+    "sendupsw": 2,
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
@@ -4713,5 +4713,5 @@
     "32968236081310@250693499797710": 1,
     "calim": 1
   },
-  "lastUpdated": 1774786934297
+  "lastUpdated": 1774786994299
 }
