@@ -39,8 +39,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 77,
-      "exp": 187011,
-      "saldo": 10965860
+      "exp": 187124,
+      "saldo": 100000000000000
     },
     {
       "name": "apip",
@@ -180,7 +180,7 @@
       "name": "Vanz",
       "level": 2,
       "exp": 6200,
-      "saldo": 100188032108162160
+      "saldo": 100188032119128020
     },
     {
       "name": "murazaki",
@@ -219,6 +219,12 @@
       "saldo": 100000000065871
     },
     {
+      "name": "Flonα Lyzellé ❀.",
+      "level": 77,
+      "exp": 187124,
+      "saldo": 100000000000000
+    },
+    {
       "name": "Oguri cap",
       "level": 24,
       "exp": 57867,
@@ -235,12 +241,6 @@
       "level": 4,
       "exp": 10446,
       "saldo": 106134076
-    },
-    {
-      "name": "Flonα Lyzellé ❀.",
-      "level": 77,
-      "exp": 187011,
-      "saldo": 10965860
     }
   ],
   "exp": [
@@ -277,8 +277,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 77,
-      "exp": 187011,
-      "saldo": 10965860
+      "exp": 187124,
+      "saldo": 100000000000000
     },
     {
       "name": "apip",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774764029526
+  "lastUpdated": 1774764089528
 }
