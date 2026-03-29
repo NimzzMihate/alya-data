@@ -3635,7 +3635,7 @@
     "6285609504925": 15,
     "atm": 110,
     "bank": 62,
-    "afk": 338,
+    "afk": 339,
     "kerja": 46,
     "628176533297": 14,
     "s": 129,
@@ -3721,7 +3721,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 89,
-    "tes": 162,
+    "tes": 169,
     "listown": 12,
     "getpp": 3,
     "linkgc": 6,
@@ -4003,7 +4003,7 @@
     "tee": 1,
     "6283182874975": 24,
     "6285883750934": 1,
-    "6287883938757": 62,
+    "6287883938757": 63,
     "ttslide": 1,
     "hilangkan": 1,
     "236606158053483": 1,
@@ -4189,7 +4189,7 @@
     "cekstatus": 1,
     "cekprofil": 7,
     "atmall": 60,
-    "inv": 29,
+    "inv": 31,
     "healfull": 3,
     "mute": 2,
     "perstat": 1,
@@ -4714,7 +4714,8 @@
     "calim": 1,
     "delstatus": 1,
     "tictacroe": 1,
-    "dicktactoe": 1
+    "dicktactoe": 1,
+    "mesum": 1
   },
-  "lastUpdated": 1774787315222
+  "lastUpdated": 1774787375214
 }
