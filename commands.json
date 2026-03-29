@@ -3624,7 +3624,7 @@
     "backup": 2,
     "get": 38,
     "tohtml": 8,
-    "ranked": 67,
+    "ranked": 69,
     "mobaprofile": 14,
     "playmoba": 38,
     "ngaji": 25,
@@ -3899,7 +3899,7 @@
     "/": 3,
     "cekcantik": 9,
     "toplocal": 16,
-    "forward": 335,
+    "forward": 336,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 16,
@@ -4149,7 +4149,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 82,
+    "battlepet": 83,
     "riges": 1,
     "mengangguk": 2,
     "carikarakter[nadeshiko": 1,
@@ -4662,5 +4662,5 @@
     "hentikan": 1,
     "mode": 1
   },
-  "lastUpdated": 1774746078789
+  "lastUpdated": 1774746138788
 }
