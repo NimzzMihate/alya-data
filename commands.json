@@ -3784,7 +3784,7 @@
     "gantinama": 1,
     "69372932575293": 1,
     "close": 2,
-    "buildml": 6,
+    "buildml": 7,
     "izin": 1,
     "build": 1,
     "saldo": 120,
@@ -4679,7 +4679,8 @@
     "batu": 3,
     "kertas": 1,
     "suit": 1,
-    "tebaklagu": 1
+    "tebaklagu": 1,
+    "buildhok": 1
   },
-  "lastUpdated": 1774755768865
+  "lastUpdated": 1774755828866
 }
