@@ -3851,7 +3851,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 102,
+    "atmpull": 103,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 66,
+    "atmall": 67,
     "inv": 39,
     "healfull": 3,
     "mute": 2,
@@ -4558,7 +4558,7 @@
     "hit": 1,
     "hiu": 1,
     "pukul": 1,
-    "casino": 15,
+    "casino": 17,
     "cekpemain": 1,
     "cekgemini": 1,
     "ulartangga": 73,
@@ -4721,5 +4721,5 @@
     "character": 2,
     "rampok1": 1
   },
-  "lastUpdated": 1774794964569
+  "lastUpdated": 1774795024568
 }
