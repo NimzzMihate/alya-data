@@ -3668,7 +3668,7 @@
     "6281393286345": 90,
     ">": 4,
     "addapi": 2,
-    "pin": 108,
+    "pin": 109,
     "hd": 94,
     "useitem": 7,
     "77605898313906": 99,
@@ -3778,7 +3778,7 @@
     "verify": 18,
     "daftr": 10,
     "status": 11,
-    "pap": 292,
+    "pap": 293,
     "tebakbendera": 15,
     "tebak": 1,
     "gantinama": 1,
@@ -3845,7 +3845,7 @@
     "fitnah": 50,
     "puji": 130,
     "pacar": 91,
-    "carikarakter": 118,
+    "carikarakter": 119,
     "nembak": 58,
     "cry": 7,
     "happy": 4,
@@ -4086,7 +4086,7 @@
     "buatanak": 11,
     "istiku": 1,
     "cerai": 6,
-    "putus": 34,
+    "putus": 36,
     "crop": 16,
     "shopgift": 36,
     "give": 3,
@@ -4333,7 +4333,7 @@
     "bass": 2,
     "earrape": 1,
     "nahida": 30,
-    "pasanganmenu": 6,
+    "pasanganmenu": 7,
     "menupasangan": 1,
     "katjiwa": 2,
     "ler": 1,
@@ -4708,5 +4708,5 @@
     "..........": 1,
     "ba": 1
   },
-  "lastUpdated": 1774779205340
+  "lastUpdated": 1774779265350
 }
