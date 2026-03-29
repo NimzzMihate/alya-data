@@ -3631,7 +3631,7 @@
     "ewe-paksa": 41,
     "me": 332,
     "setbg": 13,
-    "rampok2": 364,
+    "rampok2": 365,
     "6285609504925": 15,
     "atm": 110,
     "bank": 62,
@@ -3833,7 +3833,7 @@
     "6283152469722": 4,
     "6285649132023": 68,
     "oldyk": 2,
-    "no": 1,
+    "no": 2,
     "edit": 5,
     "6289516231559": 8,
     "tiktoksearch": 17,
@@ -3851,7 +3851,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 103,
+    "atmpull": 104,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4137,7 +4137,7 @@
     "cek": 15,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 36,
+    "bailout": 38,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4729,5 +4729,5 @@
     "gopay": 2,
     "qris": 1
   },
-  "lastUpdated": 1774823199377
+  "lastUpdated": 1774823259376
 }
