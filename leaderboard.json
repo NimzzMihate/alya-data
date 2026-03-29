@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 67,
-      "exp": 162149,
-      "saldo": 1.010101000099123e+28
+      "exp": 162259,
+      "saldo": 0
     },
     {
       "name": "Zxiox",
@@ -147,12 +147,6 @@
       "saldo": 2.0180019841533005e+33
     },
     {
-      "name": "apip",
-      "level": 67,
-      "exp": 162149,
-      "saldo": 1.010101000099123e+28
-    },
-    {
       "name": "naa",
       "level": 5,
       "exp": 12176,
@@ -241,6 +235,12 @@
       "level": 30,
       "exp": 72133,
       "saldo": 480625437
+    },
+    {
+      "name": "xeno la nigger",
+      "level": 4,
+      "exp": 10446,
+      "saldo": 106134076
     }
   ],
   "exp": [
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 67,
-      "exp": 162149,
-      "saldo": 1.010101000099123e+28
+      "exp": 162259,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774773099772
+  "lastUpdated": 1774773159781
 }
