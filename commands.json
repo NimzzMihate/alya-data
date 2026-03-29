@@ -3787,7 +3787,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 120,
+    "saldo": 122,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3983,7 +3983,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 204,
+    "tf": 205,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 59,
+    "atmall": 60,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4375,7 +4375,7 @@
     "invpd": 1,
     "628895327267": 3,
     "ceklimit": 8,
-    "ceksaldo": 12,
+    "ceksaldo": 13,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -4537,7 +4537,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 46,
-    "cekbank": 14,
+    "cekbank": 15,
     "cektomboy": 1,
     "bajingan": 4,
     "tabungan": 1,
@@ -4693,5 +4693,5 @@
     "halo": 1,
     "draw": 2
   },
-  "lastUpdated": 1774760384475
+  "lastUpdated": 1774760444474
 }
