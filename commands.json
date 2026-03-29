@@ -4214,7 +4214,7 @@
     "startimpostor": 2,
     "vote": 1,
     "join": 2,
-    "monopoli": 22,
+    "monopoli": 25,
     "oom": 1,
     "inventory": 12,
     "like": 1,
@@ -4671,7 +4671,7 @@
     "bgk": 1,
     "atmpull\n.atmtake": 1,
     "uno": 5,
-    "tictactoe": 22,
+    "tictactoe": 23,
     "gamesmemu": 1,
     "suitpvp": 15,
     "slor": 1,
@@ -4718,5 +4718,5 @@
     "mesum": 1,
     "caturg4": 1
   },
-  "lastUpdated": 1774790735538
+  "lastUpdated": 1774790795538
 }
