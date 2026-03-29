@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 69,
-      "exp": 167024,
-      "saldo": 999000000000000
+      "exp": 167075,
+      "saldo": 998001000000000
     },
     {
       "name": "Zxiox",
@@ -203,8 +203,8 @@
     {
       "name": "apip",
       "level": 69,
-      "exp": 167024,
-      "saldo": 999000000000000
+      "exp": 167075,
+      "saldo": 998001000000000
     },
     {
       "name": "danz",
@@ -240,7 +240,7 @@
       "name": "Ujang Ronda",
       "level": 0,
       "exp": 492,
-      "saldo": 1000000100000
+      "saldo": 1999000100000
     }
   ],
   "exp": [
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 69,
-      "exp": 167024,
-      "saldo": 999000000000000
+      "exp": 167075,
+      "saldo": 998001000000000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774787735211
+  "lastUpdated": 1774787795217
 }
