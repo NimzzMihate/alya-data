@@ -3722,7 +3722,7 @@
     "tolid": 1,
     "cekprofile": 89,
     "tes": 139,
-    "listown": 11,
+    "listown": 12,
     "getpp": 3,
     "linkgc": 6,
     "cekpasangan": 43,
@@ -3988,7 +3988,7 @@
     "47039270359040": 3,
     "autosahur": 1,
     "6285855009121": 4,
-    "listcap": 13,
+    "listcap": 14,
     "aiart": 1,
     "f": 3,
     "heal.": 1,
@@ -4707,5 +4707,5 @@
     "multiprefix": 2,
     "..........": 1
   },
-  "lastUpdated": 1774775245151
+  "lastUpdated": 1774775305150
 }
