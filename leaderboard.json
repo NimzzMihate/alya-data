@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 68,
-      "exp": 165054,
+      "exp": 165155,
       "saldo": 0
     },
     {
@@ -155,7 +155,7 @@
     {
       "name": "NarennDurenn",
       "level": 2,
-      "exp": 6560,
+      "exp": 6602,
       "saldo": 1.0000101002007888e+23
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 68,
-      "exp": 165054,
+      "exp": 165155,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774786694288
+  "lastUpdated": 1774786754292
 }
