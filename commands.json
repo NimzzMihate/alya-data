@@ -3725,7 +3725,7 @@
     "listown": 12,
     "getpp": 3,
     "linkgc": 7,
-    "cekpasangan": 54,
+    "cekpasangan": 57,
     "6281283401829": 1,
     "tembak": 28,
     "terima": 17,
@@ -3736,7 +3736,7 @@
     "listapi": 9,
     "family100": 6,
     "tebakpokemon": 1,
-    "6283869039585": 26,
+    "6283869039585": 27,
     "nyerah": 22,
     "mf": 1,
     "261581174734897": 1,
@@ -4727,7 +4727,8 @@
     ".d": 1,
     "payment": 1,
     "gopay": 2,
-    "qris": 1
+    "qris": 1,
+    "6283194787778": 2
   },
-  "lastUpdated": 1774823559381
+  "lastUpdated": 1774823619383
 }
