@@ -4214,7 +4214,7 @@
     "startimpostor": 2,
     "vote": 1,
     "join": 2,
-    "monopoli": 25,
+    "monopoli": 29,
     "oom": 1,
     "inventory": 12,
     "like": 1,
@@ -4718,5 +4718,5 @@
     "mesum": 1,
     "caturg4": 1
   },
-  "lastUpdated": 1774790795538
+  "lastUpdated": 1774790855536
 }
