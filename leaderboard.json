@@ -45,13 +45,13 @@
     {
       "name": "apip",
       "level": 71,
-      "exp": 171663,
-      "saldo": 0
+      "exp": 171767,
+      "saldo": 100000
     },
     {
       "name": "Zxiox",
       "level": 48,
-      "exp": 115303,
+      "exp": 115362,
       "saldo": 0
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 71,
-      "exp": 171663,
-      "saldo": 0
+      "exp": 171767,
+      "saldo": 100000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -295,7 +295,7 @@
     {
       "name": "Zxiox",
       "level": 48,
-      "exp": 115303,
+      "exp": 115362,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774824870997
+  "lastUpdated": 1774824930997
 }
