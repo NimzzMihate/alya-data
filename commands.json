@@ -3657,7 +3657,7 @@
     "wikwik": 31,
     "heal": 65,
     "menu": 100,
-    "owner": 9,
+    "owner": 10,
     "script": 7,
     "joinrpg": 28,
     "mentahan": 1,
@@ -4705,5 +4705,5 @@
     "elaina": 1,
     "sc": 1
   },
-  "lastUpdated": 1774765289529
+  "lastUpdated": 1774765349529
 }
