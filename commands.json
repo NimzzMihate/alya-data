@@ -3696,7 +3696,7 @@
     "ewepaksa": 64,
     "topglobal": 14,
     "6285789692015": 1,
-    "buy": 383,
+    "buy": 385,
     "smeme": 22,
     "getno": 9,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3709,7 +3709,7 @@
     "makan": 8,
     "repair": 1,
     "kapal": 5,
-    "craft": 164,
+    "craft": 166,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3851,7 +3851,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 90,
+    "atmpull": 91,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4668,7 +4668,8 @@
     "delcasino": 6,
     "berkebun": 1,
     "repoy": 1,
-    "bgk": 1
+    "bgk": 1,
+    "atmpull\n.atmtake": 1
   },
-  "lastUpdated": 1774754755268
+  "lastUpdated": 1774754815275
 }
