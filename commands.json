@@ -3732,7 +3732,7 @@
     "cium": 100,
     "6281915895220": 3,
     "6281215537344": 3,
-    "rampok": 110,
+    "rampok": 113,
     "listapi": 9,
     "family100": 6,
     "tebakpokemon": 1,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 65,
+    "atmall": 66,
     "inv": 39,
     "healfull": 3,
     "mute": 2,
@@ -4721,5 +4721,5 @@
     "character": 2,
     "rampok1": 1
   },
-  "lastUpdated": 1774794904568
+  "lastUpdated": 1774794964569
 }
