@@ -3949,7 +3949,7 @@
     "fk": 1,
     "38796926128361": 2,
     "narik": 3,
-    "toimg": 14,
+    "toimg": 15,
     "runtime": 3,
     "ephotomenu": 1,
     "6283839942035": 3,
@@ -4651,7 +4651,7 @@
     "unbl": 1,
     "bangun": 1,
     "gidt": 1,
-    "chess": 83,
+    "chess": 86,
     "updateapi": 4,
     "buyayam": 1,
     "6283192352087": 7,
@@ -4719,5 +4719,5 @@
     "caturg4": 1,
     "xkill": 1
   },
-  "lastUpdated": 1774794048228
+  "lastUpdated": 1774794108229
 }
