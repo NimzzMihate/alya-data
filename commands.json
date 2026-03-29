@@ -4086,7 +4086,7 @@
     "buatanak": 11,
     "istiku": 1,
     "cerai": 7,
-    "putus": 43,
+    "putus": 44,
     "crop": 16,
     "shopgift": 36,
     "give": 3,
@@ -4651,7 +4651,7 @@
     "unbl": 1,
     "bangun": 1,
     "gidt": 1,
-    "chess": 60,
+    "chess": 61,
     "updateapi": 4,
     "buyayam": 1,
     "6283192352087": 3,
@@ -4708,5 +4708,5 @@
     "..........": 1,
     "ba": 1
   },
-  "lastUpdated": 1774779400692
+  "lastUpdated": 1774779460690
 }
