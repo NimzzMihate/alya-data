@@ -3774,7 +3774,7 @@
     "setprofile": 59,
     "daftar": 21,
     "profile": 22,
-    "topactive": 37,
+    "topactive": 38,
     "verify": 18,
     "daftr": 10,
     "status": 11,
@@ -3845,7 +3845,7 @@
     "fitnah": 50,
     "puji": 134,
     "pacar": 93,
-    "carikarakter": 120,
+    "carikarakter": 122,
     "nembak": 58,
     "cry": 7,
     "happy": 4,
@@ -4086,7 +4086,7 @@
     "buatanak": 11,
     "istiku": 1,
     "cerai": 8,
-    "putus": 65,
+    "putus": 67,
     "crop": 16,
     "shopgift": 36,
     "give": 3,
@@ -4717,7 +4717,8 @@
     "dicktactoe": 1,
     "mesum": 1,
     "caturg4": 1,
-    "xkill": 1
+    "xkill": 1,
+    "character": 2
   },
-  "lastUpdated": 1774794648235
+  "lastUpdated": 1774794708446
 }
