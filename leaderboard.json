@@ -69,7 +69,7 @@
     {
       "name": "*KUROSE*",
       "level": 27,
-      "exp": 66667,
+      "exp": 66717,
       "saldo": 0
     },
     {
@@ -313,7 +313,7 @@
     {
       "name": "*KUROSE*",
       "level": 27,
-      "exp": 66667,
+      "exp": 66717,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774789315641
+  "lastUpdated": 1774789375641
 }
