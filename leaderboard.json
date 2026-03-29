@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 69,
-      "exp": 165803,
+      "exp": 165956,
       "saldo": 0
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 69,
-      "exp": 165803,
+      "exp": 165956,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774787054295
+  "lastUpdated": 1774787114294
 }
