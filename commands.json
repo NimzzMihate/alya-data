@@ -3746,7 +3746,7 @@
     "202766010036371": 39,
     "89374091944116": 49,
     "80548286464072": 13,
-    "250693499797710": 48,
+    "250693499797710": 49,
     "??": 6,
     "izinnnnn": 1,
     "fathir": 1,
@@ -3787,7 +3787,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 128,
+    "saldo": 129,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3851,7 +3851,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 101,
+    "atmpull": 102,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -3983,7 +3983,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 214,
+    "tf": 215,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4720,5 +4720,5 @@
     "xkill": 1,
     "character": 2
   },
-  "lastUpdated": 1774794708446
+  "lastUpdated": 1774794784569
 }
