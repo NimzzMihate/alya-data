@@ -15,8 +15,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 332,
-      "exp": 797853,
-      "saldo": 1201998999043098
+      "exp": 797981,
+      "saldo": 1201998999038098
     },
     {
       "name": "Putzz?",
@@ -69,7 +69,7 @@
     {
       "name": "*KUROSE*",
       "level": 27,
-      "exp": 65500,
+      "exp": 65790,
       "saldo": 0
     },
     {
@@ -109,16 +109,16 @@
       "saldo": 700
     },
     {
+      "name": "murazaki",
+      "level": 11,
+      "exp": 28232,
+      "saldo": 13030000000066700
+    },
+    {
       "name": "kenntod",
       "level": 11,
       "exp": 28207,
       "saldo": 0
-    },
-    {
-      "name": "murazaki",
-      "level": 11,
-      "exp": 28079,
-      "saldo": 13030000000076700
     }
   ],
   "saldo": [
@@ -185,8 +185,8 @@
     {
       "name": "murazaki",
       "level": 11,
-      "exp": 28079,
-      "saldo": 13030000000076700
+      "exp": 28232,
+      "saldo": 13030000000066700
     },
     {
       "name": "Sanzx",
@@ -197,8 +197,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 332,
-      "exp": 797853,
-      "saldo": 1201998999043098
+      "exp": 797981,
+      "saldo": 1201998999038098
     },
     {
       "name": "danz",
@@ -253,8 +253,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 332,
-      "exp": 797853,
-      "saldo": 1201998999043098
+      "exp": 797981,
+      "saldo": 1201998999038098
     },
     {
       "name": "Putzz?",
@@ -313,7 +313,7 @@
     {
       "name": "*KUROSE*",
       "level": 27,
-      "exp": 65500,
+      "exp": 65790,
       "saldo": 0
     },
     {
@@ -353,17 +353,17 @@
       "saldo": 700
     },
     {
+      "name": "murazaki",
+      "level": 11,
+      "exp": 28232,
+      "saldo": 13030000000066700
+    },
+    {
       "name": "kenntod",
       "level": 11,
       "exp": 28207,
       "saldo": 0
-    },
-    {
-      "name": "murazaki",
-      "level": 11,
-      "exp": 28079,
-      "saldo": 13030000000076700
     }
   ],
-  "lastUpdated": 1774786394282
+  "lastUpdated": 1774786454283
 }
