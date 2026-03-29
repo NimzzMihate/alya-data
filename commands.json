@@ -3669,7 +3669,7 @@
     ">": 4,
     "addapi": 2,
     "pin": 110,
-    "hd": 103,
+    "hd": 104,
     "useitem": 7,
     "77605898313906": 111,
     "huxin": 1,
@@ -3994,7 +3994,7 @@
     "heal.": 1,
     "sell": 62,
     "jual": 22,
-    "vid": 2,
+    "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
     "vidio": 1,
@@ -4137,7 +4137,7 @@
     "cek": 15,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 35,
+    "bailout": 36,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4726,5 +4726,5 @@
     "nuliskanan": 2,
     ".d": 1
   },
-  "lastUpdated": 1774801031354
+  "lastUpdated": 1774801091345
 }
