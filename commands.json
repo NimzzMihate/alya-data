@@ -3973,7 +3973,7 @@
     "marshaandthebear": 1,
     "allmenu": 8,
     "gamemenu": 4,
-    "catur": 199,
+    "catur": 200,
     "mulai": 1,
     "e2": 2,
     "6285180841166": 1,
@@ -4086,7 +4086,7 @@
     "buatanak": 11,
     "istiku": 1,
     "cerai": 8,
-    "putus": 54,
+    "putus": 56,
     "crop": 16,
     "shopgift": 36,
     "give": 3,
@@ -4651,7 +4651,7 @@
     "unbl": 1,
     "bangun": 1,
     "gidt": 1,
-    "chess": 72,
+    "chess": 73,
     "updateapi": 4,
     "buyayam": 1,
     "6283192352087": 6,
@@ -4717,5 +4717,5 @@
     "dicktactoe": 1,
     "mesum": 1
   },
-  "lastUpdated": 1774788655632
+  "lastUpdated": 1774788715631
 }
