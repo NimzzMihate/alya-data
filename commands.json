@@ -3631,7 +3631,7 @@
     "ewe-paksa": 41,
     "me": 329,
     "setbg": 13,
-    "rampok2": 346,
+    "rampok2": 347,
     "6285609504925": 15,
     "atm": 106,
     "bank": 61,
@@ -4233,7 +4233,7 @@
     "htspam": 1,
     "rating": 4,
     "rampokatm": 1,
-    "topuang": 6,
+    "topuang": 7,
     "tabung": 2,
     "atn": 1,
     "6288747505928": 1,
@@ -4706,5 +4706,5 @@
     "sc": 1,
     "multiprefix": 2
   },
-  "lastUpdated": 1774770879768
+  "lastUpdated": 1774770939760
 }
