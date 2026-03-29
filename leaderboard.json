@@ -45,13 +45,13 @@
     {
       "name": "apip",
       "level": 71,
-      "exp": 171140,
+      "exp": 171170,
       "saldo": 0
     },
     {
       "name": "Zxiox",
       "level": 47,
-      "exp": 114836,
+      "exp": 114949,
       "saldo": 2050000
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 71,
-      "exp": 171140,
+      "exp": 171170,
       "saldo": 0
     },
     {
@@ -295,7 +295,7 @@
     {
       "name": "Zxiox",
       "level": 47,
-      "exp": 114836,
+      "exp": 114949,
       "saldo": 2050000
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774824390997
+  "lastUpdated": 1774824450999
 }
