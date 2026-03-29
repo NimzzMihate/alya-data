@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 321924,
+      "exp": 321954,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 293,
-      "exp": 703202,
+      "exp": 703270,
       "saldo": 1.2111110475081982e+51
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 67,
-      "exp": 161114,
+      "exp": 161159,
       "saldo": 0
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "name": "*KUROSE*",
-      "level": 26,
-      "exp": 64752,
+      "level": 27,
+      "exp": 64832,
       "saldo": 0
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 293,
-      "exp": 703202,
+      "exp": 703270,
       "saldo": 1.2111110475081982e+51
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 321924,
+      "exp": 321954,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -259,13 +259,13 @@
     {
       "name": "Putzz?",
       "level": 293,
-      "exp": 703202,
+      "exp": 703270,
       "saldo": 1.2111110475081982e+51
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 321924,
+      "exp": 321954,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 67,
-      "exp": 161114,
+      "exp": 161159,
       "saldo": 0
     },
     {
@@ -312,8 +312,8 @@
     },
     {
       "name": "*KUROSE*",
-      "level": 26,
-      "exp": 64752,
+      "level": 27,
+      "exp": 64832,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774760564480
+  "lastUpdated": 1774760624483
 }
