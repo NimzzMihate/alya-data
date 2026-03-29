@@ -3895,8 +3895,8 @@
     "6281455125940": 2,
     "6285761349641": 12,
     "pap2": 39,
-    "getcase": 3,
-    "/": 3,
+    "getcase": 4,
+    "/": 4,
     "cekcantik": 9,
     "toplocal": 16,
     "forward": 336,
@@ -4706,5 +4706,5 @@
     "sc": 1,
     "multiprefix": 2
   },
-  "lastUpdated": 1774766549535
+  "lastUpdated": 1774766609538
 }
