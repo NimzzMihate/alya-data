@@ -3671,7 +3671,7 @@
     "pin": 109,
     "hd": 96,
     "useitem": 7,
-    "77605898313906": 109,
+    "77605898313906": 110,
     "huxin": 1,
     "usaha": 32,
     "memancing": 10,
@@ -3787,7 +3787,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 129,
+    "saldo": 130,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4558,7 +4558,7 @@
     "hit": 1,
     "hiu": 1,
     "pukul": 1,
-    "casino": 17,
+    "casino": 18,
     "cekpemain": 1,
     "cekgemini": 1,
     "ulartangga": 73,
@@ -4665,7 +4665,7 @@
     "rampokw": 1,
     "tea": 1,
     "gremory": 1,
-    "delcasino": 6,
+    "delcasino": 8,
     "berkebun": 1,
     "repoy": 1,
     "bgk": 1,
@@ -4721,5 +4721,5 @@
     "character": 2,
     "rampok1": 1
   },
-  "lastUpdated": 1774795024568
+  "lastUpdated": 1774795084574
 }
