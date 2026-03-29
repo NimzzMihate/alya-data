@@ -3631,7 +3631,7 @@
     "ewe-paksa": 41,
     "me": 332,
     "setbg": 13,
-    "rampok2": 358,
+    "rampok2": 360,
     "6285609504925": 15,
     "atm": 110,
     "bank": 62,
@@ -4106,7 +4106,7 @@
     "kasihnamaanak": 7,
     "babi": 17,
     "dongo": 6,
-    "rampok3": 4,
+    "rampok3": 5,
     "cekbatang": 68,
     "tahun": 3,
     "6289530116661": 1,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 64,
+    "atmall": 65,
     "inv": 39,
     "healfull": 3,
     "mute": 2,
@@ -4718,7 +4718,8 @@
     "mesum": 1,
     "caturg4": 1,
     "xkill": 1,
-    "character": 2
+    "character": 2,
+    "rampok1": 1
   },
-  "lastUpdated": 1774794844569
+  "lastUpdated": 1774794904568
 }
