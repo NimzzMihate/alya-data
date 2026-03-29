@@ -21,8 +21,8 @@
     {
       "name": "Putzz?",
       "level": 293,
-      "exp": 704149,
-      "saldo": 1.2111110475081982e+51
+      "exp": 704240,
+      "saldo": 3.780000146628115e+51
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 67,
-      "exp": 163104,
-      "saldo": 718197142644946
+      "exp": 163198,
+      "saldo": 0
     },
     {
       "name": "Zxiox",
@@ -125,8 +125,8 @@
     {
       "name": "Putzz?",
       "level": 293,
-      "exp": 704149,
-      "saldo": 1.2111110475081982e+51
+      "exp": 704240,
+      "saldo": 3.780000146628115e+51
     },
     {
       "name": "TX 🧭⚖️🩻🪅🦦🫓🧧🧮🚯🃏",
@@ -201,12 +201,6 @@
       "saldo": 1201998999043098
     },
     {
-      "name": "apip",
-      "level": 67,
-      "exp": 163104,
-      "saldo": 718197142644946
-    },
-    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
@@ -241,6 +235,12 @@
       "level": 30,
       "exp": 72133,
       "saldo": 480625437
+    },
+    {
+      "name": "xeno la nigger",
+      "level": 4,
+      "exp": 10446,
+      "saldo": 106134076
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Putzz?",
       "level": 293,
-      "exp": 704149,
-      "saldo": 1.2111110475081982e+51
+      "exp": 704240,
+      "saldo": 3.780000146628115e+51
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 67,
-      "exp": 163104,
-      "saldo": 718197142644946
+      "exp": 163198,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774774645137
+  "lastUpdated": 1774774705138
 }
