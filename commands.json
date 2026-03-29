@@ -3629,11 +3629,11 @@
     "playmoba": 38,
     "ngaji": 30,
     "ewe-paksa": 41,
-    "me": 334,
+    "me": 338,
     "setbg": 13,
     "rampok2": 369,
     "6285609504925": 15,
-    "atm": 110,
+    "atm": 111,
     "bank": 62,
     "afk": 357,
     "kerja": 46,
@@ -3773,7 +3773,7 @@
     "....": 2,
     "setprofile": 59,
     "daftar": 21,
-    "profile": 22,
+    "profile": 23,
     "topactive": 38,
     "verify": 18,
     "daftr": 10,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 68,
+    "atmall": 69,
     "inv": 39,
     "healfull": 3,
     "mute": 2,
@@ -4730,7 +4730,8 @@
     "qris": 1,
     "6283194787778": 2,
     "io": 1,
-    "cekgateng": 1
+    "cekgateng": 1,
+    "ms": 1
   },
-  "lastUpdated": 1774824810997
+  "lastUpdated": 1774824870997
 }
