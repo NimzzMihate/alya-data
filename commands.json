@@ -3831,7 +3831,7 @@
     "kuis": 12,
     "32968236081310": 83,
     "6283152469722": 4,
-    "6285649132023": 53,
+    "6285649132023": 55,
     "oldyk": 2,
     "no": 1,
     "edit": 5,
@@ -3972,7 +3972,7 @@
     "mahiru": 1,
     "marshaandthebear": 1,
     "allmenu": 7,
-    "gamemenu": 2,
+    "gamemenu": 3,
     "catur": 195,
     "mulai": 1,
     "e2": 2,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 57,
+    "atmall": 58,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4350,7 +4350,7 @@
     "info": 4,
     "tebakkat": 1,
     "tebakanime": 1,
-    "tebaklogo": 1,
+    "tebaklogo": 2,
     "tebakgame": 2,
     "blowjob": 2,
     "nyrah": 1,
@@ -4678,7 +4678,8 @@
     "gas": 1,
     "batu": 3,
     "kertas": 1,
-    "suit": 1
+    "suit": 1,
+    "tebaklagu": 1
   },
-  "lastUpdated": 1774755708864
+  "lastUpdated": 1774755768865
 }
