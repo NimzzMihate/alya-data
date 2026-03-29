@@ -3721,7 +3721,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 89,
-    "tes": 173,
+    "tes": 174,
     "listown": 12,
     "getpp": 3,
     "linkgc": 7,
@@ -3983,7 +3983,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 211,
+    "tf": 212,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4086,7 +4086,7 @@
     "buatanak": 11,
     "istiku": 1,
     "cerai": 8,
-    "putus": 51,
+    "putus": 52,
     "crop": 16,
     "shopgift": 36,
     "give": 3,
@@ -4717,5 +4717,5 @@
     "dicktactoe": 1,
     "mesum": 1
   },
-  "lastUpdated": 1774787675214
+  "lastUpdated": 1774787735211
 }
