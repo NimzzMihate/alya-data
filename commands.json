@@ -3631,7 +3631,7 @@
     "ewe-paksa": 41,
     "me": 326,
     "setbg": 13,
-    "rampok2": 344,
+    "rampok2": 345,
     "6285609504925": 15,
     "atm": 106,
     "bank": 60,
@@ -3787,7 +3787,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 117,
+    "saldo": 118,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3831,7 +3831,7 @@
     "kuis": 12,
     "32968236081310": 83,
     "6283152469722": 4,
-    "6285649132023": 44,
+    "6285649132023": 45,
     "oldyk": 2,
     "no": 1,
     "edit": 5,
@@ -4673,9 +4673,10 @@
     "uno": 4,
     "tictactoe": 1,
     "gamesmemu": 1,
-    "suitpvp": 1,
+    "suitpvp": 2,
     "slor": 1,
-    "gas": 1
+    "gas": 1,
+    "batu": 1
   },
-  "lastUpdated": 1774755115315
+  "lastUpdated": 1774755175302
 }
