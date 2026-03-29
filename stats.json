@@ -3,12 +3,12 @@
   "totalUsers": 1044,
   "totalGroups": 37,
   "totalFeatures": 3614,
-  "totalCmd": 11870,
-  "totalChat": 11870,
+  "totalCmd": 11875,
+  "totalChat": 11875,
   "topCommands": [
     {
       "cmd": "buy",
-      "count": 371
+      "count": 373
     },
     {
       "cmd": "rampok2",
@@ -43,12 +43,12 @@
       "count": 195
     },
     {
-      "cmd": "kasihmakan",
+      "cmd": "craft",
       "count": 153
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 541,
-  "lastUpdated": 1774753435264
+  "uptimeSeconds": 601,
+  "lastUpdated": 1774753495269
 }
