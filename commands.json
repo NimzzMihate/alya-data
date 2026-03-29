@@ -4725,7 +4725,9 @@
     "nulinkanan": 1,
     "nuliskanan": 2,
     ".d": 1,
-    "payment": 1
+    "payment": 1,
+    "gopay": 2,
+    "qris": 1
   },
-  "lastUpdated": 1774823079376
+  "lastUpdated": 1774823139370
 }
