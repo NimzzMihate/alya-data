@@ -45,14 +45,14 @@
     {
       "name": "apip",
       "level": 71,
-      "exp": 171564,
+      "exp": 171663,
       "saldo": 0
     },
     {
       "name": "Zxiox",
       "level": 48,
-      "exp": 115234,
-      "saldo": 2050000
+      "exp": 115303,
+      "saldo": 0
     },
     {
       "name": "Lejen",
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 71,
-      "exp": 171564,
+      "exp": 171663,
       "saldo": 0
     },
     {
@@ -295,8 +295,8 @@
     {
       "name": "Zxiox",
       "level": 48,
-      "exp": 115234,
-      "saldo": 2050000
+      "exp": 115303,
+      "saldo": 0
     },
     {
       "name": "Lejen",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774824810997
+  "lastUpdated": 1774824870997
 }
