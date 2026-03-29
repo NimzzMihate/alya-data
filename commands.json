@@ -3668,7 +3668,7 @@
     "6281393286345": 85,
     ">": 4,
     "addapi": 2,
-    "pin": 105,
+    "pin": 107,
     "hd": 87,
     "useitem": 7,
     "77605898313906": 96,
@@ -4113,7 +4113,7 @@
     "adoptpet": 20,
     "petstat": 25,
     "playpet": 48,
-    "feedpet": 74,
+    "feedpet": 75,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4629,7 +4629,7 @@
     "sw": 2,
     "upswgc": 1,
     "sendupsw": 1,
-    "feefpet": 2,
+    "feefpet": 3,
     "ditolak": 1,
     "kasohmakan": 1,
     "mining": 4,
@@ -4662,5 +4662,5 @@
     "hentikan": 1,
     "mode": 1
   },
-  "lastUpdated": 1774745838786
+  "lastUpdated": 1774745898790
 }
