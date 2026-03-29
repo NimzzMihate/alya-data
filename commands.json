@@ -3696,7 +3696,7 @@
     "ewepaksa": 64,
     "topglobal": 14,
     "6285789692015": 1,
-    "buy": 387,
+    "buy": 390,
     "smeme": 22,
     "getno": 9,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3709,7 +3709,7 @@
     "makan": 8,
     "repair": 1,
     "kapal": 5,
-    "craft": 169,
+    "craft": 174,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3787,7 +3787,7 @@
     "buildml": 6,
     "izin": 1,
     "build": 1,
-    "saldo": 116,
+    "saldo": 117,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3851,7 +3851,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 91,
+    "atmpull": 92,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -3992,7 +3992,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 57,
+    "sell": 58,
     "jual": 22,
     "vid": 2,
     "nfsw": 2,
@@ -4670,7 +4670,8 @@
     "repoy": 1,
     "bgk": 1,
     "atmpull\n.atmtake": 1,
-    "uno": 2
+    "uno": 4,
+    "tictactoe": 1
   },
-  "lastUpdated": 1774754935297
+  "lastUpdated": 1774754995306
 }
