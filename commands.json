@@ -3709,7 +3709,7 @@
     "makan": 8,
     "repair": 1,
     "kapal": 5,
-    "craft": 176,
+    "craft": 177,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3831,7 +3831,7 @@
     "kuis": 12,
     "32968236081310": 83,
     "6283152469722": 4,
-    "6285649132023": 47,
+    "6285649132023": 48,
     "oldyk": 2,
     "no": 1,
     "edit": 5,
@@ -3992,7 +3992,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 59,
+    "sell": 60,
     "jual": 22,
     "vid": 2,
     "nfsw": 2,
@@ -4676,7 +4676,8 @@
     "suitpvp": 4,
     "slor": 1,
     "gas": 1,
-    "batu": 1
+    "batu": 1,
+    "kertas": 1
   },
-  "lastUpdated": 1774755295301
+  "lastUpdated": 1774755355300
 }
