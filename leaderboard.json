@@ -62,9 +62,9 @@
     },
     {
       "name": "Souta",
-      "level": 27,
-      "exp": 72062,
-      "saldo": 480618437
+      "level": 30,
+      "exp": 72133,
+      "saldo": 480625437
     },
     {
       "name": "*KUROSE*",
@@ -238,9 +238,9 @@
     },
     {
       "name": "Souta",
-      "level": 27,
-      "exp": 72062,
-      "saldo": 480618437
+      "level": 30,
+      "exp": 72133,
+      "saldo": 480625437
     }
   ],
   "exp": [
@@ -306,9 +306,9 @@
     },
     {
       "name": "Souta",
-      "level": 27,
-      "exp": 72062,
-      "saldo": 480618437
+      "level": 30,
+      "exp": 72133,
+      "saldo": 480625437
     },
     {
       "name": "*KUROSE*",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774742898795
+  "lastUpdated": 1774742958784
 }
