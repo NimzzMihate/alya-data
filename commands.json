@@ -4141,7 +4141,7 @@
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
-    "bot": 2,
+    "bot": 3,
     "tf+62": 1,
     "dokter": 3,
     "carikarakter[shizuka": 1,
@@ -4660,7 +4660,7 @@
     "pvp": 1,
     "stop": 1,
     "hentikan": 1,
-    "mode": 1,
+    "mode": 2,
     "battlepat": 1,
     "rampokw": 1,
     "tea": 1,
@@ -4689,5 +4689,5 @@
     "mainmenu": 1,
     "6357071720498": 1
   },
-  "lastUpdated": 1774759844480
+  "lastUpdated": 1774759904473
 }
