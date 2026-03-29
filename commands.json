@@ -4191,7 +4191,7 @@
     "atmall": 60,
     "inv": 22,
     "healfull": 3,
-    "mute": 1,
+    "mute": 2,
     "perstat": 1,
     "lesby": 5,
     "bokeppaksa": 1,
@@ -4706,5 +4706,5 @@
     "sc": 1,
     "multiprefix": 2
   },
-  "lastUpdated": 1774774239788
+  "lastUpdated": 1774774299785
 }
