@@ -4671,7 +4671,7 @@
     "bgk": 1,
     "atmpull\n.atmtake": 1,
     "uno": 4,
-    "tictactoe": 1,
+    "tictactoe": 2,
     "gamesmemu": 1,
     "suitpvp": 15,
     "slor": 1,
@@ -4711,5 +4711,5 @@
     "gacha": 1,
     "39011322183873": 2
   },
-  "lastUpdated": 1774781066916
+  "lastUpdated": 1774781126915
 }
