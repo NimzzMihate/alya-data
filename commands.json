@@ -3703,7 +3703,7 @@
     "195520047915190": 1,
     "setpp": 43,
     "265944542793975": 1,
-    "berburu": 16,
+    "berburu": 17,
     "masak": 11,
     "rpgmenu": 12,
     "makan": 8,
@@ -3721,7 +3721,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 89,
-    "tes": 137,
+    "tes": 138,
     "listown": 11,
     "getpp": 3,
     "linkgc": 6,
@@ -4688,7 +4688,7 @@
     "family200": 1,
     "mainmenu": 1,
     "6357071720498": 1,
-    "ted": 1,
+    "ted": 2,
     "naya": 5,
     "halo": 1,
     "draw": 4,
@@ -4706,5 +4706,5 @@
     "sc": 1,
     "multiprefix": 2
   },
-  "lastUpdated": 1774772799792
+  "lastUpdated": 1774772859773
 }
