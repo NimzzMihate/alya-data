@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 322899,
+      "exp": 322960,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -39,8 +39,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 77,
-      "exp": 186922,
-      "saldo": 19978694773138
+      "exp": 187011,
+      "saldo": 10965860
     },
     {
       "name": "apip",
@@ -137,7 +137,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 322899,
+      "exp": 322960,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -155,8 +155,8 @@
     {
       "name": "NarennDurenn",
       "level": 2,
-      "exp": 5913,
-      "saldo": 1.0000101000010018e+23
+      "exp": 5979,
+      "saldo": 1.0000101002007888e+23
     },
     {
       "name": "renita",
@@ -225,12 +225,6 @@
       "saldo": 81084237669526
     },
     {
-      "name": "Flonα Lyzellé ❀.",
-      "level": 77,
-      "exp": 186922,
-      "saldo": 19978694773138
-    },
-    {
       "name": "Souta",
       "level": 30,
       "exp": 72133,
@@ -241,6 +235,12 @@
       "level": 4,
       "exp": 10446,
       "saldo": 106134076
+    },
+    {
+      "name": "Flonα Lyzellé ❀.",
+      "level": 77,
+      "exp": 187011,
+      "saldo": 10965860
     }
   ],
   "exp": [
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 322899,
+      "exp": 322960,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -277,8 +277,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 77,
-      "exp": 186922,
-      "saldo": 19978694773138
+      "exp": 187011,
+      "saldo": 10965860
     },
     {
       "name": "apip",
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774763069502
+  "lastUpdated": 1774763129522
 }
