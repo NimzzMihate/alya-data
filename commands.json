@@ -3656,7 +3656,7 @@
     "61405583679507": 1,
     "wikwik": 31,
     "heal": 65,
-    "menu": 99,
+    "menu": 100,
     "owner": 9,
     "script": 7,
     "joinrpg": 28,
@@ -4316,7 +4316,7 @@
     "𝙢𝙚": 1,
     "ceraipaksa": 2,
     "meu": 2,
-    "nsfwmenu": 8,
+    "nsfwmenu": 9,
     "trap": 2,
     "neko": 1,
     "slap": 11,
@@ -4703,5 +4703,5 @@
     "tfsaldo": 2,
     "buypanel": 1
   },
-  "lastUpdated": 1774763369521
+  "lastUpdated": 1774763429520
 }
