@@ -3631,7 +3631,7 @@
     "ewe-paksa": 41,
     "me": 323,
     "setbg": 13,
-    "rampok2": 334,
+    "rampok2": 337,
     "6285609504925": 15,
     "atm": 104,
     "bank": 59,
@@ -3973,7 +3973,7 @@
     "marshaandthebear": 1,
     "allmenu": 7,
     "gamemenu": 2,
-    "catur": 191,
+    "catur": 192,
     "mulai": 1,
     "e2": 2,
     "6285180841166": 1,
@@ -4125,7 +4125,7 @@
     "bego": 5,
     "haram": 1,
     "6282327857595": 12,
-    "roast": 38,
+    "roast": 39,
     "rampokin": 11,
     "nikahpaksa": 32,
     "tolak": 8,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 54,
+    "atmall": 55,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4661,7 +4661,8 @@
     "stop": 1,
     "hentikan": 1,
     "mode": 1,
-    "battlepat": 1
+    "battlepat": 1,
+    "rampokw": 1
   },
-  "lastUpdated": 1774747966160
+  "lastUpdated": 1774748026161
 }
