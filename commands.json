@@ -3687,7 +3687,7 @@
     "6282137487477": 24,
     "removebg": 38,
     "addown": 7,
-    "listowner": 10,
+    "listowner": 11,
     "brat": 62,
     "brathd": 1,
     "editfoto": 58,
@@ -4214,7 +4214,7 @@
     "startimpostor": 2,
     "vote": 1,
     "join": 2,
-    "monopoli": 16,
+    "monopoli": 20,
     "oom": 1,
     "inventory": 12,
     "like": 1,
@@ -4671,7 +4671,7 @@
     "bgk": 1,
     "atmpull\n.atmtake": 1,
     "uno": 5,
-    "tictactoe": 19,
+    "tictactoe": 21,
     "gamesmemu": 1,
     "suitpvp": 15,
     "slor": 1,
@@ -4718,5 +4718,5 @@
     "mesum": 1,
     "caturg4": 1
   },
-  "lastUpdated": 1774790615534
+  "lastUpdated": 1774790675534
 }
