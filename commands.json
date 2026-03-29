@@ -3709,7 +3709,7 @@
     "makan": 8,
     "repair": 1,
     "kapal": 5,
-    "craft": 161,
+    "craft": 162,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -4670,5 +4670,5 @@
     "repoy": 1,
     "bgk": 1
   },
-  "lastUpdated": 1774754575270
+  "lastUpdated": 1774754635270
 }
