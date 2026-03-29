@@ -3634,7 +3634,7 @@
     "rampok2": 338,
     "6285609504925": 15,
     "atm": 104,
-    "bank": 59,
+    "bank": 60,
     "afk": 313,
     "kerja": 45,
     "628176533297": 14,
@@ -3721,7 +3721,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 89,
-    "tes": 122,
+    "tes": 124,
     "listown": 11,
     "getpp": 3,
     "linkgc": 5,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 55,
+    "atmall": 56,
     "inv": 16,
     "healfull": 3,
     "mute": 1,
@@ -4537,7 +4537,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 46,
-    "cekbank": 13,
+    "cekbank": 14,
     "cektomboy": 1,
     "bajingan": 4,
     "tabungan": 1,
@@ -4664,5 +4664,5 @@
     "battlepat": 1,
     "rampokw": 1
   },
-  "lastUpdated": 1774748446164
+  "lastUpdated": 1774748506165
 }
