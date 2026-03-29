@@ -4558,7 +4558,7 @@
     "hit": 1,
     "hiu": 1,
     "pukul": 1,
-    "casino": 3,
+    "casino": 4,
     "cekpemain": 1,
     "cekgemini": 1,
     "ulartangga": 73,
@@ -4663,7 +4663,8 @@
     "mode": 1,
     "battlepat": 1,
     "rampokw": 1,
-    "tea": 1
+    "tea": 1,
+    "gremory": 1
   },
-  "lastUpdated": 1774750112427
+  "lastUpdated": 1774750172490
 }
