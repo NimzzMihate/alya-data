@@ -110,9 +110,9 @@
     },
     {
       "name": "murazaki",
-      "level": 11,
-      "exp": 28649,
-      "saldo": 13030000000066700
+      "level": 12,
+      "exp": 28944,
+      "saldo": 13030000000056700
     },
     {
       "name": "kenntod",
@@ -184,9 +184,9 @@
     },
     {
       "name": "murazaki",
-      "level": 11,
-      "exp": 28649,
-      "saldo": 13030000000066700
+      "level": 12,
+      "exp": 28944,
+      "saldo": 13030000000056700
     },
     {
       "name": "Sanzx",
@@ -354,9 +354,9 @@
     },
     {
       "name": "murazaki",
-      "level": 11,
-      "exp": 28649,
-      "saldo": 13030000000066700
+      "level": 12,
+      "exp": 28944,
+      "saldo": 13030000000056700
     },
     {
       "name": "kenntod",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774792668219
+  "lastUpdated": 1774792728219
 }
