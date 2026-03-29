@@ -3983,7 +3983,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 1,
-    "tf": 203,
+    "tf": 204,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4375,7 +4375,7 @@
     "invpd": 1,
     "628895327267": 3,
     "ceklimit": 8,
-    "ceksaldo": 11,
+    "ceksaldo": 12,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -4690,7 +4690,8 @@
     "6357071720498": 1,
     "ted": 1,
     "naya": 2,
-    "halo": 1
+    "halo": 1,
+    "draw": 2
   },
-  "lastUpdated": 1774760324473
+  "lastUpdated": 1774760384475
 }
