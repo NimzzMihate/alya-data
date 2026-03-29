@@ -3778,7 +3778,7 @@
     "verify": 18,
     "daftr": 10,
     "status": 11,
-    "pap": 291,
+    "pap": 292,
     "tebakbendera": 15,
     "tebak": 1,
     "gantinama": 1,
@@ -4111,9 +4111,9 @@
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 20,
-    "petstat": 24,
-    "playpet": 47,
-    "feedpet": 73,
+    "petstat": 25,
+    "playpet": 48,
+    "feedpet": 74,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4423,7 +4423,7 @@
     "uncap": 8,
     "jembod": 1,
     "femboy": 1,
-    "pet": 3,
+    "pet": 4,
     "cewe": 1,
     "mana": 1,
     "dana": 1,
@@ -4662,5 +4662,5 @@
     "hentikan": 1,
     "mode": 1
   },
-  "lastUpdated": 1774745778786
+  "lastUpdated": 1774745838786
 }
