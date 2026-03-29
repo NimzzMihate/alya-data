@@ -4112,7 +4112,7 @@
     "6289530116661": 1,
     "adoptpet": 23,
     "petstat": 26,
-    "playpet": 49,
+    "playpet": 50,
     "feedpet": 79,
     "namapet": 3,
     "namepet": 8,
@@ -4688,5 +4688,5 @@
     "family200": 1,
     "mainmenu": 1
   },
-  "lastUpdated": 1774757204463
+  "lastUpdated": 1774757264476
 }
