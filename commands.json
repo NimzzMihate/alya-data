@@ -3638,7 +3638,7 @@
     "afk": 320,
     "kerja": 46,
     "628176533297": 14,
-    "s": 114,
+    "s": 115,
     "jwkwnwkabs": 1,
     "🗿": 1,
     "165850548031616": 3,
@@ -3703,13 +3703,13 @@
     "195520047915190": 1,
     "setpp": 43,
     "265944542793975": 1,
-    "berburu": 14,
+    "berburu": 16,
     "masak": 11,
     "rpgmenu": 12,
     "makan": 8,
     "repair": 1,
     "kapal": 5,
-    "craft": 158,
+    "craft": 159,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -4667,7 +4667,8 @@
     "gremory": 1,
     "delcasino": 6,
     "berkebun": 1,
-    "repoy": 1
+    "repoy": 1,
+    "bgk": 1
   },
-  "lastUpdated": 1774754455269
+  "lastUpdated": 1774754515270
 }
