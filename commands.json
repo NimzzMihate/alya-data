@@ -3654,9 +3654,9 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 39,
+    "wikwik": 40,
     "heal": 69,
-    "menu": 101,
+    "menu": 103,
     "owner": 10,
     "script": 7,
     "joinrpg": 30,
@@ -3760,8 +3760,8 @@
     "104797353033809": 3,
     "6282130641503": 5,
     "buyitem": 1,
-    "play": 89,
-    "ytmp3": 73,
+    "play": 90,
+    "ytmp3": 74,
     "152609298108555": 39,
     "35588770111681": 1,
     "intro": 35,
@@ -3971,7 +3971,7 @@
     "yumeko": 1,
     "mahiru": 1,
     "marshaandthebear": 1,
-    "allmenu": 8,
+    "allmenu": 9,
     "gamemenu": 4,
     "catur": 212,
     "mulai": 1,
@@ -4724,7 +4724,8 @@
     "nuliskiri": 7,
     "nulinkanan": 1,
     "nuliskanan": 2,
-    ".d": 1
+    ".d": 1,
+    "payment": 1
   },
-  "lastUpdated": 1774823019379
+  "lastUpdated": 1774823079376
 }
