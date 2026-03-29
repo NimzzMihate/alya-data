@@ -3663,13 +3663,13 @@
     "mentahan": 1,
     "claim": 29,
     "cekidch": 4,
-    "tourl": 31,
+    "tourl": 32,
     "title": 1,
     "6281393286345": 85,
     ">": 4,
     "addapi": 2,
     "pin": 107,
-    "hd": 91,
+    "hd": 92,
     "useitem": 7,
     "77605898313906": 98,
     "huxin": 1,
@@ -4113,7 +4113,7 @@
     "adoptpet": 23,
     "petstat": 26,
     "playpet": 49,
-    "feedpet": 78,
+    "feedpet": 79,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4688,5 +4688,5 @@
     "family200": 1,
     "mainmenu": 1
   },
-  "lastUpdated": 1774757144452
+  "lastUpdated": 1774757204463
 }
