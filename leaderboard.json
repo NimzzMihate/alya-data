@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 295,
-      "exp": 708675,
+      "exp": 708724,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -45,8 +45,8 @@
     {
       "name": "apip",
       "level": 69,
-      "exp": 167075,
-      "saldo": 998001000000000
+      "exp": 167240,
+      "saldo": 0
     },
     {
       "name": "Zxiox",
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 295,
-      "exp": 708675,
+      "exp": 708724,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -151,6 +151,12 @@
       "level": 5,
       "exp": 12176,
       "saldo": 1.000000001e+28
+    },
+    {
+      "name": "Ujang Ronda",
+      "level": 0,
+      "exp": 492,
+      "saldo": 1.0000000000000002e+28
     },
     {
       "name": "NarennDurenn",
@@ -201,12 +207,6 @@
       "saldo": 1201998999038098
     },
     {
-      "name": "apip",
-      "level": 69,
-      "exp": 167075,
-      "saldo": 998001000000000
-    },
-    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
@@ -237,10 +237,10 @@
       "saldo": 81084237669526
     },
     {
-      "name": "Ujang Ronda",
-      "level": 0,
-      "exp": 492,
-      "saldo": 1999000100000
+      "name": "Souta",
+      "level": 30,
+      "exp": 72133,
+      "saldo": 480625437
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "Putzz?",
       "level": 295,
-      "exp": 708675,
+      "exp": 708724,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "apip",
       "level": 69,
-      "exp": 167075,
-      "saldo": 998001000000000
+      "exp": 167240,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774787795217
+  "lastUpdated": 1774787855216
 }
