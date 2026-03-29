@@ -33,7 +33,7 @@
     {
       "name": "Joishi ganteng",
       "level": 82,
-      "exp": 198890,
+      "exp": 198963,
       "saldo": 2.0180019841533005e+33
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "apip",
       "level": 68,
-      "exp": 164831,
+      "exp": 164910,
       "saldo": 0
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 82,
-      "exp": 198890,
+      "exp": 198963,
       "saldo": 2.0180019841533005e+33
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Joishi ganteng",
       "level": 82,
-      "exp": 198890,
+      "exp": 198963,
       "saldo": 2.0180019841533005e+33
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "apip",
       "level": 68,
-      "exp": 164831,
+      "exp": 164910,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1312999
     }
   ],
-  "lastUpdated": 1774779580689
+  "lastUpdated": 1774779640694
 }
