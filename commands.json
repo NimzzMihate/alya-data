@@ -4113,7 +4113,7 @@
     "adoptpet": 20,
     "petstat": 25,
     "playpet": 48,
-    "feedpet": 75,
+    "feedpet": 78,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4183,7 +4183,7 @@
     "vium": 1,
     "kasih": 3,
     "jointpg": 1,
-    "listpet": 4,
+    "listpet": 5,
     "listbug": 1,
     "listban": 2,
     "cekstatus": 1,
@@ -4629,7 +4629,7 @@
     "sw": 2,
     "upswgc": 1,
     "sendupsw": 1,
-    "feefpet": 3,
+    "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
     "mining": 4,
@@ -4662,5 +4662,5 @@
     "hentikan": 1,
     "mode": 1
   },
-  "lastUpdated": 1774745898790
+  "lastUpdated": 1774745958787
 }
