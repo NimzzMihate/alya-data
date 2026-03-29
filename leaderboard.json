@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 324951,
+      "exp": 325027,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -39,14 +39,14 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 78,
-      "exp": 187314,
+      "exp": 187394,
       "saldo": 99999000007000
     },
     {
       "name": "apip",
       "level": 69,
-      "exp": 166674,
-      "saldo": 0
+      "exp": 166765,
+      "saldo": 678284252882864
     },
     {
       "name": "Zxiox",
@@ -57,7 +57,7 @@
     {
       "name": "Lejen",
       "level": 40,
-      "exp": 96132,
+      "exp": 96171,
       "saldo": 1000543661798510800
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 324951,
+      "exp": 325027,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -173,13 +173,13 @@
     {
       "name": "Lejen",
       "level": 40,
-      "exp": 96132,
+      "exp": 96171,
       "saldo": 1000543661798510800
     },
     {
       "name": "Vanz",
       "level": 2,
-      "exp": 6647,
+      "exp": 6697,
       "saldo": 100188033119128020
     },
     {
@@ -199,6 +199,12 @@
       "level": 332,
       "exp": 798011,
       "saldo": 1201998999038098
+    },
+    {
+      "name": "apip",
+      "level": 69,
+      "exp": 166765,
+      "saldo": 678284252882864
     },
     {
       "name": "danz",
@@ -221,7 +227,7 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 78,
-      "exp": 187314,
+      "exp": 187394,
       "saldo": 99999000007000
     },
     {
@@ -235,12 +241,6 @@
       "level": 30,
       "exp": 72133,
       "saldo": 480625437
-    },
-    {
-      "name": "xeno la nigger",
-      "level": 4,
-      "exp": 10446,
-      "saldo": 106134076
     }
   ],
   "exp": [
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 324951,
+      "exp": 325027,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -277,14 +277,14 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 78,
-      "exp": 187314,
+      "exp": 187394,
       "saldo": 99999000007000
     },
     {
       "name": "apip",
       "level": 69,
-      "exp": 166674,
-      "saldo": 0
+      "exp": 166765,
+      "saldo": 678284252882864
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -301,7 +301,7 @@
     {
       "name": "Lejen",
       "level": 40,
-      "exp": 96132,
+      "exp": 96171,
       "saldo": 1000543661798510800
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774787495215
+  "lastUpdated": 1774787555217
 }
