@@ -3886,7 +3886,7 @@
     "...": 2,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 107,
+    "statuspacar": 108,
     "kasihmakan": 153,
     "kasihminum": 20,
     "naena": 10,
@@ -3920,7 +3920,7 @@
     "pindl": 11,
     "totalfitur": 1,
     "mie": 1,
-    "statusanak": 36,
+    "statusanak": 37,
     "wink": 2,
     "kecocokan": 10,
     "register": 11,
@@ -4086,7 +4086,7 @@
     "buatanak": 11,
     "istiku": 1,
     "cerai": 5,
-    "putus": 30,
+    "putus": 31,
     "crop": 16,
     "shopgift": 36,
     "give": 3,
@@ -4708,5 +4708,5 @@
     "..........": 1,
     "ba": 1
   },
-  "lastUpdated": 1774778905329
+  "lastUpdated": 1774778965341
 }
