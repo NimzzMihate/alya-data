@@ -3671,7 +3671,7 @@
     "pin": 109,
     "hd": 96,
     "useitem": 7,
-    "77605898313906": 108,
+    "77605898313906": 109,
     "huxin": 1,
     "usaha": 32,
     "memancing": 10,
@@ -4086,7 +4086,7 @@
     "buatanak": 11,
     "istiku": 1,
     "cerai": 8,
-    "putus": 63,
+    "putus": 65,
     "crop": 16,
     "shopgift": 36,
     "give": 3,
@@ -4719,5 +4719,5 @@
     "caturg4": 1,
     "xkill": 1
   },
-  "lastUpdated": 1774794588233
+  "lastUpdated": 1774794648235
 }
