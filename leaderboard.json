@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 299,
-      "exp": 717660,
+      "exp": 717731,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 299,
-      "exp": 717660,
+      "exp": 717731,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -151,12 +151,6 @@
       "level": 5,
       "exp": 12176,
       "saldo": 1.000000001e+28
-    },
-    {
-      "name": "Ujang Ronda",
-      "level": 1,
-      "exp": 2673,
-      "saldo": 1e+28
     },
     {
       "name": "NarennDurenn",
@@ -241,6 +235,12 @@
       "level": 30,
       "exp": 72133,
       "saldo": 480625437
+    },
+    {
+      "name": "xeno la nigger",
+      "level": 4,
+      "exp": 10446,
+      "saldo": 106134076
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "Putzz?",
       "level": 299,
-      "exp": 717660,
+      "exp": 717731,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774845842179
+  "lastUpdated": 1774845902175
 }
