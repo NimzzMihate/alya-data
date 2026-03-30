@@ -3673,7 +3673,7 @@
     "useitem": 7,
     "77605898313906": 114,
     "huxin": 1,
-    "usaha": 32,
+    "usaha": 33,
     "memancing": 10,
     "271481040834666": 59,
     "6285189358241": 105,
@@ -3787,7 +3787,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 130,
+    "saldo": 131,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3851,7 +3851,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 105,
+    "atmpull": 106,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 69,
+    "atmall": 70,
     "inv": 39,
     "healfull": 3,
     "mute": 2,
@@ -4736,5 +4736,5 @@
     "autosholat": 2,
     "ter": 1
   },
-  "lastUpdated": 1774840787096
+  "lastUpdated": 1774840847099
 }
