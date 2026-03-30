@@ -3973,7 +3973,7 @@
     "marshaandthebear": 1,
     "allmenu": 10,
     "gamemenu": 4,
-    "catur": 221,
+    "catur": 222,
     "mulai": 1,
     "e2": 2,
     "6285180841166": 1,
@@ -4651,7 +4651,7 @@
     "unbl": 1,
     "bangun": 1,
     "gidt": 1,
-    "chess": 93,
+    "chess": 94,
     "updateapi": 4,
     "buyayam": 1,
     "6283192352087": 8,
@@ -4741,7 +4741,8 @@
     "blush": 2,
     "afira": 1,
     "detail": 1,
-    "tomp3": 1
+    "tomp3": 1,
+    "oldyck": 1
   },
-  "lastUpdated": 1774847222201
+  "lastUpdated": 1774847282190
 }
