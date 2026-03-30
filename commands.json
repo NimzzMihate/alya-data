@@ -4671,7 +4671,7 @@
     "bgk": 1,
     "atmpull\n.atmtake": 1,
     "uno": 5,
-    "tictactoe": 42,
+    "tictactoe": 43,
     "gamesmemu": 1,
     "suitpvp": 15,
     "slor": 1,
@@ -4743,5 +4743,5 @@
     "detail": 1,
     "tomp3": 1
   },
-  "lastUpdated": 1774846202174
+  "lastUpdated": 1774846262173
 }
