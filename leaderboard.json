@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 326193,
+      "exp": 326239,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 299,
-      "exp": 719306,
+      "exp": 719337,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
-      "level": 73,
-      "exp": 177522,
+      "level": 74,
+      "exp": 177615,
       "saldo": 84304500
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 299,
-      "exp": 719306,
+      "exp": 719337,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 326193,
+      "exp": 326239,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -259,13 +259,13 @@
     {
       "name": "Putzz?",
       "level": 299,
-      "exp": 719306,
+      "exp": 719337,
       "saldo": 3.780000146628115e+51
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 326193,
+      "exp": 326239,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -282,8 +282,8 @@
     },
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
-      "level": 73,
-      "exp": 177522,
+      "level": 74,
+      "exp": 177615,
       "saldo": 84304500
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774849069155
+  "lastUpdated": 1774849129155
 }
