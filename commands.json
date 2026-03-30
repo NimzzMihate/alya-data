@@ -3846,7 +3846,7 @@
     "puji": 134,
     "pacar": 95,
     "carikarakter": 123,
-    "nembak": 60,
+    "nembak": 61,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4031,7 +4031,7 @@
     "cariin": 1,
     "harian": 1,
     "oke": 1,
-    "nikah": 45,
+    "nikah": 46,
     "stiker": 1,
     "6285766167323": 4,
     "delede": 1,
@@ -4085,8 +4085,8 @@
     "karakter": 1,
     "buatanak": 11,
     "istiku": 1,
-    "cerai": 11,
-    "putus": 82,
+    "cerai": 12,
+    "putus": 83,
     "crop": 16,
     "shopgift": 36,
     "give": 3,
@@ -4444,7 +4444,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 13,
+    "detailkarakter": 14,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 1,
@@ -4745,5 +4745,5 @@
     "oldyck": 1,
     "peler": 1
   },
-  "lastUpdated": 1774848049161
+  "lastUpdated": 1774848109155
 }
