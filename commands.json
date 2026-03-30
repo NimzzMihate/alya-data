@@ -3844,9 +3844,9 @@
     "pabrik": 1,
     "fitnah": 50,
     "puji": 134,
-    "pacar": 94,
-    "carikarakter": 122,
-    "nembak": 58,
+    "pacar": 95,
+    "carikarakter": 123,
+    "nembak": 59,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4444,7 +4444,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 8,
+    "detailkarakter": 9,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 1,
@@ -4737,5 +4737,5 @@
     "ter": 1,
     "33281768689865": 1
   },
-  "lastUpdated": 1774841687103
+  "lastUpdated": 1774841747101
 }
