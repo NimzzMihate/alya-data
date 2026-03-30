@@ -3778,7 +3778,7 @@
     "verify": 18,
     "daftr": 10,
     "status": 11,
-    "pap": 317,
+    "pap": 318,
     "tebakbendera": 15,
     "tebak": 1,
     "gantinama": 1,
@@ -4092,7 +4092,7 @@
     "give": 3,
     "asep": 1,
     "pasangan": 4,
-    "setpppacar": 16,
+    "setpppacar": 17,
     "dompet": 2,
     "istri": 4,
     "lamar": 11,
@@ -4754,5 +4754,5 @@
     "my": 1,
     "bl": 1
   },
-  "lastUpdated": 1774850299090
+  "lastUpdated": 1774850359091
 }
