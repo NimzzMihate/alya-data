@@ -4086,7 +4086,7 @@
     "buatanak": 11,
     "istiku": 1,
     "cerai": 11,
-    "putus": 80,
+    "putus": 81,
     "crop": 16,
     "shopgift": 36,
     "give": 3,
@@ -4671,7 +4671,7 @@
     "bgk": 1,
     "atmpull\n.atmtake": 1,
     "uno": 5,
-    "tictactoe": 32,
+    "tictactoe": 33,
     "gamesmemu": 1,
     "suitpvp": 15,
     "slor": 1,
@@ -4742,5 +4742,5 @@
     "afira": 1,
     "detail": 1
   },
-  "lastUpdated": 1774845122170
+  "lastUpdated": 1774845182171
 }
