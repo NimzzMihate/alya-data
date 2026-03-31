@@ -3852,7 +3852,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 114,
+    "atmpull": 116,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4779,7 +4779,8 @@
     ".....": 1,
     "batllepet": 2,
     "plaupet": 1,
-    "pao": 1
+    "pao": 1,
+    "atpull": 1
   },
-  "lastUpdated": 1774965486472
+  "lastUpdated": 1774965546471
 }
