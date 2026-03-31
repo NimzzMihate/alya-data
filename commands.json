@@ -3659,7 +3659,7 @@
     "heal": 72,
     "menu": 110,
     "owner": 11,
-    "script": 8,
+    "script": 9,
     "joinrpg": 30,
     "mentahan": 1,
     "claim": 30,
@@ -4777,5 +4777,5 @@
     "eus": 2,
     "pp": 1
   },
-  "lastUpdated": 1774961269839
+  "lastUpdated": 1774961329840
 }
