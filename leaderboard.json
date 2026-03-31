@@ -105,8 +105,8 @@
     {
       "name": "rey",
       "level": 13,
-      "exp": 33132,
-      "saldo": 0
+      "exp": 33327,
+      "saldo": 8409375639
     },
     {
       "name": "Yogie ganteng",
@@ -237,10 +237,10 @@
       "saldo": 81084237669526
     },
     {
-      "name": "Souta",
-      "level": 30,
-      "exp": 72133,
-      "saldo": 480625437
+      "name": "rey",
+      "level": 13,
+      "exp": 33327,
+      "saldo": 8409375639
     }
   ],
   "exp": [
@@ -349,8 +349,8 @@
     {
       "name": "rey",
       "level": 13,
-      "exp": 33132,
-      "saldo": 0
+      "exp": 33327,
+      "saldo": 8409375639
     },
     {
       "name": "Yogie ganteng",
@@ -365,5 +365,5 @@
       "saldo": 700
     }
   ],
-  "lastUpdated": 1774968941297
+  "lastUpdated": 1774969001308
 }
