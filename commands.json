@@ -4189,7 +4189,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 80,
+    "atmall": 81,
     "inv": 39,
     "healfull": 3,
     "mute": 3,
@@ -4795,5 +4795,5 @@
     "shp": 1,
     "atm9999": 1
   },
-  "lastUpdated": 1774968881296
+  "lastUpdated": 1774968941297
 }
