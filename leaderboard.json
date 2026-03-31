@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 300,
-      "exp": 722094,
+      "exp": 722135,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 77,
-      "exp": 187064,
+      "exp": 187127,
       "saldo": 84322692
     },
     {
@@ -69,7 +69,7 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 67929,
+      "exp": 67991,
       "saldo": 0
     },
     {
@@ -87,13 +87,13 @@
     {
       "name": "murazaki",
       "level": 18,
-      "exp": 43376,
+      "exp": 43442,
       "saldo": 13029999996968944
     },
     {
       "name": "Kayy",
-      "level": 17,
-      "exp": 43119,
+      "level": 18,
+      "exp": 43325,
       "saldo": 0
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 300,
-      "exp": 722094,
+      "exp": 722135,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -185,7 +185,7 @@
     {
       "name": "murazaki",
       "level": 18,
-      "exp": 43376,
+      "exp": 43442,
       "saldo": 13029999996968944
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Putzz?",
       "level": 300,
-      "exp": 722094,
+      "exp": 722135,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 77,
-      "exp": 187064,
+      "exp": 187127,
       "saldo": 84322692
     },
     {
@@ -313,7 +313,7 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 67929,
+      "exp": 67991,
       "saldo": 0
     },
     {
@@ -331,13 +331,13 @@
     {
       "name": "murazaki",
       "level": 18,
-      "exp": 43376,
+      "exp": 43442,
       "saldo": 13029999996968944
     },
     {
       "name": "Kayy",
-      "level": 17,
-      "exp": 43119,
+      "level": 18,
+      "exp": 43325,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774943568038
+  "lastUpdated": 1774943628042
 }
