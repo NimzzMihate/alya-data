@@ -3812,7 +3812,7 @@
     "q": 3,
     "255336476880929": 12,
     "lebaran": 3,
-    "80290588442827": 56,
+    "80290588442827": 57,
     "hdvid": 4,
     "kalo": 1,
     "antivirtex": 2,
@@ -4188,7 +4188,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 77,
+    "atmall": 78,
     "inv": 39,
     "healfull": 3,
     "mute": 3,
@@ -4772,7 +4772,8 @@
     "bangc": 1,
     "unbangc": 1,
     "setsewa": 1,
-    "musuh": 1
+    "musuh": 1,
+    "eus": 2
   },
-  "lastUpdated": 1774958089821
+  "lastUpdated": 1774958149821
 }
