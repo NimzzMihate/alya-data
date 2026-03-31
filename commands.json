@@ -3833,7 +3833,7 @@
     "6283152469722": 4,
     "6285649132023": 85,
     "oldyk": 2,
-    "no": 2,
+    "no": 3,
     "edit": 5,
     "6289516231559": 8,
     "tiktoksearch": 18,
@@ -3845,7 +3845,7 @@
     "fitnah": 50,
     "puji": 141,
     "pacar": 103,
-    "carikarakter": 126,
+    "carikarakter": 127,
     "nembak": 63,
     "cry": 7,
     "happy": 4,
@@ -4756,7 +4756,9 @@
     "gw": 1,
     "selamat": 1,
     "waifu": 1,
-    "resetewepaksa": 1
+    "resetewepaksa": 1,
+    "ceknomor": 1,
+    "getnomor": 2
   },
-  "lastUpdated": 1774943688036
+  "lastUpdated": 1774943748045
 }
