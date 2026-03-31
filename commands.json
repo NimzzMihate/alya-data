@@ -3654,7 +3654,7 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 48,
+    "wikwik": 49,
     "heal": 72,
     "menu": 109,
     "owner": 11,
@@ -4771,7 +4771,8 @@
     "ban": 1,
     "bangc": 1,
     "unbangc": 1,
-    "setsewa": 1
+    "setsewa": 1,
+    "musuh": 1
   },
-  "lastUpdated": 1774956643160
+  "lastUpdated": 1774956703157
 }
