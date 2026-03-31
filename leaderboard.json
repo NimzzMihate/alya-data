@@ -39,7 +39,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 78,
-      "exp": 188650,
+      "exp": 188945,
       "saldo": 12000000
     },
     {
@@ -69,7 +69,7 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 68836,
+      "exp": 68922,
       "saldo": 0
     },
     {
@@ -277,7 +277,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 78,
-      "exp": 188650,
+      "exp": 188945,
       "saldo": 12000000
     },
     {
@@ -313,7 +313,7 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 68836,
+      "exp": 68922,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774952625995
+  "lastUpdated": 1774952717766
 }
