@@ -116,8 +116,8 @@
     },
     {
       "name": "Sanz",
-      "level": 11,
-      "exp": 28730,
+      "level": 12,
+      "exp": 28891,
       "saldo": 0
     }
   ],
@@ -360,10 +360,10 @@
     },
     {
       "name": "Sanz",
-      "level": 11,
-      "exp": 28730,
+      "level": 12,
+      "exp": 28891,
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774952145932
+  "lastUpdated": 1774952205932
 }
