@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 326426,
+      "exp": 326499,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -69,7 +69,7 @@
     {
       "name": "*KUROSE*",
       "level": 27,
-      "exp": 67058,
+      "exp": 67095,
       "saldo": 0
     },
     {
@@ -99,8 +99,8 @@
     {
       "name": "murazaki",
       "level": 14,
-      "exp": 35119,
-      "saldo": 13029999996965784
+      "exp": 42507,
+      "saldo": 13029999996968944
     },
     {
       "name": "Yogie ganteng",
@@ -137,7 +137,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 326426,
+      "exp": 326499,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -185,8 +185,8 @@
     {
       "name": "murazaki",
       "level": 14,
-      "exp": 35119,
-      "saldo": 13029999996965784
+      "exp": 42507,
+      "saldo": 13029999996968944
     },
     {
       "name": "Sanzx",
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 326426,
+      "exp": 326499,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -313,7 +313,7 @@
     {
       "name": "*KUROSE*",
       "level": 27,
-      "exp": 67058,
+      "exp": 67095,
       "saldo": 0
     },
     {
@@ -335,16 +335,16 @@
       "saldo": 0
     },
     {
+      "name": "murazaki",
+      "level": 14,
+      "exp": 42507,
+      "saldo": 13029999996968944
+    },
+    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
       "saldo": 252183670087847
-    },
-    {
-      "name": "murazaki",
-      "level": 14,
-      "exp": 35119,
-      "saldo": 13029999996965784
     },
     {
       "name": "Yogie ganteng",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774942711322
+  "lastUpdated": 1774942771334
 }
