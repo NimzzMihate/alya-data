@@ -3662,7 +3662,7 @@
     "joinrpg": 30,
     "mentahan": 1,
     "claim": 30,
-    "cekidch": 4,
+    "cekidch": 5,
     "tourl": 34,
     "title": 1,
     "6281393286345": 100,
@@ -3844,7 +3844,7 @@
     "pabrik": 1,
     "fitnah": 50,
     "puji": 141,
-    "pacar": 104,
+    "pacar": 105,
     "carikarakter": 132,
     "nembak": 67,
     "cry": 7,
@@ -4092,7 +4092,7 @@
     "give": 3,
     "asep": 1,
     "pasangan": 4,
-    "setpppacar": 18,
+    "setpppacar": 19,
     "dompet": 2,
     "istri": 4,
     "lamar": 11,
@@ -4761,5 +4761,5 @@
     "getnomor": 4,
     "mr": 1
   },
-  "lastUpdated": 1774944427839
+  "lastUpdated": 1774944487840
 }
