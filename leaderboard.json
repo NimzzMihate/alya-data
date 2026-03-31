@@ -45,7 +45,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 77,
-      "exp": 186819,
+      "exp": 186891,
       "saldo": 84322692
     },
     {
@@ -69,7 +69,7 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 67307,
+      "exp": 67345,
       "saldo": 0
     },
     {
@@ -87,14 +87,14 @@
     {
       "name": "murazaki",
       "level": 17,
-      "exp": 42838,
+      "exp": 42992,
       "saldo": 13029999996968944
     },
     {
       "name": "Kayy",
       "level": 17,
-      "exp": 42717,
-      "saldo": 0
+      "exp": 42881,
+      "saldo": 1.000014999903779e+23
     },
     {
       "name": "danz",
@@ -153,6 +153,12 @@
       "saldo": 1.000000001e+28
     },
     {
+      "name": "Kayy",
+      "level": 17,
+      "exp": 42881,
+      "saldo": 1.000014999903779e+23
+    },
+    {
       "name": "NarennDurenn",
       "level": 3,
       "exp": 7241,
@@ -185,7 +191,7 @@
     {
       "name": "murazaki",
       "level": 17,
-      "exp": 42838,
+      "exp": 42992,
       "saldo": 13029999996968944
     },
     {
@@ -235,12 +241,6 @@
       "level": 30,
       "exp": 72133,
       "saldo": 480625437
-    },
-    {
-      "name": "xeno la nigger",
-      "level": 4,
-      "exp": 10446,
-      "saldo": 106134076
     }
   ],
   "exp": [
@@ -283,7 +283,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 77,
-      "exp": 186819,
+      "exp": 186891,
       "saldo": 84322692
     },
     {
@@ -313,7 +313,7 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 67307,
+      "exp": 67345,
       "saldo": 0
     },
     {
@@ -331,14 +331,14 @@
     {
       "name": "murazaki",
       "level": 17,
-      "exp": 42838,
+      "exp": 42992,
       "saldo": 13029999996968944
     },
     {
       "name": "Kayy",
       "level": 17,
-      "exp": 42717,
-      "saldo": 0
+      "exp": 42881,
+      "saldo": 1.000014999903779e+23
     },
     {
       "name": "danz",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774943268036
+  "lastUpdated": 1774943328035
 }
