@@ -45,7 +45,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 78,
-      "exp": 187471,
+      "exp": 187627,
       "saldo": 84322692
     },
     {
@@ -69,8 +69,8 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 68233,
-      "saldo": 999820000000001700000
+      "exp": 68335,
+      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -93,7 +93,7 @@
     {
       "name": "Kayy",
       "level": 18,
-      "exp": 43387,
+      "exp": 43501,
       "saldo": 0
     },
     {
@@ -171,12 +171,6 @@
       "saldo": 6.673568075175604e+21
     },
     {
-      "name": "*KUROSE*",
-      "level": 28,
-      "exp": 68233,
-      "saldo": 999820000000001700000
-    },
-    {
       "name": "Lejen",
       "level": 40,
       "exp": 97563,
@@ -187,6 +181,12 @@
       "level": 2,
       "exp": 6867,
       "saldo": 100188033119128020
+    },
+    {
+      "name": "Player-1118802",
+      "level": 4,
+      "exp": 11155,
+      "saldo": 100000000000067400
     },
     {
       "name": "murazaki",
@@ -283,7 +283,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 78,
-      "exp": 187471,
+      "exp": 187627,
       "saldo": 84322692
     },
     {
@@ -313,8 +313,8 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 68233,
-      "saldo": 999820000000001700000
+      "exp": 68335,
+      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -337,7 +337,7 @@
     {
       "name": "Kayy",
       "level": 18,
-      "exp": 43387,
+      "exp": 43501,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774943808051
+  "lastUpdated": 1774943887838
 }
