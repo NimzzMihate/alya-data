@@ -3670,7 +3670,7 @@
     ">": 5,
     "addapi": 2,
     "pin": 122,
-    "hd": 109,
+    "hd": 110,
     "useitem": 7,
     "77605898313906": 124,
     "huxin": 1,
@@ -3788,7 +3788,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 149,
+    "saldo": 150,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3930,7 +3930,7 @@
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
-    "dagang": 25,
+    "dagang": 30,
     "gccanvas": 2,
     "totalchat": 1,
     "145161355005957": 8,
@@ -4763,7 +4763,7 @@
     "mr": 1,
     "nai": 1,
     "stok": 1,
-    ".": 1,
+    ".": 2,
     "atmal": 1,
     "batal": 1,
     "sf": 1,
@@ -4781,5 +4781,5 @@
     "plaupet": 1,
     "pao": 1
   },
-  "lastUpdated": 1774965306470
+  "lastUpdated": 1774965366470
 }
