@@ -3844,14 +3844,14 @@
     "pabrik": 1,
     "fitnah": 50,
     "puji": 141,
-    "pacar": 106,
+    "pacar": 107,
     "carikarakter": 132,
     "nembak": 67,
     "cry": 7,
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 109,
+    "atmpull": 110,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4086,7 +4086,7 @@
     "buatanak": 11,
     "istiku": 1,
     "cerai": 12,
-    "putus": 83,
+    "putus": 85,
     "crop": 19,
     "shopgift": 36,
     "give": 3,
@@ -4761,5 +4761,5 @@
     "getnomor": 4,
     "mr": 1
   },
-  "lastUpdated": 1774947754039
+  "lastUpdated": 1774947814041
 }
