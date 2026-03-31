@@ -155,8 +155,8 @@
     {
       "name": "NarennDurenn",
       "level": 3,
-      "exp": 7303,
-      "saldo": 1.0000101002007896e+23
+      "exp": 7396,
+      "saldo": 1.0000101001507897e+23
     },
     {
       "name": "Ditz ketoprak",
@@ -365,5 +365,5 @@
       "saldo": 700
     }
   ],
-  "lastUpdated": 1774971341332
+  "lastUpdated": 1774971401324
 }
