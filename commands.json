@@ -3672,7 +3672,7 @@
     "pin": 123,
     "hd": 110,
     "useitem": 7,
-    "77605898313906": 124,
+    "77605898313906": 125,
     "huxin": 1,
     "usaha": 37,
     "memancing": 10,
@@ -3710,7 +3710,7 @@
     "makan": 9,
     "repair": 1,
     "kapal": 5,
-    "craft": 190,
+    "craft": 192,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3788,7 +3788,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 157,
+    "saldo": 159,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3994,7 +3994,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 63,
-    "jual": 26,
+    "jual": 27,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4789,7 +4789,8 @@
     "flatten": 1,
     "pppacar": 1,
     "audio2txt": 1,
-    "salfo": 2
+    "salfo": 2,
+    "jula": 1
   },
-  "lastUpdated": 1774966877390
+  "lastUpdated": 1774966937391
 }
