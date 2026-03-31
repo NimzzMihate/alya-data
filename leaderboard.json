@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 327798,
+      "exp": 327867,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -105,8 +105,8 @@
     {
       "name": "rey",
       "level": 13,
-      "exp": 31436,
-      "saldo": 1692395639
+      "exp": 31658,
+      "saldo": 1487416139
     },
     {
       "name": "Yogie ganteng",
@@ -137,7 +137,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 327798,
+      "exp": 327867,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -239,8 +239,8 @@
     {
       "name": "rey",
       "level": 13,
-      "exp": 31436,
-      "saldo": 1692395639
+      "exp": 31658,
+      "saldo": 1487416139
     }
   ],
   "exp": [
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 327798,
+      "exp": 327867,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -349,8 +349,8 @@
     {
       "name": "rey",
       "level": 13,
-      "exp": 31436,
-      "saldo": 1692395639
+      "exp": 31658,
+      "saldo": 1487416139
     },
     {
       "name": "Yogie ganteng",
@@ -365,5 +365,5 @@
       "saldo": 700
     }
   ],
-  "lastUpdated": 1774968200779
+  "lastUpdated": 1774968260779
 }
