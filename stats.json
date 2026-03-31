@@ -3,8 +3,8 @@
   "totalUsers": 1053,
   "totalGroups": 37,
   "totalFeatures": 3614,
-  "totalCmd": 14159,
-  "totalChat": 14159,
+  "totalCmd": 14163,
+  "totalChat": 14163,
   "topCommands": [
     {
       "cmd": "buy",
@@ -23,12 +23,12 @@
       "count": 364
     },
     {
-      "cmd": "forward",
+      "cmd": "pap",
       "count": 349
     },
     {
-      "cmd": "pap",
-      "count": 348
+      "cmd": "forward",
+      "count": 349
     },
     {
       "cmd": "gift",
@@ -39,16 +39,16 @@
       "count": 225
     },
     {
-      "cmd": "tes",
-      "count": 220
+      "cmd": "tf",
+      "count": 222
     },
     {
-      "cmd": "tf",
+      "cmd": "tes",
       "count": 220
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 60,
-  "lastUpdated": 1774964706454
+  "uptimeSeconds": 120,
+  "lastUpdated": 1774964766458
 }
