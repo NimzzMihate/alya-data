@@ -3801,7 +3801,7 @@
     "updatealya": 21,
     "kencan": 96,
     "kasihsusu": 41,
-    "wm": 51,
+    "wm": 52,
     "absen": 3,
     "mulaiabsen": 3,
     "6283848672013": 20,
@@ -4651,7 +4651,7 @@
     "unbl": 1,
     "bangun": 1,
     "gidt": 1,
-    "chess": 97,
+    "chess": 100,
     "updateapi": 4,
     "buyayam": 1,
     "6283192352087": 8,
@@ -4761,5 +4761,5 @@
     "getnomor": 4,
     "mr": 1
   },
-  "lastUpdated": 1774947067845
+  "lastUpdated": 1774947127856
 }
