@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 301,
-      "exp": 722429,
+      "exp": 722493,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 78,
-      "exp": 187273,
+      "exp": 187471,
       "saldo": 84322692
     },
     {
@@ -69,8 +69,8 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 68059,
-      "saldo": 0
+      "exp": 68233,
+      "saldo": 999820000000001700000
     },
     {
       "name": "Oguri cap",
@@ -87,13 +87,13 @@
     {
       "name": "murazaki",
       "level": 18,
-      "exp": 43510,
+      "exp": 43598,
       "saldo": 13029999996968944
     },
     {
       "name": "Kayy",
       "level": 18,
-      "exp": 43357,
+      "exp": 43387,
       "saldo": 0
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 301,
-      "exp": 722429,
+      "exp": 722493,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -171,6 +171,12 @@
       "saldo": 6.673568075175604e+21
     },
     {
+      "name": "*KUROSE*",
+      "level": 28,
+      "exp": 68233,
+      "saldo": 999820000000001700000
+    },
+    {
       "name": "Lejen",
       "level": 40,
       "exp": 97563,
@@ -185,7 +191,7 @@
     {
       "name": "murazaki",
       "level": 18,
-      "exp": 43510,
+      "exp": 43598,
       "saldo": 13029999996968944
     },
     {
@@ -235,12 +241,6 @@
       "level": 30,
       "exp": 72133,
       "saldo": 480625437
-    },
-    {
-      "name": "xeno la nigger",
-      "level": 4,
-      "exp": 10446,
-      "saldo": 106134076
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "Putzz?",
       "level": 301,
-      "exp": 722429,
+      "exp": 722493,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 78,
-      "exp": 187273,
+      "exp": 187471,
       "saldo": 84322692
     },
     {
@@ -313,8 +313,8 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 68059,
-      "saldo": 0
+      "exp": 68233,
+      "saldo": 999820000000001700000
     },
     {
       "name": "Oguri cap",
@@ -331,13 +331,13 @@
     {
       "name": "murazaki",
       "level": 18,
-      "exp": 43510,
+      "exp": 43598,
       "saldo": 13029999996968944
     },
     {
       "name": "Kayy",
       "level": 18,
-      "exp": 43357,
+      "exp": 43387,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774943748045
+  "lastUpdated": 1774943808051
 }
