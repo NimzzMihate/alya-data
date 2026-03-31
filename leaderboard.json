@@ -69,8 +69,8 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 68545,
-      "saldo": 0
+      "exp": 68625,
+      "saldo": 53000
     },
     {
       "name": "Oguri cap",
@@ -313,8 +313,8 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 68545,
-      "saldo": 0
+      "exp": 68625,
+      "saldo": 53000
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774951965930
+  "lastUpdated": 1774952025930
 }
