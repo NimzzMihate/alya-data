@@ -3852,7 +3852,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 111,
+    "atmpull": 112,
     "promote": 4,
     "reset": 2,
     "memasak": 1,
@@ -4777,5 +4777,5 @@
     "eus": 2,
     "pp": 1
   },
-  "lastUpdated": 1774959109828
+  "lastUpdated": 1774959169827
 }
