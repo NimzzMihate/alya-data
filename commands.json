@@ -3710,7 +3710,7 @@
     "makan": 9,
     "repair": 1,
     "kapal": 5,
-    "craft": 211,
+    "craft": 213,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3763,7 +3763,7 @@
     "buyitem": 1,
     "play": 111,
     "ytmp3": 97,
-    "152609298108555": 42,
+    "152609298108555": 43,
     "35588770111681": 1,
     "intro": 38,
     "up": 1,
@@ -3788,7 +3788,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 167,
+    "saldo": 168,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -3994,7 +3994,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 64,
-    "jual": 34,
+    "jual": 35,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4792,5 +4792,5 @@
     "salfo": 3,
     "jula": 2
   },
-  "lastUpdated": 1774967600783
+  "lastUpdated": 1774967660777
 }
