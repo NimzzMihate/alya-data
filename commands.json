@@ -3801,7 +3801,7 @@
     "updatealya": 21,
     "kencan": 97,
     "kasihsusu": 41,
-    "wm": 58,
+    "wm": 60,
     "absen": 3,
     "mulaiabsen": 3,
     "6283848672013": 20,
@@ -3929,7 +3929,7 @@
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
-    "dagang": 17,
+    "dagang": 21,
     "gccanvas": 2,
     "totalchat": 1,
     "145161355005957": 8,
@@ -3949,7 +3949,7 @@
     "fk": 1,
     "38796926128361": 2,
     "narik": 3,
-    "toimg": 27,
+    "toimg": 28,
     "runtime": 3,
     "ephotomenu": 1,
     "6283839942035": 3,
@@ -4764,5 +4764,5 @@
     "stok": 1,
     ".": 1
   },
-  "lastUpdated": 1774952085932
+  "lastUpdated": 1774952145932
 }
