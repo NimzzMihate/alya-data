@@ -3656,7 +3656,7 @@
     "61405583679507": 1,
     "wikwik": 48,
     "heal": 72,
-    "menu": 108,
+    "menu": 109,
     "owner": 11,
     "script": 8,
     "joinrpg": 30,
@@ -4769,5 +4769,5 @@
     "listplugin": 1,
     "onlygc": 1
   },
-  "lastUpdated": 1774954603147
+  "lastUpdated": 1774954663142
 }
