@@ -3657,7 +3657,7 @@
     "61405583679507": 1,
     "wikwik": 49,
     "heal": 72,
-    "menu": 115,
+    "menu": 116,
     "owner": 11,
     "script": 9,
     "joinrpg": 30,
@@ -3706,11 +3706,11 @@
     "265944542793975": 1,
     "berburu": 19,
     "masak": 11,
-    "rpgmenu": 12,
+    "rpgmenu": 13,
     "makan": 9,
     "repair": 1,
     "kapal": 5,
-    "craft": 186,
+    "craft": 187,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3930,7 +3930,7 @@
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
-    "dagang": 30,
+    "dagang": 32,
     "gccanvas": 2,
     "totalchat": 1,
     "145161355005957": 8,
@@ -4334,7 +4334,7 @@
     "bass": 2,
     "earrape": 1,
     "nahida": 30,
-    "pasanganmenu": 10,
+    "pasanganmenu": 11,
     "menupasangan": 1,
     "katjiwa": 3,
     "ler": 1,
@@ -4787,7 +4787,8 @@
     "pinzhuxin": 1,
     "toori": 2,
     "flatten": 1,
-    "pppacar": 1
+    "pppacar": 1,
+    "audio2txt": 1
   },
-  "lastUpdated": 1774966637388
+  "lastUpdated": 1774966697387
 }
