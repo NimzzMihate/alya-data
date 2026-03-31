@@ -3634,7 +3634,7 @@
     "rampok2": 370,
     "6285609504925": 15,
     "atm": 111,
-    "bank": 64,
+    "bank": 66,
     "afk": 373,
     "kerja": 46,
     "628176533297": 14,
@@ -3787,7 +3787,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 135,
+    "saldo": 136,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4100,7 +4100,7 @@
     "maaf": 4,
     "sg": 61,
     "shop": 10,
-    "168238516305969": 18,
+    "168238516305969": 19,
     "atmtake": 19,
     "giftshop": 1,
     "kasihnamaanak": 7,
@@ -4756,5 +4756,5 @@
     "gw": 1,
     "selamat": 1
   },
-  "lastUpdated": 1774942531335
+  "lastUpdated": 1774942591315
 }
