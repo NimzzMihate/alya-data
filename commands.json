@@ -3844,7 +3844,7 @@
     "pabrik": 1,
     "fitnah": 50,
     "puji": 141,
-    "pacar": 107,
+    "pacar": 108,
     "carikarakter": 133,
     "nembak": 67,
     "cry": 7,
@@ -4137,7 +4137,7 @@
     "cek": 16,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 39,
+    "bailout": 40,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4762,5 +4762,5 @@
     "mr": 1,
     "nai": 1
   },
-  "lastUpdated": 1774951485929
+  "lastUpdated": 1774951545923
 }
