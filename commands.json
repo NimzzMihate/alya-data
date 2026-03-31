@@ -3710,7 +3710,7 @@
     "makan": 9,
     "repair": 1,
     "kapal": 5,
-    "craft": 206,
+    "craft": 209,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3788,7 +3788,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 166,
+    "saldo": 167,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4452,7 +4452,7 @@
     "wajib": 1,
     ".pacar": 1,
     "cium.cium": 1,
-    "bisnis": 10,
+    "bisnis": 11,
     "merampok": 1,
     "yampah": 1,
     "rampo²": 1,
@@ -4792,5 +4792,5 @@
     "salfo": 3,
     "jula": 2
   },
-  "lastUpdated": 1774967480777
+  "lastUpdated": 1774967540783
 }
