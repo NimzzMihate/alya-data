@@ -3656,7 +3656,7 @@
     "61405583679507": 1,
     "wikwik": 48,
     "heal": 72,
-    "menu": 105,
+    "menu": 106,
     "owner": 11,
     "script": 8,
     "joinrpg": 30,
@@ -3929,7 +3929,7 @@
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
-    "dagang": 16,
+    "dagang": 17,
     "gccanvas": 2,
     "totalchat": 1,
     "145161355005957": 8,
@@ -4764,5 +4764,5 @@
     "stok": 1,
     ".": 1
   },
-  "lastUpdated": 1774952025930
+  "lastUpdated": 1774952085932
 }
