@@ -3710,7 +3710,7 @@
     "makan": 9,
     "repair": 1,
     "kapal": 5,
-    "craft": 188,
+    "craft": 189,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3994,7 +3994,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 63,
-    "jual": 24,
+    "jual": 25,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4452,7 +4452,7 @@
     "wajib": 1,
     ".pacar": 1,
     "cium.cium": 1,
-    "bisnis": 9,
+    "bisnis": 10,
     "merampok": 1,
     "yampah": 1,
     "rampo²": 1,
@@ -4790,5 +4790,5 @@
     "pppacar": 1,
     "audio2txt": 1
   },
-  "lastUpdated": 1774966757387
+  "lastUpdated": 1774966817389
 }
