@@ -3676,7 +3676,7 @@
     "usaha": 36,
     "memancing": 10,
     "271481040834666": 60,
-    "6285189358241": 112,
+    "6285189358241": 113,
     "huxinn😡😡": 1,
     "gift": 266,
     "ajakmain": 62,
@@ -3787,7 +3787,7 @@
     "buildml": 12,
     "izin": 1,
     "build": 1,
-    "saldo": 145,
+    "saldo": 146,
     "demote": 4,
     "sendgc": 2,
     "kirimke": 1,
@@ -4375,7 +4375,7 @@
     "invpd": 1,
     "628895327267": 3,
     "ceklimit": 8,
-    "ceksaldo": 16,
+    "ceksaldo": 19,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -4762,7 +4762,9 @@
     "mr": 1,
     "nai": 1,
     "stok": 1,
-    ".": 1
+    ".": 1,
+    "atmal": 1,
+    "batal": 1
   },
-  "lastUpdated": 1774952445995
+  "lastUpdated": 1774952505995
 }
