@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 301,
-      "exp": 724150,
+      "exp": 724220,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -39,7 +39,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 78,
-      "exp": 188945,
+      "exp": 189021,
       "saldo": 12000000
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 301,
-      "exp": 724150,
+      "exp": 724220,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Putzz?",
       "level": 301,
-      "exp": 724150,
+      "exp": 724220,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -277,7 +277,7 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 78,
-      "exp": 188945,
+      "exp": 189021,
       "saldo": 12000000
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774952957789
+  "lastUpdated": 1774953017789
 }
