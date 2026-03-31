@@ -3657,7 +3657,7 @@
     "61405583679507": 1,
     "wikwik": 49,
     "heal": 72,
-    "menu": 116,
+    "menu": 117,
     "owner": 11,
     "script": 9,
     "joinrpg": 31,
@@ -4100,7 +4100,7 @@
     "beli": 6,
     "maaf": 5,
     "sg": 69,
-    "shop": 14,
+    "shop": 16,
     "168238516305969": 19,
     "atmtake": 19,
     "giftshop": 1,
@@ -4791,7 +4791,8 @@
     "audio2txt": 1,
     "salfo": 3,
     "jula": 2,
-    "panda": 1
+    "panda": 1,
+    "shp": 1
   },
-  "lastUpdated": 1774968740794
+  "lastUpdated": 1774968821288
 }
