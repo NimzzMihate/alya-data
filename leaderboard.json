@@ -45,8 +45,8 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 78,
-      "exp": 187627,
-      "saldo": 84322692
+      "exp": 187733,
+      "saldo": 0
     },
     {
       "name": "Zxiox",
@@ -87,7 +87,7 @@
     {
       "name": "murazaki",
       "level": 18,
-      "exp": 43598,
+      "exp": 43638,
       "saldo": 13029999996968944
     },
     {
@@ -147,12 +147,6 @@
       "saldo": 2.0180019841533005e+33
     },
     {
-      "name": "Ujang Ronda",
-      "level": 1,
-      "exp": 3736,
-      "saldo": 1e+30
-    },
-    {
       "name": "naa",
       "level": 5,
       "exp": 12176,
@@ -197,7 +191,7 @@
     {
       "name": "murazaki",
       "level": 18,
-      "exp": 43598,
+      "exp": 43638,
       "saldo": 13029999996968944
     },
     {
@@ -241,6 +235,12 @@
       "level": 24,
       "exp": 57867,
       "saldo": 81084237669526
+    },
+    {
+      "name": "Souta",
+      "level": 30,
+      "exp": 72133,
+      "saldo": 480625437
     }
   ],
   "exp": [
@@ -283,8 +283,8 @@
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 78,
-      "exp": 187627,
-      "saldo": 84322692
+      "exp": 187733,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -331,7 +331,7 @@
     {
       "name": "murazaki",
       "level": 18,
-      "exp": 43598,
+      "exp": 43638,
       "saldo": 13029999996968944
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774943947838
+  "lastUpdated": 1774944007841
 }
