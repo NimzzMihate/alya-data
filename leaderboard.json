@@ -44,8 +44,8 @@
     },
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
-      "level": 74,
-      "exp": 186172,
+      "level": 77,
+      "exp": 186376,
       "saldo": 84322692
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "name": "*KUROSE*",
-      "level": 27,
-      "exp": 67148,
+      "level": 28,
+      "exp": 67246,
       "saldo": 0
     },
     {
@@ -91,16 +91,16 @@
       "saldo": 0
     },
     {
+      "name": "murazaki",
+      "level": 17,
+      "exp": 42624,
+      "saldo": 13029999996968944
+    },
+    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
       "saldo": 252183670087847
-    },
-    {
-      "name": "murazaki",
-      "level": 14,
-      "exp": 42507,
-      "saldo": 13029999996968944
     },
     {
       "name": "Yogie ganteng",
@@ -184,8 +184,8 @@
     },
     {
       "name": "murazaki",
-      "level": 14,
-      "exp": 42507,
+      "level": 17,
+      "exp": 42624,
       "saldo": 13029999996968944
     },
     {
@@ -282,8 +282,8 @@
     },
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
-      "level": 74,
-      "exp": 186172,
+      "level": 77,
+      "exp": 186376,
       "saldo": 84322692
     },
     {
@@ -312,8 +312,8 @@
     },
     {
       "name": "*KUROSE*",
-      "level": 27,
-      "exp": 67148,
+      "level": 28,
+      "exp": 67246,
       "saldo": 0
     },
     {
@@ -336,8 +336,8 @@
     },
     {
       "name": "murazaki",
-      "level": 14,
-      "exp": 42507,
+      "level": 17,
+      "exp": 42624,
       "saldo": 13029999996968944
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1774942848035
+  "lastUpdated": 1774942908033
 }
