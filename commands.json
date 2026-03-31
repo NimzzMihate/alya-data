@@ -3636,7 +3636,7 @@
     "6285609504925": 15,
     "atm": 113,
     "bank": 67,
-    "afk": 380,
+    "afk": 381,
     "kerja": 49,
     "628176533297": 14,
     "s": 157,
@@ -3779,7 +3779,7 @@
     "verify": 18,
     "daftr": 11,
     "status": 11,
-    "pap": 341,
+    "pap": 344,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -3989,7 +3989,7 @@
     "47039270359040": 3,
     "autosahur": 1,
     "6285855009121": 4,
-    "listcap": 14,
+    "listcap": 15,
     "aiart": 1,
     "f": 3,
     "heal.": 1,
@@ -4126,7 +4126,7 @@
     "bego": 5,
     "haram": 1,
     "6282327857595": 16,
-    "roast": 45,
+    "roast": 46,
     "rampokin": 11,
     "nikahpaksa": 35,
     "tolak": 8,
@@ -4150,7 +4150,7 @@
     "petmenu": 1,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 88,
+    "battlepet": 89,
     "riges": 1,
     "mengangguk": 4,
     "carikarakter[nadeshiko": 1,
@@ -4776,7 +4776,8 @@
     "musuh": 1,
     "eus": 2,
     "pp": 1,
-    ".....": 1
+    ".....": 1,
+    "batllepet": 1
   },
-  "lastUpdated": 1774964442617
+  "lastUpdated": 1774964502636
 }
