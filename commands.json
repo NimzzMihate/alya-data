@@ -3688,7 +3688,7 @@
     "removebg": 38,
     "addown": 7,
     "listowner": 11,
-    "brat": 62,
+    "brat": 63,
     "brathd": 1,
     "editfoto": 65,
     "dailymisi": 38,
@@ -4451,7 +4451,7 @@
     "wajib": 1,
     ".pacar": 1,
     "cium.cium": 1,
-    "bisnis": 5,
+    "bisnis": 6,
     "merampok": 1,
     "yampah": 1,
     "rampo²": 1,
@@ -4761,7 +4761,8 @@
     "getnomor": 4,
     "mr": 1,
     "nai": 1,
-    "stok": 1
+    "stok": 1,
+    ".": 1
   },
-  "lastUpdated": 1774951785927
+  "lastUpdated": 1774951845929
 }
