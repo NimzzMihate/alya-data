@@ -3690,7 +3690,7 @@
     "listowner": 11,
     "brat": 62,
     "brathd": 1,
-    "editfoto": 64,
+    "editfoto": 65,
     "dailymisi": 38,
     "open-bo": 37,
     "ewepaksa": 74,
@@ -4761,5 +4761,5 @@
     "getnomor": 4,
     "mr": 1
   },
-  "lastUpdated": 1774948294065
+  "lastUpdated": 1774948354065
 }
