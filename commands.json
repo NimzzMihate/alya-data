@@ -3683,12 +3683,12 @@
     "cf": 16,
     "nai2": 35,
     "6282137487477": 40,
-    "removebg": 39,
+    "removebg": 40,
     "addown": 7,
     "listowner": 12,
     "brat": 67,
     "brathd": 1,
-    "editfoto": 86,
+    "editfoto": 87,
     "dailymisi": 45,
     "open-bo": 40,
     "ewepaksa": 88,
@@ -4829,7 +4829,8 @@
     "search": 3,
     "awarudoooo": 1,
     "sapa": 1,
-    "menfesmenu": 1
+    "menfesmenu": 1,
+    "background": 1
   },
-  "lastUpdated": 1775082827397
+  "lastUpdated": 1775082887391
 }
