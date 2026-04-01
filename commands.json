@@ -3652,7 +3652,7 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 61,
+    "wikwik": 64,
     "heal": 81,
     "menu": 121,
     "owner": 11,
@@ -3776,7 +3776,7 @@
     "verify": 19,
     "daftr": 11,
     "status": 11,
-    "pap": 409,
+    "pap": 410,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -3981,7 +3981,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 3,
-    "tf": 247,
+    "tf": 248,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4832,5 +4832,5 @@
     "menfesmenu": 1,
     "background": 1
   },
-  "lastUpdated": 1775083787427
+  "lastUpdated": 1775083847421
 }
