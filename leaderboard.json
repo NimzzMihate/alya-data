@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 336,
-      "exp": 807176,
+      "exp": 807234,
       "saldo": 1.0000000120419898e+23
     },
     {
@@ -69,13 +69,13 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 69353,
+      "exp": 69464,
       "saldo": 0
     },
     {
       "name": "murazaki",
       "level": 26,
-      "exp": 63907,
+      "exp": 63948,
       "saldo": 3.0000000012919984e+25
     },
     {
@@ -155,7 +155,7 @@
     {
       "name": "murazaki",
       "level": 26,
-      "exp": 63907,
+      "exp": 63948,
       "saldo": 3.0000000012919984e+25
     },
     {
@@ -167,7 +167,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 336,
-      "exp": 807176,
+      "exp": 807234,
       "saldo": 1.0000000120419898e+23
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 336,
-      "exp": 807176,
+      "exp": 807234,
       "saldo": 1.0000000120419898e+23
     },
     {
@@ -313,13 +313,13 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 69353,
+      "exp": 69464,
       "saldo": 0
     },
     {
       "name": "murazaki",
       "level": 26,
-      "exp": 63907,
+      "exp": 63948,
       "saldo": 3.0000000012919984e+25
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775035168963
+  "lastUpdated": 1775035228963
 }
