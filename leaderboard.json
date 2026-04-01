@@ -81,7 +81,7 @@
     {
       "name": "Oguri cap",
       "level": 24,
-      "exp": 58197,
+      "exp": 58254,
       "saldo": 81084237669526
     },
     {
@@ -149,7 +149,7 @@
     {
       "name": "Ujang Ronda",
       "level": 2,
-      "exp": 5259,
+      "exp": 5386,
       "saldo": 1e+30
     },
     {
@@ -325,7 +325,7 @@
     {
       "name": "Oguri cap",
       "level": 24,
-      "exp": 58197,
+      "exp": 58254,
       "saldo": 81084237669526
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775048765723
+  "lastUpdated": 1775048825709
 }
