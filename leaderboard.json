@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 315,
-      "exp": 758263,
+      "exp": 758397,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -38,8 +38,8 @@
     },
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
-      "level": 79,
-      "exp": 191872,
+      "level": 80,
+      "exp": 192030,
       "saldo": 0
     },
     {
@@ -75,7 +75,7 @@
     {
       "name": "murazaki",
       "level": 25,
-      "exp": 60650,
+      "exp": 60707,
       "saldo": 13019999967964272
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 315,
-      "exp": 758263,
+      "exp": 758397,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -197,7 +197,7 @@
     {
       "name": "murazaki",
       "level": 25,
-      "exp": 60650,
+      "exp": 60707,
       "saldo": 13019999967964272
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Putzz?",
       "level": 315,
-      "exp": 758263,
+      "exp": 758397,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -276,8 +276,8 @@
     },
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
-      "level": 79,
-      "exp": 191872,
+      "level": 80,
+      "exp": 192030,
       "saldo": 0
     },
     {
@@ -319,7 +319,7 @@
     {
       "name": "murazaki",
       "level": 25,
-      "exp": 60650,
+      "exp": 60707,
       "saldo": 13019999967964272
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 700
     }
   ],
-  "lastUpdated": 1775028590286
+  "lastUpdated": 1775028650285
 }
