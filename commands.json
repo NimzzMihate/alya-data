@@ -3887,7 +3887,7 @@
     "...": 3,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 126,
+    "statuspacar": 127,
     "kasihmakan": 162,
     "kasihminum": 21,
     "naena": 11,
@@ -4093,7 +4093,7 @@
     "give": 3,
     "asep": 1,
     "pasangan": 5,
-    "setpppacar": 23,
+    "setpppacar": 24,
     "dompet": 2,
     "istri": 4,
     "lamar": 13,
@@ -4445,7 +4445,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 22,
+    "detailkarakter": 23,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 1,
@@ -4807,5 +4807,5 @@
     "gs": 3,
     ".nikah": 1
   },
-  "lastUpdated": 1775027822333
+  "lastUpdated": 1775027882334
 }
