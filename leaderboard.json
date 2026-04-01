@@ -21,8 +21,8 @@
     {
       "name": "Putzz?",
       "level": 317,
-      "exp": 762773,
-      "saldo": 0
+      "exp": 762898,
+      "saldo": 2.230911111941544e+53
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -122,6 +122,12 @@
     }
   ],
   "saldo": [
+    {
+      "name": "Putzz?",
+      "level": 317,
+      "exp": 762898,
+      "saldo": 2.230911111941544e+53
+    },
     {
       "name": "TX\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHOROG HOROG 🤤",
       "level": 631,
@@ -235,12 +241,6 @@
       "level": 0,
       "exp": 1395,
       "saldo": 9999999050000
-    },
-    {
-      "name": "rey",
-      "level": 14,
-      "exp": 35238,
-      "saldo": 8355877639
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Putzz?",
       "level": 317,
-      "exp": 762773,
-      "saldo": 0
+      "exp": 762898,
+      "saldo": 2.230911111941544e+53
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775037988561
+  "lastUpdated": 1775038048558
 }
