@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 328838,
+      "exp": 328893,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -69,8 +69,8 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 69152,
-      "saldo": 2e+34
+      "exp": 69308,
+      "saldo": 0
     },
     {
       "name": "murazaki",
@@ -135,15 +135,9 @@
       "saldo": 1.1973162574747806e+40
     },
     {
-      "name": "*KUROSE*",
-      "level": 28,
-      "exp": 69152,
-      "saldo": 2e+34
-    },
-    {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 328838,
+      "exp": 328893,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -241,6 +235,12 @@
       "level": 24,
       "exp": 57942,
       "saldo": 81084237669526
+    },
+    {
+      "name": "Ibnu",
+      "level": 0,
+      "exp": 1395,
+      "saldo": 9999999050000
     }
   ],
   "exp": [
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 328838,
+      "exp": 328893,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -313,8 +313,8 @@
     {
       "name": "*KUROSE*",
       "level": 28,
-      "exp": 69152,
-      "saldo": 2e+34
+      "exp": 69308,
+      "saldo": 0
     },
     {
       "name": "murazaki",
@@ -365,5 +365,5 @@
       "saldo": 700
     }
   ],
-  "lastUpdated": 1775030542465
+  "lastUpdated": 1775030602485
 }
