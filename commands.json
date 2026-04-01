@@ -4393,7 +4393,7 @@
     "1319142170762": 1,
     "ubahnama": 1,
     "setgender": 1,
-    "sapi": 1,
+    "sapi": 2,
     "gun": 1,
     "polisi": 4,
     "job": 2,
@@ -4830,5 +4830,5 @@
     "awarudoooo": 1,
     "sapa": 1
   },
-  "lastUpdated": 1775053744710
+  "lastUpdated": 1775053804718
 }
