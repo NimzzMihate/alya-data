@@ -69,13 +69,13 @@
     {
       "name": "*KUROSE*",
       "level": 29,
-      "exp": 69863,
+      "exp": 69952,
       "saldo": 0
     },
     {
       "name": "murazaki",
-      "level": 26,
-      "exp": 64753,
+      "level": 27,
+      "exp": 64995,
       "saldo": 3.0000000012919984e+25
     },
     {
@@ -154,8 +154,8 @@
     },
     {
       "name": "murazaki",
-      "level": 26,
-      "exp": 64753,
+      "level": 27,
+      "exp": 64995,
       "saldo": 3.0000000012919984e+25
     },
     {
@@ -313,13 +313,13 @@
     {
       "name": "*KUROSE*",
       "level": 29,
-      "exp": 69863,
+      "exp": 69952,
       "saldo": 0
     },
     {
       "name": "murazaki",
-      "level": 26,
-      "exp": 64753,
+      "level": 27,
+      "exp": 64995,
       "saldo": 3.0000000012919984e+25
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775035888968
+  "lastUpdated": 1775035948965
 }
