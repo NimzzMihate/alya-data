@@ -73,16 +73,16 @@
       "saldo": 0
     },
     {
+      "name": "murazaki",
+      "level": 24,
+      "exp": 57980,
+      "saldo": 13029999971964272
+    },
+    {
       "name": "Oguri cap",
       "level": 24,
       "exp": 57942,
       "saldo": 81084237669526
-    },
-    {
-      "name": "murazaki",
-      "level": 24,
-      "exp": 57879,
-      "saldo": 13029999971964272
     },
     {
       "name": "kensoy",
@@ -197,7 +197,7 @@
     {
       "name": "murazaki",
       "level": 24,
-      "exp": 57879,
+      "exp": 57980,
       "saldo": 13029999971964272
     },
     {
@@ -317,16 +317,16 @@
       "saldo": 0
     },
     {
+      "name": "murazaki",
+      "level": 24,
+      "exp": 57980,
+      "saldo": 13029999971964272
+    },
+    {
       "name": "Oguri cap",
       "level": 24,
       "exp": 57942,
       "saldo": 81084237669526
-    },
-    {
-      "name": "murazaki",
-      "level": 24,
-      "exp": 57879,
-      "saldo": 13029999971964272
     },
     {
       "name": "kensoy",
@@ -365,5 +365,5 @@
       "saldo": 700
     }
   ],
-  "lastUpdated": 1775020415416
+  "lastUpdated": 1775020475431
 }
