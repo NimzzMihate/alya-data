@@ -76,7 +76,7 @@
       "name": "murazaki",
       "level": 28,
       "exp": 68236,
-      "saldo": 3.0000000002919986e+25
+      "saldo": 3.0000000003919987e+25
     },
     {
       "name": "Oguri cap",
@@ -162,7 +162,7 @@
       "name": "murazaki",
       "level": 28,
       "exp": 68236,
-      "saldo": 3.0000000002919986e+25
+      "saldo": 3.0000000003919987e+25
     },
     {
       "name": "*KUROSE*",
@@ -215,8 +215,8 @@
     {
       "name": "Player-1118802",
       "level": 9,
-      "exp": 22514,
-      "saldo": 100000000000085300
+      "exp": 22718,
+      "saldo": 99000000000085300
     },
     {
       "name": "Sanzx",
@@ -320,7 +320,7 @@
       "name": "murazaki",
       "level": 28,
       "exp": 68236,
-      "saldo": 3.0000000002919986e+25
+      "saldo": 3.0000000003919987e+25
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775083727418
+  "lastUpdated": 1775083787427
 }
