@@ -3,8 +3,8 @@
   "totalUsers": 1053,
   "totalGroups": 37,
   "totalFeatures": 3614,
-  "totalCmd": 14775,
-  "totalChat": 14775,
+  "totalCmd": 14779,
+  "totalChat": 14779,
   "topCommands": [
     {
       "cmd": "buy",
@@ -19,11 +19,11 @@
       "count": 382
     },
     {
-      "cmd": "me",
-      "count": 373
+      "cmd": "pap",
+      "count": 375
     },
     {
-      "cmd": "pap",
+      "cmd": "me",
       "count": 373
     },
     {
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 5761,
-  "lastUpdated": 1775020535423
+  "uptimeSeconds": 5821,
+  "lastUpdated": 1775020595417
 }
