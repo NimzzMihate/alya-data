@@ -3629,7 +3629,7 @@
     "ewe-paksa": 44,
     "me": 386,
     "setbg": 19,
-    "rampok2": 389,
+    "rampok2": 391,
     "6285609504925": 15,
     "atm": 125,
     "bank": 75,
@@ -3657,7 +3657,7 @@
     "menu": 121,
     "owner": 11,
     "script": 9,
-    "joinrpg": 31,
+    "joinrpg": 32,
     "mentahan": 1,
     "claim": 33,
     "cekidch": 5,
@@ -3785,7 +3785,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 184,
+    "saldo": 186,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -4831,7 +4831,8 @@
     "sapa": 1,
     "menfesmenu": 1,
     "background": 1,
-    "ramok2": 1
+    "ramok2": 1,
+    "tampok2": 1
   },
-  "lastUpdated": 1775086427453
+  "lastUpdated": 1775086487537
 }
