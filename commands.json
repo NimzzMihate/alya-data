@@ -3666,7 +3666,7 @@
     "6281393286345": 110,
     ">": 5,
     "addapi": 2,
-    "pin": 130,
+    "pin": 131,
     "hd": 119,
     "useitem": 7,
     "77605898313906": 131,
@@ -4111,7 +4111,7 @@
     "adoptpet": 23,
     "petstat": 27,
     "playpet": 58,
-    "feedpet": 91,
+    "feedpet": 93,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4147,7 +4147,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 95,
+    "battlepet": 96,
     "riges": 1,
     "mengangguk": 8,
     "carikarakter[nadeshiko": 1,
@@ -4821,5 +4821,5 @@
     "buildmllucas": 1,
     "bulid": 1
   },
-  "lastUpdated": 1775041468606
+  "lastUpdated": 1775041528607
 }
