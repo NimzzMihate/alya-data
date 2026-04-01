@@ -75,8 +75,8 @@
     {
       "name": "murazaki",
       "level": 27,
-      "exp": 66468,
-      "saldo": 3.0000000012919984e+25
+      "exp": 66692,
+      "saldo": 3.0000000002919986e+25
     },
     {
       "name": "Oguri cap",
@@ -161,8 +161,8 @@
     {
       "name": "murazaki",
       "level": 27,
-      "exp": 66468,
-      "saldo": 3.0000000012919984e+25
+      "exp": 66692,
+      "saldo": 3.0000000002919986e+25
     },
     {
       "name": "*KUROSE*",
@@ -319,8 +319,8 @@
     {
       "name": "murazaki",
       "level": 27,
-      "exp": 66468,
-      "saldo": 3.0000000012919984e+25
+      "exp": 66692,
+      "saldo": 3.0000000002919986e+25
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775047385623
+  "lastUpdated": 1775047445623
 }
