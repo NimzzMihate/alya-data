@@ -2,9 +2,9 @@
   "botName": "🍄 𝗔𝗹𝘆𝗮 𝗠𝗗",
   "totalUsers": 1054,
   "totalGroups": 37,
-  "totalFeatures": 3614,
-  "totalCmd": 15263,
-  "totalChat": 15263,
+  "totalFeatures": 3611,
+  "totalCmd": 15264,
+  "totalChat": 15264,
   "topCommands": [
     {
       "cmd": "buy",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 2100,
-  "lastUpdated": 1775036428967
+  "uptimeSeconds": 2160,
+  "lastUpdated": 1775036488970
 }
