@@ -3657,7 +3657,7 @@
     "61405583679507": 1,
     "wikwik": 54,
     "heal": 75,
-    "menu": 119,
+    "menu": 120,
     "owner": 11,
     "script": 9,
     "joinrpg": 31,
@@ -3779,7 +3779,7 @@
     "verify": 18,
     "daftr": 11,
     "status": 11,
-    "pap": 370,
+    "pap": 371,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -3972,7 +3972,7 @@
     "yumeko": 1,
     "mahiru": 1,
     "marshaandthebear": 1,
-    "allmenu": 10,
+    "allmenu": 12,
     "gamemenu": 4,
     "catur": 225,
     "mulai": 1,
@@ -4478,7 +4478,7 @@
     "judi": 1,
     "toolsmenu": 2,
     "art": 1,
-    "voicemenu": 1,
+    "voicemenu": 2,
     "smooth": 5,
     "fast": 12,
     "deep": 16,
@@ -4802,5 +4802,5 @@
     "stc": 2,
     "ttc": 1
   },
-  "lastUpdated": 1775015675180
+  "lastUpdated": 1775015735180
 }
