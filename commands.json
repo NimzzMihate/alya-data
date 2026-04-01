@@ -3628,7 +3628,7 @@
     "ngaji": 30,
     "ewe-paksa": 43,
     "me": 382,
-    "setbg": 17,
+    "setbg": 18,
     "rampok2": 383,
     "6285609504925": 15,
     "atm": 124,
@@ -3771,7 +3771,7 @@
     "....": 2,
     "setprofile": 92,
     "daftar": 21,
-    "profile": 23,
+    "profile": 24,
     "topactive": 45,
     "verify": 19,
     "daftr": 11,
@@ -4473,7 +4473,7 @@
     "berisusu": 1,
     "si'": 1,
     "judi": 1,
-    "toolsmenu": 2,
+    "toolsmenu": 3,
     "art": 1,
     "voicemenu": 2,
     "smooth": 5,
@@ -4819,7 +4819,8 @@
     "prem": 1,
     "tomp4": 1,
     "buildmllucas": 1,
-    "bulid": 1
+    "bulid": 1,
+    "setbackground": 1
   },
-  "lastUpdated": 1775042301668
+  "lastUpdated": 1775042361660
 }
