@@ -3630,12 +3630,12 @@
     "playmoba": 38,
     "ngaji": 30,
     "ewe-paksa": 41,
-    "me": 375,
+    "me": 376,
     "setbg": 17,
     "rampok2": 382,
     "6285609504925": 15,
     "atm": 118,
-    "bank": 69,
+    "bank": 71,
     "afk": 411,
     "kerja": 50,
     "628176533297": 14,
@@ -3699,7 +3699,7 @@
     "6285789692015": 1,
     "buy": 473,
     "smeme": 61,
-    "getno": 13,
+    "getno": 14,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
     "195520047915190": 1,
     "setpp": 47,
@@ -3984,7 +3984,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 2,
-    "tf": 232,
+    "tf": 233,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4801,7 +4801,8 @@
     "minum'": 1,
     "stc": 2,
     "ttc": 1,
-    "writetext": 1
+    "writetext": 1,
+    "bann": 1
   },
-  "lastUpdated": 1775026742327
+  "lastUpdated": 1775026802335
 }
