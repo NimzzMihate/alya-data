@@ -3719,7 +3719,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 99,
-    "tes": 224,
+    "tes": 225,
     "listown": 13,
     "getpp": 7,
     "linkgc": 8,
@@ -3981,7 +3981,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 3,
-    "tf": 244,
+    "tf": 245,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4074,7 +4074,7 @@
     "ubah": 3,
     "buylimit": 4,
     "wagyy": 1,
-    "wangyy": 26,
+    "wangyy": 27,
     "wangy": 43,
     "97874318782647": 6,
     "nikah2": 10,
@@ -4371,7 +4371,7 @@
     "listrank": 1,
     "68458205204495": 14,
     "invpd": 2,
-    "628895327267": 3,
+    "628895327267": 4,
     "ceklimit": 8,
     "ceksaldo": 20,
     "selectskill": 1,
@@ -4819,5 +4819,5 @@
     "prem": 1,
     "tomp4": 1
   },
-  "lastUpdated": 1775039848569
+  "lastUpdated": 1775039908569
 }
