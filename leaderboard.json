@@ -75,8 +75,8 @@
     {
       "name": "murazaki",
       "level": 24,
-      "exp": 59861,
-      "saldo": 13029999967964272
+      "exp": 59998,
+      "saldo": 13019999967964272
     },
     {
       "name": "Oguri cap",
@@ -197,8 +197,8 @@
     {
       "name": "murazaki",
       "level": 24,
-      "exp": 59861,
-      "saldo": 13029999967964272
+      "exp": 59998,
+      "saldo": 13019999967964272
     },
     {
       "name": "Sanzx",
@@ -237,10 +237,10 @@
       "saldo": 81084237669526
     },
     {
-      "name": "rey",
-      "level": 14,
-      "exp": 35159,
-      "saldo": 8355877639
+      "name": "Ibnu",
+      "level": 0,
+      "exp": 647,
+      "saldo": 10000000050000
     }
   ],
   "exp": [
@@ -319,8 +319,8 @@
     {
       "name": "murazaki",
       "level": 24,
-      "exp": 59861,
-      "saldo": 13029999967964272
+      "exp": 59998,
+      "saldo": 13019999967964272
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 700
     }
   ],
-  "lastUpdated": 1775027522332
+  "lastUpdated": 1775027582332
 }
