@@ -149,7 +149,7 @@
     {
       "name": "Ujang Ronda",
       "level": 2,
-      "exp": 5116,
+      "exp": 5186,
       "saldo": 1e+30
     },
     {
@@ -167,7 +167,7 @@
     {
       "name": "axell",
       "level": 11,
-      "exp": 27796,
+      "exp": 27870,
       "saldo": 1e+24
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775039968569
+  "lastUpdated": 1775040028574
 }
