@@ -3635,7 +3635,7 @@
     "rampok2": 382,
     "6285609504925": 15,
     "atm": 118,
-    "bank": 72,
+    "bank": 73,
     "afk": 411,
     "kerja": 51,
     "628176533297": 14,
@@ -3789,7 +3789,7 @@
     "izin": 1,
     "build": 1,
     "saldo": 174,
-    "demote": 4,
+    "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
     "setpromosi": 5,
@@ -4189,7 +4189,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 81,
+    "atmall": 83,
     "inv": 39,
     "healfull": 3,
     "mute": 3,
@@ -4808,5 +4808,5 @@
     ".nikah": 1,
     "toimh": 1
   },
-  "lastUpdated": 1775030542465
+  "lastUpdated": 1775030602485
 }
