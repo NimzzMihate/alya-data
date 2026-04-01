@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 316,
-      "exp": 759193,
+      "exp": 759263,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -70,7 +70,7 @@
       "name": "*KUROSE*",
       "level": 28,
       "exp": 69152,
-      "saldo": 0
+      "saldo": 2e+34
     },
     {
       "name": "murazaki",
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 316,
-      "exp": 759193,
+      "exp": 759263,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -133,6 +133,12 @@
       "level": 631,
       "exp": 1519455,
       "saldo": 1.1973162574747806e+40
+    },
+    {
+      "name": "*KUROSE*",
+      "level": 28,
+      "exp": 69152,
+      "saldo": 2e+34
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
@@ -235,12 +241,6 @@
       "level": 24,
       "exp": 57942,
       "saldo": 81084237669526
-    },
-    {
-      "name": "Ibnu",
-      "level": 0,
-      "exp": 1395,
-      "saldo": 9999999050000
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "Putzz?",
       "level": 316,
-      "exp": 759193,
+      "exp": 759263,
       "saldo": 3.780000146628115e+51
     },
     {
@@ -314,7 +314,7 @@
       "name": "*KUROSE*",
       "level": 28,
       "exp": 69152,
-      "saldo": 0
+      "saldo": 2e+34
     },
     {
       "name": "murazaki",
@@ -365,5 +365,5 @@
       "saldo": 700
     }
   ],
-  "lastUpdated": 1775030482462
+  "lastUpdated": 1775030542465
 }
