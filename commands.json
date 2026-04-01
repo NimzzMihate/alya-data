@@ -3691,7 +3691,7 @@
     "listowner": 12,
     "brat": 66,
     "brathd": 1,
-    "editfoto": 82,
+    "editfoto": 85,
     "dailymisi": 44,
     "open-bo": 38,
     "ewepaksa": 84,
@@ -4074,7 +4074,7 @@
     "goblok": 22,
     "suki": 1,
     "kanjut": 1,
-    "ubah": 2,
+    "ubah": 3,
     "buylimit": 4,
     "wagyy": 1,
     "wangyy": 26,
@@ -4814,7 +4814,8 @@
     "potion": 2,
     "tonude": 1,
     "nude": 5,
-    "ubahkata": 3
+    "ubahkata": 3,
+    "pixa": 1
   },
-  "lastUpdated": 1775035468964
+  "lastUpdated": 1775035528964
 }
