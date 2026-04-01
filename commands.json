@@ -3634,8 +3634,8 @@
     "setbg": 17,
     "rampok2": 383,
     "6285609504925": 15,
-    "atm": 119,
-    "bank": 73,
+    "atm": 120,
+    "bank": 75,
     "afk": 414,
     "kerja": 51,
     "628176533297": 14,
@@ -3984,7 +3984,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 3,
-    "tf": 241,
+    "tf": 242,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4189,7 +4189,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 84,
+    "atmall": 85,
     "inv": 39,
     "healfull": 3,
     "mute": 3,
@@ -4541,7 +4541,7 @@
     "cekbank": 21,
     "cektomboy": 1,
     "bajingan": 4,
-    "tabungan": 6,
+    "tabungan": 7,
     "62895364790602": 27,
     "pria": 1,
     "601121817858": 18,
@@ -4817,5 +4817,5 @@
     "ubahkata": 3,
     "pixa": 1
   },
-  "lastUpdated": 1775035888968
+  "lastUpdated": 1775035948965
 }
