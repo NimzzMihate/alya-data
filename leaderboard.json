@@ -79,16 +79,16 @@
       "saldo": 81084237669526
     },
     {
+      "name": "murazaki",
+      "level": 20,
+      "exp": 48516,
+      "saldo": 13029999994958944
+    },
+    {
       "name": "kensoy",
       "level": 20,
       "exp": 48457,
       "saldo": 139079684385625
-    },
-    {
-      "name": "murazaki",
-      "level": 20,
-      "exp": 48349,
-      "saldo": 13029999994958944
     },
     {
       "name": "Kayy",
@@ -197,7 +197,7 @@
     {
       "name": "murazaki",
       "level": 20,
-      "exp": 48349,
+      "exp": 48516,
       "saldo": 13029999994958944
     },
     {
@@ -323,16 +323,16 @@
       "saldo": 81084237669526
     },
     {
+      "name": "murazaki",
+      "level": 20,
+      "exp": 48516,
+      "saldo": 13029999994958944
+    },
+    {
       "name": "kensoy",
       "level": 20,
       "exp": 48457,
       "saldo": 139079684385625
-    },
-    {
-      "name": "murazaki",
-      "level": 20,
-      "exp": 48349,
-      "saldo": 13029999994958944
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 700
     }
   ],
-  "lastUpdated": 1775015075157
+  "lastUpdated": 1775015135159
 }
