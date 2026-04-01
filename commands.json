@@ -3684,7 +3684,7 @@
     "daily": 17,
     "adventure": 17,
     "cf": 16,
-    "nai2": 32,
+    "nai2": 33,
     "6282137487477": 35,
     "removebg": 38,
     "addown": 7,
@@ -3951,7 +3951,7 @@
     "38796926128361": 2,
     "narik": 3,
     "toimg": 42,
-    "runtime": 3,
+    "runtime": 4,
     "ephotomenu": 1,
     "6283839942035": 3,
     "herolist": 1,
@@ -4808,5 +4808,5 @@
     ".nikah": 1,
     "toimh": 1
   },
-  "lastUpdated": 1775032702489
+  "lastUpdated": 1775032762482
 }
