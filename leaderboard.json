@@ -2,8 +2,8 @@
   "level": [
     {
       "name": "TX\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHOROG HOROG 🤤",
-      "level": 631,
-      "exp": 1519455,
+      "level": 633,
+      "exp": 1519536,
       "saldo": 1.1973162574747806e+40
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 318,
-      "exp": 763376,
+      "exp": 763495,
       "saldo": 2.230911111941544e+53
     },
     {
@@ -81,7 +81,7 @@
     {
       "name": "Oguri cap",
       "level": 24,
-      "exp": 58054,
+      "exp": 58133,
       "saldo": 81084237669526
     },
     {
@@ -125,13 +125,13 @@
     {
       "name": "Putzz?",
       "level": 318,
-      "exp": 763376,
+      "exp": 763495,
       "saldo": 2.230911111941544e+53
     },
     {
       "name": "TX\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHOROG HOROG 🤤",
-      "level": 631,
-      "exp": 1519455,
+      "level": 633,
+      "exp": 1519536,
       "saldo": 1.1973162574747806e+40
     },
     {
@@ -246,8 +246,8 @@
   "exp": [
     {
       "name": "TX\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHOROG HOROG 🤤",
-      "level": 631,
-      "exp": 1519455,
+      "level": 633,
+      "exp": 1519536,
       "saldo": 1.1973162574747806e+40
     },
     {
@@ -259,7 +259,7 @@
     {
       "name": "Putzz?",
       "level": 318,
-      "exp": 763376,
+      "exp": 763495,
       "saldo": 2.230911111941544e+53
     },
     {
@@ -325,7 +325,7 @@
     {
       "name": "Oguri cap",
       "level": 24,
-      "exp": 58054,
+      "exp": 58133,
       "saldo": 81084237669526
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775041468606
+  "lastUpdated": 1775041528607
 }
