@@ -3629,7 +3629,7 @@
     "mobaprofile": 14,
     "playmoba": 38,
     "ngaji": 30,
-    "ewe-paksa": 41,
+    "ewe-paksa": 43,
     "me": 378,
     "setbg": 17,
     "rampok2": 383,
@@ -3655,8 +3655,8 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 59,
-    "heal": 79,
+    "wikwik": 60,
+    "heal": 80,
     "menu": 120,
     "owner": 11,
     "script": 9,
@@ -3694,7 +3694,7 @@
     "editfoto": 78,
     "dailymisi": 44,
     "open-bo": 38,
-    "ewepaksa": 83,
+    "ewepaksa": 84,
     "topglobal": 20,
     "6285789692015": 1,
     "buy": 482,
@@ -3826,7 +3826,7 @@
     "93283032285420": 7,
     "188571210244160": 3,
     "222531466350642": 1,
-    "tidur": 14,
+    "tidur": 15,
     "akun": 1,
     "jembott": 1,
     "kuis": 12,
@@ -4797,7 +4797,7 @@
     "6288983486773": 6,
     "artefak": 1,
     "supgajah": 1,
-    "6285720252756": 1,
+    "6285720252756": 2,
     "minum'": 1,
     "stc": 2,
     "ttc": 1,
@@ -4810,7 +4810,8 @@
     "pinkkan": 1,
     "hijabkan": 5,
     "tohijab": 1,
-    "nikah2??": 1
+    "nikah2??": 1,
+    "potion": 2
   },
-  "lastUpdated": 1775034044150
+  "lastUpdated": 1775034104151
 }
