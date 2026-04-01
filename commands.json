@@ -3662,7 +3662,7 @@
     "script": 9,
     "joinrpg": 31,
     "mentahan": 1,
-    "claim": 30,
+    "claim": 31,
     "cekidch": 5,
     "tourl": 34,
     "title": 1,
@@ -4811,7 +4811,9 @@
     "hijabkan": 5,
     "tohijab": 1,
     "nikah2??": 1,
-    "potion": 2
+    "potion": 2,
+    "tonude": 1,
+    "nude": 1
   },
-  "lastUpdated": 1775034448970
+  "lastUpdated": 1775034508947
 }
