@@ -3667,7 +3667,7 @@
     ">": 5,
     "addapi": 2,
     "pin": 129,
-    "hd": 115,
+    "hd": 116,
     "useitem": 7,
     "77605898313906": 131,
     "huxin": 1,
@@ -4625,8 +4625,8 @@
     "cringe": 1,
     "setan": 1,
     "sw": 2,
-    "upswgc": 7,
-    "sendupsw": 5,
+    "upswgc": 8,
+    "sendupsw": 6,
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
@@ -4810,12 +4810,12 @@
     "nikah2??": 1,
     "potion": 2,
     "tonude": 1,
-    "nude": 6,
+    "nude": 7,
     "ubahkata": 3,
     "pixa": 1,
     "node": 1,
     "toivid": 1,
     "tovn": 1
   },
-  "lastUpdated": 1775036668973
+  "lastUpdated": 1775036728974
 }
