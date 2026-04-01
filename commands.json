@@ -3666,7 +3666,7 @@
     "cekidch": 5,
     "tourl": 34,
     "title": 1,
-    "6281393286345": 109,
+    "6281393286345": 110,
     ">": 5,
     "addapi": 2,
     "pin": 126,
@@ -3776,7 +3776,7 @@
     "daftar": 21,
     "profile": 23,
     "topactive": 40,
-    "verify": 18,
+    "verify": 19,
     "daftr": 11,
     "status": 11,
     "pap": 377,
@@ -3847,7 +3847,7 @@
     "puji": 163,
     "pacar": 119,
     "carikarakter": 136,
-    "nembak": 68,
+    "nembak": 69,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -3924,7 +3924,7 @@
     "statusanak": 38,
     "wink": 2,
     "kecocokan": 10,
-    "register": 12,
+    "register": 13,
     "rename": 1,
     "cn": 5,
     "cari": 3,
@@ -4802,7 +4802,8 @@
     "stc": 2,
     "ttc": 1,
     "writetext": 1,
-    "bann": 1
+    "bann": 1,
+    "14508902895694": 1
   },
-  "lastUpdated": 1775027042328
+  "lastUpdated": 1775027102329
 }
