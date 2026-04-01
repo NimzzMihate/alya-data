@@ -33,13 +33,13 @@
     {
       "name": "Joishi ganteng",
       "level": 85,
-      "exp": 205910,
+      "exp": 206051,
       "saldo": 2.0180019841533005e+33
     },
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 80,
-      "exp": 193994,
+      "exp": 194068,
       "saldo": 0
     },
     {
@@ -57,7 +57,7 @@
     {
       "name": "Lejen",
       "level": 42,
-      "exp": 100912,
+      "exp": 100972,
       "saldo": 1000543661798510800
     },
     {
@@ -93,7 +93,7 @@
     {
       "name": "Kayy",
       "level": 19,
-      "exp": 46610,
+      "exp": 46646,
       "saldo": 0
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 85,
-      "exp": 205910,
+      "exp": 206051,
       "saldo": 2.0180019841533005e+33
     },
     {
@@ -203,7 +203,7 @@
     {
       "name": "Lejen",
       "level": 42,
-      "exp": 100912,
+      "exp": 100972,
       "saldo": 1000543661798510800
     },
     {
@@ -271,13 +271,13 @@
     {
       "name": "Joishi ganteng",
       "level": 85,
-      "exp": 205910,
+      "exp": 206051,
       "saldo": 2.0180019841533005e+33
     },
     {
       "name": "lemari kayu 4 pintu harga 12 juta",
       "level": 80,
-      "exp": 193994,
+      "exp": 194068,
       "saldo": 0
     },
     {
@@ -301,7 +301,7 @@
     {
       "name": "Lejen",
       "level": 42,
-      "exp": 100912,
+      "exp": 100972,
       "saldo": 1000543661798510800
     },
     {
@@ -337,7 +337,7 @@
     {
       "name": "Kayy",
       "level": 19,
-      "exp": 46610,
+      "exp": 46646,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775049546932
+  "lastUpdated": 1775049606930
 }
