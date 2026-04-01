@@ -9,7 +9,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 328893,
+      "exp": 328962,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Putzz?",
       "level": 317,
-      "exp": 761509,
+      "exp": 761698,
       "saldo": 2.1880000146646217e+52
     },
     {
@@ -75,7 +75,7 @@
     {
       "name": "murazaki",
       "level": 25,
-      "exp": 61468,
+      "exp": 61586,
       "saldo": 3.0000000012919984e+25
     },
     {
@@ -92,9 +92,9 @@
     },
     {
       "name": "Kayy",
-      "level": 18,
-      "exp": 45543,
-      "saldo": 0
+      "level": 19,
+      "exp": 45792,
+      "saldo": 1.000014999903779e+23
     },
     {
       "name": "danz",
@@ -125,7 +125,7 @@
     {
       "name": "Putzz?",
       "level": 317,
-      "exp": 761509,
+      "exp": 761698,
       "saldo": 2.1880000146646217e+52
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 328893,
+      "exp": 328962,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -155,8 +155,14 @@
     {
       "name": "murazaki",
       "level": 25,
-      "exp": 61468,
+      "exp": 61586,
       "saldo": 3.0000000012919984e+25
+    },
+    {
+      "name": "Kayy",
+      "level": 19,
+      "exp": 45792,
+      "saldo": 1.000014999903779e+23
     },
     {
       "name": "NarennDurenn",
@@ -235,12 +241,6 @@
       "level": 24,
       "exp": 57942,
       "saldo": 81084237669526
-    },
-    {
-      "name": "Ibnu",
-      "level": 0,
-      "exp": 1395,
-      "saldo": 9999999050000
     }
   ],
   "exp": [
@@ -259,13 +259,13 @@
     {
       "name": "Putzz?",
       "level": 317,
-      "exp": 761509,
+      "exp": 761698,
       "saldo": 2.1880000146646217e+52
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 328893,
+      "exp": 328962,
       "saldo": 5.852005205519986e+33
     },
     {
@@ -319,7 +319,7 @@
     {
       "name": "murazaki",
       "level": 25,
-      "exp": 61468,
+      "exp": 61586,
       "saldo": 3.0000000012919984e+25
     },
     {
@@ -336,9 +336,9 @@
     },
     {
       "name": "Kayy",
-      "level": 18,
-      "exp": 45543,
-      "saldo": 0
+      "level": 19,
+      "exp": 45792,
+      "saldo": 1.000014999903779e+23
     },
     {
       "name": "danz",
@@ -365,5 +365,5 @@
       "saldo": 700
     }
   ],
-  "lastUpdated": 1775032882489
+  "lastUpdated": 1775032964056
 }
