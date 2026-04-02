@@ -63,8 +63,8 @@
     {
       "name": "murazaki",
       "level": 34,
-      "exp": 82342,
-      "saldo": 9995539
+      "exp": 82600,
+      "saldo": 10
     },
     {
       "name": "*KUROSE*",
@@ -81,8 +81,8 @@
     {
       "name": "Kayy",
       "level": 24,
-      "exp": 58996,
-      "saldo": 1.0000149974942157e+23
+      "exp": 59114,
+      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -171,12 +171,6 @@
       "saldo": 1e+24
     },
     {
-      "name": "Kayy",
-      "level": 24,
-      "exp": 58996,
-      "saldo": 1.0000149974942157e+23
-    },
-    {
       "name": "Ditz ketoprak",
       "level": 348,
       "exp": 835242,
@@ -241,6 +235,12 @@
       "level": 0,
       "exp": 1395,
       "saldo": 9999999050000
+    },
+    {
+      "name": "rey",
+      "level": 19,
+      "exp": 45764,
+      "saldo": 154747067379
     }
   ],
   "exp": [
@@ -307,8 +307,8 @@
     {
       "name": "murazaki",
       "level": 34,
-      "exp": 82342,
-      "saldo": 9995539
+      "exp": 82600,
+      "saldo": 10
     },
     {
       "name": "*KUROSE*",
@@ -325,8 +325,8 @@
     {
       "name": "Kayy",
       "level": 24,
-      "exp": 58996,
-      "saldo": 1.0000149974942157e+23
+      "exp": 59114,
+      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775152152330
+  "lastUpdated": 1775152212355
 }
