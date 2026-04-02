@@ -93,8 +93,8 @@
     {
       "name": "Kayy",
       "level": 19,
-      "exp": 46946,
-      "saldo": 0
+      "exp": 47118,
+      "saldo": 1.000014999903779e+23
     },
     {
       "name": "danz",
@@ -177,6 +177,12 @@
       "saldo": 1e+24
     },
     {
+      "name": "Kayy",
+      "level": 19,
+      "exp": 47118,
+      "saldo": 1.000014999903779e+23
+    },
+    {
       "name": "NarennDurenn",
       "level": 3,
       "exp": 7606,
@@ -235,12 +241,6 @@
       "level": 20,
       "exp": 48457,
       "saldo": 139079684385625
-    },
-    {
-      "name": "Ahmad",
-      "level": 5,
-      "exp": 12027,
-      "saldo": 100000000065871
     }
   ],
   "exp": [
@@ -337,8 +337,8 @@
     {
       "name": "Kayy",
       "level": 19,
-      "exp": 46946,
-      "saldo": 0
+      "exp": 47118,
+      "saldo": 1.000014999903779e+23
     },
     {
       "name": "danz",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775094227607
+  "lastUpdated": 1775094287608
 }
