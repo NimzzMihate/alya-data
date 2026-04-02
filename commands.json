@@ -3654,7 +3654,7 @@
     "61405583679507": 1,
     "wikwik": 64,
     "heal": 81,
-    "menu": 122,
+    "menu": 123,
     "owner": 11,
     "script": 9,
     "joinrpg": 32,
@@ -3707,7 +3707,7 @@
     "makan": 9,
     "repair": 1,
     "kapal": 5,
-    "craft": 250,
+    "craft": 252,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3991,7 +3991,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 67,
-    "jual": 56,
+    "jual": 59,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4314,7 +4314,7 @@
     "𝙢𝙚": 1,
     "ceraipaksa": 2,
     "meu": 2,
-    "nsfwmenu": 9,
+    "nsfwmenu": 10,
     "trap": 2,
     "neko": 1,
     "slap": 11,
@@ -4837,5 +4837,5 @@
     "toing": 1,
     "toihijab": 1
   },
-  "lastUpdated": 1775103167230
+  "lastUpdated": 1775103227226
 }
