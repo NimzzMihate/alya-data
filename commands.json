@@ -3653,7 +3653,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 66,
-    "heal": 86,
+    "heal": 87,
     "menu": 124,
     "owner": 11,
     "script": 9,
@@ -3694,7 +3694,7 @@
     "ewepaksa": 96,
     "topglobal": 23,
     "6285789692015": 1,
-    "buy": 496,
+    "buy": 499,
     "smeme": 76,
     "getno": 23,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -4096,7 +4096,7 @@
     "lamar": 13,
     "beli": 6,
     "maaf": 5,
-    "sg": 90,
+    "sg": 92,
     "shop": 18,
     "168238516305969": 21,
     "atmtake": 19,
@@ -4188,7 +4188,7 @@
     "cekprofil": 7,
     "atmall": 85,
     "inv": 39,
-    "healfull": 3,
+    "healfull": 4,
     "mute": 3,
     "perstat": 1,
     "lesby": 6,
@@ -4841,5 +4841,5 @@
     "gantengkan": 1,
     "gifttas": 1
   },
-  "lastUpdated": 1775119098036
+  "lastUpdated": 1775119158047
 }
