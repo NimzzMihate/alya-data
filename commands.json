@@ -3631,9 +3631,9 @@
     "setbg": 19,
     "rampok2": 391,
     "6285609504925": 15,
-    "atm": 128,
+    "atm": 129,
     "bank": 76,
-    "afk": 441,
+    "afk": 442,
     "kerja": 51,
     "628176533297": 14,
     "s": 176,
@@ -3798,7 +3798,7 @@
     "snippet": 5,
     "updatealya": 21,
     "kencan": 123,
-    "kasihsusu": 45,
+    "kasihsusu": 46,
     "wm": 78,
     "absen": 3,
     "mulaiabsen": 3,
@@ -3885,7 +3885,7 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 129,
-    "kasihmakan": 173,
+    "kasihmakan": 174,
     "kasihminum": 22,
     "naena": 11,
     "noenc": 21,
@@ -4610,7 +4610,7 @@
     "atmpulll": 1,
     "jembut": 1,
     "bajingn": 1,
-    "60192070491": 17,
+    "60192070491": 18,
     "carikaraktet": 2,
     "kencam": 1,
     "jadwalsholat": 2,
@@ -4834,5 +4834,5 @@
     "ramok2": 1,
     "tampok2": 1
   },
-  "lastUpdated": 1775094287608
+  "lastUpdated": 1775094347603
 }
