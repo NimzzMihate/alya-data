@@ -21,7 +21,7 @@
     {
       "name": "Putzz??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-???",
       "level": 332,
-      "exp": 797688,
+      "exp": 797755,
       "saldo": 3.0911111941344234e+51
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Putzz??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-???",
       "level": 332,
-      "exp": 797688,
+      "exp": 797755,
       "saldo": 3.0911111941344234e+51
     },
     {
@@ -159,6 +159,12 @@
       "saldo": 1.000100001010015e+27
     },
     {
+      "name": "Vanz",
+      "level": 3,
+      "exp": 7591,
+      "saldo": 1.000000000100188e+27
+    },
+    {
       "name": "axell",
       "level": 11,
       "exp": 27870,
@@ -187,12 +193,6 @@
       "level": 42,
       "exp": 101745,
       "saldo": 1000543661798509200
-    },
-    {
-      "name": "Vanz",
-      "level": 3,
-      "exp": 7530,
-      "saldo": 100188033124004940
     },
     {
       "name": "Player-1118802",
@@ -259,7 +259,7 @@
     {
       "name": "Putzz??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-???",
       "level": 332,
-      "exp": 797688,
+      "exp": 797755,
       "saldo": 3.0911111941344234e+51
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775132068908
+  "lastUpdated": 1775132128904
 }
