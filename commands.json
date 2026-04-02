@@ -3651,7 +3651,7 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 75,
+    "wikwik": 76,
     "heal": 89,
     "menu": 126,
     "owner": 11,
@@ -3690,7 +3690,7 @@
     "editfoto": 91,
     "dailymisi": 46,
     "open-bo": 41,
-    "ewepaksa": 101,
+    "ewepaksa": 103,
     "topglobal": 24,
     "6285789692015": 1,
     "buy": 503,
@@ -4428,7 +4428,7 @@
     "scale": 2,
     "smile": 3,
     "rasio": 1,
-    "ewe": 16,
+    "ewe": 17,
     "nonc": 1,
     "naonc": 1,
     "mabar": 1,
@@ -4851,5 +4851,5 @@
     "zz": 1,
     "..\"": 1
   },
-  "lastUpdated": 1775152452353
+  "lastUpdated": 1775152512353
 }
