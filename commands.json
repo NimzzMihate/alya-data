@@ -3775,7 +3775,7 @@
     "verify": 19,
     "daftr": 11,
     "status": 11,
-    "pap": 424,
+    "pap": 426,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -3796,7 +3796,7 @@
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
-    "kencan": 129,
+    "kencan": 130,
     "kasihsusu": 50,
     "wm": 91,
     "absen": 3,
@@ -3848,7 +3848,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 142,
+    "atmpull": 143,
     "promote": 4,
     "reset": 3,
     "memasak": 1,
@@ -3891,7 +3891,7 @@
     "6282115911954": 2,
     "6281455125940": 2,
     "6285761349641": 13,
-    "pap2": 80,
+    "pap2": 81,
     "getcase": 7,
     "/": 7,
     "cekcantik": 14,
@@ -4851,5 +4851,5 @@
     "zz": 1,
     "..\"": 1
   },
-  "lastUpdated": 1775151876561
+  "lastUpdated": 1775151936560
 }
