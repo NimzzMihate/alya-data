@@ -20,8 +20,8 @@
     },
     {
       "name": "Putzz??",
-      "level": 319,
-      "exp": 767896,
+      "level": 331,
+      "exp": 795333,
       "saldo": 3.0911111941344234e+51
     },
     {
@@ -63,8 +63,8 @@
     {
       "name": "murazaki",
       "level": 32,
-      "exp": 78823,
-      "saldo": 1439
+      "exp": 78949,
+      "saldo": 1539
     },
     {
       "name": "Souta",
@@ -75,8 +75,8 @@
     {
       "name": "*KUROSE*",
       "level": 29,
-      "exp": 71562,
-      "saldo": 1000
+      "exp": 71617,
+      "saldo": 900
     },
     {
       "name": "Oguri cap",
@@ -87,7 +87,7 @@
     {
       "name": "Kayy",
       "level": 23,
-      "exp": 56898,
+      "exp": 56999,
       "saldo": 1.0000149974942157e+23
     },
     {
@@ -124,8 +124,8 @@
   "saldo": [
     {
       "name": "Putzz??",
-      "level": 319,
-      "exp": 767896,
+      "level": 331,
+      "exp": 795333,
       "saldo": 3.0911111941344234e+51
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "Kayy",
       "level": 23,
-      "exp": 56898,
+      "exp": 56999,
       "saldo": 1.0000149974942157e+23
     },
     {
@@ -258,8 +258,8 @@
     },
     {
       "name": "Putzz??",
-      "level": 319,
-      "exp": 767896,
+      "level": 331,
+      "exp": 795333,
       "saldo": 3.0911111941344234e+51
     },
     {
@@ -307,8 +307,8 @@
     {
       "name": "murazaki",
       "level": 32,
-      "exp": 78823,
-      "saldo": 1439
+      "exp": 78949,
+      "saldo": 1539
     },
     {
       "name": "Souta",
@@ -319,8 +319,8 @@
     {
       "name": "*KUROSE*",
       "level": 29,
-      "exp": 71562,
-      "saldo": 1000
+      "exp": 71617,
+      "saldo": 900
     },
     {
       "name": "Oguri cap",
@@ -331,7 +331,7 @@
     {
       "name": "Kayy",
       "level": 23,
-      "exp": 56898,
+      "exp": 56999,
       "saldo": 1.0000149974942157e+23
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775123047129
+  "lastUpdated": 1775123107129
 }
