@@ -21,7 +21,7 @@
     {
       "name": "Putzz??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-???",
       "level": 332,
-      "exp": 798212,
+      "exp": 798303,
       "saldo": 3.0911111941344234e+51
     },
     {
@@ -45,8 +45,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 79,
-      "exp": 190212,
-      "saldo": 99998893442048
+      "exp": 190292,
+      "saldo": 1.0000000000000002e+30
     },
     {
       "name": "Zxiox",
@@ -125,7 +125,7 @@
     {
       "name": "Putzz??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-???",
       "level": 332,
-      "exp": 798212,
+      "exp": 798303,
       "saldo": 3.0911111941344234e+51
     },
     {
@@ -147,6 +147,12 @@
       "saldo": 2.0180019841533005e+33
     },
     {
+      "name": "Flonα Lyzellé ❀.",
+      "level": 79,
+      "exp": 190292,
+      "saldo": 1.0000000000000002e+30
+    },
+    {
       "name": "naa",
       "level": 5,
       "exp": 12176,
@@ -155,13 +161,13 @@
     {
       "name": "NarennDurenn",
       "level": 3,
-      "exp": 7606,
+      "exp": 7674,
       "saldo": 1.000100001010015e+27
     },
     {
       "name": "Vanz",
       "level": 3,
-      "exp": 7751,
+      "exp": 7793,
       "saldo": 1.000000000100188e+27
     },
     {
@@ -225,12 +231,6 @@
       "saldo": 100000000065871
     },
     {
-      "name": "Flonα Lyzellé ❀.",
-      "level": 79,
-      "exp": 190212,
-      "saldo": 99998893442048
-    },
-    {
       "name": "Oguri cap",
       "level": 24,
       "exp": 58343,
@@ -259,7 +259,7 @@
     {
       "name": "Putzz??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-???",
       "level": 332,
-      "exp": 798212,
+      "exp": 798303,
       "saldo": 3.0911111941344234e+51
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 79,
-      "exp": 190212,
-      "saldo": 99998893442048
+      "exp": 190292,
+      "saldo": 1.0000000000000002e+30
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775132917338
+  "lastUpdated": 1775132977337
 }
