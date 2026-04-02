@@ -3785,7 +3785,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 201,
+    "saldo": 202,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -4099,7 +4099,7 @@
     "sg": 101,
     "shop": 19,
     "168238516305969": 22,
-    "atmtake": 19,
+    "atmtake": 20,
     "giftshop": 1,
     "kasihnamaanak": 7,
     "babi": 18,
@@ -4186,7 +4186,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 88,
+    "atmall": 89,
     "inv": 39,
     "healfull": 4,
     "mute": 3,
@@ -4848,5 +4848,5 @@
     "mas'": 1,
     "mbak'": 1
   },
-  "lastUpdated": 1775133577338
+  "lastUpdated": 1775133637345
 }
