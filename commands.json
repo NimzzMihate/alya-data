@@ -3707,7 +3707,7 @@
     "makan": 9,
     "repair": 1,
     "kapal": 5,
-    "craft": 245,
+    "craft": 250,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -4837,5 +4837,5 @@
     "toing": 1,
     "toihijab": 1
   },
-  "lastUpdated": 1775103107225
+  "lastUpdated": 1775103167230
 }
