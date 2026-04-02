@@ -3632,7 +3632,7 @@
     "rampok2": 391,
     "6285609504925": 15,
     "atm": 129,
-    "bank": 76,
+    "bank": 78,
     "afk": 447,
     "kerja": 51,
     "628176533297": 14,
@@ -3707,7 +3707,7 @@
     "makan": 9,
     "repair": 1,
     "kapal": 5,
-    "craft": 241,
+    "craft": 242,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3849,7 +3849,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 135,
+    "atmpull": 136,
     "promote": 4,
     "reset": 3,
     "memasak": 1,
@@ -3981,7 +3981,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 4,
-    "tf": 248,
+    "tf": 249,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4837,5 +4837,5 @@
     "toing": 1,
     "toihijab": 1
   },
-  "lastUpdated": 1775102927200
+  "lastUpdated": 1775102987198
 }
