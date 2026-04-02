@@ -3719,7 +3719,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 100,
-    "tes": 235,
+    "tes": 237,
     "listown": 13,
     "getpp": 7,
     "linkgc": 8,
@@ -3981,7 +3981,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 4,
-    "tf": 261,
+    "tf": 262,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4242,9 +4242,9 @@
     "tolaknikah": 2,
     "6282146357295": 1,
     "cekaetia": 1,
-    "semua": 1,
+    "semua": 2,
     "catbox": 1,
-    "gempa": 1,
+    "gempa": 3,
     "tebakkata": 38,
     "tebakpacarorang": 1,
     "gachawaifu": 27,
@@ -4846,5 +4846,5 @@
     "editfoti": 1,
     "irengkan": 1
   },
-  "lastUpdated": 1775132797335
+  "lastUpdated": 1775132857336
 }
