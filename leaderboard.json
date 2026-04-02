@@ -85,16 +85,16 @@
       "saldo": 81084237669526
     },
     {
+      "name": "Kayy",
+      "level": 20,
+      "exp": 52415,
+      "saldo": 6459
+    },
+    {
       "name": "kensoy",
       "level": 20,
       "exp": 48457,
       "saldo": 139079684385625
-    },
-    {
-      "name": "Kayy",
-      "level": 20,
-      "exp": 48334,
-      "saldo": 0
     },
     {
       "name": "danz",
@@ -329,16 +329,16 @@
       "saldo": 81084237669526
     },
     {
+      "name": "Kayy",
+      "level": 20,
+      "exp": 52415,
+      "saldo": 6459
+    },
+    {
       "name": "kensoy",
       "level": 20,
       "exp": 48457,
       "saldo": 139079684385625
-    },
-    {
-      "name": "Kayy",
-      "level": 20,
-      "exp": 48334,
-      "saldo": 0
     },
     {
       "name": "danz",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775102807195
+  "lastUpdated": 1775102867204
 }
