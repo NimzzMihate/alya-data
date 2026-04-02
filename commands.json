@@ -3785,7 +3785,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 192,
+    "saldo": 193,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -4232,7 +4232,7 @@
     "rating": 4,
     "rampokatm": 1,
     "topuang": 7,
-    "tabung": 4,
+    "tabung": 6,
     "atn": 1,
     "6288747505928": 1,
     "topsaldo": 10,
@@ -4841,5 +4841,5 @@
     "gantengkan": 1,
     "gifttas": 1
   },
-  "lastUpdated": 1775119518051
+  "lastUpdated": 1775119578047
 }
