@@ -45,8 +45,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 79,
-      "exp": 190393,
-      "saldo": 1.0000000000000002e+30
+      "exp": 190541,
+      "saldo": 10000000000
     },
     {
       "name": "Zxiox",
@@ -147,12 +147,6 @@
       "saldo": 2.0180019841533005e+33
     },
     {
-      "name": "Flonα Lyzellé ❀.",
-      "level": 79,
-      "exp": 190393,
-      "saldo": 1.0000000000000002e+30
-    },
-    {
       "name": "naa",
       "level": 5,
       "exp": 12176,
@@ -241,6 +235,12 @@
       "level": 0,
       "exp": 1395,
       "saldo": 9999999050000
+    },
+    {
+      "name": "rey",
+      "level": 19,
+      "exp": 45764,
+      "saldo": 154747067379
     }
   ],
   "exp": [
@@ -283,8 +283,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 79,
-      "exp": 190393,
-      "saldo": 1.0000000000000002e+30
+      "exp": 190541,
+      "saldo": 10000000000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775133577338
+  "lastUpdated": 1775133637345
 }
