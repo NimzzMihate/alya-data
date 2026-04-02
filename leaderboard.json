@@ -63,7 +63,7 @@
     {
       "name": "murazaki",
       "level": 34,
-      "exp": 82600,
+      "exp": 82697,
       "saldo": 10
     },
     {
@@ -81,7 +81,7 @@
     {
       "name": "Kayy",
       "level": 24,
-      "exp": 59114,
+      "exp": 59185,
       "saldo": 0
     },
     {
@@ -307,7 +307,7 @@
     {
       "name": "murazaki",
       "level": 34,
-      "exp": 82600,
+      "exp": 82697,
       "saldo": 10
     },
     {
@@ -325,7 +325,7 @@
     {
       "name": "Kayy",
       "level": 24,
-      "exp": 59114,
+      "exp": 59185,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775152212355
+  "lastUpdated": 1775152272353
 }
