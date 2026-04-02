@@ -3688,7 +3688,7 @@
     "listowner": 12,
     "brat": 69,
     "brathd": 1,
-    "editfoto": 89,
+    "editfoto": 90,
     "dailymisi": 46,
     "open-bo": 40,
     "ewepaksa": 100,
@@ -3842,7 +3842,7 @@
     "pabrik": 1,
     "fitnah": 50,
     "puji": 174,
-    "pacar": 139,
+    "pacar": 140,
     "carikarakter": 137,
     "nembak": 71,
     "cry": 7,
@@ -4806,11 +4806,11 @@
     "toimh": 1,
     "pinkkan": 1,
     "hijabkan": 8,
-    "tohijab": 1,
+    "tohijab": 2,
     "nikah2??": 1,
     "potion": 4,
     "tonude": 1,
-    "nude": 10,
+    "nude": 11,
     "ubahkata": 3,
     "pixa": 1,
     "node": 1,
@@ -4843,7 +4843,8 @@
     "ceobank": 1,
     "cipok": 1,
     "nude?": 1,
-    "editfoti": 1
+    "editfoti": 1,
+    "irengkan": 1
   },
-  "lastUpdated": 1775123347167
+  "lastUpdated": 1775123407250
 }
