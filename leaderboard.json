@@ -9,19 +9,19 @@
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 342826,
+      "exp": 342871,
       "saldo": 1.0000000000058519e+45
     },
     {
       "name": "Ditz ketoprak",
       "level": 347,
-      "exp": 834725,
+      "exp": 834835,
       "saldo": 1.0000000120419898e+23
     },
     {
       "name": "Putzz??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-???",
-      "level": 332,
-      "exp": 799182,
+      "level": 333,
+      "exp": 799241,
       "saldo": 3.0911101941344235e+51
     },
     {
@@ -57,7 +57,7 @@
     {
       "name": "Lejen",
       "level": 42,
-      "exp": 102030,
+      "exp": 102074,
       "saldo": 1000543661798509200
     },
     {
@@ -124,14 +124,14 @@
   "saldo": [
     {
       "name": "Putzz??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-???",
-      "level": 332,
-      "exp": 799182,
+      "level": 333,
+      "exp": 799241,
       "saldo": 3.0911101941344235e+51
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 342826,
+      "exp": 342871,
       "saldo": 1.0000000000058519e+45
     },
     {
@@ -173,7 +173,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 347,
-      "exp": 834725,
+      "exp": 834835,
       "saldo": 1.0000000120419898e+23
     },
     {
@@ -191,7 +191,7 @@
     {
       "name": "Lejen",
       "level": 42,
-      "exp": 102030,
+      "exp": 102074,
       "saldo": 1000543661798509200
     },
     {
@@ -253,19 +253,19 @@
     {
       "name": "Ditz ketoprak",
       "level": 347,
-      "exp": 834725,
+      "exp": 834835,
       "saldo": 1.0000000120419898e+23
     },
     {
       "name": "Putzz??\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n-???",
-      "level": 332,
-      "exp": 799182,
+      "level": 333,
+      "exp": 799241,
       "saldo": 3.0911101941344235e+51
     },
     {
       "name": "Nimzz ? Iya ya aku serius kok",
       "level": 510,
-      "exp": 342826,
+      "exp": 342871,
       "saldo": 1.0000000000058519e+45
     },
     {
@@ -301,7 +301,7 @@
     {
       "name": "Lejen",
       "level": 42,
-      "exp": 102030,
+      "exp": 102074,
       "saldo": 1000543661798509200
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775134683268
+  "lastUpdated": 1775134743268
 }
