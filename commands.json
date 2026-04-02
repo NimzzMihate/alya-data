@@ -4212,7 +4212,7 @@
     "startimpostor": 2,
     "vote": 1,
     "join": 2,
-    "monopoli": 54,
+    "monopoli": 56,
     "oom": 1,
     "inventory": 13,
     "like": 1,
@@ -4846,5 +4846,5 @@
     "editfoti": 1,
     "irengkan": 1
   },
-  "lastUpdated": 1775124340200
+  "lastUpdated": 1775124400201
 }
