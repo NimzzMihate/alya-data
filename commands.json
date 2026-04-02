@@ -3631,9 +3631,9 @@
     "setbg": 19,
     "rampok2": 403,
     "6285609504925": 15,
-    "atm": 131,
+    "atm": 132,
     "bank": 79,
-    "afk": 454,
+    "afk": 455,
     "kerja": 51,
     "628176533297": 14,
     "s": 188,
@@ -4610,7 +4610,7 @@
     "atmpulll": 1,
     "jembut": 1,
     "bajingn": 1,
-    "60192070491": 19,
+    "60192070491": 20,
     "carikaraktet": 2,
     "kencam": 1,
     "jadwalsholat": 2,
@@ -4846,5 +4846,5 @@
     "editfoti": 1,
     "irengkan": 1
   },
-  "lastUpdated": 1775126560211
+  "lastUpdated": 1775126620209
 }
