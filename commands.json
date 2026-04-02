@@ -3631,7 +3631,7 @@
     "setbg": 19,
     "rampok2": 399,
     "6285609504925": 15,
-    "atm": 129,
+    "atm": 130,
     "bank": 79,
     "afk": 452,
     "kerja": 51,
@@ -3681,7 +3681,7 @@
     "daily": 18,
     "adventure": 19,
     "cf": 16,
-    "nai2": 35,
+    "nai2": 37,
     "6282137487477": 40,
     "removebg": 45,
     "addown": 7,
@@ -3785,7 +3785,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 193,
+    "saldo": 194,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -3849,7 +3849,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 137,
+    "atmpull": 138,
     "promote": 4,
     "reset": 3,
     "memasak": 1,
@@ -4096,7 +4096,7 @@
     "lamar": 13,
     "beli": 6,
     "maaf": 5,
-    "sg": 100,
+    "sg": 101,
     "shop": 18,
     "168238516305969": 21,
     "atmtake": 19,
@@ -4841,5 +4841,5 @@
     "gantengkan": 1,
     "gifttas": 1
   },
-  "lastUpdated": 1775122747117
+  "lastUpdated": 1775122807120
 }
