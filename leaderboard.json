@@ -87,8 +87,8 @@
     {
       "name": "Kayy",
       "level": 24,
-      "exp": 57728,
-      "saldo": 1.0000149974942157e+23
+      "exp": 57827,
+      "saldo": 0
     },
     {
       "name": "kensoy",
@@ -157,12 +157,6 @@
       "level": 11,
       "exp": 27870,
       "saldo": 1e+24
-    },
-    {
-      "name": "Kayy",
-      "level": 24,
-      "exp": 57728,
-      "saldo": 1.0000149974942157e+23
     },
     {
       "name": "NarennDurenn",
@@ -241,6 +235,12 @@
       "level": 24,
       "exp": 58343,
       "saldo": 81084237669526
+    },
+    {
+      "name": "Ibnu",
+      "level": 0,
+      "exp": 1395,
+      "saldo": 9999999050000
     }
   ],
   "exp": [
@@ -331,8 +331,8 @@
     {
       "name": "Kayy",
       "level": 24,
-      "exp": 57728,
-      "saldo": 1.0000149974942157e+23
+      "exp": 57827,
+      "saldo": 0
     },
     {
       "name": "kensoy",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775126560211
+  "lastUpdated": 1775126620209
 }
