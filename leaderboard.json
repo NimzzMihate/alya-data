@@ -33,7 +33,7 @@
     {
       "name": "Joishi ganteng",
       "level": 88,
-      "exp": 213421,
+      "exp": 213457,
       "saldo": 2.0180019841533005e+33
     },
     {
@@ -63,8 +63,8 @@
     {
       "name": "murazaki",
       "level": 32,
-      "exp": 78706,
-      "saldo": 1440
+      "exp": 78823,
+      "saldo": 1439
     },
     {
       "name": "Souta",
@@ -75,7 +75,7 @@
     {
       "name": "*KUROSE*",
       "level": 29,
-      "exp": 71522,
+      "exp": 71562,
       "saldo": 1000
     },
     {
@@ -87,7 +87,7 @@
     {
       "name": "Kayy",
       "level": 23,
-      "exp": 56776,
+      "exp": 56898,
       "saldo": 1.0000149974942157e+23
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 88,
-      "exp": 213421,
+      "exp": 213457,
       "saldo": 2.0180019841533005e+33
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "Kayy",
       "level": 23,
-      "exp": 56776,
+      "exp": 56898,
       "saldo": 1.0000149974942157e+23
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Joishi ganteng",
       "level": 88,
-      "exp": 213421,
+      "exp": 213457,
       "saldo": 2.0180019841533005e+33
     },
     {
@@ -307,8 +307,8 @@
     {
       "name": "murazaki",
       "level": 32,
-      "exp": 78706,
-      "saldo": 1440
+      "exp": 78823,
+      "saldo": 1439
     },
     {
       "name": "Souta",
@@ -319,7 +319,7 @@
     {
       "name": "*KUROSE*",
       "level": 29,
-      "exp": 71522,
+      "exp": 71562,
       "saldo": 1000
     },
     {
@@ -331,7 +331,7 @@
     {
       "name": "Kayy",
       "level": 23,
-      "exp": 56776,
+      "exp": 56898,
       "saldo": 1.0000149974942157e+23
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775122987130
+  "lastUpdated": 1775123047129
 }
