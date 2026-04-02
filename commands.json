@@ -3776,7 +3776,7 @@
     "verify": 19,
     "daftr": 11,
     "status": 11,
-    "pap": 411,
+    "pap": 412,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -3892,7 +3892,7 @@
     "6282115911954": 2,
     "6281455125940": 2,
     "6285761349641": 13,
-    "pap2": 63,
+    "pap2": 66,
     "getcase": 5,
     "/": 5,
     "cekcantik": 14,
@@ -4029,7 +4029,7 @@
     "cariin": 1,
     "harian": 1,
     "oke": 1,
-    "nikah": 57,
+    "nikah": 58,
     "stiker": 1,
     "6285766167323": 4,
     "delede": 1,
@@ -4083,7 +4083,7 @@
     "karakter": 1,
     "buatanak": 15,
     "istiku": 1,
-    "cerai": 16,
+    "cerai": 17,
     "putus": 85,
     "crop": 22,
     "shopgift": 42,
@@ -4835,5 +4835,5 @@
     "tampok2": 1,
     "6287869188222": 4
   },
-  "lastUpdated": 1775102347770
+  "lastUpdated": 1775102407772
 }
