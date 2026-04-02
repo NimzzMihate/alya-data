@@ -63,7 +63,7 @@
     {
       "name": "murazaki",
       "level": 34,
-      "exp": 83007,
+      "exp": 83057,
       "saldo": 10
     },
     {
@@ -80,9 +80,9 @@
     },
     {
       "name": "Kayy",
-      "level": 24,
-      "exp": 59304,
-      "saldo": 0
+      "level": 27,
+      "exp": 65186,
+      "saldo": 10012
     },
     {
       "name": "Oguri cap",
@@ -196,8 +196,8 @@
     },
     {
       "name": "Player-1118802",
-      "level": 9,
-      "exp": 27367,
+      "level": 11,
+      "exp": 27412,
       "saldo": 98999900000099740
     },
     {
@@ -307,7 +307,7 @@
     {
       "name": "murazaki",
       "level": 34,
-      "exp": 83007,
+      "exp": 83057,
       "saldo": 10
     },
     {
@@ -324,9 +324,9 @@
     },
     {
       "name": "Kayy",
-      "level": 24,
-      "exp": 59304,
-      "saldo": 0
+      "level": 27,
+      "exp": 65186,
+      "saldo": 10012
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775152452353
+  "lastUpdated": 1775152512353
 }
