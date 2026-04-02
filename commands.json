@@ -3707,7 +3707,7 @@
     "makan": 9,
     "repair": 1,
     "kapal": 5,
-    "craft": 244,
+    "craft": 245,
     "listheri": 1,
     "listhero": 6,
     "mancing": 5,
@@ -3981,7 +3981,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 4,
-    "tf": 249,
+    "tf": 250,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -3990,8 +3990,8 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 66,
-    "jual": 53,
+    "sell": 67,
+    "jual": 56,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4837,5 +4837,5 @@
     "toing": 1,
     "toihijab": 1
   },
-  "lastUpdated": 1775103047228
+  "lastUpdated": 1775103107225
 }
