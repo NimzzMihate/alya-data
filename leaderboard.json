@@ -109,16 +109,16 @@
       "saldo": 252183670087847
     },
     {
+      "name": "Sanz",
+      "level": 12,
+      "exp": 30696,
+      "saldo": 0
+    },
+    {
       "name": "Yogie ganteng",
       "level": 12,
       "exp": 30689,
       "saldo": 1722760
-    },
-    {
-      "name": "Sanz",
-      "level": 12,
-      "exp": 30629,
-      "saldo": 0
     }
   ],
   "saldo": [
@@ -353,17 +353,17 @@
       "saldo": 252183670087847
     },
     {
+      "name": "Sanz",
+      "level": 12,
+      "exp": 30696,
+      "saldo": 0
+    },
+    {
       "name": "Yogie ganteng",
       "level": 12,
       "exp": 30689,
       "saldo": 1722760
-    },
-    {
-      "name": "Sanz",
-      "level": 12,
-      "exp": 30629,
-      "saldo": 0
     }
   ],
-  "lastUpdated": 1775141856513
+  "lastUpdated": 1775141916503
 }
