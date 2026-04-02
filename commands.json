@@ -3629,7 +3629,7 @@
     "ewe-paksa": 44,
     "me": 389,
     "setbg": 19,
-    "rampok2": 398,
+    "rampok2": 399,
     "6285609504925": 15,
     "atm": 129,
     "bank": 78,
@@ -3653,11 +3653,11 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 66,
-    "heal": 87,
+    "heal": 88,
     "menu": 124,
     "owner": 11,
     "script": 9,
-    "joinrpg": 33,
+    "joinrpg": 34,
     "mentahan": 1,
     "claim": 33,
     "cekidch": 5,
@@ -3704,7 +3704,7 @@
     "berburu": 20,
     "masak": 12,
     "rpgmenu": 13,
-    "makan": 9,
+    "makan": 10,
     "repair": 1,
     "kapal": 5,
     "craft": 256,
@@ -3798,7 +3798,7 @@
     "snippet": 5,
     "updatealya": 21,
     "kencan": 128,
-    "kasihsusu": 47,
+    "kasihsusu": 48,
     "wm": 80,
     "absen": 3,
     "mulaiabsen": 3,
@@ -4841,5 +4841,5 @@
     "gantengkan": 1,
     "gifttas": 1
   },
-  "lastUpdated": 1775119458042
+  "lastUpdated": 1775119518051
 }
