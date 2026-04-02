@@ -79,16 +79,16 @@
       "saldo": 480625437
     },
     {
+      "name": "Kayy",
+      "level": 24,
+      "exp": 58435,
+      "saldo": 0
+    },
+    {
       "name": "Oguri cap",
       "level": 24,
       "exp": 58343,
       "saldo": 81084237669526
-    },
-    {
-      "name": "Kayy",
-      "level": 24,
-      "exp": 58320,
-      "saldo": 0
     },
     {
       "name": "kensoy",
@@ -111,7 +111,7 @@
     {
       "name": "Sanz",
       "level": 12,
-      "exp": 30786,
+      "exp": 31012,
       "saldo": 0
     },
     {
@@ -323,16 +323,16 @@
       "saldo": 480625437
     },
     {
+      "name": "Kayy",
+      "level": 24,
+      "exp": 58435,
+      "saldo": 0
+    },
+    {
       "name": "Oguri cap",
       "level": 24,
       "exp": 58343,
       "saldo": 81084237669526
-    },
-    {
-      "name": "Kayy",
-      "level": 24,
-      "exp": 58320,
-      "saldo": 0
     },
     {
       "name": "kensoy",
@@ -355,7 +355,7 @@
     {
       "name": "Sanz",
       "level": 12,
-      "exp": 30786,
+      "exp": 31012,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775142276504
+  "lastUpdated": 1775142336505
 }
