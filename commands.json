@@ -3654,7 +3654,7 @@
     "61405583679507": 1,
     "wikwik": 72,
     "heal": 88,
-    "menu": 125,
+    "menu": 126,
     "owner": 11,
     "script": 9,
     "joinrpg": 34,
@@ -3703,7 +3703,7 @@
     "265944542793975": 1,
     "berburu": 20,
     "masak": 12,
-    "rpgmenu": 13,
+    "rpgmenu": 14,
     "makan": 10,
     "repair": 1,
     "kapal": 5,
@@ -4846,5 +4846,5 @@
     "editfoti": 1,
     "irengkan": 1
   },
-  "lastUpdated": 1775129380237
+  "lastUpdated": 1775129440229
 }
