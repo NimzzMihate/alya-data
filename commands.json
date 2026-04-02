@@ -3681,7 +3681,7 @@
     "daily": 18,
     "adventure": 19,
     "cf": 16,
-    "nai2": 37,
+    "nai2": 38,
     "6282137487477": 40,
     "removebg": 45,
     "addown": 7,
@@ -3785,7 +3785,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 195,
+    "saldo": 196,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -3849,7 +3849,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 139,
+    "atmpull": 140,
     "promote": 4,
     "reset": 3,
     "memasak": 1,
@@ -3981,7 +3981,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 4,
-    "tf": 251,
+    "tf": 252,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4841,5 +4841,5 @@
     "gantengkan": 1,
     "gifttas": 1
   },
-  "lastUpdated": 1775122867120
+  "lastUpdated": 1775122927131
 }
