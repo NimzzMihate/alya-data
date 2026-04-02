@@ -87,8 +87,8 @@
     {
       "name": "Kayy",
       "level": 21,
-      "exp": 52476,
-      "saldo": 6459
+      "exp": 52655,
+      "saldo": 1.0000149999028791e+23
     },
     {
       "name": "kensoy",
@@ -97,16 +97,16 @@
       "saldo": 139079684385625
     },
     {
+      "name": "rey",
+      "level": 18,
+      "exp": 43348,
+      "saldo": 21855694779
+    },
+    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
       "saldo": 252183670087847
-    },
-    {
-      "name": "rey",
-      "level": 15,
-      "exp": 36309,
-      "saldo": 21855681639
     },
     {
       "name": "Yogie ganteng",
@@ -177,6 +177,12 @@
       "saldo": 1e+24
     },
     {
+      "name": "Kayy",
+      "level": 21,
+      "exp": 52655,
+      "saldo": 1.0000149999028791e+23
+    },
+    {
       "name": "NarennDurenn",
       "level": 3,
       "exp": 7606,
@@ -235,12 +241,6 @@
       "level": 20,
       "exp": 48457,
       "saldo": 139079684385625
-    },
-    {
-      "name": "Ahmad",
-      "level": 5,
-      "exp": 12027,
-      "saldo": 100000000065871
     }
   ],
   "exp": [
@@ -331,8 +331,8 @@
     {
       "name": "Kayy",
       "level": 21,
-      "exp": 52476,
-      "saldo": 6459
+      "exp": 52655,
+      "saldo": 1.0000149999028791e+23
     },
     {
       "name": "kensoy",
@@ -341,16 +341,16 @@
       "saldo": 139079684385625
     },
     {
+      "name": "rey",
+      "level": 18,
+      "exp": 43348,
+      "saldo": 21855694779
+    },
+    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
       "saldo": 252183670087847
-    },
-    {
-      "name": "rey",
-      "level": 15,
-      "exp": 36309,
-      "saldo": 21855681639
     },
     {
       "name": "Yogie ganteng",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775102927200
+  "lastUpdated": 1775102987198
 }
