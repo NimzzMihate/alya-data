@@ -3776,7 +3776,7 @@
     "verify": 19,
     "daftr": 11,
     "status": 11,
-    "pap": 412,
+    "pap": 413,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -3892,7 +3892,7 @@
     "6282115911954": 2,
     "6281455125940": 2,
     "6285761349641": 13,
-    "pap2": 68,
+    "pap2": 69,
     "getcase": 5,
     "/": 5,
     "cekcantik": 14,
@@ -4839,5 +4839,5 @@
     "megumin": 1,
     "apakah": 3
   },
-  "lastUpdated": 1775110187277
+  "lastUpdated": 1775110247276
 }
