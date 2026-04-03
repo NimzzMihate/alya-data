@@ -62,8 +62,8 @@
     },
     {
       "name": "murazaki",
-      "level": 34,
-      "exp": 83845,
+      "level": 35,
+      "exp": 84067,
       "saldo": 5010
     },
     {
@@ -306,8 +306,8 @@
     },
     {
       "name": "murazaki",
-      "level": 34,
-      "exp": 83845,
+      "level": 35,
+      "exp": 84067,
       "saldo": 5010
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775190458063
+  "lastUpdated": 1775190518071
 }
