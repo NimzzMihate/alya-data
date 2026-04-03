@@ -3666,7 +3666,7 @@
     ">": 5,
     "addapi": 2,
     "pin": 156,
-    "hd": 146,
+    "hd": 147,
     "useitem": 7,
     "77605898313906": 148,
     "huxin": 2,
@@ -3775,7 +3775,7 @@
     "verify": 19,
     "daftr": 11,
     "status": 11,
-    "pap": 440,
+    "pap": 442,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -3841,7 +3841,7 @@
     "pabrik": 1,
     "fitnah": 54,
     "puji": 190,
-    "pacar": 161,
+    "pacar": 162,
     "carikarakter": 142,
     "nembak": 74,
     "cry": 7,
@@ -3885,7 +3885,7 @@
     "6285861427432": 7,
     "statuspacar": 130,
     "kasihmakan": 213,
-    "kasihminum": 38,
+    "kasihminum": 39,
     "naena": 14,
     "noenc": 24,
     "6282115911954": 2,
@@ -4878,5 +4878,5 @@
     "othermenu": 1,
     "theoks": 3
   },
-  "lastUpdated": 1775199384257
+  "lastUpdated": 1775199444265
 }
