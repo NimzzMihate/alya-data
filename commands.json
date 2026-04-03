@@ -4879,7 +4879,9 @@
     "theoks": 3,
     "t": 1,
     "swm": 1,
-    "hitung": 3
+    "hitung": 3,
+    "dehaze": 2,
+    "diffusion": 2
   },
-  "lastUpdated": 1775200213611
+  "lastUpdated": 1775200273604
 }
