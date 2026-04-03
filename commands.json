@@ -3653,7 +3653,7 @@
     "61405583679507": 1,
     "wikwik": 76,
     "heal": 91,
-    "menu": 127,
+    "menu": 128,
     "owner": 11,
     "script": 9,
     "joinrpg": 34,
@@ -4854,5 +4854,5 @@
     "trading": 1,
     "heap": 1
   },
-  "lastUpdated": 1775184698049
+  "lastUpdated": 1775184758039
 }
