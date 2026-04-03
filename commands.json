@@ -3652,7 +3652,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 78,
-    "heal": 95,
+    "heal": 96,
     "menu": 132,
     "owner": 11,
     "script": 9,
@@ -3700,7 +3700,7 @@
     "195520047915190": 1,
     "setpp": 52,
     "265944542793975": 1,
-    "berburu": 21,
+    "berburu": 22,
     "masak": 12,
     "rpgmenu": 15,
     "makan": 11,
@@ -3796,7 +3796,7 @@
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
-    "kencan": 146,
+    "kencan": 147,
     "kasihsusu": 60,
     "wm": 94,
     "absen": 3,
@@ -4908,5 +4908,5 @@
     "addlimit": 2,
     "addlimitgame": 2
   },
-  "lastUpdated": 1775243601873
+  "lastUpdated": 1775243661881
 }
