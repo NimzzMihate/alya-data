@@ -3643,7 +3643,7 @@
     "select": 2,
     "gunakan": 1,
     "6283104066685": 6,
-    "6285189628892": 7,
+    "6285189628892": 8,
     "idc": 1,
     "6283875917267": 9,
     "6282220581787": 3,
@@ -4241,9 +4241,9 @@
     "tolaknikah": 2,
     "6282146357295": 1,
     "cekaetia": 1,
-    "semua": 2,
+    "semua": 3,
     "catbox": 3,
-    "gempa": 3,
+    "gempa": 4,
     "tebakkata": 38,
     "tebakpacarorang": 1,
     "gachawaifu": 27,
@@ -4899,9 +4899,9 @@
     "airplane": 1,
     "floby": 1,
     "lobyml": 1,
-    "say": 2,
+    "say": 3,
     "palypet": 1,
     "addowner": 1
   },
-  "lastUpdated": 1775218379120
+  "lastUpdated": 1775218439121
 }
