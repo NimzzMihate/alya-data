@@ -73,16 +73,16 @@
       "saldo": 0
     },
     {
+      "name": "Kayy",
+      "level": 30,
+      "exp": 72164,
+      "saldo": 0
+    },
+    {
       "name": "Souta",
       "level": 30,
       "exp": 72133,
       "saldo": 480625437
-    },
-    {
-      "name": "Kayy",
-      "level": 30,
-      "exp": 72109,
-      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -317,16 +317,16 @@
       "saldo": 0
     },
     {
+      "name": "Kayy",
+      "level": 30,
+      "exp": 72164,
+      "saldo": 0
+    },
+    {
       "name": "Souta",
       "level": 30,
       "exp": 72133,
       "saldo": 480625437
-    },
-    {
-      "name": "Kayy",
-      "level": 30,
-      "exp": 72109,
-      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775199444265
+  "lastUpdated": 1775199504260
 }
