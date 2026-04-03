@@ -63,8 +63,8 @@
     {
       "name": "murazaki",
       "level": 37,
-      "exp": 90141,
-      "saldo": 0
+      "exp": 90402,
+      "saldo": 3.000000000391994e+25
     },
     {
       "name": "*KUROSE*",
@@ -165,6 +165,12 @@
       "saldo": 1.000000000100188e+27
     },
     {
+      "name": "murazaki",
+      "level": 37,
+      "exp": 90402,
+      "saldo": 3.000000000391994e+25
+    },
+    {
       "name": "axell",
       "level": 11,
       "exp": 27992,
@@ -235,12 +241,6 @@
       "level": 24,
       "exp": 58384,
       "saldo": 81084237669526
-    },
-    {
-      "name": "Ibnu",
-      "level": 0,
-      "exp": 1395,
-      "saldo": 9999999050000
     }
   ],
   "exp": [
@@ -307,8 +307,8 @@
     {
       "name": "murazaki",
       "level": 37,
-      "exp": 90141,
-      "saldo": 0
+      "exp": 90402,
+      "saldo": 3.000000000391994e+25
     },
     {
       "name": "*KUROSE*",
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775191718064
+  "lastUpdated": 1775191778065
 }
