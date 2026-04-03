@@ -4892,7 +4892,7 @@
     "qcstik": 1,
     "qcstic": 5,
     "tez": 1,
-    "searchmenu": 1,
+    "searchmenu": 2,
     "225885617660098": 1,
     "opening": 1,
     "flobyml": 8,
@@ -4907,7 +4907,8 @@
     "getinfooribadi": 1,
     "addlimit": 2,
     "addlimitgame": 2,
-    "adventute": 1
+    "adventute": 1,
+    "news": 1
   },
-  "lastUpdated": 1775253622622
+  "lastUpdated": 1775253682625
 }
