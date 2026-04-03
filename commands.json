@@ -3680,7 +3680,7 @@
     "daily": 23,
     "adventure": 22,
     "cf": 16,
-    "nai2": 39,
+    "nai2": 40,
     "6282137487477": 42,
     "removebg": 47,
     "addown": 7,
@@ -3947,7 +3947,7 @@
     "38796926128361": 2,
     "narik": 3,
     "toimg": 60,
-    "runtime": 5,
+    "runtime": 6,
     "ephotomenu": 2,
     "6283839942035": 3,
     "herolist": 1,
@@ -4895,5 +4895,5 @@
     "searchmenu": 1,
     "225885617660098": 1
   },
-  "lastUpdated": 1775212202344
+  "lastUpdated": 1775212262337
 }
