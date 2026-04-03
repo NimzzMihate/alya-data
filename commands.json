@@ -4084,7 +4084,7 @@
     "istiku": 1,
     "cerai": 22,
     "putus": 92,
-    "crop": 24,
+    "crop": 25,
     "shopgift": 42,
     "give": 3,
     "asep": 1,
@@ -4890,7 +4890,8 @@
     "hijaukan": 2,
     "telegraph": 2,
     "qcstik": 1,
-    "qcstic": 5
+    "qcstic": 5,
+    "tez": 1
   },
-  "lastUpdated": 1775201773645
+  "lastUpdated": 1775201833645
 }
