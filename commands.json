@@ -3784,7 +3784,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 229,
+    "saldo": 230,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -3884,7 +3884,7 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 131,
-    "kasihmakan": 217,
+    "kasihmakan": 218,
     "kasihminum": 42,
     "naena": 14,
     "noenc": 24,
@@ -4197,7 +4197,7 @@
     "foodpet": 1,
     "releaseper": 1,
     "releasepet": 1,
-    "remini": 8,
+    "remini": 9,
     "openbo": 4,
     "stamina": 1,
     "negararusia": 1,
@@ -4372,7 +4372,7 @@
     "invpd": 2,
     "628895327267": 6,
     "ceklimit": 8,
-    "ceksaldo": 21,
+    "ceksaldo": 22,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -4896,5 +4896,5 @@
     "225885617660098": 1,
     "opening": 1
   },
-  "lastUpdated": 1775216282344
+  "lastUpdated": 1775216342350
 }
