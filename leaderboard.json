@@ -80,8 +80,8 @@
     },
     {
       "name": "Kayy",
-      "level": 27,
-      "exp": 67040,
+      "level": 28,
+      "exp": 67202,
       "saldo": 0
     },
     {
@@ -324,8 +324,8 @@
     },
     {
       "name": "Kayy",
-      "level": 27,
-      "exp": 67040,
+      "level": 28,
+      "exp": 67202,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775183318037
+  "lastUpdated": 1775183378037
 }
