@@ -3718,7 +3718,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 100,
-    "tes": 252,
+    "tes": 253,
     "listown": 13,
     "getpp": 7,
     "linkgc": 9,
@@ -3842,7 +3842,7 @@
     "fitnah": 54,
     "puji": 192,
     "pacar": 162,
-    "carikarakter": 149,
+    "carikarakter": 152,
     "nembak": 76,
     "cry": 7,
     "happy": 4,
@@ -4894,5 +4894,5 @@
     "tez": 1,
     "searchmenu": 1
   },
-  "lastUpdated": 1775211733874
+  "lastUpdated": 1775211842343
 }
