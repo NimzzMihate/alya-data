@@ -3678,7 +3678,7 @@
     "gift": 393,
     "ajakmain": 83,
     "daily": 23,
-    "adventure": 23,
+    "adventure": 25,
     "cf": 16,
     "nai2": 42,
     "6282137487477": 42,
@@ -4906,7 +4906,8 @@
     "ramal": 1,
     "getinfooribadi": 1,
     "addlimit": 2,
-    "addlimitgame": 2
+    "addlimitgame": 2,
+    "adventute": 1
   },
-  "lastUpdated": 1775243721877
+  "lastUpdated": 1775243781879
 }
