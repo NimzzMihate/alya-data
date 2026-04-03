@@ -3632,7 +3632,7 @@
     "6285609504925": 15,
     "atm": 135,
     "bank": 82,
-    "afk": 490,
+    "afk": 491,
     "kerja": 51,
     "628176533297": 14,
     "s": 200,
@@ -3652,7 +3652,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 76,
-    "heal": 89,
+    "heal": 91,
     "menu": 127,
     "owner": 11,
     "script": 9,
@@ -4198,7 +4198,7 @@
     "releaseper": 1,
     "releasepet": 1,
     "remini": 6,
-    "openbo": 2,
+    "openbo": 3,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
@@ -4609,7 +4609,7 @@
     "atmpulll": 1,
     "jembut": 1,
     "bajingn": 1,
-    "60192070491": 25,
+    "60192070491": 27,
     "carikaraktet": 2,
     "kencam": 1,
     "jadwalsholat": 2,
@@ -4648,7 +4648,7 @@
     "unbl": 1,
     "bangun": 1,
     "gidt": 1,
-    "chess": 107,
+    "chess": 109,
     "updateapi": 4,
     "buyayam": 1,
     "6283192352087": 8,
@@ -4851,7 +4851,8 @@
     "zz": 1,
     "..\"": 1,
     "foward": 1,
-    "trading": 1
+    "trading": 1,
+    "heap": 1
   },
-  "lastUpdated": 1775183438035
+  "lastUpdated": 1775183498033
 }
