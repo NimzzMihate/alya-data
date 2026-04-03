@@ -3685,7 +3685,7 @@
     "removebg": 47,
     "addown": 7,
     "listowner": 13,
-    "brat": 71,
+    "brat": 73,
     "brathd": 1,
     "editfoto": 94,
     "dailymisi": 49,
@@ -3853,7 +3853,7 @@
     "reset": 3,
     "memasak": 1,
     "wm\n>": 2,
-    "iqc": 2,
+    "iqc": 3,
     "hackwa": 2,
     "banj": 1,
     "cc": 4,
@@ -4097,7 +4097,7 @@
     "maaf": 8,
     "sg": 110,
     "shop": 19,
-    "168238516305969": 26,
+    "168238516305969": 27,
     "atmtake": 20,
     "giftshop": 1,
     "kasihnamaanak": 8,
@@ -4185,7 +4185,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 102,
+    "atmall": 103,
     "inv": 42,
     "healfull": 4,
     "mute": 5,
@@ -4907,5 +4907,5 @@
     "getinfooribadi": 1,
     "addlimit": 1
   },
-  "lastUpdated": 1775221805485
+  "lastUpdated": 1775221865484
 }
