@@ -3922,7 +3922,7 @@
     "kecocokan": 10,
     "register": 14,
     "rename": 1,
-    "cn": 36,
+    "cn": 37,
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
@@ -4901,5 +4901,5 @@
     "lobyml": 1,
     "say": 2
   },
-  "lastUpdated": 1775217779121
+  "lastUpdated": 1775217839124
 }
