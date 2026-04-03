@@ -3784,7 +3784,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 217,
+    "saldo": 218,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -3841,7 +3841,7 @@
     "pabrik": 1,
     "fitnah": 51,
     "puji": 188,
-    "pacar": 152,
+    "pacar": 153,
     "carikarakter": 137,
     "nembak": 72,
     "cry": 7,
@@ -4859,7 +4859,8 @@
     "6281239969158": 1,
     "nanana": 1,
     "kasihmkan": 1,
-    "kasihmakanan": 3
+    "kasihmakanan": 3,
+    "makanan": 1
   },
-  "lastUpdated": 1775196104109
+  "lastUpdated": 1775196164105
 }
