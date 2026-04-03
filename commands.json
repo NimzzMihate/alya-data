@@ -3842,8 +3842,8 @@
     "fitnah": 52,
     "puji": 189,
     "pacar": 159,
-    "carikarakter": 139,
-    "nembak": 72,
+    "carikarakter": 142,
+    "nembak": 74,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -3922,7 +3922,7 @@
     "kecocokan": 10,
     "register": 13,
     "rename": 1,
-    "cn": 27,
+    "cn": 28,
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
@@ -4331,7 +4331,7 @@
     "earrape": 1,
     "nahida": 30,
     "pasanganmenu": 12,
-    "menupasangan": 2,
+    "menupasangan": 3,
     "katjiwa": 3,
     "ler": 1,
     "tts": 14,
@@ -4874,5 +4874,5 @@
     "menu-pasangan": 1,
     "tooglobal": 1
   },
-  "lastUpdated": 1775197464213
+  "lastUpdated": 1775197524205
 }
