@@ -3632,7 +3632,7 @@
     "6285609504925": 15,
     "atm": 148,
     "bank": 85,
-    "afk": 513,
+    "afk": 514,
     "kerja": 52,
     "628176533297": 14,
     "s": 203,
@@ -3726,7 +3726,7 @@
     "6281283401829": 1,
     "tembak": 36,
     "terima": 19,
-    "cium": 173,
+    "cium": 175,
     "6281915895220": 5,
     "6281215537344": 3,
     "rampok": 117,
@@ -3884,7 +3884,7 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 131,
-    "kasihmakan": 214,
+    "kasihmakan": 215,
     "kasihminum": 40,
     "naena": 14,
     "noenc": 24,
@@ -4609,7 +4609,7 @@
     "atmpulll": 1,
     "jembut": 1,
     "bajingn": 1,
-    "60192070491": 34,
+    "60192070491": 35,
     "carikaraktet": 2,
     "kencam": 1,
     "jadwalsholat": 2,
@@ -4894,5 +4894,5 @@
     "tez": 1,
     "searchmenu": 1
   },
-  "lastUpdated": 1775209513848
+  "lastUpdated": 1775209573860
 }
