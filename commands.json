@@ -4185,7 +4185,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 98,
+    "atmall": 99,
     "inv": 40,
     "healfull": 4,
     "mute": 5,
@@ -4903,5 +4903,5 @@
     "palypet": 1,
     "addowner": 1
   },
-  "lastUpdated": 1775219826977
+  "lastUpdated": 1775219886998
 }
