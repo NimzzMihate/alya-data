@@ -3,8 +3,8 @@
   "totalUsers": 1056,
   "totalGroups": 37,
   "totalFeatures": 3610,
-  "totalCmd": 16921,
-  "totalChat": 16921,
+  "totalCmd": 16928,
+  "totalChat": 16928,
   "topCommands": [
     {
       "cmd": "buy",
@@ -36,7 +36,7 @@
     },
     {
       "cmd": "tf",
-      "count": 276
+      "count": 277
     },
     {
       "cmd": "craft",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 2161,
-  "lastUpdated": 1775194669054
+  "uptimeSeconds": 61,
+  "lastUpdated": 1775194784089
 }
