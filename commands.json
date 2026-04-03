@@ -3630,7 +3630,7 @@
     "setbg": 20,
     "rampok2": 410,
     "6285609504925": 15,
-    "atm": 138,
+    "atm": 140,
     "bank": 84,
     "afk": 498,
     "kerja": 51,
@@ -3784,7 +3784,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 213,
+    "saldo": 215,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -3980,7 +3980,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 4,
-    "tf": 275,
+    "tf": 276,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4185,7 +4185,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 92,
+    "atmall": 93,
     "inv": 39,
     "healfull": 4,
     "mute": 5,
@@ -4858,5 +4858,5 @@
     "jonathan": 1,
     "6281239969158": 1
   },
-  "lastUpdated": 1775193829053
+  "lastUpdated": 1775193889053
 }
