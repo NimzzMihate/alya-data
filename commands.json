@@ -3656,7 +3656,7 @@
     "menu": 128,
     "owner": 11,
     "script": 9,
-    "joinrpg": 34,
+    "joinrpg": 35,
     "mentahan": 1,
     "claim": 33,
     "cekidch": 6,
@@ -3848,7 +3848,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 149,
+    "atmpull": 151,
     "promote": 4,
     "reset": 3,
     "memasak": 1,
@@ -4857,5 +4857,5 @@
     "238053243232488": 4,
     "jonathan": 1
   },
-  "lastUpdated": 1775191898064
+  "lastUpdated": 1775191958064
 }
