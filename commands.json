@@ -3652,7 +3652,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 78,
-    "heal": 96,
+    "heal": 97,
     "menu": 132,
     "owner": 11,
     "script": 9,
@@ -4186,7 +4186,7 @@
     "cekstatus": 1,
     "cekprofil": 7,
     "atmall": 103,
-    "inv": 42,
+    "inv": 43,
     "healfull": 4,
     "mute": 5,
     "perstat": 1,
@@ -4908,5 +4908,5 @@
     "addlimit": 2,
     "addlimitgame": 2
   },
-  "lastUpdated": 1775243661881
+  "lastUpdated": 1775243721877
 }
