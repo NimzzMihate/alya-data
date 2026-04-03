@@ -3985,7 +3985,7 @@
     "47039270359040": 3,
     "autosahur": 1,
     "6285855009121": 4,
-    "listcap": 20,
+    "listcap": 21,
     "aiart": 1,
     "f": 3,
     "heal.": 1,
@@ -4185,7 +4185,7 @@
     "listban": 2,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 100,
+    "atmall": 101,
     "inv": 42,
     "healfull": 4,
     "mute": 5,
@@ -4433,7 +4433,7 @@
     "naonc": 1,
     "mabar": 1,
     "malam": 3,
-    "addsaldo": 16,
+    "addsaldo": 17,
     "3260467388514": 18,
     "peluk": 3,
     "nambahpacat": 1,
@@ -4906,5 +4906,5 @@
     "ramal": 1,
     "getinfooribadi": 1
   },
-  "lastUpdated": 1775221505460
+  "lastUpdated": 1775221565482
 }
