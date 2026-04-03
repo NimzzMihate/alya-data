@@ -3632,7 +3632,7 @@
     "6285609504925": 15,
     "atm": 153,
     "bank": 85,
-    "afk": 524,
+    "afk": 525,
     "kerja": 52,
     "628176533297": 14,
     "s": 205,
@@ -3673,7 +3673,7 @@
     "usaha": 41,
     "memancing": 11,
     "271481040834666": 86,
-    "6285189358241": 164,
+    "6285189358241": 165,
     "huxinn😡😡": 1,
     "gift": 382,
     "ajakmain": 83,
@@ -3706,7 +3706,7 @@
     "makan": 11,
     "repair": 1,
     "kapal": 5,
-    "craft": 272,
+    "craft": 274,
     "listheri": 1,
     "listhero": 6,
     "mancing": 6,
@@ -3990,7 +3990,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 69,
-    "jual": 69,
+    "jual": 70,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4186,7 +4186,7 @@
     "cekstatus": 1,
     "cekprofil": 7,
     "atmall": 99,
-    "inv": 41,
+    "inv": 42,
     "healfull": 4,
     "mute": 5,
     "perstat": 1,
@@ -4903,5 +4903,5 @@
     "palypet": 1,
     "addowner": 1
   },
-  "lastUpdated": 1775220127002
+  "lastUpdated": 1775220187007
 }
