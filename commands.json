@@ -3691,7 +3691,7 @@
     "dailymisi": 46,
     "open-bo": 41,
     "ewepaksa": 107,
-    "topglobal": 27,
+    "topglobal": 28,
     "6285789692015": 1,
     "buy": 506,
     "smeme": 92,
@@ -3726,7 +3726,7 @@
     "6281283401829": 1,
     "tembak": 28,
     "terima": 19,
-    "cium": 166,
+    "cium": 167,
     "6281915895220": 5,
     "6281215537344": 3,
     "rampok": 117,
@@ -3884,8 +3884,8 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 129,
-    "kasihmakan": 200,
-    "kasihminum": 33,
+    "kasihmakan": 202,
+    "kasihminum": 34,
     "naena": 13,
     "noenc": 22,
     "6282115911954": 2,
@@ -3917,7 +3917,7 @@
     "pindl": 11,
     "totalfitur": 1,
     "mie": 1,
-    "statusanak": 40,
+    "statusanak": 41,
     "wink": 2,
     "kecocokan": 10,
     "register": 13,
@@ -4178,7 +4178,7 @@
     "todak": 2,
     "hoax": 1,
     "vium": 1,
-    "kasih": 3,
+    "kasih": 5,
     "jointpg": 1,
     "listpet": 6,
     "listbug": 1,
@@ -4858,7 +4858,8 @@
     "jonathan": 1,
     "6281239969158": 1,
     "nanana": 1,
-    "kasihmkan": 1
+    "kasihmkan": 1,
+    "kasihmakanan": 2
   },
-  "lastUpdated": 1775195984103
+  "lastUpdated": 1775196044107
 }
