@@ -9,7 +9,7 @@
     {
       "name": "Nimzz sad boy",
       "level": 510,
-      "exp": 344146,
+      "exp": 344213,
       "saldo": 1.0000000000058519e+45
     },
     {
@@ -63,8 +63,8 @@
     {
       "name": "murazaki",
       "level": 34,
-      "exp": 83440,
-      "saldo": 10
+      "exp": 83745,
+      "saldo": 10010
     },
     {
       "name": "*KUROSE*",
@@ -131,7 +131,7 @@
     {
       "name": "Nimzz sad boy",
       "level": 510,
-      "exp": 344146,
+      "exp": 344213,
       "saldo": 1.0000000000058519e+45
     },
     {
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz sad boy",
       "level": 510,
-      "exp": 344146,
+      "exp": 344213,
       "saldo": 1.0000000000058519e+45
     },
     {
@@ -307,8 +307,8 @@
     {
       "name": "murazaki",
       "level": 34,
-      "exp": 83440,
-      "saldo": 10
+      "exp": 83745,
+      "saldo": 10010
     },
     {
       "name": "*KUROSE*",
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775190338069
+  "lastUpdated": 1775190398060
 }
