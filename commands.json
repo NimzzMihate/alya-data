@@ -3678,7 +3678,7 @@
     "gift": 378,
     "ajakmain": 81,
     "daily": 23,
-    "adventure": 22,
+    "adventure": 23,
     "cf": 16,
     "nai2": 42,
     "6282137487477": 42,
@@ -3688,7 +3688,7 @@
     "brat": 71,
     "brathd": 1,
     "editfoto": 94,
-    "dailymisi": 48,
+    "dailymisi": 49,
     "open-bo": 44,
     "ewepaksa": 111,
     "topglobal": 38,
@@ -3922,7 +3922,7 @@
     "kecocokan": 10,
     "register": 14,
     "rename": 1,
-    "cn": 35,
+    "cn": 36,
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
@@ -4896,5 +4896,5 @@
     "225885617660098": 1,
     "opening": 1
   },
-  "lastUpdated": 1775214722344
+  "lastUpdated": 1775214782342
 }
