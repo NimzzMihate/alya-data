@@ -69,8 +69,8 @@
     {
       "name": "*KUROSE*",
       "level": 30,
-      "exp": 72571,
-      "saldo": 1000
+      "exp": 72679,
+      "saldo": 1001
     },
     {
       "name": "Souta",
@@ -313,8 +313,8 @@
     {
       "name": "*KUROSE*",
       "level": 30,
-      "exp": 72571,
-      "saldo": 1000
+      "exp": 72679,
+      "saldo": 1001
     },
     {
       "name": "Souta",
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775191898064
+  "lastUpdated": 1775191958064
 }
