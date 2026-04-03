@@ -4882,7 +4882,9 @@
     "hitung": 3,
     "dehaze": 2,
     "diffusion": 3,
-    "carbon": 2
+    "carbon": 2,
+    "toptv": 2,
+    "stcrandom": 1
   },
-  "lastUpdated": 1775200333608
+  "lastUpdated": 1775200393608
 }
