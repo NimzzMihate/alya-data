@@ -3839,7 +3839,7 @@
     "hargasewa": 4,
     "d": 80,
     "pabrik": 1,
-    "fitnah": 52,
+    "fitnah": 53,
     "puji": 189,
     "pacar": 159,
     "carikarakter": 142,
@@ -4781,7 +4781,7 @@
     "nambah": 1,
     "tambah": 3,
     "pinzhuxin": 1,
-    "toori": 3,
+    "toori": 4,
     "flatten": 1,
     "pppacar": 1,
     "audio2txt": 1,
@@ -4876,5 +4876,5 @@
     "cfps": 1,
     "togh": 1
   },
-  "lastUpdated": 1775197584206
+  "lastUpdated": 1775197644205
 }
