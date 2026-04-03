@@ -3653,7 +3653,7 @@
     "61405583679507": 1,
     "wikwik": 76,
     "heal": 89,
-    "menu": 126,
+    "menu": 127,
     "owner": 11,
     "script": 9,
     "joinrpg": 34,
@@ -3702,7 +3702,7 @@
     "265944542793975": 1,
     "berburu": 20,
     "masak": 12,
-    "rpgmenu": 14,
+    "rpgmenu": 15,
     "makan": 10,
     "repair": 1,
     "kapal": 5,
@@ -3886,7 +3886,7 @@
     "statuspacar": 129,
     "kasihmakan": 189,
     "kasihminum": 27,
-    "naena": 12,
+    "naena": 13,
     "noenc": 22,
     "6282115911954": 2,
     "6281455125940": 2,
@@ -4852,5 +4852,5 @@
     "..\"": 1,
     "foward": 1
   },
-  "lastUpdated": 1775183258033
+  "lastUpdated": 1775183318037
 }
