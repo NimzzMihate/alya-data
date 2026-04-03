@@ -3626,7 +3626,7 @@
     "playmoba": 38,
     "ngaji": 31,
     "ewe-paksa": 46,
-    "me": 447,
+    "me": 448,
     "setbg": 20,
     "rampok2": 418,
     "6285609504925": 15,
@@ -3922,7 +3922,7 @@
     "kecocokan": 10,
     "register": 14,
     "rename": 1,
-    "cn": 41,
+    "cn": 42,
     "cari": 3,
     "menurpg": 2,
     "mengaji": 1,
@@ -4905,7 +4905,8 @@
     "getkodeotp": 1,
     "ramal": 1,
     "getinfooribadi": 1,
-    "addlimit": 1
+    "addlimit": 2,
+    "addlimitgame": 1
   },
-  "lastUpdated": 1775221925484
+  "lastUpdated": 1775221985486
 }
