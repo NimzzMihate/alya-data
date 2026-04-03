@@ -4534,7 +4534,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 46,
-    "cekbank": 27,
+    "cekbank": 28,
     "cektomboy": 1,
     "bajingan": 4,
     "tabungan": 8,
@@ -4852,7 +4852,8 @@
     "..\"": 1,
     "foward": 1,
     "trading": 1,
-    "heap": 1
+    "heap": 1,
+    "cenbank": 1
   },
-  "lastUpdated": 1775184818044
+  "lastUpdated": 1775184878037
 }
