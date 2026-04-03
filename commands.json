@@ -3843,7 +3843,7 @@
     "puji": 192,
     "pacar": 162,
     "carikarakter": 149,
-    "nembak": 74,
+    "nembak": 75,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -3920,7 +3920,7 @@
     "statusanak": 43,
     "wink": 2,
     "kecocokan": 10,
-    "register": 13,
+    "register": 14,
     "rename": 1,
     "cn": 33,
     "cari": 3,
@@ -4894,5 +4894,5 @@
     "tez": 1,
     "searchmenu": 1
   },
-  "lastUpdated": 1775208373814
+  "lastUpdated": 1775208433815
 }
