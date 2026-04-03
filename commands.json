@@ -3840,8 +3840,8 @@
     "d": 102,
     "pabrik": 1,
     "fitnah": 54,
-    "puji": 194,
-    "pacar": 165,
+    "puji": 199,
+    "pacar": 166,
     "carikarakter": 153,
     "nembak": 77,
     "cry": 7,
@@ -4148,7 +4148,7 @@
     "regis": 3,
     "battlepet": 102,
     "riges": 1,
-    "mengangguk": 9,
+    "mengangguk": 10,
     "carikarakter[nadeshiko": 1,
     "pap6": 1,
     "statuspacaran": 1,
@@ -4908,5 +4908,5 @@
     "addlimit": 2,
     "addlimitgame": 2
   },
-  "lastUpdated": 1775243541877
+  "lastUpdated": 1775243601873
 }
