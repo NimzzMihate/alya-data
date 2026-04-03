@@ -3628,9 +3628,9 @@
     "ewe-paksa": 46,
     "me": 441,
     "setbg": 20,
-    "rampok2": 416,
+    "rampok2": 417,
     "6285609504925": 15,
-    "atm": 150,
+    "atm": 153,
     "bank": 85,
     "afk": 519,
     "kerja": 52,
@@ -4109,8 +4109,8 @@
     "6289530116661": 1,
     "adoptpet": 23,
     "petstat": 27,
-    "playpet": 59,
-    "feedpet": 93,
+    "playpet": 61,
+    "feedpet": 97,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4146,7 +4146,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 99,
+    "battlepet": 100,
     "riges": 1,
     "mengangguk": 9,
     "carikarakter[nadeshiko": 1,
@@ -4901,5 +4901,5 @@
     "lobyml": 1,
     "say": 2
   },
-  "lastUpdated": 1775218079118
+  "lastUpdated": 1775218139118
 }
