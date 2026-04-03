@@ -3848,7 +3848,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 164,
+    "atmpull": 165,
     "promote": 4,
     "reset": 3,
     "memasak": 1,
@@ -3980,7 +3980,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 4,
-    "tf": 284,
+    "tf": 287,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4908,5 +4908,5 @@
     "addlimit": 2,
     "addlimitgame": 2
   },
-  "lastUpdated": 1775224627479
+  "lastUpdated": 1775224687478
 }
