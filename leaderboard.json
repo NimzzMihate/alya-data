@@ -69,8 +69,8 @@
     {
       "name": "Kayy",
       "level": 39,
-      "exp": 94383,
-      "saldo": 0
+      "exp": 94620,
+      "saldo": 1.0009900149974516e+26
     },
     {
       "name": "*KUROSE*",
@@ -165,6 +165,12 @@
       "saldo": 1.000000000100188e+27
     },
     {
+      "name": "Kayy",
+      "level": 39,
+      "exp": 94620,
+      "saldo": 1.0009900149974516e+26
+    },
+    {
       "name": "Sanzx",
       "level": 1,
       "exp": 4167,
@@ -235,12 +241,6 @@
       "level": 13,
       "exp": 33065,
       "saldo": 10000017631
-    },
-    {
-      "name": "Flonα Lyzellé ❀.",
-      "level": 81,
-      "exp": 195069,
-      "saldo": 9997914000
     }
   ],
   "exp": [
@@ -313,8 +313,8 @@
     {
       "name": "Kayy",
       "level": 39,
-      "exp": 94383,
-      "saldo": 0
+      "exp": 94620,
+      "saldo": 1.0009900149974516e+26
     },
     {
       "name": "*KUROSE*",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775346365865
+  "lastUpdated": 1775346425868
 }
