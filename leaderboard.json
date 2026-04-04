@@ -14,8 +14,8 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 372,
-      "exp": 895120,
+      "level": 373,
+      "exp": 895364,
       "saldo": 9.938373663636363e+168
     },
     {
@@ -81,8 +81,8 @@
     {
       "name": "rey",
       "level": 31,
-      "exp": 75321,
-      "saldo": 114499770630
+      "exp": 75649,
+      "saldo": 114349772130
     },
     {
       "name": "Souta",
@@ -124,8 +124,8 @@
   "saldo": [
     {
       "name": "Ditz ketoprak",
-      "level": 372,
-      "exp": 895120,
+      "level": 373,
+      "exp": 895364,
       "saldo": 9.938373663636363e+168
     },
     {
@@ -252,8 +252,8 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 372,
-      "exp": 895120,
+      "level": 373,
+      "exp": 895364,
       "saldo": 9.938373663636363e+168
     },
     {
@@ -325,8 +325,8 @@
     {
       "name": "rey",
       "level": 31,
-      "exp": 75321,
-      "saldo": 114499770630
+      "exp": 75649,
+      "saldo": 114349772130
     },
     {
       "name": "Souta",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775305875648
+  "lastUpdated": 1775305935649
 }
