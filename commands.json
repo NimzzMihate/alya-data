@@ -3665,7 +3665,7 @@
     "6281393286345": 130,
     ">": 5,
     "addapi": 2,
-    "pin": 189,
+    "pin": 190,
     "hd": 171,
     "useitem": 7,
     "77605898313906": 165,
@@ -3720,7 +3720,7 @@
     "cekprofile": 102,
     "tes": 274,
     "listown": 13,
-    "getpp": 10,
+    "getpp": 11,
     "linkgc": 12,
     "cekpasangan": 82,
     "6281283401829": 1,
@@ -4940,7 +4940,9 @@
     "keyboard": 1,
     "buildmlbb": 1,
     "buildhero": 1,
-    "got": 1
+    "got": 1,
+    "wastalk": 1,
+    "ytstalk": 2
   },
-  "lastUpdated": 1775314597557
+  "lastUpdated": 1775314657555
 }
