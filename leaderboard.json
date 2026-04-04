@@ -93,8 +93,8 @@
     {
       "name": "rey",
       "level": 23,
-      "exp": 56396,
-      "saldo": 58650716257
+      "exp": 63088,
+      "saldo": 58650730302
     },
     {
       "name": "kensoy",
@@ -329,16 +329,16 @@
       "saldo": 480625437
     },
     {
+      "name": "rey",
+      "level": 23,
+      "exp": 63088,
+      "saldo": 58650730302
+    },
+    {
       "name": "Oguri cap",
       "level": 24,
       "exp": 58384,
       "saldo": 81084237669526
-    },
-    {
-      "name": "rey",
-      "level": 23,
-      "exp": 56396,
-      "saldo": 58650716257
     },
     {
       "name": "kensoy",
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775291133053
+  "lastUpdated": 1775291193059
 }
