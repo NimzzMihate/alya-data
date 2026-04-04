@@ -3630,7 +3630,7 @@
     "setbg": 20,
     "rampok2": 426,
     "6285609504925": 15,
-    "atm": 162,
+    "atm": 163,
     "bank": 85,
     "afk": 543,
     "kerja": 52,
@@ -3784,7 +3784,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 248,
+    "saldo": 249,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -3980,7 +3980,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 4,
-    "tf": 288,
+    "tf": 289,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4134,7 +4134,7 @@
     "cek": 16,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 45,
+    "bailout": 46,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4639,7 +4639,7 @@
     "kasihmana": 1,
     "mcp>margacreatorpokemon": 1,
     "271481040834666laku?": 1,
-    "177962104172551": 11,
+    "177962104172551": 13,
     "calon)": 1,
     "]": 1,
     "panen": 1,
@@ -4924,5 +4924,5 @@
     "public": 1,
     "97307433390109": 1
   },
-  "lastUpdated": 1775301535120
+  "lastUpdated": 1775301595124
 }
