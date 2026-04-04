@@ -3775,7 +3775,7 @@
     "verify": 20,
     "daftr": 11,
     "status": 11,
-    "pap": 452,
+    "pap": 453,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -3884,8 +3884,8 @@
     "bratt": 1,
     "6285861427432": 7,
     "statuspacar": 131,
-    "kasihmakan": 232,
-    "kasihminum": 55,
+    "kasihmakan": 233,
+    "kasihminum": 56,
     "naena": 14,
     "noenc": 24,
     "6282115911954": 2,
@@ -4921,5 +4921,5 @@
     "say3": 1,
     "reverse": 4
   },
-  "lastUpdated": 1775294286111
+  "lastUpdated": 1775294346113
 }
