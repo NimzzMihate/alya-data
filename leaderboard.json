@@ -21,8 +21,8 @@
     {
       "name": "?",
       "level": 345,
-      "exp": 828529,
-      "saldo": 1.24e+53
+      "exp": 828603,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -63,8 +63,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 44,
-      "exp": 106532,
-      "saldo": 999999999999999
+      "exp": 106680,
+      "saldo": 0
     },
     {
       "name": "Kayy",
@@ -135,12 +135,6 @@
       "saldo": 1e+63
     },
     {
-      "name": "?",
-      "level": 345,
-      "exp": 828529,
-      "saldo": 1.24e+53
-    },
-    {
       "name": "Nimzz >.<",
       "level": 510,
       "exp": 348343,
@@ -201,12 +195,6 @@
       "saldo": 1000543661796359200
     },
     {
-      "name": "\n> murazaki 2.0",
-      "level": 44,
-      "exp": 106532,
-      "saldo": 999999999999999
-    },
-    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
@@ -241,6 +229,18 @@
       "level": 31,
       "exp": 75983,
       "saldo": 118349772130
+    },
+    {
+      "name": "Player-1118802",
+      "level": 13,
+      "exp": 33065,
+      "saldo": 10000017631
+    },
+    {
+      "name": "Flonα Lyzellé ❀.",
+      "level": 81,
+      "exp": 195069,
+      "saldo": 9997914000
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "?",
       "level": 345,
-      "exp": 828529,
-      "saldo": 1.24e+53
+      "exp": 828603,
+      "saldo": 0
     },
     {
       "name": "Nimzz >.<",
@@ -307,8 +307,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 44,
-      "exp": 106532,
-      "saldo": 999999999999999
+      "exp": 106680,
+      "saldo": 0
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775311779131
+  "lastUpdated": 1775311839232
 }
