@@ -3698,7 +3698,7 @@
     "getno": 57,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
     "195520047915190": 1,
-    "setpp": 53,
+    "setpp": 54,
     "265944542793975": 1,
     "berburu": 22,
     "masak": 12,
@@ -3706,7 +3706,7 @@
     "makan": 12,
     "repair": 1,
     "kapal": 5,
-    "craft": 278,
+    "craft": 281,
     "listheri": 1,
     "listhero": 6,
     "mancing": 6,
@@ -4213,7 +4213,7 @@
     "join": 2,
     "monopoli": 59,
     "oom": 1,
-    "inventory": 13,
+    "inventory": 14,
     "like": 1,
     "suka": 1,
     "monthly": 1,
@@ -4917,5 +4917,5 @@
     "bugmenu": 1,
     "carikaracter": 1
   },
-  "lastUpdated": 1775282972968
+  "lastUpdated": 1775283032975
 }
