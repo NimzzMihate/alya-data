@@ -3781,9 +3781,9 @@
     "gantinama": 1,
     "69372932575293": 1,
     "close": 2,
-    "buildml": 14,
+    "buildml": 15,
     "izin": 1,
-    "build": 1,
+    "build": 2,
     "saldo": 259,
     "demote": 5,
     "sendgc": 2,
@@ -3847,7 +3847,7 @@
     "cry": 7,
     "happy": 4,
     "sad": 1,
-    "bully": 9,
+    "bully": 10,
     "atmpull": 182,
     "promote": 4,
     "reset": 3,
@@ -4939,5 +4939,5 @@
     "ngepet": 2,
     "keyboard": 1
   },
-  "lastUpdated": 1775313277544
+  "lastUpdated": 1775313337544
 }
