@@ -3843,7 +3843,7 @@
     "puji": 207,
     "pacar": 168,
     "carikarakter": 156,
-    "nembak": 78,
+    "nembak": 79,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4082,8 +4082,8 @@
     "karakter": 1,
     "buatanak": 17,
     "istiku": 1,
-    "cerai": 23,
-    "putus": 92,
+    "cerai": 24,
+    "putus": 94,
     "crop": 25,
     "shopgift": 44,
     "give": 3,
@@ -4912,5 +4912,5 @@
     "ytsearch": 3,
     "41176472277013": 1
   },
-  "lastUpdated": 1775271566865
+  "lastUpdated": 1775271626859
 }
