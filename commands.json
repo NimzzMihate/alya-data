@@ -3651,7 +3651,7 @@
     "p": 1,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 84,
+    "wikwik": 85,
     "heal": 103,
     "menu": 138,
     "owner": 12,
@@ -3690,7 +3690,7 @@
     "editfoto": 94,
     "dailymisi": 49,
     "open-bo": 44,
-    "ewepaksa": 115,
+    "ewepaksa": 116,
     "topglobal": 46,
     "6285789692015": 1,
     "buy": 548,
@@ -3759,7 +3759,7 @@
     "buyitem": 1,
     "play": 162,
     "ytmp3": 138,
-    "152609298108555": 54,
+    "152609298108555": 55,
     "35588770111681": 1,
     "intro": 42,
     "up": 1,
@@ -3775,7 +3775,7 @@
     "verify": 20,
     "daftr": 11,
     "status": 11,
-    "pap": 462,
+    "pap": 463,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -4924,7 +4924,8 @@
     "public": 1,
     "97307433390109": 1,
     "lcekprofile": 1,
-    "cekdaldo": 1
+    "cekdaldo": 1,
+    "benednya": 1
   },
-  "lastUpdated": 1775304340014
+  "lastUpdated": 1775304400039
 }
