@@ -3628,7 +3628,7 @@
     "ewe-paksa": 48,
     "me": 474,
     "setbg": 20,
-    "rampok2": 438,
+    "rampok2": 440,
     "6285609504925": 15,
     "atm": 168,
     "bank": 86,
@@ -3989,8 +3989,8 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 71,
-    "jual": 71,
+    "sell": 73,
+    "jual": 72,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4186,7 +4186,7 @@
     "cekstatus": 1,
     "cekprofil": 7,
     "atmall": 107,
-    "inv": 43,
+    "inv": 45,
     "healfull": 5,
     "mute": 5,
     "perstat": 1,
@@ -4929,7 +4929,8 @@
     "ajakjalan": 1,
     "beri": 1,
     "zhuxin": 1,
-    "ivn": 1
+    "ivn": 1,
+    "rampo2": 1
   },
-  "lastUpdated": 1775305935649
+  "lastUpdated": 1775305995652
 }
