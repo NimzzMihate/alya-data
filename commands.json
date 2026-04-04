@@ -3628,7 +3628,7 @@
     "ewe-paksa": 46,
     "me": 456,
     "setbg": 20,
-    "rampok2": 418,
+    "rampok2": 419,
     "6285609504925": 15,
     "atm": 160,
     "bank": 85,
@@ -3706,7 +3706,7 @@
     "makan": 12,
     "repair": 1,
     "kapal": 5,
-    "craft": 284,
+    "craft": 290,
     "listheri": 1,
     "listhero": 6,
     "mancing": 6,
@@ -3784,7 +3784,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 244,
+    "saldo": 245,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -3990,7 +3990,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 71,
-    "jual": 70,
+    "jual": 71,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4918,5 +4918,5 @@
     "carikaracter": 1,
     "tfbank": 1
   },
-  "lastUpdated": 1775291253059
+  "lastUpdated": 1775291346079
 }
