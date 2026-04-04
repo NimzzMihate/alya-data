@@ -3628,9 +3628,9 @@
     "ewe-paksa": 46,
     "me": 469,
     "setbg": 20,
-    "rampok2": 436,
+    "rampok2": 437,
     "6285609504925": 15,
-    "atm": 167,
+    "atm": 168,
     "bank": 86,
     "afk": 547,
     "kerja": 52,
@@ -4372,7 +4372,7 @@
     "invpd": 2,
     "628895327267": 6,
     "ceklimit": 8,
-    "ceksaldo": 26,
+    "ceksaldo": 30,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -4534,7 +4534,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 46,
-    "cekbank": 32,
+    "cekbank": 33,
     "cektomboy": 1,
     "bajingan": 4,
     "tabungan": 9,
@@ -4926,5 +4926,5 @@
     "lcekprofile": 1,
     "cekdaldo": 1
   },
-  "lastUpdated": 1775304160013
+  "lastUpdated": 1775304220014
 }
