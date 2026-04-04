@@ -3843,7 +3843,7 @@
     "puji": 207,
     "pacar": 168,
     "carikarakter": 156,
-    "nembak": 77,
+    "nembak": 78,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4082,7 +4082,7 @@
     "karakter": 1,
     "buatanak": 17,
     "istiku": 1,
-    "cerai": 22,
+    "cerai": 23,
     "putus": 92,
     "crop": 25,
     "shopgift": 44,
@@ -4311,7 +4311,7 @@
     "getserial": 2,
     "getsarial": 1,
     "𝙢𝙚": 1,
-    "ceraipaksa": 2,
+    "ceraipaksa": 4,
     "meu": 2,
     "nsfwmenu": 10,
     "trap": 2,
@@ -4912,5 +4912,5 @@
     "ytsearch": 3,
     "41176472277013": 1
   },
-  "lastUpdated": 1775271506859
+  "lastUpdated": 1775271566865
 }
