@@ -3626,7 +3626,7 @@
     "playmoba": 38,
     "ngaji": 32,
     "ewe-paksa": 48,
-    "me": 473,
+    "me": 474,
     "setbg": 20,
     "rampok2": 438,
     "6285609504925": 15,
@@ -3653,7 +3653,7 @@
     "61405583679507": 1,
     "wikwik": 85,
     "heal": 104,
-    "menu": 138,
+    "menu": 139,
     "owner": 12,
     "script": 9,
     "joinrpg": 36,
@@ -3768,7 +3768,7 @@
     "628998866123": 6,
     "166121432961259": 29,
     "....": 2,
-    "setprofile": 107,
+    "setprofile": 108,
     "daftar": 21,
     "profile": 28,
     "topactive": 54,
@@ -3930,7 +3930,7 @@
     "gccanvas": 2,
     "totalchat": 1,
     "145161355005957": 8,
-    "istriku": 24,
+    "istriku": 26,
     "271966086938834": 1,
     "51338180305071": 9,
     "hitamkan": 67,
@@ -4433,7 +4433,7 @@
     "naonc": 1,
     "mabar": 1,
     "malam": 3,
-    "addsaldo": 24,
+    "addsaldo": 25,
     "3260467388514": 18,
     "peluk": 3,
     "nambahpacat": 1,
@@ -4927,7 +4927,8 @@
     "cekdaldo": 1,
     "benednya": 1,
     "ajakjalan": 1,
-    "beri": 1
+    "beri": 1,
+    "zhuxin": 1
   },
-  "lastUpdated": 1775305275619
+  "lastUpdated": 1775305335612
 }
