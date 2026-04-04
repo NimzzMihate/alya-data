@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 360,
-      "exp": 865867,
+      "exp": 865990,
       "saldo": null
     },
     {
@@ -57,14 +57,14 @@
     {
       "name": "Lejen",
       "level": 44,
-      "exp": 106889,
-      "saldo": 1000543661796409200
+      "exp": 106992,
+      "saldo": 1000543661796359200
     },
     {
       "name": "\n> murazaki 2.0",
       "level": 43,
-      "exp": 103665,
-      "saldo": 1e+62
+      "exp": 103865,
+      "saldo": 10000000000000000000
     },
     {
       "name": "Kayy",
@@ -125,7 +125,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 360,
-      "exp": 865867,
+      "exp": 865990,
       "saldo": null
     },
     {
@@ -139,12 +139,6 @@
       "level": 647,
       "exp": 1554972,
       "saldo": 1e+63
-    },
-    {
-      "name": "\n> murazaki 2.0",
-      "level": 43,
-      "exp": 103665,
-      "saldo": 1e+62
     },
     {
       "name": "?",
@@ -213,10 +207,16 @@
       "saldo": 558000001800000000000
     },
     {
+      "name": "\n> murazaki 2.0",
+      "level": 43,
+      "exp": 103865,
+      "saldo": 10000000000000000000
+    },
+    {
       "name": "Lejen",
       "level": 44,
-      "exp": 106889,
-      "saldo": 1000543661796409200
+      "exp": 106992,
+      "saldo": 1000543661796359200
     },
     {
       "name": "danz",
@@ -253,7 +253,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 360,
-      "exp": 865867,
+      "exp": 865990,
       "saldo": null
     },
     {
@@ -301,14 +301,14 @@
     {
       "name": "Lejen",
       "level": 44,
-      "exp": 106889,
-      "saldo": 1000543661796409200
+      "exp": 106992,
+      "saldo": 1000543661796359200
     },
     {
       "name": "\n> murazaki 2.0",
       "level": 43,
-      "exp": 103665,
-      "saldo": 1e+62
+      "exp": 103865,
+      "saldo": 10000000000000000000
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775302855126
+  "lastUpdated": 1775302915180
 }
