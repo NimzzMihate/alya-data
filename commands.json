@@ -3622,13 +3622,13 @@
     "get": 41,
     "tohtml": 8,
     "ranked": 70,
-    "mobaprofile": 14,
+    "mobaprofile": 15,
     "playmoba": 38,
     "ngaji": 31,
     "ewe-paksa": 46,
     "me": 460,
     "setbg": 20,
-    "rampok2": 428,
+    "rampok2": 429,
     "6285609504925": 15,
     "atm": 163,
     "bank": 86,
@@ -3717,7 +3717,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 100,
+    "cekprofile": 101,
     "tes": 263,
     "listown": 13,
     "getpp": 7,
@@ -3770,7 +3770,7 @@
     "....": 2,
     "setprofile": 106,
     "daftar": 21,
-    "profile": 27,
+    "profile": 28,
     "topactive": 54,
     "verify": 20,
     "daftr": 11,
@@ -4922,7 +4922,8 @@
     "reverse": 4,
     "theok": 1,
     "public": 1,
-    "97307433390109": 1
+    "97307433390109": 1,
+    "lcekprofile": 1
   },
-  "lastUpdated": 1775302495130
+  "lastUpdated": 1775302555125
 }
