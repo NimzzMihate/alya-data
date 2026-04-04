@@ -3624,7 +3624,7 @@
     "ranked": 70,
     "mobaprofile": 15,
     "playmoba": 38,
-    "ngaji": 31,
+    "ngaji": 32,
     "ewe-paksa": 48,
     "me": 472,
     "setbg": 20,
@@ -3688,8 +3688,8 @@
     "brat": 77,
     "brathd": 1,
     "editfoto": 94,
-    "dailymisi": 49,
-    "open-bo": 44,
+    "dailymisi": 50,
+    "open-bo": 45,
     "ewepaksa": 120,
     "topglobal": 46,
     "6285789692015": 1,
@@ -3797,7 +3797,7 @@
     "snippet": 5,
     "updatealya": 21,
     "kencan": 166,
-    "kasihsusu": 65,
+    "kasihsusu": 67,
     "wm": 95,
     "absen": 3,
     "mulaiabsen": 3,
@@ -4093,9 +4093,9 @@
     "dompet": 2,
     "istri": 4,
     "lamar": 13,
-    "beli": 6,
+    "beli": 7,
     "maaf": 8,
-    "sg": 120,
+    "sg": 121,
     "shop": 19,
     "168238516305969": 29,
     "atmtake": 20,
@@ -4926,7 +4926,8 @@
     "lcekprofile": 1,
     "cekdaldo": 1,
     "benednya": 1,
-    "ajakjalan": 1
+    "ajakjalan": 1,
+    "beri": 1
   },
-  "lastUpdated": 1775305095615
+  "lastUpdated": 1775305155610
 }
