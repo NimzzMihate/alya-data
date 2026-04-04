@@ -63,13 +63,13 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 43,
-      "exp": 104444,
+      "exp": 104580,
       "saldo": 99999999999
     },
     {
       "name": "Kayy",
       "level": 34,
-      "exp": 83104,
+      "exp": 83192,
       "saldo": 12393
     },
     {
@@ -307,13 +307,13 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 43,
-      "exp": 104444,
+      "exp": 104580,
       "saldo": 99999999999
     },
     {
       "name": "Kayy",
       "level": 34,
-      "exp": 83104,
+      "exp": 83192,
       "saldo": 12393
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775303980011
+  "lastUpdated": 1775304040018
 }
