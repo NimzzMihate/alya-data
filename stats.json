@@ -3,16 +3,16 @@
   "totalUsers": 1058,
   "totalGroups": 37,
   "totalFeatures": 3610,
-  "totalCmd": 18730,
-  "totalChat": 18730,
+  "totalCmd": 18740,
+  "totalChat": 18740,
   "topCommands": [
     {
       "cmd": "buy",
-      "count": 563
+      "count": 564
     },
     {
       "cmd": "afk",
-      "count": 548
+      "count": 549
     },
     {
       "cmd": "me",
@@ -36,7 +36,7 @@
     },
     {
       "cmd": "craft",
-      "count": 303
+      "count": 305
     },
     {
       "cmd": "tf",
@@ -44,11 +44,11 @@
     },
     {
       "cmd": "tes",
-      "count": 266
+      "count": 268
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 1501,
-  "lastUpdated": 1775306296077
+  "uptimeSeconds": 60,
+  "lastUpdated": 1775306869595
 }
