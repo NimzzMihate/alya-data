@@ -4108,9 +4108,9 @@
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 23,
-    "petstat": 29,
-    "playpet": 63,
-    "feedpet": 98,
+    "petstat": 31,
+    "playpet": 64,
+    "feedpet": 106,
     "namapet": 3,
     "namepet": 8,
     "statpet": 1,
@@ -4918,5 +4918,5 @@
     "carikaracter": 1,
     "tfbank": 1
   },
-  "lastUpdated": 1775292786100
+  "lastUpdated": 1775292846105
 }
