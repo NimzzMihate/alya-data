@@ -3628,7 +3628,7 @@
     "ewe-paksa": 46,
     "me": 469,
     "setbg": 20,
-    "rampok2": 435,
+    "rampok2": 436,
     "6285609504925": 15,
     "atm": 167,
     "bank": 86,
@@ -4134,7 +4134,7 @@
     "cek": 16,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 46,
+    "bailout": 48,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4926,5 +4926,5 @@
     "lcekprofile": 1,
     "cekdaldo": 1
   },
-  "lastUpdated": 1775304100014
+  "lastUpdated": 1775304160013
 }
