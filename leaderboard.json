@@ -124,8 +124,8 @@
   "saldo": [
     {
       "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
-      "level": 2,
-      "exp": 7156,
+      "level": 3,
+      "exp": 7208,
       "saldo": 1.00000000000001e+91
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775281532937
+  "lastUpdated": 1775281592933
 }
