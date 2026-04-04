@@ -9,14 +9,14 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 346025,
+      "exp": 346073,
       "saldo": 1.0000000000058519e+45
     },
     {
       "name": "Ditz ketoprak",
       "level": 360,
-      "exp": 865990,
-      "saldo": null
+      "exp": 866147,
+      "saldo": 49999
     },
     {
       "name": "?",
@@ -57,14 +57,14 @@
     {
       "name": "Lejen",
       "level": 44,
-      "exp": 106992,
+      "exp": 107120,
       "saldo": 1000543661796359200
     },
     {
       "name": "\n> murazaki 2.0",
       "level": 43,
-      "exp": 103865,
-      "saldo": 10000000000000000000
+      "exp": 104203,
+      "saldo": 0
     },
     {
       "name": "Kayy",
@@ -123,12 +123,6 @@
   ],
   "saldo": [
     {
-      "name": "Ditz ketoprak",
-      "level": 360,
-      "exp": 865990,
-      "saldo": null
-    },
-    {
       "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
       "level": 3,
       "exp": 7613,
@@ -149,7 +143,7 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 346025,
+      "exp": 346073,
       "saldo": 1.0000000000058519e+45
     },
     {
@@ -207,15 +201,9 @@
       "saldo": 558000001800000000000
     },
     {
-      "name": "\n> murazaki 2.0",
-      "level": 43,
-      "exp": 103865,
-      "saldo": 10000000000000000000
-    },
-    {
       "name": "Lejen",
       "level": 44,
-      "exp": 106992,
+      "exp": 107120,
       "saldo": 1000543661796359200
     },
     {
@@ -241,6 +229,18 @@
       "level": 24,
       "exp": 58384,
       "saldo": 81084237669526
+    },
+    {
+      "name": "Ibnu",
+      "level": 0,
+      "exp": 1395,
+      "saldo": 9999999050000
+    },
+    {
+      "name": "rey",
+      "level": 26,
+      "exp": 64195,
+      "saldo": 114650741302
     }
   ],
   "exp": [
@@ -253,8 +253,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 360,
-      "exp": 865990,
-      "saldo": null
+      "exp": 866147,
+      "saldo": 49999
     },
     {
       "name": "?",
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 346025,
+      "exp": 346073,
       "saldo": 1.0000000000058519e+45
     },
     {
@@ -301,14 +301,14 @@
     {
       "name": "Lejen",
       "level": 44,
-      "exp": 106992,
+      "exp": 107120,
       "saldo": 1000543661796359200
     },
     {
       "name": "\n> murazaki 2.0",
       "level": 43,
-      "exp": 103865,
-      "saldo": 10000000000000000000
+      "exp": 104203,
+      "saldo": 0
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775302915180
+  "lastUpdated": 1775303019999
 }
