@@ -3784,7 +3784,7 @@
     "buildml": 14,
     "izin": 1,
     "build": 1,
-    "saldo": 240,
+    "saldo": 242,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -3842,13 +3842,13 @@
     "fitnah": 54,
     "puji": 205,
     "pacar": 168,
-    "carikarakter": 154,
+    "carikarakter": 155,
     "nembak": 77,
     "cry": 7,
     "happy": 4,
     "sad": 1,
     "bully": 9,
-    "atmpull": 168,
+    "atmpull": 169,
     "promote": 4,
     "reset": 3,
     "memasak": 1,
@@ -4912,5 +4912,5 @@
     "ytsearch": 3,
     "41176472277013": 1
   },
-  "lastUpdated": 1775266529049
+  "lastUpdated": 1775266589038
 }
