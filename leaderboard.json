@@ -63,8 +63,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 44,
-      "exp": 106054,
-      "saldo": 0
+      "exp": 106103,
+      "saldo": 999999999999999
     },
     {
       "name": "Kayy",
@@ -201,6 +201,12 @@
       "saldo": 1000543661796359200
     },
     {
+      "name": "\n> murazaki 2.0",
+      "level": 44,
+      "exp": 106103,
+      "saldo": 999999999999999
+    },
+    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
@@ -235,12 +241,6 @@
       "level": 26,
       "exp": 64258,
       "saldo": 114650741302
-    },
-    {
-      "name": "Player-1118802",
-      "level": 13,
-      "exp": 33065,
-      "saldo": 10000017631
     }
   ],
   "exp": [
@@ -307,8 +307,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 44,
-      "exp": 106054,
-      "saldo": 0
+      "exp": 106103,
+      "saldo": 999999999999999
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775304855532
+  "lastUpdated": 1775304915538
 }
