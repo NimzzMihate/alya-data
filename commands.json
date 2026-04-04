@@ -4388,7 +4388,7 @@
     "getlinkgc": 2,
     "131203332047033": 8,
     "ownermenu": 3,
-    "self": 2,
+    "self": 3,
     "1319142170762": 1,
     "ubahnama": 1,
     "setgender": 1,
@@ -4923,5 +4923,5 @@
     "theok": 1,
     "public": 1
   },
-  "lastUpdated": 1775296866332
+  "lastUpdated": 1775296926326
 }
