@@ -67,15 +67,15 @@
       "saldo": 1.0002999994990392e+29
     },
     {
-      "name": "Kayy",
+      "name": "*KUROSE*",
       "level": 32,
-      "exp": 76971,
+      "exp": 77018,
       "saldo": 0
     },
     {
-      "name": "*KUROSE*",
+      "name": "Kayy",
       "level": 32,
-      "exp": 76945,
+      "exp": 76971,
       "saldo": 0
     },
     {
@@ -311,15 +311,15 @@
       "saldo": 1.0002999994990392e+29
     },
     {
-      "name": "Kayy",
+      "name": "*KUROSE*",
       "level": 32,
-      "exp": 76971,
+      "exp": 77018,
       "saldo": 0
     },
     {
-      "name": "*KUROSE*",
+      "name": "Kayy",
       "level": 32,
-      "exp": 76945,
+      "exp": 76971,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775267486828
+  "lastUpdated": 1775267546829
 }
