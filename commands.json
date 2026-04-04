@@ -3652,7 +3652,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 79,
-    "heal": 100,
+    "heal": 101,
     "menu": 133,
     "owner": 11,
     "script": 9,
@@ -4251,7 +4251,7 @@
     "user": 2,
     "gerobak": 1,
     "airdrop": 1,
-    "rpg": 4,
+    "rpg": 5,
     "hadiah": 1,
     "id": 1,
     "joiningrpg": 1,
@@ -4910,7 +4910,8 @@
     "adventute": 1,
     "news": 2,
     "ytsearch": 3,
-    "41176472277013": 1
+    "41176472277013": 1,
+    "exp": 1
   },
-  "lastUpdated": 1775277746915
+  "lastUpdated": 1775277806915
 }
