@@ -3665,7 +3665,7 @@
     "6281393286345": 130,
     ">": 5,
     "addapi": 2,
-    "pin": 175,
+    "pin": 176,
     "hd": 164,
     "useitem": 7,
     "77605898313906": 159,
@@ -3842,8 +3842,8 @@
     "fitnah": 54,
     "puji": 209,
     "pacar": 169,
-    "carikarakter": 158,
-    "nembak": 79,
+    "carikarakter": 159,
+    "nembak": 80,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4917,5 +4917,5 @@
     "bugmenu": 1,
     "carikaracter": 1
   },
-  "lastUpdated": 1775281052932
+  "lastUpdated": 1775281112933
 }
