@@ -3842,7 +3842,7 @@
     "fitnah": 54,
     "puji": 209,
     "pacar": 169,
-    "carikarakter": 156,
+    "carikarakter": 157,
     "nembak": 79,
     "cry": 7,
     "happy": 4,
@@ -4914,7 +4914,8 @@
     "exp": 1,
     "islammenu": 1,
     "fun": 1,
-    "bugmenu": 1
+    "bugmenu": 1,
+    "carikaracter": 1
   },
-  "lastUpdated": 1775280932933
+  "lastUpdated": 1775280992928
 }
