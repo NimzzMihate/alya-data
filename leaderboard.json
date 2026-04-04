@@ -14,9 +14,9 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 360,
-      "exp": 866368,
-      "saldo": 50000
+      "level": 361,
+      "exp": 871551,
+      "saldo": 61255
     },
     {
       "name": "?",
@@ -63,7 +63,7 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 44,
-      "exp": 106228,
+      "exp": 106369,
       "saldo": 999999999999999
     },
     {
@@ -75,8 +75,8 @@
     {
       "name": "*KUROSE*",
       "level": 32,
-      "exp": 77535,
-      "saldo": 1000
+      "exp": 81311,
+      "saldo": 14292
     },
     {
       "name": "Souta",
@@ -86,9 +86,9 @@
     },
     {
       "name": "rey",
-      "level": 26,
-      "exp": 64471,
-      "saldo": 114650741302
+      "level": 27,
+      "exp": 64981,
+      "saldo": 114550743302
     },
     {
       "name": "Oguri cap",
@@ -203,7 +203,7 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 44,
-      "exp": 106228,
+      "exp": 106369,
       "saldo": 999999999999999
     },
     {
@@ -238,9 +238,9 @@
     },
     {
       "name": "rey",
-      "level": 26,
-      "exp": 64471,
-      "saldo": 114650741302
+      "level": 27,
+      "exp": 64981,
+      "saldo": 114550743302
     }
   ],
   "exp": [
@@ -252,9 +252,9 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 360,
-      "exp": 866368,
-      "saldo": 50000
+      "level": 361,
+      "exp": 871551,
+      "saldo": 61255
     },
     {
       "name": "?",
@@ -307,7 +307,7 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 44,
-      "exp": 106228,
+      "exp": 106369,
       "saldo": 999999999999999
     },
     {
@@ -319,8 +319,8 @@
     {
       "name": "*KUROSE*",
       "level": 32,
-      "exp": 77535,
-      "saldo": 1000
+      "exp": 81311,
+      "saldo": 14292
     },
     {
       "name": "Souta",
@@ -330,9 +330,9 @@
     },
     {
       "name": "rey",
-      "level": 26,
-      "exp": 64471,
-      "saldo": 114650741302
+      "level": 27,
+      "exp": 64981,
+      "saldo": 114550743302
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775305035544
+  "lastUpdated": 1775305095615
 }
