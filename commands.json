@@ -3659,7 +3659,7 @@
     "joinrpg": 36,
     "mentahan": 1,
     "claim": 33,
-    "cekidch": 6,
+    "cekidch": 7,
     "tourl": 36,
     "title": 1,
     "6281393286345": 130,
@@ -4372,7 +4372,7 @@
     "invpd": 2,
     "628895327267": 6,
     "ceklimit": 8,
-    "ceksaldo": 22,
+    "ceksaldo": 23,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -4917,5 +4917,5 @@
     "bugmenu": 1,
     "carikaracter": 1
   },
-  "lastUpdated": 1775286453016
+  "lastUpdated": 1775286513007
 }
