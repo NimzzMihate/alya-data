@@ -4474,7 +4474,7 @@
     "judi": 1,
     "toolsmenu": 4,
     "art": 1,
-    "voicemenu": 2,
+    "voicemenu": 3,
     "smooth": 5,
     "fast": 12,
     "deep": 16,
@@ -4913,7 +4913,8 @@
     "41176472277013": 1,
     "exp": 1,
     "islammenu": 1,
-    "fun": 1
+    "fun": 1,
+    "bugmenu": 1
   },
-  "lastUpdated": 1775279312919
+  "lastUpdated": 1775279372919
 }
