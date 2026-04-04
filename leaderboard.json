@@ -51,8 +51,8 @@
     {
       "name": "Zxiox",
       "level": 48,
-      "exp": 115965,
-      "saldo": 0
+      "exp": 116128,
+      "saldo": 558000001800000000000
     },
     {
       "name": "Lejen",
@@ -93,8 +93,8 @@
     {
       "name": "rey",
       "level": 23,
-      "exp": 55724,
-      "saldo": 59649716257
+      "exp": 55926,
+      "saldo": 58650716257
     },
     {
       "name": "kensoy",
@@ -189,6 +189,12 @@
       "saldo": 6.673568075175604e+21
     },
     {
+      "name": "Zxiox",
+      "level": 48,
+      "exp": 116128,
+      "saldo": 558000001800000000000
+    },
+    {
       "name": "Lejen",
       "level": 44,
       "exp": 106221,
@@ -235,12 +241,6 @@
       "level": 0,
       "exp": 1395,
       "saldo": 9999999050000
-    },
-    {
-      "name": "rey",
-      "level": 23,
-      "exp": 55724,
-      "saldo": 59649716257
     }
   ],
   "exp": [
@@ -289,8 +289,8 @@
     {
       "name": "Zxiox",
       "level": 48,
-      "exp": 115965,
-      "saldo": 0
+      "exp": 116128,
+      "saldo": 558000001800000000000
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -337,8 +337,8 @@
     {
       "name": "rey",
       "level": 23,
-      "exp": 55724,
-      "saldo": 59649716257
+      "exp": 55926,
+      "saldo": 58650716257
     },
     {
       "name": "kensoy",
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775283032975
+  "lastUpdated": 1775283092972
 }
