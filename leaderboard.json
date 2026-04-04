@@ -9,7 +9,7 @@
     {
       "name": "Nimzz sad boy",
       "level": 510,
-      "exp": 345270,
+      "exp": 345311,
       "saldo": 1.0000000000058519e+45
     },
     {
@@ -51,7 +51,7 @@
     {
       "name": "Zxiox",
       "level": 48,
-      "exp": 115724,
+      "exp": 115965,
       "saldo": 0
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Nimzz sad boy",
       "level": 510,
-      "exp": 345270,
+      "exp": 345311,
       "saldo": 1.0000000000058519e+45
     },
     {
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz sad boy",
       "level": 510,
-      "exp": 345270,
+      "exp": 345311,
       "saldo": 1.0000000000058519e+45
     },
     {
@@ -287,15 +287,15 @@
       "saldo": 9997914000
     },
     {
-      "name": "RYZSUKASUPERCAR",
-      "level": 122,
-      "exp": 115924,
+      "name": "Zxiox",
+      "level": 48,
+      "exp": 115965,
       "saldo": 0
     },
     {
-      "name": "Zxiox",
-      "level": 48,
-      "exp": 115724,
+      "name": "RYZSUKASUPERCAR",
+      "level": 122,
+      "exp": 115924,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775282972968
+  "lastUpdated": 1775283032975
 }
