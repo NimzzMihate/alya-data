@@ -69,13 +69,13 @@
     {
       "name": "Kayy",
       "level": 34,
-      "exp": 82433,
+      "exp": 82503,
       "saldo": 15491
     },
     {
       "name": "*KUROSE*",
       "level": 32,
-      "exp": 77178,
+      "exp": 77250,
       "saldo": 0
     },
     {
@@ -313,13 +313,13 @@
     {
       "name": "Kayy",
       "level": 34,
-      "exp": 82433,
+      "exp": 82503,
       "saldo": 15491
     },
     {
       "name": "*KUROSE*",
       "level": 32,
-      "exp": 77178,
+      "exp": 77250,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 1722760
     }
   ],
-  "lastUpdated": 1775291946095
+  "lastUpdated": 1775292006087
 }
