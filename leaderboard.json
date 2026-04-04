@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 372,
-      "exp": 893984,
+      "exp": 894215,
       "saldo": 140020
     },
     {
@@ -87,8 +87,8 @@
     {
       "name": "rey",
       "level": 27,
-      "exp": 65272,
-      "saldo": 114549743302
+      "exp": 73752,
+      "saldo": 114549756130
     },
     {
       "name": "Oguri cap",
@@ -239,8 +239,8 @@
     {
       "name": "rey",
       "level": 27,
-      "exp": 65272,
-      "saldo": 114549743302
+      "exp": 73752,
+      "saldo": 114549756130
     }
   ],
   "exp": [
@@ -253,7 +253,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 372,
-      "exp": 893984,
+      "exp": 894215,
       "saldo": 140020
     },
     {
@@ -323,16 +323,16 @@
       "saldo": 14292
     },
     {
+      "name": "rey",
+      "level": 27,
+      "exp": 73752,
+      "saldo": 114549756130
+    },
+    {
       "name": "Souta",
       "level": 30,
       "exp": 72133,
       "saldo": 480625437
-    },
-    {
-      "name": "rey",
-      "level": 27,
-      "exp": 65272,
-      "saldo": 114549743302
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775305215613
+  "lastUpdated": 1775305275619
 }
