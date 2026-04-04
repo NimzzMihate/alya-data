@@ -4884,7 +4884,7 @@
     "diffusion": 3,
     "carbon": 2,
     "toptv": 2,
-    "stcrandom": 4,
+    "stcrandom": 5,
     "readvo": 3,
     "say2": 4,
     "hijaukan": 2,
@@ -4918,5 +4918,5 @@
     "carikaracter": 1,
     "tfbank": 1
   },
-  "lastUpdated": 1775292246100
+  "lastUpdated": 1775292306093
 }
