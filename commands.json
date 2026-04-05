@@ -3706,7 +3706,7 @@
     "makan": 12,
     "repair": 1,
     "kapal": 5,
-    "craft": 307,
+    "craft": 310,
     "listheri": 1,
     "listhero": 6,
     "mancing": 6,
@@ -4946,5 +4946,5 @@
     "spotify": 2,
     "ajakamain": 1
   },
-  "lastUpdated": 1775355485926
+  "lastUpdated": 1775355545931
 }
