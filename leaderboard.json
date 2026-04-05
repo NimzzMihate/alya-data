@@ -57,7 +57,7 @@
     {
       "name": "Kayy",
       "level": 48,
-      "exp": 115774,
+      "exp": 116073,
       "saldo": 1.0009900149974516e+26
     },
     {
@@ -167,7 +167,7 @@
     {
       "name": "Kayy",
       "level": 48,
-      "exp": 115774,
+      "exp": 116073,
       "saldo": 1.0009900149974516e+26
     },
     {
@@ -293,16 +293,16 @@
       "saldo": 0
     },
     {
+      "name": "Kayy",
+      "level": 48,
+      "exp": 116073,
+      "saldo": 1.0009900149974516e+26
+    },
+    {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
       "exp": 115924,
       "saldo": 0
-    },
-    {
-      "name": "Kayy",
-      "level": 48,
-      "exp": 115774,
-      "saldo": 1.0009900149974516e+26
     },
     {
       "name": "\n> murazaki 2.0",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775405416550
+  "lastUpdated": 1775405476556
 }
