@@ -3784,7 +3784,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 260,
+    "saldo": 261,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -4096,7 +4096,7 @@
     "beli": 7,
     "maaf": 8,
     "sg": 126,
-    "shop": 19,
+    "shop": 20,
     "168238516305969": 30,
     "atmtake": 20,
     "giftshop": 1,
@@ -4946,5 +4946,5 @@
     "spotify": 2,
     "ajakamain": 1
   },
-  "lastUpdated": 1775355125925
+  "lastUpdated": 1775355185930
 }
