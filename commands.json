@@ -3775,7 +3775,7 @@
     "verify": 20,
     "daftr": 11,
     "status": 11,
-    "pap": 472,
+    "pap": 474,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -3796,7 +3796,7 @@
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
-    "kencan": 170,
+    "kencan": 171,
     "kasihsusu": 68,
     "wm": 95,
     "absen": 3,
@@ -4028,7 +4028,7 @@
     "cariin": 1,
     "harian": 1,
     "oke": 1,
-    "nikah": 67,
+    "nikah": 69,
     "stiker": 1,
     "6285766167323": 4,
     "delede": 1,
@@ -4092,10 +4092,10 @@
     "setpppacar": 31,
     "dompet": 2,
     "istri": 5,
-    "lamar": 13,
+    "lamar": 14,
     "beli": 7,
     "maaf": 8,
-    "sg": 127,
+    "sg": 128,
     "shop": 20,
     "168238516305969": 30,
     "atmtake": 20,
@@ -4948,5 +4948,5 @@
     "pacar2": 1,
     "kencan2": 1
   },
-  "lastUpdated": 1775359805965
+  "lastUpdated": 1775359865966
 }
