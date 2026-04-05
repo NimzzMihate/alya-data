@@ -57,8 +57,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 46,
-      "exp": 112046,
-      "saldo": 9000
+      "exp": 112162,
+      "saldo": 0
     },
     {
       "name": "Kayy",
@@ -111,7 +111,7 @@
     {
       "name": "Player-1118802",
       "level": 13,
-      "exp": 33065,
+      "exp": 33100,
       "saldo": 10000017631
     },
     {
@@ -239,7 +239,7 @@
     {
       "name": "Player-1118802",
       "level": 13,
-      "exp": 33065,
+      "exp": 33100,
       "saldo": 10000017631
     }
   ],
@@ -301,8 +301,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 46,
-      "exp": 112046,
-      "saldo": 9000
+      "exp": 112162,
+      "saldo": 0
     },
     {
       "name": "Kayy",
@@ -355,7 +355,7 @@
     {
       "name": "Player-1118802",
       "level": 13,
-      "exp": 33065,
+      "exp": 33100,
       "saldo": 10000017631
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775394228929
+  "lastUpdated": 1775394288932
 }
