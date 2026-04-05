@@ -57,8 +57,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 46,
-      "exp": 111951,
-      "saldo": 10711
+      "exp": 112046,
+      "saldo": 9000
     },
     {
       "name": "Kayy",
@@ -69,7 +69,7 @@
     {
       "name": "Lejen",
       "level": 45,
-      "exp": 108019,
+      "exp": 108070,
       "saldo": 1000543661796359200
     },
     {
@@ -81,8 +81,8 @@
     {
       "name": "*KUROSE*",
       "level": 34,
-      "exp": 82488,
-      "saldo": 0
+      "exp": 82592,
+      "saldo": 81000
     },
     {
       "name": "Souta",
@@ -197,7 +197,7 @@
     {
       "name": "Lejen",
       "level": 45,
-      "exp": 108019,
+      "exp": 108070,
       "saldo": 1000543661796359200
     },
     {
@@ -301,8 +301,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 46,
-      "exp": 111951,
-      "saldo": 10711
+      "exp": 112046,
+      "saldo": 9000
     },
     {
       "name": "Kayy",
@@ -313,7 +313,7 @@
     {
       "name": "Lejen",
       "level": 45,
-      "exp": 108019,
+      "exp": 108070,
       "saldo": 1000543661796359200
     },
     {
@@ -325,8 +325,8 @@
     {
       "name": "*KUROSE*",
       "level": 34,
-      "exp": 82488,
-      "saldo": 0
+      "exp": 82592,
+      "saldo": 81000
     },
     {
       "name": "Souta",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775394168931
+  "lastUpdated": 1775394228929
 }
