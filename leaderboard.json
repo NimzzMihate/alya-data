@@ -51,8 +51,8 @@
     {
       "name": "Zxiox",
       "level": 48,
-      "exp": 116824,
-      "saldo": 1.3078953145032684e+26
+      "exp": 116940,
+      "saldo": 0
     },
     {
       "name": "\n> murazaki 2.0",
@@ -165,12 +165,6 @@
       "saldo": 1.000000000100188e+27
     },
     {
-      "name": "Zxiox",
-      "level": 48,
-      "exp": 116824,
-      "saldo": 1.3078953145032684e+26
-    },
-    {
       "name": "Kayy",
       "level": 40,
       "exp": 97201,
@@ -241,6 +235,12 @@
       "level": 34,
       "exp": 83912,
       "saldo": 118349798405
+    },
+    {
+      "name": "Player-1118802",
+      "level": 13,
+      "exp": 33065,
+      "saldo": 10000017631
     }
   ],
   "exp": [
@@ -289,8 +289,8 @@
     {
       "name": "Zxiox",
       "level": 48,
-      "exp": 116824,
-      "saldo": 1.3078953145032684e+26
+      "exp": 116940,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775381711733
+  "lastUpdated": 1775381771732
 }
