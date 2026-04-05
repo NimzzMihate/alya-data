@@ -3775,7 +3775,7 @@
     "verify": 20,
     "daftr": 11,
     "status": 11,
-    "pap": 474,
+    "pap": 475,
     "tebakbendera": 17,
     "tebak": 1,
     "gantinama": 1,
@@ -4080,7 +4080,7 @@
     "statusistri": 5,
     "bratvid": 2,
     "karakter": 1,
-    "buatanak": 19,
+    "buatanak": 22,
     "istiku": 1,
     "cerai": 25,
     "putus": 96,
@@ -4948,5 +4948,5 @@
     "pacar2": 1,
     "kencan2": 1
   },
-  "lastUpdated": 1775359865966
+  "lastUpdated": 1775359925971
 }
