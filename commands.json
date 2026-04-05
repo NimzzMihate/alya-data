@@ -3628,7 +3628,7 @@
     "ewe-paksa": 48,
     "me": 481,
     "setbg": 20,
-    "rampok2": 449,
+    "rampok2": 450,
     "6285609504925": 15,
     "atm": 170,
     "bank": 87,
@@ -4185,7 +4185,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 111,
+    "atmall": 112,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -4534,7 +4534,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 46,
-    "cekbank": 37,
+    "cekbank": 38,
     "cektomboy": 1,
     "bajingan": 4,
     "tabungan": 9,
@@ -4953,5 +4953,5 @@
     "removebgremovebg": 1,
     "𝒂𝒇𝒌": 1
   },
-  "lastUpdated": 1775394228930
+  "lastUpdated": 1775394288932
 }
