@@ -3658,7 +3658,7 @@
     "script": 9,
     "joinrpg": 36,
     "mentahan": 1,
-    "claim": 33,
+    "claim": 35,
     "cekidch": 7,
     "tourl": 36,
     "title": 1,
@@ -3980,7 +3980,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 5,
-    "tf": 297,
+    "tf": 300,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4049,7 +4049,7 @@
     "top": 12,
     "spotifys": 32,
     "ttsearch": 7,
-    "6283875289405": 9,
+    "6283875289405": 10,
     "118709305766130": 1,
     "pirate": 7,
     "6285138029095": 10,
@@ -4185,7 +4185,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 112,
+    "atmall": 113,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -4953,5 +4953,5 @@
     "removebgremovebg": 1,
     "𝒂𝒇𝒌": 1
   },
-  "lastUpdated": 1775394348932
+  "lastUpdated": 1775394408928
 }
