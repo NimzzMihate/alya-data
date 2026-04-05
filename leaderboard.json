@@ -74,15 +74,15 @@
     },
     {
       "name": "*KUROSE*",
-      "level": 33,
-      "exp": 81557,
+      "level": 34,
+      "exp": 81674,
       "saldo": 21292
     },
     {
       "name": "rey",
       "level": 31,
-      "exp": 75983,
-      "saldo": 118349772130
+      "exp": 76034,
+      "saldo": 118349767130
     },
     {
       "name": "Souta",
@@ -233,8 +233,8 @@
     {
       "name": "rey",
       "level": 31,
-      "exp": 75983,
-      "saldo": 118349772130
+      "exp": 76034,
+      "saldo": 118349767130
     },
     {
       "name": "Player-1118802",
@@ -318,15 +318,15 @@
     },
     {
       "name": "*KUROSE*",
-      "level": 33,
-      "exp": 81557,
+      "level": 34,
+      "exp": 81674,
       "saldo": 21292
     },
     {
       "name": "rey",
       "level": 31,
-      "exp": 75983,
-      "saldo": 118349772130
+      "exp": 76034,
+      "saldo": 118349767130
     },
     {
       "name": "Souta",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775347865883
+  "lastUpdated": 1775347925878
 }
