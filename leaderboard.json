@@ -58,7 +58,7 @@
       "name": "\n> murazaki 2.0",
       "level": 46,
       "exp": 112162,
-      "saldo": 0
+      "saldo": 13386
     },
     {
       "name": "Kayy",
@@ -73,16 +73,16 @@
       "saldo": 1000543661796359200
     },
     {
+      "name": "*KUROSE*",
+      "level": 37,
+      "exp": 89671,
+      "saldo": 4655124
+    },
+    {
       "name": "rey",
       "level": 34,
       "exp": 83912,
       "saldo": 118349798405
-    },
-    {
-      "name": "*KUROSE*",
-      "level": 34,
-      "exp": 82730,
-      "saldo": 81000
     },
     {
       "name": "Souta",
@@ -105,8 +105,8 @@
     {
       "name": "Player-1118802",
       "level": 16,
-      "exp": 39902,
-      "saldo": 10000031017
+      "exp": 40013,
+      "saldo": 10000017631
     },
     {
       "name": "danz",
@@ -239,8 +239,8 @@
     {
       "name": "Player-1118802",
       "level": 16,
-      "exp": 39902,
-      "saldo": 10000031017
+      "exp": 40013,
+      "saldo": 10000017631
     }
   ],
   "exp": [
@@ -302,7 +302,7 @@
       "name": "\n> murazaki 2.0",
       "level": 46,
       "exp": 112162,
-      "saldo": 0
+      "saldo": 13386
     },
     {
       "name": "Kayy",
@@ -317,16 +317,16 @@
       "saldo": 1000543661796359200
     },
     {
+      "name": "*KUROSE*",
+      "level": 37,
+      "exp": 89671,
+      "saldo": 4655124
+    },
+    {
       "name": "rey",
       "level": 34,
       "exp": 83912,
       "saldo": 118349798405
-    },
-    {
-      "name": "*KUROSE*",
-      "level": 34,
-      "exp": 82730,
-      "saldo": 81000
     },
     {
       "name": "Souta",
@@ -349,8 +349,8 @@
     {
       "name": "Player-1118802",
       "level": 16,
-      "exp": 39902,
-      "saldo": 10000031017
+      "exp": 40013,
+      "saldo": 10000017631
     },
     {
       "name": "danz",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775394348932
+  "lastUpdated": 1775394408928
 }
