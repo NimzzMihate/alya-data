@@ -3990,7 +3990,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 75,
-    "jual": 76,
+    "jual": 77,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4186,7 +4186,7 @@
     "cekstatus": 1,
     "cekprofil": 7,
     "atmall": 109,
-    "inv": 50,
+    "inv": 51,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -4946,5 +4946,5 @@
     "spotify": 2,
     "ajakamain": 1
   },
-  "lastUpdated": 1775355545931
+  "lastUpdated": 1775355605926
 }
