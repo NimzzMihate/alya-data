@@ -63,8 +63,8 @@
     {
       "name": "Zxiox",
       "level": 49,
-      "exp": 118743,
-      "saldo": 0
+      "exp": 118908,
+      "saldo": 300000000100
     },
     {
       "name": "Lejen",
@@ -237,10 +237,10 @@
       "saldo": 9999999050000
     },
     {
-      "name": "rey",
-      "level": 38,
-      "exp": 91297,
-      "saldo": 118349822215
+      "name": "Zxiox",
+      "level": 49,
+      "exp": 118908,
+      "saldo": 300000000100
     }
   ],
   "exp": [
@@ -301,8 +301,8 @@
     {
       "name": "Zxiox",
       "level": 49,
-      "exp": 118743,
-      "saldo": 0
+      "exp": 118908,
+      "saldo": 300000000100
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775461962969
+  "lastUpdated": 1775462022950
 }
