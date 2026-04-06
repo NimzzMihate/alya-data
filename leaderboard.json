@@ -75,13 +75,13 @@
     {
       "name": "rey",
       "level": 38,
-      "exp": 91424,
+      "exp": 91616,
       "saldo": 118349822215
     },
     {
       "name": "*KUROSE*",
       "level": 37,
-      "exp": 90665,
+      "exp": 90697,
       "saldo": 0
     },
     {
@@ -239,7 +239,7 @@
     {
       "name": "rey",
       "level": 38,
-      "exp": 91424,
+      "exp": 91616,
       "saldo": 118349822215
     }
   ],
@@ -319,13 +319,13 @@
     {
       "name": "rey",
       "level": 38,
-      "exp": 91424,
+      "exp": 91616,
       "saldo": 118349822215
     },
     {
       "name": "*KUROSE*",
       "level": 37,
-      "exp": 90665,
+      "exp": 90697,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775467263613
+  "lastUpdated": 1775467323614
 }
