@@ -45,8 +45,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 81,
-      "exp": 195846,
-      "saldo": 9996914000
+      "exp": 196009,
+      "saldo": 0
     },
     {
       "name": "Kayy",
@@ -161,7 +161,7 @@
     {
       "name": "Vanz",
       "level": 4,
-      "exp": 10246,
+      "exp": 10317,
       "saldo": 1.000000000100188e+27
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 81,
-      "exp": 195846,
-      "saldo": 9996914000
+      "exp": 196009,
+      "saldo": 0
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775460822945
+  "lastUpdated": 1775460882947
 }
