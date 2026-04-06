@@ -3775,7 +3775,7 @@
     "verify": 20,
     "daftr": 11,
     "status": 11,
-    "pap": 492,
+    "pap": 493,
     "tebakbendera": 18,
     "tebak": 1,
     "gantinama": 1,
@@ -4958,5 +4958,5 @@
     "getppgc": 1,
     "setppgc": 2
   },
-  "lastUpdated": 1775453958380
+  "lastUpdated": 1775454018374
 }
