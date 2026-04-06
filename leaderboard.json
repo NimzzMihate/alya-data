@@ -105,8 +105,8 @@
     {
       "name": "Player-1118802",
       "level": 16,
-      "exp": 40232,
-      "saldo": 0
+      "exp": 44496,
+      "saldo": 8271
     },
     {
       "name": "danz",
@@ -349,8 +349,8 @@
     {
       "name": "Player-1118802",
       "level": 16,
-      "exp": 40232,
-      "saldo": 0
+      "exp": 44496,
+      "saldo": 8271
     },
     {
       "name": "danz",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775460522940
+  "lastUpdated": 1775460582940
 }
