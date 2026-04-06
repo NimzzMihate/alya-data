@@ -3775,7 +3775,7 @@
     "verify": 21,
     "daftr": 11,
     "status": 12,
-    "pap": 501,
+    "pap": 502,
     "tebakbendera": 18,
     "tebak": 1,
     "gantinama": 1,
@@ -4967,5 +4967,5 @@
     "beground": 1,
     "pacat": 1
   },
-  "lastUpdated": 1775463423597
+  "lastUpdated": 1775463483597
 }
