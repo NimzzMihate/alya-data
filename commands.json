@@ -3628,7 +3628,7 @@
     "ewe-paksa": 50,
     "me": 485,
     "setbg": 20,
-    "rampok2": 461,
+    "rampok2": 463,
     "6285609504925": 15,
     "atm": 170,
     "bank": 88,
@@ -4134,7 +4134,7 @@
     "cek": 16,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 51,
+    "bailout": 52,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -4185,7 +4185,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 8,
-    "atmall": 116,
+    "atmall": 117,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -4963,5 +4963,5 @@
     "27367649062994": 1,
     "brat.menu": 1
   },
-  "lastUpdated": 1775460822945
+  "lastUpdated": 1775460882947
 }
