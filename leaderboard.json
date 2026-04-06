@@ -49,16 +49,16 @@
       "saldo": 100000
     },
     {
+      "name": "\n> murazaki 2.0",
+      "level": 53,
+      "exp": 128766,
+      "saldo": 0
+    },
+    {
       "name": "Kayy",
       "level": 51,
       "exp": 124634,
       "saldo": 1.0009900149974516e+26
-    },
-    {
-      "name": "\n> murazaki 2.0",
-      "level": 50,
-      "exp": 121004,
-      "saldo": 4601
     },
     {
       "name": "Zxiox",
@@ -287,16 +287,16 @@
       "saldo": 100000
     },
     {
+      "name": "\n> murazaki 2.0",
+      "level": 53,
+      "exp": 128766,
+      "saldo": 0
+    },
+    {
       "name": "Kayy",
       "level": 51,
       "exp": 124634,
       "saldo": 1.0009900149974516e+26
-    },
-    {
-      "name": "\n> murazaki 2.0",
-      "level": 50,
-      "exp": 121004,
-      "saldo": 4601
     },
     {
       "name": "Zxiox",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775498381031
+  "lastUpdated": 1775498441033
 }
