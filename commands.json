@@ -4244,7 +4244,7 @@
     "semua": 3,
     "catbox": 3,
     "gempa": 4,
-    "tebakkata": 38,
+    "tebakkata": 40,
     "tebakpacarorang": 1,
     "gachawaifu": 27,
     "curipacarorang": 1,
@@ -4970,7 +4970,8 @@
     "resetpotopacar": 1,
     "resetfotopacar": 1,
     "tai": 1,
-    "ciumk": 1
+    "ciumk": 1,
+    "menugame": 1
   },
-  "lastUpdated": 1775494361026
+  "lastUpdated": 1775494421028
 }
