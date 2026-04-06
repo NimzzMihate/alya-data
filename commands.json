@@ -3685,7 +3685,7 @@
     "removebg": 57,
     "addown": 7,
     "listowner": 13,
-    "brat": 85,
+    "brat": 86,
     "brathd": 2,
     "editfoto": 94,
     "dailymisi": 55,
@@ -3843,7 +3843,7 @@
     "puji": 217,
     "pacar": 185,
     "carikarakter": 175,
-    "nembak": 86,
+    "nembak": 87,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4083,7 +4083,7 @@
     "buatanak": 24,
     "istiku": 1,
     "cerai": 25,
-    "putus": 96,
+    "putus": 97,
     "crop": 25,
     "shopgift": 45,
     "give": 3,
@@ -4965,5 +4965,5 @@
     "menutup": 1,
     "pacaran": 1
   },
-  "lastUpdated": 1775461842953
+  "lastUpdated": 1775461902952
 }
