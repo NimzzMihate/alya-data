@@ -62,9 +62,9 @@
     },
     {
       "name": "Zxiox",
-      "level": 49,
-      "exp": 119849,
-      "saldo": 69999999995000
+      "level": 50,
+      "exp": 120091,
+      "saldo": 0
     },
     {
       "name": "Lejen",
@@ -81,7 +81,7 @@
     {
       "name": "*KUROSE*",
       "level": 37,
-      "exp": 90197,
+      "exp": 90586,
       "saldo": 0
     },
     {
@@ -231,16 +231,16 @@
       "saldo": 81084237669526
     },
     {
-      "name": "Zxiox",
-      "level": 49,
-      "exp": 119849,
-      "saldo": 69999999995000
-    },
-    {
       "name": "Ibnu",
       "level": 0,
       "exp": 1395,
       "saldo": 9999999050000
+    },
+    {
+      "name": "rey",
+      "level": 38,
+      "exp": 91297,
+      "saldo": 118349822215
     }
   ],
   "exp": [
@@ -300,9 +300,9 @@
     },
     {
       "name": "Zxiox",
-      "level": 49,
-      "exp": 119849,
-      "saldo": 69999999995000
+      "level": 50,
+      "exp": 120091,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -325,7 +325,7 @@
     {
       "name": "*KUROSE*",
       "level": 37,
-      "exp": 90197,
+      "exp": 90586,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775463063588
+  "lastUpdated": 1775463123598
 }
