@@ -3630,7 +3630,7 @@
     "setbg": 20,
     "rampok2": 479,
     "6285609504925": 15,
-    "atm": 172,
+    "atm": 173,
     "bank": 88,
     "afk": 594,
     "kerja": 58,
@@ -3703,7 +3703,7 @@
     "berburu": 24,
     "masak": 14,
     "rpgmenu": 16,
-    "makan": 12,
+    "makan": 13,
     "repair": 1,
     "kapal": 6,
     "craft": 310,
@@ -3797,7 +3797,7 @@
     "snippet": 5,
     "updatealya": 21,
     "kencan": 193,
-    "kasihsusu": 81,
+    "kasihsusu": 82,
     "wm": 101,
     "absen": 3,
     "mulaiabsen": 3,
@@ -3848,7 +3848,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 188,
+    "atmpull": 190,
     "promote": 4,
     "reset": 3,
     "memasak": 1,
@@ -4095,7 +4095,7 @@
     "lamar": 14,
     "beli": 7,
     "maaf": 8,
-    "sg": 133,
+    "sg": 135,
     "shop": 20,
     "168238516305969": 30,
     "atmtake": 24,
@@ -4973,5 +4973,5 @@
     "ciumk": 1,
     "menugame": 1
   },
-  "lastUpdated": 1775498441033
+  "lastUpdated": 1775498501032
 }
