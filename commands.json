@@ -3686,7 +3686,7 @@
     "addown": 7,
     "listowner": 13,
     "brat": 81,
-    "brathd": 1,
+    "brathd": 2,
     "editfoto": 94,
     "dailymisi": 55,
     "open-bo": 47,
@@ -4078,7 +4078,7 @@
     "97874318782647": 6,
     "nikah2": 20,
     "statusistri": 5,
-    "bratvid": 2,
+    "bratvid": 3,
     "karakter": 1,
     "buatanak": 24,
     "istiku": 1,
@@ -4963,5 +4963,5 @@
     "27367649062994": 1,
     "brat.menu": 1
   },
-  "lastUpdated": 1775460642941
+  "lastUpdated": 1775460702940
 }
