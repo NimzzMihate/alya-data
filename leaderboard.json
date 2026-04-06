@@ -49,6 +49,12 @@
       "saldo": 9996914000
     },
     {
+      "name": "\n> murazaki 2.0",
+      "level": 50,
+      "exp": 120598,
+      "saldo": 4601
+    },
+    {
       "name": "Zxiox",
       "level": 49,
       "exp": 117963,
@@ -59,12 +65,6 @@
       "level": 48,
       "exp": 117047,
       "saldo": 1.0009900149974516e+26
-    },
-    {
-      "name": "\n> murazaki 2.0",
-      "level": 47,
-      "exp": 113464,
-      "saldo": 0
     },
     {
       "name": "Lejen",
@@ -287,6 +287,12 @@
       "saldo": 9996914000
     },
     {
+      "name": "\n> murazaki 2.0",
+      "level": 50,
+      "exp": 120598,
+      "saldo": 4601
+    },
+    {
       "name": "Zxiox",
       "level": 49,
       "exp": 117963,
@@ -302,12 +308,6 @@
       "name": "RYZSUKASUPERCAR",
       "level": 122,
       "exp": 115924,
-      "saldo": 0
-    },
-    {
-      "name": "\n> murazaki 2.0",
-      "level": 47,
-      "exp": 113464,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775439967796
+  "lastUpdated": 1775440027796
 }
