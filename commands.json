@@ -3633,7 +3633,7 @@
     "atm": 170,
     "bank": 88,
     "afk": 583,
-    "kerja": 54,
+    "kerja": 57,
     "628176533297": 14,
     "s": 247,
     "jwkwnwkabs": 1,
@@ -3656,7 +3656,7 @@
     "menu": 145,
     "owner": 12,
     "script": 9,
-    "joinrpg": 37,
+    "joinrpg": 38,
     "mentahan": 1,
     "claim": 35,
     "cekidch": 7,
@@ -4958,7 +4958,8 @@
     "getppgc": 1,
     "setppgc": 2,
     "ribut": 1,
-    "6282315534951": 1
+    "6282315534951": 1,
+    "lc": 1
   },
-  "lastUpdated": 1775456538415
+  "lastUpdated": 1775456598416
 }
