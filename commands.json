@@ -3841,7 +3841,7 @@
     "pabrik": 1,
     "fitnah": 54,
     "puji": 223,
-    "pacar": 193,
+    "pacar": 194,
     "carikarakter": 182,
     "nembak": 89,
     "cry": 7,
@@ -4082,8 +4082,8 @@
     "karakter": 1,
     "buatanak": 25,
     "istiku": 1,
-    "cerai": 25,
-    "putus": 99,
+    "cerai": 26,
+    "putus": 100,
     "crop": 26,
     "shopgift": 46,
     "give": 3,
@@ -4971,7 +4971,8 @@
     "resetfotopacar": 1,
     "tai": 1,
     "ciumk": 1,
-    "menugame": 1
+    "menugame": 1,
+    "caricharacter": 1
   },
-  "lastUpdated": 1775517074901
+  "lastUpdated": 1775517134898
 }
