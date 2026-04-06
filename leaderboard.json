@@ -63,7 +63,7 @@
     {
       "name": "Zxiox",
       "level": 49,
-      "exp": 118614,
+      "exp": 118743,
       "saldo": 0
     },
     {
@@ -73,16 +73,16 @@
       "saldo": 1000543661796359200
     },
     {
+      "name": "rey",
+      "level": 38,
+      "exp": 91297,
+      "saldo": 118349822215
+    },
+    {
       "name": "*KUROSE*",
       "level": 37,
       "exp": 89734,
       "saldo": 0
-    },
-    {
-      "name": "rey",
-      "level": 35,
-      "exp": 84494,
-      "saldo": 118349805405
     },
     {
       "name": "Souta",
@@ -238,9 +238,9 @@
     },
     {
       "name": "rey",
-      "level": 35,
-      "exp": 84494,
-      "saldo": 118349805405
+      "level": 38,
+      "exp": 91297,
+      "saldo": 118349822215
     }
   ],
   "exp": [
@@ -301,7 +301,7 @@
     {
       "name": "Zxiox",
       "level": 49,
-      "exp": 118614,
+      "exp": 118743,
       "saldo": 0
     },
     {
@@ -317,16 +317,16 @@
       "saldo": 1000543661796359200
     },
     {
+      "name": "rey",
+      "level": 38,
+      "exp": 91297,
+      "saldo": 118349822215
+    },
+    {
       "name": "*KUROSE*",
       "level": 37,
       "exp": 89734,
       "saldo": 0
-    },
-    {
-      "name": "rey",
-      "level": 35,
-      "exp": 84494,
-      "saldo": 118349805405
     },
     {
       "name": "Souta",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775461902952
+  "lastUpdated": 1775461962969
 }
