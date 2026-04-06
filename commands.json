@@ -4083,7 +4083,7 @@
     "buatanak": 24,
     "istiku": 1,
     "cerai": 25,
-    "putus": 97,
+    "putus": 99,
     "crop": 25,
     "shopgift": 45,
     "give": 3,
@@ -4098,7 +4098,7 @@
     "sg": 133,
     "shop": 20,
     "168238516305969": 30,
-    "atmtake": 21,
+    "atmtake": 23,
     "giftshop": 1,
     "kasihnamaanak": 9,
     "babi": 18,
@@ -4965,5 +4965,5 @@
     "menutup": 1,
     "pacaran": 1
   },
-  "lastUpdated": 1775461962969
+  "lastUpdated": 1775462022950
 }
