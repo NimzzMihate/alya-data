@@ -3917,7 +3917,7 @@
     "pindl": 11,
     "totalfitur": 1,
     "mie": 1,
-    "statusanak": 45,
+    "statusanak": 46,
     "wink": 2,
     "kecocokan": 10,
     "register": 14,
@@ -4958,5 +4958,5 @@
     "getppgc": 1,
     "setppgc": 1
   },
-  "lastUpdated": 1775444527827
+  "lastUpdated": 1775444587818
 }
