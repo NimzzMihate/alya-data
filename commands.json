@@ -3628,7 +3628,7 @@
     "ewe-paksa": 50,
     "me": 485,
     "setbg": 20,
-    "rampok2": 460,
+    "rampok2": 461,
     "6285609504925": 15,
     "atm": 170,
     "bank": 88,
@@ -3853,7 +3853,7 @@
     "reset": 3,
     "memasak": 1,
     "wm\n>": 2,
-    "iqc": 5,
+    "iqc": 6,
     "hackwa": 2,
     "banj": 1,
     "cc": 4,
@@ -4933,7 +4933,7 @@
     "rampo2": 2,
     "menj": 1,
     ".afk": 1,
-    "qc": 1,
+    "qc": 2,
     "siapakahaku": 1,
     "yts": 1,
     "ngepet": 2,
@@ -4963,5 +4963,5 @@
     "27367649062994": 1,
     "brat.menu": 1
   },
-  "lastUpdated": 1775460702940
+  "lastUpdated": 1775460762941
 }
