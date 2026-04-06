@@ -4185,7 +4185,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 7,
-    "atmall": 115,
+    "atmall": 116,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -4956,5 +4956,5 @@
     "harga": 1,
     "papw": 1
   },
-  "lastUpdated": 1775439367793
+  "lastUpdated": 1775439427802
 }
