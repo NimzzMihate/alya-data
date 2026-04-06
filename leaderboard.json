@@ -63,7 +63,7 @@
     {
       "name": "Zxiox",
       "level": 49,
-      "exp": 119570,
+      "exp": 119714,
       "saldo": 0
     },
     {
@@ -81,7 +81,7 @@
     {
       "name": "*KUROSE*",
       "level": 37,
-      "exp": 89840,
+      "exp": 90044,
       "saldo": 0
     },
     {
@@ -301,7 +301,7 @@
     {
       "name": "Zxiox",
       "level": 49,
-      "exp": 119570,
+      "exp": 119714,
       "saldo": 0
     },
     {
@@ -325,7 +325,7 @@
     {
       "name": "*KUROSE*",
       "level": 37,
-      "exp": 89840,
+      "exp": 90044,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775462943594
+  "lastUpdated": 1775463003595
 }
