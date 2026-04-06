@@ -3726,7 +3726,7 @@
     "6281283401829": 1,
     "tembak": 37,
     "terima": 19,
-    "cium": 247,
+    "cium": 248,
     "6281915895220": 5,
     "6281215537344": 3,
     "rampok": 125,
@@ -4330,7 +4330,7 @@
     "bass": 2,
     "earrape": 1,
     "nahida": 30,
-    "pasanganmenu": 14,
+    "pasanganmenu": 15,
     "menupasangan": 3,
     "katjiwa": 4,
     "ler": 1,
@@ -4966,7 +4966,9 @@
     "pacaran": 1,
     "beground": 1,
     "pacat": 1,
-    "z": 1
+    "z": 1,
+    "resetpotopacar": 1,
+    "resetfotopacar": 1
   },
-  "lastUpdated": 1775467263613
+  "lastUpdated": 1775467323614
 }
