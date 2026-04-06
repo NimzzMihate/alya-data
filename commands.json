@@ -3775,7 +3775,7 @@
     "verify": 21,
     "daftr": 11,
     "status": 12,
-    "pap": 506,
+    "pap": 508,
     "tebakbendera": 18,
     "tebak": 1,
     "gantinama": 1,
@@ -4790,7 +4790,7 @@
     "panda": 1,
     "shp": 1,
     "atm9999": 1,
-    "6288983486773": 21,
+    "6288983486773": 22,
     "artefak": 1,
     "supgajah": 1,
     "6285720252756": 8,
@@ -4973,5 +4973,5 @@
     "ciumk": 1,
     "menugame": 1
   },
-  "lastUpdated": 1775516834905
+  "lastUpdated": 1775516894898
 }
