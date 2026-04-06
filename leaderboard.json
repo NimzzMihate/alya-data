@@ -154,8 +154,8 @@
     },
     {
       "name": "NarennDurenn",
-      "level": 3,
-      "exp": 9543,
+      "level": 4,
+      "exp": 9614,
       "saldo": 2.000100001010015e+27
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775457138490
+  "lastUpdated": 1775457198426
 }
