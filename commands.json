@@ -3685,7 +3685,7 @@
     "removebg": 57,
     "addown": 7,
     "listowner": 13,
-    "brat": 83,
+    "brat": 84,
     "brathd": 2,
     "editfoto": 94,
     "dailymisi": 55,
@@ -3842,8 +3842,8 @@
     "fitnah": 54,
     "puji": 217,
     "pacar": 185,
-    "carikarakter": 173,
-    "nembak": 84,
+    "carikarakter": 174,
+    "nembak": 85,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4765,7 +4765,7 @@
     "sf": 1,
     "listplugin": 1,
     "onlygc": 1,
-    "ban": 1,
+    "ban": 2,
     "bangc": 1,
     "unbangc": 1,
     "setsewa": 1,
@@ -4965,5 +4965,5 @@
     "menutup": 1,
     "pacaran": 1
   },
-  "lastUpdated": 1775461722947
+  "lastUpdated": 1775461782951
 }
