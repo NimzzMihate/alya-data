@@ -3726,7 +3726,7 @@
     "6281283401829": 1,
     "tembak": 36,
     "terima": 19,
-    "cium": 242,
+    "cium": 243,
     "6281915895220": 5,
     "6281215537344": 3,
     "rampok": 125,
@@ -3775,7 +3775,7 @@
     "verify": 21,
     "daftr": 11,
     "status": 12,
-    "pap": 494,
+    "pap": 495,
     "tebakbendera": 18,
     "tebak": 1,
     "gantinama": 1,
@@ -3796,7 +3796,7 @@
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
-    "kencan": 184,
+    "kencan": 185,
     "kasihsusu": 80,
     "wm": 100,
     "absen": 3,
@@ -3840,7 +3840,7 @@
     "d": 108,
     "pabrik": 1,
     "fitnah": 54,
-    "puji": 216,
+    "puji": 217,
     "pacar": 184,
     "carikarakter": 173,
     "nembak": 84,
@@ -4089,7 +4089,7 @@
     "give": 3,
     "asep": 1,
     "pasangan": 8,
-    "setpppacar": 31,
+    "setpppacar": 32,
     "dompet": 2,
     "istri": 5,
     "lamar": 14,
@@ -4961,7 +4961,8 @@
     "6282315534951": 1,
     "lc": 1,
     "27367649062994": 1,
-    "brat.menu": 1
+    "brat.menu": 1,
+    "menutup": 1
   },
-  "lastUpdated": 1775461542955
+  "lastUpdated": 1775461602946
 }
