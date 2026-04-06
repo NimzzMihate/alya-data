@@ -3633,7 +3633,7 @@
     "atm": 170,
     "bank": 88,
     "afk": 583,
-    "kerja": 57,
+    "kerja": 58,
     "628176533297": 14,
     "s": 247,
     "jwkwnwkabs": 1,
@@ -3784,7 +3784,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 266,
+    "saldo": 268,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -4961,5 +4961,5 @@
     "6282315534951": 1,
     "lc": 1
   },
-  "lastUpdated": 1775456598416
+  "lastUpdated": 1775456658417
 }
