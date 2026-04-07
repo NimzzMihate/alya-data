@@ -3718,7 +3718,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 105,
-    "tes": 297,
+    "tes": 298,
     "listown": 13,
     "getpp": 13,
     "linkgc": 12,
@@ -3894,7 +3894,7 @@
     "pap2": 109,
     "getcase": 7,
     "/": 7,
-    "cekcantik": 17,
+    "cekcantik": 18,
     "toplocal": 26,
     "forward": 372,
     "6283147484272": 6,
@@ -4994,5 +4994,5 @@
     "6283151851454": 1,
     "alkitab": 2
   },
-  "lastUpdated": 1775574281053
+  "lastUpdated": 1775574341052
 }
