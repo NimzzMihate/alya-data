@@ -3720,7 +3720,7 @@
     "cekprofile": 103,
     "tes": 290,
     "listown": 13,
-    "getpp": 11,
+    "getpp": 12,
     "linkgc": 12,
     "cekpasangan": 84,
     "6281283401829": 1,
@@ -3768,7 +3768,7 @@
     "628998866123": 10,
     "166121432961259": 30,
     "....": 2,
-    "setprofile": 118,
+    "setprofile": 120,
     "daftar": 26,
     "profile": 28,
     "topactive": 58,
@@ -4292,7 +4292,7 @@
     ")": 1,
     "pa": 2,
     "pqp": 3,
-    "setname": 2,
+    "setname": 3,
     "buatkan": 1,
     "getname": 4,
     "amann": 1,
@@ -4982,5 +4982,5 @@
     "setnamaanak": 1,
     "81441555775734": 1
   },
-  "lastUpdated": 1775558168158
+  "lastUpdated": 1775558228163
 }
