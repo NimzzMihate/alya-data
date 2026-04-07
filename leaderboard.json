@@ -75,8 +75,8 @@
     {
       "name": "rey",
       "level": 38,
-      "exp": 92583,
-      "saldo": 118349817215
+      "exp": 92871,
+      "saldo": 98349819215
     },
     {
       "name": "*KUROSE*",
@@ -97,16 +97,16 @@
       "saldo": 81084237669526
     },
     {
+      "name": "Player-1118802",
+      "level": 20,
+      "exp": 49927,
+      "saldo": 21629
+    },
+    {
       "name": "kensoy",
       "level": 20,
       "exp": 48457,
       "saldo": 139079684385625
-    },
-    {
-      "name": "Player-1118802",
-      "level": 16,
-      "exp": 44496,
-      "saldo": 8271
     },
     {
       "name": "danz",
@@ -319,8 +319,8 @@
     {
       "name": "rey",
       "level": 38,
-      "exp": 92583,
-      "saldo": 118349817215
+      "exp": 92871,
+      "saldo": 98349819215
     },
     {
       "name": "*KUROSE*",
@@ -341,16 +341,16 @@
       "saldo": 81084237669526
     },
     {
+      "name": "Player-1118802",
+      "level": 20,
+      "exp": 49927,
+      "saldo": 21629
+    },
+    {
       "name": "kensoy",
       "level": 20,
       "exp": 48457,
       "saldo": 139079684385625
-    },
-    {
-      "name": "Player-1118802",
-      "level": 16,
-      "exp": 44496,
-      "saldo": 8271
     },
     {
       "name": "danz",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775526014973
+  "lastUpdated": 1775526074975
 }
