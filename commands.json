@@ -3768,7 +3768,7 @@
     "628998866123": 10,
     "166121432961259": 30,
     "....": 2,
-    "setprofile": 125,
+    "setprofile": 127,
     "daftar": 26,
     "profile": 28,
     "topactive": 58,
@@ -3784,7 +3784,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 270,
+    "saldo": 271,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -4185,7 +4185,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 8,
-    "atmall": 123,
+    "atmall": 124,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -4980,7 +4980,8 @@
     "ttmp3": 1,
     "𝘼𝙡𝙙𝙤𝙒𝙖𝙣𝙜𝙮𝙮'ft": 1,
     "setnamaanak": 1,
-    "81441555775734": 1
+    "81441555775734": 1,
+    "atmapl": 1
   },
-  "lastUpdated": 1775558348159
+  "lastUpdated": 1775558408163
 }
