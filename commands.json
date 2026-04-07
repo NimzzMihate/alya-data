@@ -4372,7 +4372,7 @@
     "invpd": 2,
     "628895327267": 6,
     "ceklimit": 8,
-    "ceksaldo": 30,
+    "ceksaldo": 31,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -4974,7 +4974,8 @@
     "menugame": 1,
     "caricharacter": 1,
     "setppprofile": 1,
-    "6288289686381": 1
+    "6288289686381": 1,
+    "isisaldo": 1
   },
-  "lastUpdated": 1775536635108
+  "lastUpdated": 1775536695105
 }
