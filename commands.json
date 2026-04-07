@@ -3628,7 +3628,7 @@
     "ewe-paksa": 51,
     "me": 497,
     "setbg": 20,
-    "rampok2": 501,
+    "rampok2": 502,
     "6285609504925": 15,
     "atm": 173,
     "bank": 88,
@@ -3784,7 +3784,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 273,
+    "saldo": 274,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -4185,7 +4185,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 8,
-    "atmall": 125,
+    "atmall": 126,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -4984,5 +4984,5 @@
     "atmapl": 1,
     "154439038013564": 1
   },
-  "lastUpdated": 1775562680463
+  "lastUpdated": 1775562861533
 }
