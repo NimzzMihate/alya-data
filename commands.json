@@ -4019,7 +4019,7 @@
     "profil": 10,
     "prefix": 4,
     "6282313526033": 4,
-    "game": 4,
+    "game": 5,
     "main": 2,
     "moba": 1,
     "mobaprofil": 1,
@@ -4251,7 +4251,7 @@
     "user": 2,
     "gerobak": 1,
     "airdrop": 1,
-    "rpg": 5,
+    "rpg": 7,
     "hadiah": 1,
     "id": 1,
     "joiningrpg": 1,
@@ -4994,5 +4994,5 @@
     "6283151851454": 1,
     "alkitab": 2
   },
-  "lastUpdated": 1775575189919
+  "lastUpdated": 1775575249918
 }
