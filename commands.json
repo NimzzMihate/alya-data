@@ -3628,7 +3628,7 @@
     "ewe-paksa": 51,
     "me": 497,
     "setbg": 20,
-    "rampok2": 506,
+    "rampok2": 509,
     "6285609504925": 15,
     "atm": 173,
     "bank": 88,
@@ -3729,7 +3729,7 @@
     "cium": 263,
     "6281915895220": 7,
     "6281215537344": 3,
-    "rampok": 130,
+    "rampok": 131,
     "listapi": 11,
     "family100": 6,
     "tebakpokemon": 1,
@@ -4185,7 +4185,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 8,
-    "atmall": 131,
+    "atmall": 132,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -4986,7 +4986,7 @@
     "savepin": 1,
     "ewe-paksaradit": 1,
     "60117160570910": 2,
-    "setgoodbye": 1
+    "setgoodbye": 2
   },
-  "lastUpdated": 1775571154602
+  "lastUpdated": 1775571214603
 }
