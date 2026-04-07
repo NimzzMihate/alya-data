@@ -3632,7 +3632,7 @@
     "6285609504925": 15,
     "atm": 173,
     "bank": 88,
-    "afk": 600,
+    "afk": 601,
     "kerja": 58,
     "628176533297": 14,
     "s": 266,
@@ -4121,7 +4121,7 @@
     "statuspasangan": 9,
     "bego": 5,
     "haram": 1,
-    "6282327857595": 28,
+    "6282327857595": 29,
     "roast": 47,
     "rampokin": 11,
     "nikahpaksa": 35,
@@ -4975,5 +4975,5 @@
     "caricharacter": 1,
     "setppprofile": 1
   },
-  "lastUpdated": 1775520314935
+  "lastUpdated": 1775520374929
 }
