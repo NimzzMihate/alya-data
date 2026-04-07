@@ -3653,7 +3653,7 @@
     "61405583679507": 1,
     "wikwik": 86,
     "heal": 109,
-    "menu": 148,
+    "menu": 150,
     "owner": 12,
     "script": 9,
     "joinrpg": 38,
@@ -3718,7 +3718,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 103,
-    "tes": 289,
+    "tes": 290,
     "listown": 13,
     "getpp": 11,
     "linkgc": 12,
@@ -4975,7 +4975,8 @@
     "caricharacter": 1,
     "setppprofile": 1,
     "6288289686381": 1,
-    "isisaldo": 1
+    "isisaldo": 1,
+    "autobackup": 1
   },
-  "lastUpdated": 1775538555162
+  "lastUpdated": 1775539050602
 }
