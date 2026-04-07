@@ -4185,7 +4185,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 8,
-    "atmall": 127,
+    "atmall": 128,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -4984,5 +4984,5 @@
     "atmapl": 1,
     "154439038013564": 1
   },
-  "lastUpdated": 1775565381546
+  "lastUpdated": 1775565441549
 }
