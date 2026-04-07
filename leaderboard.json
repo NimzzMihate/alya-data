@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 388,
-      "exp": 931778,
+      "exp": 931897,
       "saldo": 9.938373663636363e+168
     },
     {
@@ -39,7 +39,7 @@
     {
       "name": "Joishi ganteng",
       "level": 90,
-      "exp": 218061,
+      "exp": 218117,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 388,
-      "exp": 931778,
+      "exp": 931897,
       "saldo": 9.938373663636363e+168
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 90,
-      "exp": 218061,
+      "exp": 218117,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 388,
-      "exp": 931778,
+      "exp": 931897,
       "saldo": 9.938373663636363e+168
     },
     {
@@ -277,7 +277,7 @@
     {
       "name": "Joishi ganteng",
       "level": 90,
-      "exp": 218061,
+      "exp": 218117,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775572617937
+  "lastUpdated": 1775572677933
 }
