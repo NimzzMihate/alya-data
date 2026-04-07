@@ -4146,7 +4146,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 118,
+    "battlepet": 119,
     "riges": 1,
     "mengangguk": 11,
     "carikarakter[nadeshiko": 1,
@@ -4185,7 +4185,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 8,
-    "atmall": 128,
+    "atmall": 129,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -4697,7 +4697,7 @@
     "mencuri": 1,
     "joindrpg": 1,
     "invest": 1,
-    "tfsaldo": 12,
+    "tfsaldo": 13,
     "buypanel": 1,
     "elaina": 1,
     "sc": 1,
@@ -4984,5 +4984,5 @@
     "atmapl": 1,
     "154439038013564": 1
   },
-  "lastUpdated": 1775565561547
+  "lastUpdated": 1775565621548
 }
