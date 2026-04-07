@@ -3706,7 +3706,7 @@
     "makan": 13,
     "repair": 1,
     "kapal": 6,
-    "craft": 313,
+    "craft": 315,
     "listheri": 1,
     "listhero": 6,
     "mancing": 7,
@@ -3990,7 +3990,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 75,
-    "jual": 77,
+    "jual": 82,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4975,5 +4975,5 @@
     "caricharacter": 1,
     "setppprofile": 1
   },
-  "lastUpdated": 1775526074975
+  "lastUpdated": 1775526134975
 }
