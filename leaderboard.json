@@ -74,9 +74,9 @@
     },
     {
       "name": "rey",
-      "level": 38,
-      "exp": 93441,
-      "saldo": 340349019215
+      "level": 39,
+      "exp": 93662,
+      "saldo": 340349026215
     },
     {
       "name": "*KUROSE*",
@@ -318,9 +318,9 @@
     },
     {
       "name": "rey",
-      "level": 38,
-      "exp": 93441,
-      "saldo": 340349019215
+      "level": 39,
+      "exp": 93662,
+      "saldo": 340349026215
     },
     {
       "name": "*KUROSE*",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775567001558
+  "lastUpdated": 1775567061555
 }
