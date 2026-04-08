@@ -21,7 +21,7 @@
     {
       "name": "?",
       "level": 353,
-      "exp": 848594,
+      "exp": 848657,
       "saldo": 33640
     },
     {
@@ -135,6 +135,12 @@
       "saldo": 1.1193837377363637e+143
     },
     {
+      "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
+      "level": 4,
+      "exp": 9985,
+      "saldo": 1.00000000000001e+91
+    },
+    {
       "name": "Nimzz >.<",
       "level": 510,
       "exp": 354379,
@@ -235,12 +241,6 @@
       "level": 105,
       "exp": 254350,
       "saldo": 60232324696009
-    },
-    {
-      "name": "Ibnu",
-      "level": 0,
-      "exp": 1395,
-      "saldo": 9999999050000
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "?",
       "level": 353,
-      "exp": 848594,
+      "exp": 848657,
       "saldo": 33640
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775636008687
+  "lastUpdated": 1775636068698
 }
