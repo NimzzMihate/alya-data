@@ -3775,7 +3775,7 @@
     "verify": 26,
     "daftr": 12,
     "status": 12,
-    "pap": 527,
+    "pap": 528,
     "tebakbendera": 21,
     "tebak": 1,
     "gantinama": 1,
@@ -3837,7 +3837,7 @@
     "cekgay": 28,
     "ytdoc": 35,
     "hargasewa": 4,
-    "d": 132,
+    "d": 133,
     "pabrik": 1,
     "fitnah": 60,
     "puji": 227,
@@ -4809,7 +4809,7 @@
     "nikah2??": 1,
     "potion": 4,
     "tonude": 1,
-    "nude": 19,
+    "nude": 21,
     "ubahkata": 3,
     "pixa": 7,
     "node": 1,
@@ -5011,5 +5011,5 @@
     "asahotak": 1,
     "index": 1
   },
-  "lastUpdated": 1775654446133
+  "lastUpdated": 1775654506132
 }
