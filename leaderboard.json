@@ -15,14 +15,14 @@
     {
       "name": "Ditz ketoprak",
       "level": 392,
-      "exp": 941292,
+      "exp": 941352,
       "saldo": 9.938373663636363e+168
     },
     {
       "name": "?",
       "level": 353,
-      "exp": 848657,
-      "saldo": 33640
+      "exp": 848745,
+      "saldo": 12100000000033640
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -125,7 +125,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 392,
-      "exp": 941292,
+      "exp": 941352,
       "saldo": 9.938373663636363e+168
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
       "level": 4,
-      "exp": 9985,
+      "exp": 10055,
       "saldo": 1.00000000000001e+91
     },
     {
@@ -219,6 +219,12 @@
       "saldo": 90000000000050000
     },
     {
+      "name": "?",
+      "level": 353,
+      "exp": 848745,
+      "saldo": 12100000000033640
+    },
+    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
@@ -235,12 +241,6 @@
       "level": 24,
       "exp": 58998,
       "saldo": 81084237669526
-    },
-    {
-      "name": "Aisha",
-      "level": 105,
-      "exp": 254350,
-      "saldo": 60232324696009
     }
   ],
   "exp": [
@@ -253,14 +253,14 @@
     {
       "name": "Ditz ketoprak",
       "level": 392,
-      "exp": 941292,
+      "exp": 941352,
       "saldo": 9.938373663636363e+168
     },
     {
       "name": "?",
       "level": 353,
-      "exp": 848657,
-      "saldo": 33640
+      "exp": 848745,
+      "saldo": 12100000000033640
     },
     {
       "name": "Nimzz >.<",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775636068698
+  "lastUpdated": 1775636128687
 }
