@@ -3628,7 +3628,7 @@
     "ewe-paksa": 51,
     "me": 506,
     "setbg": 20,
-    "rampok2": 523,
+    "rampok2": 525,
     "6285609504925": 15,
     "atm": 173,
     "bank": 88,
@@ -4372,7 +4372,7 @@
     "invpd": 2,
     "628895327267": 6,
     "ceklimit": 8,
-    "ceksaldo": 34,
+    "ceksaldo": 35,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -5002,5 +5002,5 @@
     "6288802194370": 1,
     "ramook2": 1
   },
-  "lastUpdated": 1775621031885
+  "lastUpdated": 1775621091893
 }
