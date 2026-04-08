@@ -3620,7 +3620,7 @@
     "2694099605": 6,
     "backup": 4,
     "get": 43,
-    "tohtml": 9,
+    "tohtml": 10,
     "ranked": 71,
     "mobaprofile": 15,
     "playmoba": 38,
@@ -5008,7 +5008,8 @@
     "⁨radit⁩": 1,
     "editpoto2": 1,
     "rekomendasi": 1,
-    "asahotak": 1
+    "asahotak": 1,
+    "index": 1
   },
-  "lastUpdated": 1775653917280
+  "lastUpdated": 1775653977280
 }
