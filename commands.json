@@ -3628,7 +3628,7 @@
     "ewe-paksa": 51,
     "me": 506,
     "setbg": 20,
-    "rampok2": 527,
+    "rampok2": 528,
     "6285609504925": 15,
     "atm": 173,
     "bank": 88,
@@ -3717,7 +3717,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 106,
+    "cekprofile": 107,
     "tes": 298,
     "listown": 14,
     "getpp": 13,
@@ -4372,7 +4372,7 @@
     "invpd": 2,
     "628895327267": 6,
     "ceklimit": 8,
-    "ceksaldo": 35,
+    "ceksaldo": 36,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -5005,5 +5005,5 @@
     "6283878568219": 1,
     "kadihminum": 1
   },
-  "lastUpdated": 1775629072005
+  "lastUpdated": 1775629131982
 }
