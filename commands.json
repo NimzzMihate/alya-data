@@ -3784,7 +3784,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 281,
+    "saldo": 282,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -3848,7 +3848,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 199,
+    "atmpull": 200,
     "promote": 4,
     "reset": 3,
     "memasak": 1,
@@ -4185,7 +4185,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 8,
-    "atmall": 135,
+    "atmall": 136,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -5006,5 +5006,5 @@
     "kadihminum": 1,
     "sama": 1
   },
-  "lastUpdated": 1775636128687
+  "lastUpdated": 1775636188688
 }
