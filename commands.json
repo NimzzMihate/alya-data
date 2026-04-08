@@ -3775,7 +3775,7 @@
     "verify": 24,
     "daftr": 12,
     "status": 12,
-    "pap": 520,
+    "pap": 521,
     "tebakbendera": 21,
     "tebak": 1,
     "gantinama": 1,
@@ -3798,7 +3798,7 @@
     "updatealya": 21,
     "kencan": 211,
     "kasihsusu": 87,
-    "wm": 111,
+    "wm": 112,
     "absen": 3,
     "mulaiabsen": 3,
     "6283848672013": 24,
@@ -3946,7 +3946,7 @@
     "fk": 1,
     "38796926128361": 2,
     "narik": 3,
-    "toimg": 65,
+    "toimg": 66,
     "runtime": 7,
     "ephotomenu": 2,
     "6283839942035": 3,
@@ -5000,5 +5000,5 @@
     "ewepasangan": 1,
     "misi": 1
   },
-  "lastUpdated": 1775612144803
+  "lastUpdated": 1775612204803
 }
