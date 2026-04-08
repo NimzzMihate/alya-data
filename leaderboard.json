@@ -13,9 +13,9 @@
       "saldo": 3.937373737636364e+70
     },
     {
-      "name": "Ditz ketoprak",
+      "name": "Ditt femboy",
       "level": 403,
-      "exp": 968882,
+      "exp": 969029,
       "saldo": 1e+189
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Aisha",
       "level": 109,
-      "exp": 262493,
+      "exp": 262571,
       "saldo": 60232324708282
     },
     {
@@ -69,7 +69,7 @@
     {
       "name": "Lejen",
       "level": 48,
-      "exp": 116542,
+      "exp": 116656,
       "saldo": 1.1193837377363637e+143
     },
     {
@@ -123,15 +123,15 @@
   ],
   "saldo": [
     {
-      "name": "Ditz ketoprak",
+      "name": "Ditt femboy",
       "level": 403,
-      "exp": 968882,
+      "exp": 969029,
       "saldo": 1e+189
     },
     {
       "name": "Lejen",
       "level": 48,
-      "exp": 116542,
+      "exp": 116656,
       "saldo": 1.1193837377363637e+143
     },
     {
@@ -239,7 +239,7 @@
     {
       "name": "Aisha",
       "level": 109,
-      "exp": 262493,
+      "exp": 262571,
       "saldo": 60232324708282
     }
   ],
@@ -251,9 +251,9 @@
       "saldo": 43660
     },
     {
-      "name": "Ditz ketoprak",
+      "name": "Ditt femboy",
       "level": 403,
-      "exp": 968882,
+      "exp": 969029,
       "saldo": 1e+189
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Aisha",
       "level": 109,
-      "exp": 262493,
+      "exp": 262571,
       "saldo": 60232324708282
     },
     {
@@ -307,7 +307,7 @@
     {
       "name": "Lejen",
       "level": 48,
-      "exp": 116542,
+      "exp": 116656,
       "saldo": 1.1193837377363637e+143
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775653377278
+  "lastUpdated": 1775653437281
 }
