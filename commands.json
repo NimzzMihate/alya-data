@@ -4299,7 +4299,7 @@
     "resetnama": 3,
     "menuprem": 2,
     "???": 1,
-    "?": 2,
+    "?": 3,
     "@250693499797710": 1,
     "ngojek": 3,
     "rt": 8,
@@ -4933,7 +4933,7 @@
     "rampo2": 2,
     "menj": 1,
     ".afk": 1,
-    "qc": 7,
+    "qc": 8,
     "siapakahaku": 1,
     "yts": 1,
     "ngepet": 2,
@@ -5009,5 +5009,5 @@
     "editpoto2": 1,
     "rekomendasi": 1
   },
-  "lastUpdated": 1775645066119
+  "lastUpdated": 1775645126119
 }
