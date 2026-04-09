@@ -3630,7 +3630,7 @@
     "ewe-paksa": 51,
     "me": 518,
     "setbg": 20,
-    "rampok2": 541,
+    "rampok2": 542,
     "6285609504925": 15,
     "atm": 173,
     "bank": 89,
@@ -4085,7 +4085,7 @@
     "buatanak": 27,
     "istiku": 1,
     "cerai": 26,
-    "putus": 100,
+    "putus": 101,
     "crop": 34,
     "shopgift": 53,
     "give": 3,
@@ -4699,7 +4699,7 @@
     "mencuri": 1,
     "joindrpg": 1,
     "invest": 1,
-    "tfsaldo": 14,
+    "tfsaldo": 15,
     "buypanel": 1,
     "elaina": 1,
     "sc": 1,
@@ -5033,5 +5033,5 @@
     "ga": 1,
     "setpo": 1
   },
-  "lastUpdated": 1775744008323
+  "lastUpdated": 1775744068323
 }
