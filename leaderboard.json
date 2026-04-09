@@ -2,9 +2,9 @@
   "level": [
     {
       "name": "TX",
-      "level": 670,
-      "exp": 1609595,
-      "saldo": 45439
+      "level": 675,
+      "exp": 1620807,
+      "saldo": 2066604
     },
     {
       "name": "Nimzz >.<",
@@ -159,12 +159,6 @@
       "saldo": 2.000100001010015e+27
     },
     {
-      "name": "Vanz",
-      "level": 4,
-      "exp": 11022,
-      "saldo": 1.000000000100188e+27
-    },
-    {
       "name": "Kayy",
       "level": 71,
       "exp": 172772,
@@ -241,14 +235,20 @@
       "level": 24,
       "exp": 58998,
       "saldo": 81084237669526
+    },
+    {
+      "name": "Ibnu",
+      "level": 0,
+      "exp": 1395,
+      "saldo": 9999999050000
     }
   ],
   "exp": [
     {
       "name": "TX",
-      "level": 670,
-      "exp": 1609595,
-      "saldo": 45439
+      "level": 675,
+      "exp": 1620807,
+      "saldo": 2066604
     },
     {
       "name": "Ditz ketoprak",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775737066145
+  "lastUpdated": 1775737126177
 }
