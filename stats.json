@@ -3,8 +3,8 @@
   "totalUsers": 1081,
   "totalGroups": 38,
   "totalFeatures": 3610,
-  "totalCmd": 21701,
-  "totalChat": 21701,
+  "totalCmd": 21704,
+  "totalChat": 21704,
   "topCommands": [
     {
       "cmd": "afk",
@@ -12,7 +12,7 @@
     },
     {
       "cmd": "gift",
-      "count": 611
+      "count": 612
     },
     {
       "cmd": "buy",
@@ -43,12 +43,12 @@
       "count": 318
     },
     {
-      "cmd": "tes",
-      "count": 307
+      "cmd": "kasihmakan",
+      "count": 308
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 1981,
-  "lastUpdated": 1775724461020
+  "uptimeSeconds": 2041,
+  "lastUpdated": 1775724521016
 }
