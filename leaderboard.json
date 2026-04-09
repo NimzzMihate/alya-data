@@ -33,8 +33,8 @@
     {
       "name": "Aisha",
       "level": 112,
-      "exp": 269288,
-      "saldo": 120464648380350
+      "exp": 269374,
+      "saldo": 120464648430350
     },
     {
       "name": "Joishi ganteng",
@@ -227,8 +227,8 @@
     {
       "name": "Aisha",
       "level": 112,
-      "exp": 269288,
-      "saldo": 120464648380350
+      "exp": 269374,
+      "saldo": 120464648430350
     },
     {
       "name": "Ahmad",
@@ -271,8 +271,8 @@
     {
       "name": "Aisha",
       "level": 112,
-      "exp": 269288,
-      "saldo": 120464648380350
+      "exp": 269374,
+      "saldo": 120464648430350
     },
     {
       "name": "Joishi ganteng",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775733879587
+  "lastUpdated": 1775733939578
 }
