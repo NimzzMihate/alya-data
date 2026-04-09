@@ -3,7 +3,7 @@
     {
       "name": "TX",
       "level": 670,
-      "exp": 1609519,
+      "exp": 1609595,
       "saldo": 45439
     },
     {
@@ -14,8 +14,8 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 405,
-      "exp": 974365,
+      "level": 406,
+      "exp": 974422,
       "saldo": 1e+189
     },
     {
@@ -124,8 +124,8 @@
   "saldo": [
     {
       "name": "Ditz ketoprak",
-      "level": 405,
-      "exp": 974365,
+      "level": 406,
+      "exp": 974422,
       "saldo": 1e+189
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "Vanz",
       "level": 4,
-      "exp": 10991,
+      "exp": 11022,
       "saldo": 1.000000000100188e+27
     },
     {
@@ -247,13 +247,13 @@
     {
       "name": "TX",
       "level": 670,
-      "exp": 1609519,
+      "exp": 1609595,
       "saldo": 45439
     },
     {
       "name": "Ditz ketoprak",
-      "level": 405,
-      "exp": 974365,
+      "level": 406,
+      "exp": 974422,
       "saldo": 1e+189
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775737006151
+  "lastUpdated": 1775737066145
 }
