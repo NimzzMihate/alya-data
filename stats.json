@@ -3,8 +3,8 @@
   "totalUsers": 1078,
   "totalGroups": 38,
   "totalFeatures": 3610,
-  "totalCmd": 21569,
-  "totalChat": 21569,
+  "totalCmd": 21576,
+  "totalChat": 21576,
   "topCommands": [
     {
       "cmd": "afk",
@@ -19,11 +19,11 @@
       "count": 578
     },
     {
-      "cmd": "rampok2",
-      "count": 534
+      "cmd": "pap",
+      "count": 536
     },
     {
-      "cmd": "pap",
+      "cmd": "rampok2",
       "count": 534
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "cmd": "craft",
-      "count": 315
+      "count": 318
     },
     {
       "cmd": "kasihmakan",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 44941,
-  "lastUpdated": 1775706913226
+  "uptimeSeconds": 45001,
+  "lastUpdated": 1775706973225
 }
