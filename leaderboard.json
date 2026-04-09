@@ -63,8 +63,8 @@
     {
       "name": "Zxiox",
       "level": 50,
-      "exp": 120622,
-      "saldo": 0
+      "exp": 120762,
+      "saldo": 10000000
     },
     {
       "name": "Lejen",
@@ -301,8 +301,8 @@
     {
       "name": "Zxiox",
       "level": 50,
-      "exp": 120622,
-      "saldo": 0
+      "exp": 120762,
+      "saldo": 10000000
     },
     {
       "name": "Lejen",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775734899580
+  "lastUpdated": 1775734959578
 }
