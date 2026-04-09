@@ -56,9 +56,9 @@
     },
     {
       "name": "\n> murazaki 2.0",
-      "level": 60,
-      "exp": 152267,
-      "saldo": 37853
+      "level": 63,
+      "exp": 152453,
+      "saldo": 2000000
     },
     {
       "name": "Lejen",
@@ -186,7 +186,7 @@
       "name": "nama amar",
       "level": 1,
       "exp": 2453,
-      "saldo": 6.673568075175604e+21
+      "saldo": 6.673568075175602e+21
     },
     {
       "name": "kensoy",
@@ -294,9 +294,9 @@
     },
     {
       "name": "\n> murazaki 2.0",
-      "level": 60,
-      "exp": 152267,
-      "saldo": 37853
+      "level": 63,
+      "exp": 152453,
+      "saldo": 2000000
     },
     {
       "name": "Lejen",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775778731135
+  "lastUpdated": 1775778791171
 }
