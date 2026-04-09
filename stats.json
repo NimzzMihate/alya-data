@@ -3,8 +3,8 @@
   "totalUsers": 1081,
   "totalGroups": 38,
   "totalFeatures": 3610,
-  "totalCmd": 21746,
-  "totalChat": 21746,
+  "totalCmd": 21748,
+  "totalChat": 21748,
   "topCommands": [
     {
       "cmd": "afk",
@@ -43,12 +43,12 @@
       "count": 318
     },
     {
-      "cmd": "kasihmakan",
+      "cmd": "s",
       "count": 310
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 6661,
-  "lastUpdated": 1775734239592
+  "uptimeSeconds": 6721,
+  "lastUpdated": 1775734299576
 }
