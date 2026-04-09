@@ -57,8 +57,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 60,
-      "exp": 146257,
-      "saldo": 20947
+      "exp": 152267,
+      "saldo": 37853
     },
     {
       "name": "Lejen",
@@ -295,8 +295,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 60,
-      "exp": 146257,
-      "saldo": 20947
+      "exp": 152267,
+      "saldo": 37853
     },
     {
       "name": "Lejen",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775778671146
+  "lastUpdated": 1775778731135
 }
