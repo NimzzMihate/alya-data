@@ -3655,7 +3655,7 @@
     "61405583679507": 1,
     "wikwik": 93,
     "heal": 122,
-    "menu": 169,
+    "menu": 170,
     "owner": 14,
     "script": 10,
     "joinrpg": 41,
@@ -4695,7 +4695,7 @@
     "othersmenu": 2,
     "listmwnu": 1,
     "cl": 7,
-    "curi": 2,
+    "curi": 3,
     "mencuri": 1,
     "joindrpg": 1,
     "invest": 1,
@@ -5034,5 +5034,5 @@
     "setpo": 1,
     "entzu": 1
   },
-  "lastUpdated": 1775783213345
+  "lastUpdated": 1775783273351
 }
