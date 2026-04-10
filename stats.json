@@ -3,8 +3,8 @@
   "totalUsers": 1084,
   "totalGroups": 38,
   "totalFeatures": 3610,
-  "totalCmd": 22267,
-  "totalChat": 22267,
+  "totalCmd": 22270,
+  "totalChat": 22270,
   "topCommands": [
     {
       "cmd": "afk",
@@ -12,7 +12,7 @@
     },
     {
       "cmd": "gift",
-      "count": 634
+      "count": 635
     },
     {
       "cmd": "buy",
@@ -39,16 +39,16 @@
       "count": 343
     },
     {
-      "cmd": "craft",
-      "count": 318
+      "cmd": "tes",
+      "count": 319
     },
     {
-      "cmd": "tes",
+      "cmd": "craft",
       "count": 318
     }
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 10562,
-  "lastUpdated": 1775835242086
+  "uptimeSeconds": 10622,
+  "lastUpdated": 1775835302064
 }
