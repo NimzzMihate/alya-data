@@ -3776,7 +3776,7 @@
     "topactive": 78,
     "verify": 26,
     "daftr": 12,
-    "status": 12,
+    "status": 13,
     "pap": 542,
     "tebakbendera": 21,
     "tebak": 1,
@@ -5033,5 +5033,5 @@
     "ga": 1,
     "setpo": 1
   },
-  "lastUpdated": 1775782973343
+  "lastUpdated": 1775783033348
 }
