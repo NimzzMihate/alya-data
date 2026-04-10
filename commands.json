@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 205,
+    "atmpull": 206,
     "promote": 4,
     "reset": 3,
     "memasak": 1,
@@ -5034,5 +5034,5 @@
     "setpo": 1,
     "entzu": 1
   },
-  "lastUpdated": 1775801188897
+  "lastUpdated": 1775801248903
 }
