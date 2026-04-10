@@ -3630,9 +3630,9 @@
     "ewe-paksa": 51,
     "me": 518,
     "setbg": 20,
-    "rampok2": 546,
+    "rampok2": 547,
     "6285609504925": 15,
-    "atm": 173,
+    "atm": 175,
     "bank": 89,
     "afk": 676,
     "kerja": 63,
@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 288,
+    "saldo": 289,
     "demote": 5,
     "sendgc": 2,
     "kirimke": 1,
@@ -5034,5 +5034,5 @@
     "setpo": 1,
     "entzu": 1
   },
-  "lastUpdated": 1775796053370
+  "lastUpdated": 1775796113369
 }
