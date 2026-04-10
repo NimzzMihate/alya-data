@@ -3660,7 +3660,7 @@
     "script": 10,
     "joinrpg": 41,
     "mentahan": 1,
-    "claim": 37,
+    "claim": 38,
     "cekidch": 7,
     "tourl": 38,
     "title": 1,
@@ -5031,7 +5031,8 @@
     "couple": 2,
     "smemebawah": 2,
     "ga": 1,
-    "setpo": 1
+    "setpo": 1,
+    "entzu": 1
   },
-  "lastUpdated": 1775783093344
+  "lastUpdated": 1775783153345
 }
