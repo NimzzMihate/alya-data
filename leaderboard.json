@@ -118,7 +118,7 @@
       "name": "Sanz",
       "level": 13,
       "exp": 32702,
-      "saldo": 3
+      "saldo": 3.03e+23
     }
   ],
   "saldo": [
@@ -177,10 +177,10 @@
       "saldo": 1e+24
     },
     {
-      "name": "Rulz",
-      "level": 1,
-      "exp": 2501,
-      "saldo": 3.0383736633364687e+23
+      "name": "Sanz",
+      "level": 13,
+      "exp": 32702,
+      "saldo": 3.03e+23
     },
     {
       "name": "renita",
@@ -193,6 +193,12 @@
       "level": 1,
       "exp": 2453,
       "saldo": 6.673568075175602e+21
+    },
+    {
+      "name": "Rulz",
+      "level": 1,
+      "exp": 2603,
+      "saldo": 837366333646854700000
     },
     {
       "name": "kensoy",
@@ -235,12 +241,6 @@
       "level": 5,
       "exp": 12027,
       "saldo": 100000000065871
-    },
-    {
-      "name": "Oguri cap",
-      "level": 24,
-      "exp": 59107,
-      "saldo": 81084237669526
     }
   ],
   "exp": [
@@ -362,8 +362,8 @@
       "name": "Sanz",
       "level": 13,
       "exp": 32702,
-      "saldo": 3
+      "saldo": 3.03e+23
     }
   ],
-  "lastUpdated": 1775796593380
+  "lastUpdated": 1775796653371
 }
