@@ -3632,7 +3632,7 @@
     "setbg": 20,
     "rampok2": 547,
     "6285609504925": 15,
-    "atm": 175,
+    "atm": 176,
     "bank": 89,
     "afk": 676,
     "kerja": 63,
@@ -3773,7 +3773,7 @@
     "setprofile": 132,
     "daftar": 28,
     "profile": 32,
-    "topactive": 78,
+    "topactive": 79,
     "verify": 27,
     "daftr": 12,
     "status": 14,
@@ -5034,5 +5034,5 @@
     "setpo": 1,
     "entzu": 1
   },
-  "lastUpdated": 1775796113369
+  "lastUpdated": 1775796173372
 }
