@@ -57,7 +57,7 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 63,
-      "exp": 153290,
+      "exp": 153324,
       "saldo": 999999
     },
     {
@@ -185,7 +185,7 @@
     {
       "name": "nama amar",
       "level": 1,
-      "exp": 2624,
+      "exp": 2704,
       "saldo": 6.673568075175602e+21
     },
     {
@@ -295,7 +295,7 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 63,
-      "exp": 153290,
+      "exp": 153324,
       "saldo": 999999
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775830501002
+  "lastUpdated": 1775830561000
 }
