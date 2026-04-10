@@ -3630,7 +3630,7 @@
     "ewe-paksa": 51,
     "me": 518,
     "setbg": 20,
-    "rampok2": 548,
+    "rampok2": 549,
     "6285609504925": 15,
     "atm": 176,
     "bank": 89,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 8,
-    "atmall": 139,
+    "atmall": 140,
     "inv": 51,
     "healfull": 6,
     "mute": 5,
@@ -5034,5 +5034,5 @@
     "setpo": 1,
     "entzu": 1
   },
-  "lastUpdated": 1775796293374
+  "lastUpdated": 1775796353374
 }
