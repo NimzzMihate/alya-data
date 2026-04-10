@@ -118,7 +118,7 @@
       "name": "Sanz",
       "level": 13,
       "exp": 32702,
-      "saldo": 0
+      "saldo": 3
     }
   ],
   "saldo": [
@@ -179,7 +179,7 @@
     {
       "name": "Rulz",
       "level": 1,
-      "exp": 2462,
+      "exp": 2501,
       "saldo": 3.0383736633364687e+23
     },
     {
@@ -362,8 +362,8 @@
       "name": "Sanz",
       "level": 13,
       "exp": 32702,
-      "saldo": 0
+      "saldo": 3
     }
   ],
-  "lastUpdated": 1775796533374
+  "lastUpdated": 1775796593380
 }
