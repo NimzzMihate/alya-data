@@ -4907,7 +4907,7 @@
     "getkodeotp": 1,
     "ramal": 1,
     "getinfooribadi": 1,
-    "addlimit": 5,
+    "addlimit": 6,
     "addlimitgame": 2,
     "adventute": 1,
     "news": 2,
@@ -5034,5 +5034,5 @@
     "setpo": 1,
     "entzu": 1
   },
-  "lastUpdated": 1775809352644
+  "lastUpdated": 1775809412643
 }
