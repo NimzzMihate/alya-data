@@ -57,7 +57,7 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 63,
-      "exp": 153324,
+      "exp": 153360,
       "saldo": 999999
     },
     {
@@ -295,7 +295,7 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 63,
-      "exp": 153324,
+      "exp": 153360,
       "saldo": 999999
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775846642220
+  "lastUpdated": 1775846702213
 }
