@@ -3779,7 +3779,7 @@
     "status": 14,
     "pap": 542,
     "tebakbendera": 21,
-    "tebak": 1,
+    "tebak": 2,
     "gantinama": 1,
     "69372932575293": 1,
     "close": 2,
@@ -4118,7 +4118,7 @@
     "statpet": 1,
     "makannin": 1,
     "pepek": 1,
-    "perak": 2,
+    "perak": 3,
     "adoptper": 1,
     "statuspasangan": 9,
     "bego": 6,
@@ -5034,5 +5034,5 @@
     "setpo": 1,
     "entzu": 1
   },
-  "lastUpdated": 1775783153345
+  "lastUpdated": 1775783213345
 }
