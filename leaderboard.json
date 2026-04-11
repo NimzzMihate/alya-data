@@ -3,8 +3,8 @@
     {
       "name": "TX",
       "level": 675,
-      "exp": 1621753,
-      "saldo": 3364355
+      "exp": 1621826,
+      "saldo": 0
     },
     {
       "name": "Nimzz >.<",
@@ -45,8 +45,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 83,
-      "exp": 201122,
-      "saldo": 10000000000014273000
+      "exp": 201216,
+      "saldo": 50000
     },
     {
       "name": "Kayy",
@@ -153,12 +153,6 @@
       "saldo": 1.000000001e+28
     },
     {
-      "name": "NarennDurenn",
-      "level": 5,
-      "exp": 12654,
-      "saldo": 2.000100001010015e+27
-    },
-    {
       "name": "Zxiox",
       "level": 51,
       "exp": 122685,
@@ -201,12 +195,6 @@
       "saldo": 10000139079680377000
     },
     {
-      "name": "Flonα Lyzellé ❀.",
-      "level": 83,
-      "exp": 201122,
-      "saldo": 10000000000014273000
-    },
-    {
       "name": "cano",
       "level": 0,
       "exp": 707,
@@ -241,14 +229,26 @@
       "level": 0,
       "exp": 1395,
       "saldo": 9999999050000
+    },
+    {
+      "name": "rey",
+      "level": 39,
+      "exp": 94727,
+      "saldo": 340349021215
+    },
+    {
+      "name": "Souta",
+      "level": 30,
+      "exp": 72133,
+      "saldo": 480625437
     }
   ],
   "exp": [
     {
       "name": "TX",
       "level": 675,
-      "exp": 1621753,
-      "saldo": 3364355
+      "exp": 1621826,
+      "saldo": 0
     },
     {
       "name": "Ditz ketoprak",
@@ -283,8 +283,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 83,
-      "exp": 201122,
-      "saldo": 10000000000014273000
+      "exp": 201216,
+      "saldo": 50000
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775917956671
+  "lastUpdated": 1775918063918
 }
