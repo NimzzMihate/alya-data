@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 294,
+    "saldo": 295,
     "demote": 6,
     "sendgc": 2,
     "kirimke": 1,
@@ -5035,7 +5035,7 @@
     "entzu": 1,
     "keluar": 1,
     "ceklesbi": 1,
-    "math": 90,
+    "math": 92,
     "62881022662353": 14,
     "und": 1,
     "end": 1,
@@ -5056,5 +5056,5 @@
     "wasabibngetod": 1,
     "aman": 1
   },
-  "lastUpdated": 1775944693399
+  "lastUpdated": 1775944753400
 }
