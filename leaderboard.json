@@ -39,13 +39,13 @@
     {
       "name": "Joishi ganteng",
       "level": 91,
-      "exp": 219092,
+      "exp": 219152,
       "saldo": 1.0201800198428828e+35
     },
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 83,
-      "exp": 201452,
+      "exp": 201568,
       "saldo": 50000
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 91,
-      "exp": 219092,
+      "exp": 219152,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -277,13 +277,13 @@
     {
       "name": "Joishi ganteng",
       "level": 91,
-      "exp": 219092,
+      "exp": 219152,
       "saldo": 1.0201800198428828e+35
     },
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 83,
-      "exp": 201452,
+      "exp": 201568,
       "saldo": 50000
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775919563927
+  "lastUpdated": 1775919623932
 }
