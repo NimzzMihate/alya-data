@@ -14,8 +14,8 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 408,
-      "exp": 981550,
+      "level": 409,
+      "exp": 981658,
       "saldo": 1e+189
     },
     {
@@ -124,8 +124,8 @@
   "saldo": [
     {
       "name": "Ditz ketoprak",
-      "level": 408,
-      "exp": 981550,
+      "level": 409,
+      "exp": 981658,
       "saldo": 1e+189
     },
     {
@@ -252,8 +252,8 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 408,
-      "exp": 981550,
+      "level": 409,
+      "exp": 981658,
       "saldo": 1e+189
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775884632221
+  "lastUpdated": 1775884692219
 }
