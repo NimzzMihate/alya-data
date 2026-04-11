@@ -3633,7 +3633,7 @@
     "rampok2": 553,
     "6285609504925": 15,
     "atm": 186,
-    "bank": 93,
+    "bank": 94,
     "afk": 707,
     "kerja": 63,
     "628176533297": 14,
@@ -3773,7 +3773,7 @@
     "setprofile": 139,
     "daftar": 29,
     "profile": 38,
-    "topactive": 82,
+    "topactive": 83,
     "verify": 27,
     "daftr": 12,
     "status": 14,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 143,
+    "atmall": 144,
     "inv": 57,
     "healfull": 6,
     "mute": 5,
@@ -5052,5 +5052,5 @@
     "addpimit": 1,
     "iv": 1
   },
-  "lastUpdated": 1775905545811
+  "lastUpdated": 1775905605812
 }
