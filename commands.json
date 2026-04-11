@@ -3630,7 +3630,7 @@
     "ewe-paksa": 51,
     "me": 523,
     "setbg": 20,
-    "rampok2": 551,
+    "rampok2": 552,
     "6285609504925": 15,
     "atm": 186,
     "bank": 93,
@@ -4907,7 +4907,7 @@
     "getkodeotp": 1,
     "ramal": 1,
     "getinfooribadi": 1,
-    "addlimit": 6,
+    "addlimit": 7,
     "addlimitgame": 2,
     "adventute": 1,
     "news": 2,
@@ -5049,5 +5049,5 @@
     "..i-iya...": 1,
     "montly": 1
   },
-  "lastUpdated": 1775902337007
+  "lastUpdated": 1775902397009
 }
