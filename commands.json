@@ -3719,7 +3719,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 113,
+    "cekprofile": 114,
     "tes": 321,
     "listown": 14,
     "getpp": 14,
@@ -4018,7 +4018,7 @@
     "warn": 3,
     "tagme": 5,
     "130365243027683": 3,
-    "profil": 10,
+    "profil": 11,
     "prefix": 4,
     "6282313526033": 4,
     "game": 5,
@@ -4186,7 +4186,7 @@
     "listbug": 1,
     "listban": 3,
     "cekstatus": 1,
-    "cekprofil": 8,
+    "cekprofil": 9,
     "atmall": 141,
     "inv": 52,
     "healfull": 6,
@@ -5044,5 +5044,5 @@
     ".yerha": 1,
     "nimz": 1
   },
-  "lastUpdated": 1775885292230
+  "lastUpdated": 1775885352223
 }
