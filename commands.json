@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 207,
+    "atmpull": 208,
     "promote": 5,
     "reset": 3,
     "memasak": 1,
@@ -4097,7 +4097,7 @@
     "lamar": 16,
     "beli": 7,
     "maaf": 8,
-    "sg": 138,
+    "sg": 140,
     "shop": 20,
     "168238516305969": 30,
     "atmtake": 25,
@@ -5052,5 +5052,5 @@
     "addpimit": 1,
     "iv": 1
   },
-  "lastUpdated": 1775913018604
+  "lastUpdated": 1775913078604
 }
