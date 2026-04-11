@@ -4100,7 +4100,7 @@
     "sg": 140,
     "shop": 20,
     "168238516305969": 30,
-    "atmtake": 25,
+    "atmtake": 26,
     "giftshop": 1,
     "kasihnamaanak": 9,
     "babi": 18,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 144,
+    "atmall": 147,
     "inv": 57,
     "healfull": 6,
     "mute": 5,
@@ -5053,5 +5053,5 @@
     "iv": 1,
     ".kasihmakan": 1
   },
-  "lastUpdated": 1775917956671
+  "lastUpdated": 1775918063918
 }
