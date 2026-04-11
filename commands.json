@@ -3634,7 +3634,7 @@
     "6285609504925": 15,
     "atm": 186,
     "bank": 93,
-    "afk": 698,
+    "afk": 699,
     "kerja": 63,
     "628176533297": 14,
     "s": 320,
@@ -3675,7 +3675,7 @@
     "usaha": 53,
     "memancing": 15,
     "271481040834666": 102,
-    "6285189358241": 238,
+    "6285189358241": 240,
     "huxinn😡😡": 1,
     "gift": 652,
     "ajakmain": 135,
@@ -3708,7 +3708,7 @@
     "makan": 14,
     "repair": 1,
     "kapal": 6,
-    "craft": 322,
+    "craft": 324,
     "listheri": 1,
     "listhero": 6,
     "mancing": 8,
@@ -4188,7 +4188,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 143,
-    "inv": 52,
+    "inv": 53,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -4752,7 +4752,7 @@
     "leave": 2,
     "my": 1,
     "bl": 1,
-    "gw": 2,
+    "gw": 3,
     "selamat": 1,
     "waifu": 1,
     "resetewepaksa": 1,
@@ -5051,5 +5051,5 @@
     "271481040834666@250693499797710": 1,
     "addpimit": 1
   },
-  "lastUpdated": 1775904945805
+  "lastUpdated": 1775905005816
 }
