@@ -14,8 +14,8 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 418,
-      "exp": 1005268,
+      "level": 419,
+      "exp": 1005633,
       "saldo": 1e+189
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Aisha",
       "level": 116,
-      "exp": 280737,
+      "exp": 280787,
       "saldo": 10000000
     },
     {
@@ -124,8 +124,8 @@
   "saldo": [
     {
       "name": "Ditz ketoprak",
-      "level": 418,
-      "exp": 1005268,
+      "level": 419,
+      "exp": 1005633,
       "saldo": 1e+189
     },
     {
@@ -252,8 +252,8 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 418,
-      "exp": 1005268,
+      "level": 419,
+      "exp": 1005633,
       "saldo": 1e+189
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Aisha",
       "level": 116,
-      "exp": 280737,
+      "exp": 280787,
       "saldo": 10000000
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775903129110
+  "lastUpdated": 1775903189113
 }
