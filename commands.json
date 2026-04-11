@@ -3982,7 +3982,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 5,
-    "tf": 346,
+    "tf": 347,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4907,7 +4907,7 @@
     "getkodeotp": 1,
     "ramal": 1,
     "getinfooribadi": 1,
-    "addlimit": 7,
+    "addlimit": 9,
     "addlimitgame": 2,
     "adventute": 1,
     "news": 2,
@@ -5035,7 +5035,7 @@
     "entzu": 1,
     "keluar": 1,
     "ceklesbi": 1,
-    "math": 81,
+    "math": 82,
     "62881022662353": 8,
     "und": 1,
     "end": 1,
@@ -5048,7 +5048,8 @@
     "100859371327531": 2,
     "..i-iya...": 1,
     "montly": 1,
-    "271481040834666@250693499797710": 1
+    "271481040834666@250693499797710": 1,
+    "addpimit": 1
   },
-  "lastUpdated": 1775903969111
+  "lastUpdated": 1775904029113
 }
