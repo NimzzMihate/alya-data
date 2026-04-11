@@ -3708,7 +3708,7 @@
     "makan": 14,
     "repair": 1,
     "kapal": 6,
-    "craft": 318,
+    "craft": 322,
     "listheri": 1,
     "listhero": 6,
     "mancing": 8,
@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 114,
-    "tes": 322,
+    "tes": 323,
     "listown": 14,
     "getpp": 14,
     "linkgc": 12,
@@ -5046,5 +5046,5 @@
     "vt": 1,
     "wts\n": 1
   },
-  "lastUpdated": 1775900843955
+  "lastUpdated": 1775900957002
 }
