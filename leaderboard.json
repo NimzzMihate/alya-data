@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 419,
-      "exp": 1007842,
+      "exp": 1007985,
       "saldo": 1e+189
     },
     {
@@ -34,7 +34,7 @@
       "name": "Aisha",
       "level": 117,
       "exp": 282053,
-      "saldo": 20001
+      "saldo": 1.9373737373737373e+52
     },
     {
       "name": "Joishi ganteng",
@@ -125,7 +125,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 419,
-      "exp": 1007842,
+      "exp": 1007985,
       "saldo": 1e+189
     },
     {
@@ -139,6 +139,12 @@
       "level": 510,
       "exp": 359102,
       "saldo": 3.937373737636364e+70
+    },
+    {
+      "name": "Aisha",
+      "level": 117,
+      "exp": 282053,
+      "saldo": 1.9373737373737373e+52
     },
     {
       "name": "Joishi ganteng",
@@ -235,12 +241,6 @@
       "level": 24,
       "exp": 59233,
       "saldo": 81084237669526
-    },
-    {
-      "name": "Ibnu",
-      "level": 0,
-      "exp": 1395,
-      "saldo": 9999999050000
     }
   ],
   "exp": [
@@ -253,7 +253,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 419,
-      "exp": 1007842,
+      "exp": 1007985,
       "saldo": 1e+189
     },
     {
@@ -272,7 +272,7 @@
       "name": "Aisha",
       "level": 117,
       "exp": 282053,
-      "saldo": 20001
+      "saldo": 1.9373737373737373e+52
     },
     {
       "name": "Joishi ganteng",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775905245812
+  "lastUpdated": 1775905305811
 }
