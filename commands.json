@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 206,
+    "atmpull": 207,
     "promote": 5,
     "reset": 3,
     "memasak": 1,
@@ -5041,5 +5041,5 @@
     "end": 1,
     "atamall": 1
   },
-  "lastUpdated": 1775880110198
+  "lastUpdated": 1775880170213
 }
