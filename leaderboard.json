@@ -2,9 +2,9 @@
   "level": [
     {
       "name": "TX",
-      "level": 675,
-      "exp": 1622227,
-      "saldo": 0
+      "level": 676,
+      "exp": 1622426,
+      "saldo": 7000
     },
     {
       "name": "Nimzz >.<",
@@ -246,9 +246,9 @@
   "exp": [
     {
       "name": "TX",
-      "level": 675,
-      "exp": 1622227,
-      "saldo": 0
+      "level": 676,
+      "exp": 1622426,
+      "saldo": 7000
     },
     {
       "name": "Ditz ketoprak",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775972310349
+  "lastUpdated": 1775972370349
 }
