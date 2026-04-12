@@ -3726,7 +3726,7 @@
     "linkgc": 12,
     "cekpasangan": 91,
     "6281283401829": 1,
-    "tembak": 37,
+    "tembak": 38,
     "terima": 19,
     "cium": 301,
     "6281915895220": 7,
@@ -3843,8 +3843,8 @@
     "pabrik": 1,
     "fitnah": 69,
     "puji": 241,
-    "pacar": 231,
-    "carikarakter": 205,
+    "pacar": 232,
+    "carikarakter": 206,
     "nembak": 101,
     "cry": 7,
     "happy": 4,
@@ -4111,7 +4111,7 @@
     "6289530116661": 1,
     "adoptpet": 31,
     "petstat": 38,
-    "playpet": 72,
+    "playpet": 73,
     "feedpet": 130,
     "namapet": 3,
     "namepet": 12,
@@ -5071,5 +5071,5 @@
     "takebank": 1,
     "battle": 1
   },
-  "lastUpdated": 1775981113374
+  "lastUpdated": 1775981173365
 }
