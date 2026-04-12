@@ -3680,7 +3680,7 @@
     "gift": 676,
     "ajakmain": 136,
     "daily": 41,
-    "adventure": 35,
+    "adventure": 36,
     "cf": 16,
     "nai2": 49,
     "6282137487477": 46,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 148,
+    "atmall": 149,
     "inv": 57,
     "healfull": 6,
     "mute": 5,
@@ -5065,5 +5065,5 @@
     "exppet": 1,
     "257307699085532": 1
   },
-  "lastUpdated": 1775979793357
+  "lastUpdated": 1775979853358
 }
