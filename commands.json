@@ -4112,7 +4112,7 @@
     "adoptpet": 31,
     "petstat": 38,
     "playpet": 73,
-    "feedpet": 130,
+    "feedpet": 134,
     "namapet": 3,
     "namepet": 12,
     "statpet": 1,
@@ -5076,5 +5076,5 @@
     "atmmske": 1,
     "atmmake": 1
   },
-  "lastUpdated": 1775987964698
+  "lastUpdated": 1775988024699
 }
