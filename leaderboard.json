@@ -39,14 +39,14 @@
     {
       "name": "Joishi ganteng",
       "level": 94,
-      "exp": 225655,
+      "exp": 225735,
       "saldo": 1.0201800198428828e+35
     },
     {
       "name": "Flonα Lyzellé ❀.",
-      "level": 83,
-      "exp": 201599,
-      "saldo": 50000
+      "level": 84,
+      "exp": 201738,
+      "saldo": 52000
     },
     {
       "name": "Kayy",
@@ -93,7 +93,7 @@
     {
       "name": "Oguri cap",
       "level": 24,
-      "exp": 59294,
+      "exp": 59327,
       "saldo": 81084237669526
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 94,
-      "exp": 225655,
+      "exp": 225735,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -221,7 +221,7 @@
     {
       "name": "Oguri cap",
       "level": 24,
-      "exp": 59294,
+      "exp": 59327,
       "saldo": 81084237669526
     },
     {
@@ -277,14 +277,14 @@
     {
       "name": "Joishi ganteng",
       "level": 94,
-      "exp": 225655,
+      "exp": 225735,
       "saldo": 1.0201800198428828e+35
     },
     {
       "name": "Flonα Lyzellé ❀.",
-      "level": 83,
-      "exp": 201599,
-      "saldo": 50000
+      "level": 84,
+      "exp": 201738,
+      "saldo": 52000
     },
     {
       "name": "Kayy",
@@ -337,7 +337,7 @@
     {
       "name": "Oguri cap",
       "level": 24,
-      "exp": 59294,
+      "exp": 59327,
       "saldo": 81084237669526
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775969108693
+  "lastUpdated": 1775969168695
 }
