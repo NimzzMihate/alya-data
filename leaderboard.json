@@ -57,8 +57,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 71,
-      "exp": 172527,
-      "saldo": 1041968
+      "exp": 172714,
+      "saldo": 0
     },
     {
       "name": "Lejen",
@@ -76,7 +76,7 @@
       "name": "rey",
       "level": 41,
       "exp": 100289,
-      "saldo": 340349032745
+      "saldo": 340347032745
     },
     {
       "name": "*KUROSE*",
@@ -240,7 +240,7 @@
       "name": "rey",
       "level": 41,
       "exp": 100289,
-      "saldo": 340349032745
+      "saldo": 340347032745
     }
   ],
   "exp": [
@@ -295,8 +295,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 71,
-      "exp": 172527,
-      "saldo": 1041968
+      "exp": 172714,
+      "saldo": 0
     },
     {
       "name": "Lejen",
@@ -320,7 +320,7 @@
       "name": "rey",
       "level": 41,
       "exp": 100289,
-      "saldo": 340349032745
+      "saldo": 340347032745
     },
     {
       "name": "*KUROSE*",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776008336263
+  "lastUpdated": 1776008396261
 }
