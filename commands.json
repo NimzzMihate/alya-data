@@ -3658,7 +3658,7 @@
     "menu": 177,
     "owner": 14,
     "script": 10,
-    "joinrpg": 41,
+    "joinrpg": 42,
     "mentahan": 1,
     "claim": 38,
     "cekidch": 7,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 138,
+    "battlepet": 139,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 46,
-    "cekbank": 43,
+    "cekbank": 46,
     "cektomboy": 2,
     "bajingan": 4,
     "tabungan": 9,
@@ -5066,9 +5066,9 @@
     "257307699085532": 1,
     "ambilbank": 1,
     "ambiluang": 1,
-    "getbank": 1,
+    "getbank": 2,
     "takemoney": 1,
     "takebank": 1
   },
-  "lastUpdated": 1775980933370
+  "lastUpdated": 1775980993365
 }
