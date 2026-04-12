@@ -3630,7 +3630,7 @@
     "ewe-paksa": 53,
     "me": 534,
     "setbg": 20,
-    "rampok2": 571,
+    "rampok2": 573,
     "6285609504925": 15,
     "atm": 186,
     "bank": 97,
@@ -4100,7 +4100,7 @@
     "sg": 140,
     "shop": 21,
     "168238516305969": 30,
-    "atmtake": 28,
+    "atmtake": 29,
     "giftshop": 1,
     "kasihnamaanak": 9,
     "babi": 18,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 140,
+    "battlepet": 141,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5074,5 +5074,5 @@
     "weekly": 1,
     "hm.:https://a9fm.github.io/lightshot": 1
   },
-  "lastUpdated": 1775987724697
+  "lastUpdated": 1775987784700
 }
