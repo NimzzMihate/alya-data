@@ -4907,7 +4907,7 @@
     "getkodeotp": 1,
     "ramal": 1,
     "getinfooribadi": 1,
-    "addlimit": 9,
+    "addlimit": 10,
     "addlimitgame": 2,
     "adventute": 1,
     "news": 2,
@@ -5045,7 +5045,7 @@
     "nimz": 1,
     "vt": 1,
     "wts\n": 1,
-    "100859371327531": 3,
+    "100859371327531": 4,
     "..i-iya...": 1,
     "montly": 1,
     "271481040834666@250693499797710": 1,
@@ -5063,7 +5063,9 @@
     "feespet": 1,
     "adopt": 1,
     "exppet": 1,
-    "257307699085532": 1
+    "257307699085532": 1,
+    "ambilbank": 1,
+    "ambiluang": 1
   },
-  "lastUpdated": 1775980633361
+  "lastUpdated": 1775980693364
 }
