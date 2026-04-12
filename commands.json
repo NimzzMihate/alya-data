@@ -3655,7 +3655,7 @@
     "61405583679507": 1,
     "wikwik": 93,
     "heal": 128,
-    "menu": 178,
+    "menu": 179,
     "owner": 14,
     "script": 10,
     "joinrpg": 46,
@@ -3774,7 +3774,7 @@
     "daftar": 29,
     "profile": 38,
     "topactive": 85,
-    "verify": 27,
+    "verify": 28,
     "daftr": 12,
     "status": 14,
     "pap": 585,
@@ -3845,7 +3845,7 @@
     "puji": 242,
     "pacar": 232,
     "carikarakter": 209,
-    "nembak": 101,
+    "nembak": 102,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -3922,7 +3922,7 @@
     "statusanak": 48,
     "wink": 2,
     "kecocokan": 10,
-    "register": 14,
+    "register": 15,
     "rename": 1,
     "cn": 51,
     "cari": 5,
@@ -5088,5 +5088,5 @@
     "mbg": 1,
     "@60117160570910": 1
   },
-  "lastUpdated": 1776031977154
+  "lastUpdated": 1776032037154
 }
