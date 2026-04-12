@@ -3637,7 +3637,7 @@
     "afk": 740,
     "kerja": 69,
     "628176533297": 14,
-    "s": 333,
+    "s": 334,
     "jwkwnwkabs": 1,
     "🗿": 1,
     "165850548031616": 3,
@@ -3679,7 +3679,7 @@
     "huxinn😡😡": 1,
     "gift": 676,
     "ajakmain": 136,
-    "daily": 43,
+    "daily": 44,
     "adventure": 36,
     "cf": 16,
     "nai2": 49,
@@ -3704,7 +3704,7 @@
     "265944542793975": 1,
     "berburu": 26,
     "masak": 17,
-    "rpgmenu": 18,
+    "rpgmenu": 19,
     "makan": 14,
     "repair": 1,
     "kapal": 6,
@@ -5070,7 +5070,8 @@
     "takemoney": 1,
     "takebank": 1,
     "battle": 1,
-    "nguli": 1
+    "nguli": 1,
+    "weekly": 1
   },
-  "lastUpdated": 1775981593407
+  "lastUpdated": 1775981653398
 }
