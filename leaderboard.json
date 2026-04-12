@@ -14,8 +14,8 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 432,
-      "exp": 1043999,
+      "level": 435,
+      "exp": 1044185,
       "saldo": 1e+189
     },
     {
@@ -63,7 +63,7 @@
     {
       "name": "Lejen",
       "level": 52,
-      "exp": 126905,
+      "exp": 126961,
       "saldo": 1.1193837377363637e+143
     },
     {
@@ -124,14 +124,14 @@
   "saldo": [
     {
       "name": "Ditz ketoprak",
-      "level": 432,
-      "exp": 1043999,
+      "level": 435,
+      "exp": 1044185,
       "saldo": 1e+189
     },
     {
       "name": "Lejen",
       "level": 52,
-      "exp": 126905,
+      "exp": 126961,
       "saldo": 1.1193837377363637e+143
     },
     {
@@ -252,8 +252,8 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 432,
-      "exp": 1043999,
+      "level": 435,
+      "exp": 1044185,
       "saldo": 1e+189
     },
     {
@@ -301,7 +301,7 @@
     {
       "name": "Lejen",
       "level": 52,
-      "exp": 126905,
+      "exp": 126961,
       "saldo": 1.1193837377363637e+143
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776004924718
+  "lastUpdated": 1776004984721
 }
