@@ -3667,7 +3667,7 @@
     "6281393286345": 157,
     ">": 5,
     "addapi": 2,
-    "pin": 223,
+    "pin": 224,
     "hd": 215,
     "useitem": 7,
     "77605898313906": 212,
@@ -3844,8 +3844,8 @@
     "fitnah": 69,
     "puji": 241,
     "pacar": 231,
-    "carikarakter": 204,
-    "nembak": 98,
+    "carikarakter": 205,
+    "nembak": 99,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -5059,5 +5059,5 @@
     "ewe-paksanita": 1,
     "ilong": 1
   },
-  "lastUpdated": 1775969408696
+  "lastUpdated": 1775969468704
 }
