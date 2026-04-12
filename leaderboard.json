@@ -39,7 +39,7 @@
     {
       "name": "Joishi ganteng",
       "level": 91,
-      "exp": 219338,
+      "exp": 225584,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -56,9 +56,9 @@
     },
     {
       "name": "\n> murazaki 2.0",
-      "level": 66,
-      "exp": 159831,
-      "saldo": 1011188
+      "level": 69,
+      "exp": 166854,
+      "saldo": 1025286
     },
     {
       "name": "Lejen",
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 91,
-      "exp": 219338,
+      "exp": 225584,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -277,7 +277,7 @@
     {
       "name": "Joishi ganteng",
       "level": 91,
-      "exp": 219338,
+      "exp": 225584,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -294,9 +294,9 @@
     },
     {
       "name": "\n> murazaki 2.0",
-      "level": 66,
-      "exp": 159831,
-      "saldo": 1011188
+      "level": 69,
+      "exp": 166854,
+      "saldo": 1025286
     },
     {
       "name": "Lejen",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775962025171
+  "lastUpdated": 1775962085175
 }
