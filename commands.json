@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 46,
-    "cekbank": 41,
+    "cekbank": 43,
     "cektomboy": 2,
     "bajingan": 4,
     "tabungan": 9,
@@ -5065,7 +5065,8 @@
     "exppet": 1,
     "257307699085532": 1,
     "ambilbank": 1,
-    "ambiluang": 1
+    "ambiluang": 1,
+    "getbank": 1
   },
-  "lastUpdated": 1775980753362
+  "lastUpdated": 1775980813363
 }
