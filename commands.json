@@ -3621,7 +3621,7 @@
     "231179": 2,
     "2694099605": 6,
     "backup": 4,
-    "get": 48,
+    "get": 49,
     "tohtml": 10,
     "ranked": 71,
     "mobaprofile": 15,
@@ -5073,5 +5073,5 @@
     "nguli": 1,
     "weekly": 1
   },
-  "lastUpdated": 1775982743228
+  "lastUpdated": 1775982803221
 }
