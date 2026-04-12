@@ -4111,8 +4111,8 @@
     "6289530116661": 1,
     "adoptpet": 29,
     "petstat": 37,
-    "playpet": 70,
-    "feedpet": 128,
+    "playpet": 71,
+    "feedpet": 129,
     "namapet": 3,
     "namepet": 10,
     "statpet": 1,
@@ -5063,5 +5063,5 @@
     "feespet": 1,
     "adopt": 1
   },
-  "lastUpdated": 1775973330392
+  "lastUpdated": 1775973433305
 }
