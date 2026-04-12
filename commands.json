@@ -3679,7 +3679,7 @@
     "huxinn😡😡": 1,
     "gift": 676,
     "ajakmain": 136,
-    "daily": 39,
+    "daily": 40,
     "adventure": 35,
     "cf": 16,
     "nai2": 49,
@@ -4109,7 +4109,7 @@
     "cekbatang": 83,
     "tahun": 3,
     "6289530116661": 1,
-    "adoptpet": 28,
+    "adoptpet": 29,
     "petstat": 37,
     "playpet": 70,
     "feedpet": 128,
@@ -5060,7 +5060,8 @@
     "ilong": 1,
     "nembak160388": 1,
     "tp": 1,
-    "feespet": 1
+    "feespet": 1,
+    "adopt": 1
   },
-  "lastUpdated": 1775973150384
+  "lastUpdated": 1775973210383
 }
