@@ -39,7 +39,7 @@
     {
       "name": "Joishi ganteng",
       "level": 94,
-      "exp": 225990,
+      "exp": 226081,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -93,7 +93,7 @@
     {
       "name": "Oguri cap",
       "level": 24,
-      "exp": 59418,
+      "exp": 59481,
       "saldo": 81084237669526
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Joishi ganteng",
       "level": 94,
-      "exp": 225990,
+      "exp": 226081,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -221,7 +221,7 @@
     {
       "name": "Oguri cap",
       "level": 24,
-      "exp": 59418,
+      "exp": 59481,
       "saldo": 81084237669526
     },
     {
@@ -277,7 +277,7 @@
     {
       "name": "Joishi ganteng",
       "level": 94,
-      "exp": 225990,
+      "exp": 226081,
       "saldo": 1.0201800198428828e+35
     },
     {
@@ -337,7 +337,7 @@
     {
       "name": "Oguri cap",
       "level": 24,
-      "exp": 59418,
+      "exp": 59481,
       "saldo": 81084237669526
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775969528697
+  "lastUpdated": 1775969588697
 }
