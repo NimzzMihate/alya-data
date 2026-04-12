@@ -3658,7 +3658,7 @@
     "menu": 177,
     "owner": 14,
     "script": 10,
-    "joinrpg": 44,
+    "joinrpg": 45,
     "mentahan": 1,
     "claim": 38,
     "cekidch": 7,
@@ -5085,5 +5085,5 @@
     "edit2": 1,
     "ewepakasa": 1
   },
-  "lastUpdated": 1776002995347
+  "lastUpdated": 1776003055338
 }
