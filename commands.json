@@ -3627,7 +3627,7 @@
     "mobaprofile": 15,
     "playmoba": 38,
     "ngaji": 39,
-    "ewe-paksa": 55,
+    "ewe-paksa": 56,
     "me": 539,
     "setbg": 20,
     "rampok2": 573,
@@ -3677,7 +3677,7 @@
     "271481040834666": 124,
     "6285189358241": 255,
     "huxinn😡😡": 1,
-    "gift": 682,
+    "gift": 683,
     "ajakmain": 137,
     "daily": 45,
     "adventure": 36,
@@ -3770,7 +3770,7 @@
     "628998866123": 14,
     "166121432961259": 49,
     "....": 2,
-    "setprofile": 139,
+    "setprofile": 140,
     "daftar": 29,
     "profile": 38,
     "topactive": 85,
@@ -5082,7 +5082,8 @@
     "tutup": 1,
     "chip": 1,
     "statusb": 1,
-    "edit2": 1
+    "edit2": 1,
+    "ewepakasa": 1
   },
-  "lastUpdated": 1776000145535
+  "lastUpdated": 1776000205543
 }
