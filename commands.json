@@ -4112,7 +4112,7 @@
     "adoptpet": 31,
     "petstat": 38,
     "playpet": 73,
-    "feedpet": 134,
+    "feedpet": 135,
     "namapet": 3,
     "namepet": 12,
     "statpet": 1,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 142,
+    "battlepet": 143,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5074,7 +5074,8 @@
     "weekly": 1,
     "hm.:https://a9fm.github.io/lightshot": 1,
     "atmmske": 1,
-    "atmmake": 1
+    "atmmake": 1,
+    "feed": 1
   },
-  "lastUpdated": 1775988024699
+  "lastUpdated": 1775988084704
 }
