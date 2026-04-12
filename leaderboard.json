@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 420,
-      "exp": 1009927,
+      "exp": 1010036,
       "saldo": 1e+189
     },
     {
@@ -81,7 +81,7 @@
     {
       "name": "*KUROSE*",
       "level": 38,
-      "exp": 92406,
+      "exp": 92486,
       "saldo": 0
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 420,
-      "exp": 1009927,
+      "exp": 1010036,
       "saldo": 1e+189
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 420,
-      "exp": 1009927,
+      "exp": 1010036,
       "saldo": 1e+189
     },
     {
@@ -325,7 +325,7 @@
     {
       "name": "*KUROSE*",
       "level": 38,
-      "exp": 92406,
+      "exp": 92486,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1775996798905
+  "lastUpdated": 1775996858903
 }
