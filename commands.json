@@ -3842,7 +3842,7 @@
     "d": 149,
     "pabrik": 1,
     "fitnah": 69,
-    "puji": 241,
+    "puji": 242,
     "pacar": 232,
     "carikarakter": 207,
     "nembak": 101,
@@ -3885,7 +3885,7 @@
     "...": 3,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 141,
+    "statuspacar": 142,
     "kasihmakan": 324,
     "kasihminum": 93,
     "naena": 15,
@@ -4013,7 +4013,7 @@
     "tiktok": 14,
     "tiktokmp3": 1,
     "139685271736427": 6,
-    "setprofil": 26,
+    "setprofil": 27,
     "cm": 1,
     "warn": 4,
     "tagme": 5,
@@ -5080,7 +5080,9 @@
     "lap": 1,
     "tutor": 1,
     "tutup": 1,
-    "chip": 1
+    "chip": 1,
+    "statusb": 1,
+    "edit2": 1
   },
-  "lastUpdated": 1775997458905
+  "lastUpdated": 1775997518904
 }
