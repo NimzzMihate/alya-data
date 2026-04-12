@@ -3702,7 +3702,7 @@
     "195520047915190": 1,
     "setpp": 72,
     "265944542793975": 1,
-    "berburu": 25,
+    "berburu": 26,
     "masak": 17,
     "rpgmenu": 18,
     "makan": 14,
@@ -3777,7 +3777,7 @@
     "verify": 27,
     "daftr": 12,
     "status": 14,
-    "pap": 559,
+    "pap": 560,
     "tebakbendera": 25,
     "tebak": 2,
     "gantinama": 1,
@@ -5057,5 +5057,5 @@
     "aman": 1,
     "menrpg": 1
   },
-  "lastUpdated": 1775952304624
+  "lastUpdated": 1775952364616
 }
