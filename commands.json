@@ -4110,9 +4110,9 @@
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 31,
-    "petstat": 38,
-    "playpet": 73,
-    "feedpet": 135,
+    "petstat": 40,
+    "playpet": 76,
+    "feedpet": 138,
     "namapet": 3,
     "namepet": 12,
     "statpet": 1,
@@ -5075,7 +5075,8 @@
     "hm.:https://a9fm.github.io/lightshot": 1,
     "atmmske": 1,
     "atmmake": 1,
-    "feed": 1
+    "feed": 1,
+    "feeedpet": 1
   },
-  "lastUpdated": 1775988624702
+  "lastUpdated": 1775988684715
 }
