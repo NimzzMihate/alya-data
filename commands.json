@@ -4109,7 +4109,7 @@
     "cekbatang": 83,
     "tahun": 3,
     "6289530116661": 1,
-    "adoptpet": 29,
+    "adoptpet": 30,
     "petstat": 38,
     "playpet": 72,
     "feedpet": 129,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 130,
+    "battlepet": 131,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5061,7 +5061,8 @@
     "nembak160388": 1,
     "tp": 1,
     "feespet": 1,
-    "adopt": 1
+    "adopt": 1,
+    "exppet": 1
   },
-  "lastUpdated": 1775973493302
+  "lastUpdated": 1775973553312
 }
