@@ -5066,7 +5066,9 @@
     "257307699085532": 1,
     "ambilbank": 1,
     "ambiluang": 1,
-    "getbank": 1
+    "getbank": 1,
+    "takemoney": 1,
+    "takebank": 1
   },
-  "lastUpdated": 1775980873371
+  "lastUpdated": 1775980933370
 }
