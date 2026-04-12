@@ -4100,7 +4100,7 @@
     "sg": 140,
     "shop": 21,
     "168238516305969": 30,
-    "atmtake": 29,
+    "atmtake": 30,
     "giftshop": 1,
     "kasihnamaanak": 9,
     "babi": 18,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 141,
+    "battlepet": 142,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5076,5 +5076,5 @@
     "atmmske": 1,
     "atmmake": 1
   },
-  "lastUpdated": 1775987904697
+  "lastUpdated": 1775987964698
 }
