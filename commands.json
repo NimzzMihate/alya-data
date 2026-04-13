@@ -3635,7 +3635,7 @@
     "atm": 186,
     "bank": 97,
     "afk": 783,
-    "kerja": 69,
+    "kerja": 70,
     "628176533297": 14,
     "s": 357,
     "jwkwnwkabs": 1,
@@ -3654,7 +3654,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 93,
-    "heal": 128,
+    "heal": 129,
     "menu": 180,
     "owner": 14,
     "script": 10,
@@ -3690,7 +3690,7 @@
     "brat": 102,
     "brathd": 2,
     "editfoto": 99,
-    "dailymisi": 65,
+    "dailymisi": 66,
     "open-bo": 53,
     "ewepaksa": 164,
     "topglobal": 54,
@@ -5097,5 +5097,5 @@
     "𝐑𝐞𝐚𝐝𝐲": 1,
     "ngwe": 1
   },
-  "lastUpdated": 1776085394706
+  "lastUpdated": 1776085454710
 }
