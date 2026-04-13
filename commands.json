@@ -4748,7 +4748,7 @@
     "pict": 1,
     "putihkan": 5,
     "pulihkan": 1,
-    "level": 2,
+    "level": 3,
     "leave": 2,
     "my": 1,
     "bl": 1,
@@ -5090,7 +5090,8 @@
     "bonusnya": 1,
     "catbo": 1,
     "tourl5": 3,
-    "resize": 3
+    "resize": 3,
+    "rank": 1
   },
-  "lastUpdated": 1776076159926
+  "lastUpdated": 1776076219925
 }
