@@ -3708,7 +3708,7 @@
     "makan": 14,
     "repair": 1,
     "kapal": 6,
-    "craft": 327,
+    "craft": 328,
     "listheri": 1,
     "listhero": 6,
     "mancing": 8,
@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 301,
+    "saldo": 302,
     "demote": 6,
     "sendgc": 2,
     "kirimke": 1,
@@ -3828,7 +3828,7 @@
     "akun": 2,
     "jembott": 1,
     "kuis": 21,
-    "32968236081310": 115,
+    "32968236081310": 116,
     "6283152469722": 4,
     "6285649132023": 113,
     "oldyk": 3,
@@ -5089,5 +5089,5 @@
     "@60117160570910": 1,
     "bonusnya": 1
   },
-  "lastUpdated": 1776057952793
+  "lastUpdated": 1776058012792
 }
