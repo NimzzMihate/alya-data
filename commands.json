@@ -3982,7 +3982,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 5,
-    "tf": 357,
+    "tf": 361,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4100,7 +4100,7 @@
     "sg": 140,
     "shop": 21,
     "168238516305969": 30,
-    "atmtake": 31,
+    "atmtake": 32,
     "giftshop": 1,
     "kasihnamaanak": 9,
     "babi": 18,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 154,
+    "atmall": 156,
     "inv": 57,
     "healfull": 6,
     "mute": 5,
@@ -5101,5 +5101,5 @@
     "nasihatbakekok": 1,
     "quest": 1
   },
-  "lastUpdated": 1776168145587
+  "lastUpdated": 1776168205589
 }
