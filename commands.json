@@ -3656,7 +3656,7 @@
     "wikwik": 93,
     "heal": 129,
     "menu": 181,
-    "owner": 14,
+    "owner": 15,
     "script": 10,
     "joinrpg": 46,
     "mentahan": 1,
@@ -3792,7 +3792,7 @@
     "kirimke": 1,
     "setpromosi": 5,
     "uprepo": 7,
-    "ssweb": 7,
+    "ssweb": 8,
     "𝗔𝗹𝘆𝗮": 11,
     "youtuber": 96,
     "znipset": 1,
@@ -5100,5 +5100,5 @@
     "izinnizinn": 1,
     "nasihatbakekok": 1
   },
-  "lastUpdated": 1776157798372
+  "lastUpdated": 1776157858369
 }
