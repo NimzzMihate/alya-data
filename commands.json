@@ -3634,7 +3634,7 @@
     "6285609504925": 15,
     "atm": 187,
     "bank": 97,
-    "afk": 803,
+    "afk": 804,
     "kerja": 70,
     "628176533297": 14,
     "s": 360,
@@ -4073,7 +4073,7 @@
     "suki": 1,
     "kanjut": 1,
     "ubah": 3,
-    "buylimit": 4,
+    "buylimit": 5,
     "wagyy": 1,
     "wangyy": 35,
     "wangy": 44,
@@ -4355,7 +4355,7 @@
     "nyrah": 1,
     "120753005527234": 8,
     "ann": 1,
-    "buysaldo": 4,
+    "buysaldo": 6,
     "tarik": 1,
     "ai": 2,
     "infobot": 2,
@@ -5101,5 +5101,5 @@
     "nasihatbakekok": 1,
     "quest": 1
   },
-  "lastUpdated": 1776169342859
+  "lastUpdated": 1776169402854
 }
