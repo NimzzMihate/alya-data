@@ -3774,10 +3774,10 @@
     "daftar": 29,
     "profile": 38,
     "topactive": 95,
-    "verify": 28,
+    "verify": 29,
     "daftr": 12,
     "status": 14,
-    "pap": 588,
+    "pap": 589,
     "tebakbendera": 25,
     "tebak": 2,
     "gantinama": 1,
@@ -3844,7 +3844,7 @@
     "fitnah": 69,
     "puji": 244,
     "pacar": 234,
-    "carikarakter": 209,
+    "carikarakter": 211,
     "nembak": 102,
     "cry": 7,
     "happy": 4,
@@ -3922,7 +3922,7 @@
     "statusanak": 48,
     "wink": 2,
     "kecocokan": 10,
-    "register": 15,
+    "register": 16,
     "rename": 1,
     "cn": 52,
     "cari": 5,
@@ -5119,5 +5119,5 @@
     "femboylantam": 1,
     "embut": 1
   },
-  "lastUpdated": 1776258091994
+  "lastUpdated": 1776258151984
 }
