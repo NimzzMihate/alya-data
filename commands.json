@@ -3798,7 +3798,7 @@
     "znipset": 1,
     "snippet": 5,
     "updatealya": 21,
-    "kencan": 241,
+    "kencan": 242,
     "kasihsusu": 90,
     "wm": 126,
     "absen": 3,
@@ -3842,7 +3842,7 @@
     "d": 161,
     "pabrik": 1,
     "fitnah": 69,
-    "puji": 242,
+    "puji": 244,
     "pacar": 234,
     "carikarakter": 209,
     "nembak": 102,
@@ -4669,7 +4669,7 @@
     "repoy": 1,
     "bgk": 1,
     "atmpull\n.atmtake": 1,
-    "uno": 8,
+    "uno": 9,
     "tictactoe": 43,
     "gamesmemu": 1,
     "suitpvp": 15,
@@ -5105,7 +5105,8 @@
     "antilinkgc": 2,
     "opem": 1,
     "ojek": 1,
-    "ceo": 1
+    "ceo": 1,
+    "oap": 1
   },
-  "lastUpdated": 1776253910966
+  "lastUpdated": 1776253970962
 }
