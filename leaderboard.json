@@ -21,7 +21,7 @@
     {
       "name": "*Putzz?*",
       "level": 376,
-      "exp": 903148,
+      "exp": 903223,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "*Putzz?*",
       "level": 376,
-      "exp": 903148,
+      "exp": 903223,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -145,6 +145,12 @@
       "level": 510,
       "exp": 364029,
       "saldo": 3.937373737636364e+70
+    },
+    {
+      "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
+      "level": 4,
+      "exp": 10666,
+      "saldo": 1e+65
     },
     {
       "name": "TX",
@@ -235,12 +241,6 @@
       "level": 5,
       "exp": 12027,
       "saldo": 100000000065871
-    },
-    {
-      "name": "Zentzu",
-      "level": 1,
-      "exp": 4774,
-      "saldo": 92829108541919
     }
   ],
   "exp": [
@@ -259,7 +259,7 @@
     {
       "name": "*Putzz?*",
       "level": 376,
-      "exp": 903148,
+      "exp": 903223,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776248397369
+  "lastUpdated": 1776248457371
 }
