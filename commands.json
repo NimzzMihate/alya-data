@@ -3689,7 +3689,7 @@
     "listowner": 13,
     "brat": 102,
     "brathd": 2,
-    "editfoto": 99,
+    "editfoto": 100,
     "dailymisi": 67,
     "open-bo": 53,
     "ewepaksa": 166,
@@ -4086,7 +4086,7 @@
     "istiku": 1,
     "cerai": 27,
     "putus": 103,
-    "crop": 37,
+    "crop": 38,
     "shopgift": 55,
     "give": 3,
     "asep": 1,
@@ -4849,7 +4849,7 @@
     "mas'": 1,
     "mbak'": 2,
     "mamah\"": 1,
-    "editfoto2": 25,
+    "editfoto2": 26,
     "zz": 1,
     "..\"": 1,
     "foward": 1,
@@ -5119,5 +5119,5 @@
     "femboylantam": 1,
     "embut": 1
   },
-  "lastUpdated": 1776261141815
+  "lastUpdated": 1776261201814
 }
