@@ -3658,7 +3658,7 @@
     "menu": 185,
     "owner": 15,
     "script": 11,
-    "joinrpg": 46,
+    "joinrpg": 47,
     "mentahan": 1,
     "claim": 38,
     "cekidch": 8,
@@ -3680,7 +3680,7 @@
     "gift": 699,
     "ajakmain": 139,
     "daily": 50,
-    "adventure": 36,
+    "adventure": 41,
     "cf": 16,
     "nai2": 52,
     "6282137487477": 54,
@@ -5119,5 +5119,5 @@
     "femboylantam": 1,
     "embut": 1
   },
-  "lastUpdated": 1776258211986
+  "lastUpdated": 1776258272273
 }
