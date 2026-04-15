@@ -3657,7 +3657,7 @@
     "heal": 129,
     "menu": 183,
     "owner": 15,
-    "script": 10,
+    "script": 11,
     "joinrpg": 46,
     "mentahan": 1,
     "claim": 38,
@@ -5103,5 +5103,5 @@
     "tflimit": 1,
     "193226401136727": 1
   },
-  "lastUpdated": 1776236522973
+  "lastUpdated": 1776236582970
 }
