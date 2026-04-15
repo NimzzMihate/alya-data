@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 156,
+    "atmall": 158,
     "inv": 57,
     "healfull": 6,
     "mute": 5,
@@ -5103,5 +5103,5 @@
     "tflimit": 1,
     "193226401136727": 1
   },
-  "lastUpdated": 1776235502967
+  "lastUpdated": 1776235562968
 }
