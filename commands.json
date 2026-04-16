@@ -3706,7 +3706,7 @@
     "265944542793975": 1,
     "berburu": 27,
     "masak": 17,
-    "rpgmenu": 20,
+    "rpgmenu": 21,
     "makan": 14,
     "repair": 1,
     "kapal": 6,
@@ -4220,7 +4220,7 @@
     "inventory": 15,
     "like": 1,
     "suka": 1,
-    "monthly": 2,
+    "monthly": 3,
     "yearly": 1,
     "terimanikah": 10,
     "6283133734215": 2,
@@ -5125,5 +5125,5 @@
     "pushcpi": 2,
     "updatecpi": 1
   },
-  "lastUpdated": 1776319462164
+  "lastUpdated": 1776319522164
 }
