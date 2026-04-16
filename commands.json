@@ -3657,7 +3657,7 @@
     "61405583679507": 1,
     "wikwik": 93,
     "heal": 132,
-    "menu": 189,
+    "menu": 190,
     "owner": 15,
     "script": 11,
     "joinrpg": 47,
@@ -3674,7 +3674,7 @@
     "useitem": 7,
     "77605898313906": 236,
     "huxin": 9,
-    "usaha": 53,
+    "usaha": 54,
     "memancing": 16,
     "271481040834666": 148,
     "6285189358241": 283,
@@ -3706,7 +3706,7 @@
     "265944542793975": 1,
     "berburu": 27,
     "masak": 17,
-    "rpgmenu": 21,
+    "rpgmenu": 22,
     "makan": 14,
     "repair": 1,
     "kapal": 6,
@@ -4189,7 +4189,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 158,
+    "atmall": 159,
     "inv": 57,
     "healfull": 6,
     "mute": 5,
@@ -5125,5 +5125,5 @@
     "pushcpi": 2,
     "updatecpi": 1
   },
-  "lastUpdated": 1776319725411
+  "lastUpdated": 1776319785411
 }
