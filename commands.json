@@ -3788,7 +3788,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 304,
+    "saldo": 305,
     "demote": 6,
     "sendgc": 2,
     "kirimke": 1,
@@ -3979,7 +3979,7 @@
     "e2": 2,
     "6285180841166": 1,
     "limt": 1,
-    "limit": 22,
+    "limit": 23,
     "cihuy": 1,
     "afk\ntidur": 1,
     "mong": 1,
@@ -4751,7 +4751,7 @@
     "putihkan": 5,
     "pulihkan": 1,
     "level": 5,
-    "leave": 2,
+    "leave": 3,
     "my": 1,
     "bl": 1,
     "gw": 3,
@@ -5123,7 +5123,8 @@
     "leberblume": 1,
     "addcase": 3,
     "pushcpi": 2,
-    "updatecpi": 1
+    "updatecpi": 1,
+    "femboybangke": 1
   },
-  "lastUpdated": 1776320925419
+  "lastUpdated": 1776320985422
 }
