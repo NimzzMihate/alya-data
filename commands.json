@@ -531,9 +531,6 @@
     "setavatar",
     "setpp",
     "gantipp",
-    "setbg",
-    "gantibg",
-    "ubahbg",
     "meinfo",
     "profile",
     "me",
@@ -3636,7 +3633,7 @@
     "6285609504925": 15,
     "atm": 187,
     "bank": 98,
-    "afk": 855,
+    "afk": 856,
     "kerja": 72,
     "628176533297": 14,
     "s": 367,
@@ -3820,7 +3817,7 @@
     "bugwangcap": 1,
     "colong": 1,
     "ttf": 13,
-    "cekfemboy": 154,
+    "cekfemboy": 156,
     "restart": 3,
     "kontol": 6,
     "93283032285420": 9,
@@ -3845,7 +3842,7 @@
     "pabrik": 1,
     "fitnah": 69,
     "puji": 244,
-    "pacar": 235,
+    "pacar": 236,
     "carikarakter": 217,
     "nembak": 103,
     "cry": 7,
@@ -4526,7 +4523,7 @@
     "cekpemboy": 1,
     "cektt": 5,
     "kuiz": 2,
-    "6285799404828": 31,
+    "6285799404828": 32,
     "naren": 2,
     "172709879259358": 5,
     "genshinmenu": 2,
@@ -5124,7 +5121,8 @@
     "addcase": 3,
     "pushcpi": 2,
     "updatecpi": 1,
-    "femboybangke": 1
+    "femboybangke": 1,
+    "delcase": 1
   },
-  "lastUpdated": 1776334665460
+  "lastUpdated": 1776334725466
 }
