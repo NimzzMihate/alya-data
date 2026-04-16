@@ -3657,7 +3657,7 @@
     "61405583679507": 1,
     "wikwik": 93,
     "heal": 131,
-    "menu": 188,
+    "menu": 189,
     "owner": 15,
     "script": 11,
     "joinrpg": 47,
@@ -4869,7 +4869,7 @@
     "kematian": 4,
     "diamond": 1,
     "cn\n>": 1,
-    "putus2": 1,
+    "putus2": 2,
     "cekpasngan": 1,
     "kasihpeju": 1,
     "null": 1,
@@ -5125,5 +5125,5 @@
     "pushcpi": 2,
     "updatecpi": 1
   },
-  "lastUpdated": 1776319402165
+  "lastUpdated": 1776319462164
 }
