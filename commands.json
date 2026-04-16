@@ -4114,7 +4114,7 @@
     "adoptpet": 31,
     "petstat": 41,
     "playpet": 78,
-    "feedpet": 142,
+    "feedpet": 143,
     "namapet": 3,
     "namepet": 12,
     "statpet": 1,
@@ -4150,7 +4150,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 150,
+    "battlepet": 151,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5129,5 +5129,5 @@
     "6287759961230": 1,
     "anry": 1
   },
-  "lastUpdated": 1776348938130
+  "lastUpdated": 1776348998129
 }
