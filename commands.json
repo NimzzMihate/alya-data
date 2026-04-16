@@ -3180,6 +3180,7 @@
     "setbg",
     "gantibg",
     "ubahbg",
+    "lockon",
     "tests",
     "embut",
     "wkwk",
@@ -5121,7 +5122,7 @@
     "femboylantam": 1,
     "embut": 1,
     "leberblume": 1,
-    "addcase": 5,
+    "addcase": 7,
     "pushcpi": 3,
     "updatecpi": 1,
     "femboybangke": 1,
@@ -5135,5 +5136,5 @@
     "moai": 1,
     "mereka": 1
   },
-  "lastUpdated": 1776351520645
+  "lastUpdated": 1776351580646
 }
