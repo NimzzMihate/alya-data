@@ -3636,7 +3636,7 @@
     "6285609504925": 15,
     "atm": 187,
     "bank": 98,
-    "afk": 858,
+    "afk": 859,
     "kerja": 72,
     "628176533297": 14,
     "s": 367,
@@ -3722,7 +3722,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 122,
-    "tes": 350,
+    "tes": 351,
     "listown": 15,
     "getpp": 14,
     "linkgc": 14,
@@ -5125,7 +5125,8 @@
     "pushcpi": 3,
     "updatecpi": 1,
     "femboybangke": 1,
-    "delcase": 1
+    "delcase": 1,
+    "6287759961230": 1
   },
-  "lastUpdated": 1776336338205
+  "lastUpdated": 1776336398203
 }
