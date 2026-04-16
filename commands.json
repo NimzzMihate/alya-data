@@ -3635,7 +3635,7 @@
     "rampok2": 588,
     "6285609504925": 15,
     "atm": 187,
-    "bank": 97,
+    "bank": 98,
     "afk": 844,
     "kerja": 72,
     "628176533297": 14,
@@ -4190,7 +4190,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 159,
-    "inv": 57,
+    "inv": 58,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -4206,7 +4206,7 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 4,
+    "nyampah": 5,
     "berlayar": 14,
     "6285817528851": 2,
     "reedem": 1,
@@ -5125,5 +5125,5 @@
     "pushcpi": 2,
     "updatecpi": 1
   },
-  "lastUpdated": 1776319785411
+  "lastUpdated": 1776319845409
 }
