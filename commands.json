@@ -3658,7 +3658,7 @@
     "menu": 191,
     "owner": 15,
     "script": 11,
-    "joinrpg": 47,
+    "joinrpg": 48,
     "mentahan": 1,
     "claim": 38,
     "cekidch": 8,
@@ -3898,7 +3898,7 @@
     "/": 16,
     "cekcantik": 43,
     "toplocal": 31,
-    "forward": 378,
+    "forward": 379,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 39,
@@ -5134,5 +5134,5 @@
     "mereka": 1,
     "lockon": 1
   },
-  "lastUpdated": 1776415698798
+  "lastUpdated": 1776415758792
 }
