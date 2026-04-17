@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 437,
-      "exp": 1050904,
+      "exp": 1050963,
       "saldo": 1e+189
     },
     {
@@ -51,8 +51,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 74,
-      "exp": 179130,
-      "saldo": 0
+      "exp": 186892,
+      "saldo": 11986
     },
     {
       "name": "Kayy",
@@ -125,7 +125,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 437,
-      "exp": 1050904,
+      "exp": 1050963,
       "saldo": 1e+189
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 437,
-      "exp": 1050904,
+      "exp": 1050963,
       "saldo": 1e+189
     },
     {
@@ -289,8 +289,8 @@
     {
       "name": "\n> murazaki 2.0",
       "level": 74,
-      "exp": 179130,
-      "saldo": 0
+      "exp": 186892,
+      "saldo": 11986
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776430782196
+  "lastUpdated": 1776430842178
 }
