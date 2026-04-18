@@ -208,8 +208,8 @@
     },
     {
       "name": "nama amar",
-      "level": 1,
-      "exp": 4798,
+      "level": 2,
+      "exp": 4837,
       "saldo": 6.673568075175604e+21
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776503801729
+  "lastUpdated": 1776503861738
 }
