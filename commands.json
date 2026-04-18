@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 125,
-    "tes": 365,
+    "tes": 366,
     "listown": 15,
     "getpp": 14,
     "linkgc": 16,
@@ -4199,7 +4199,7 @@
     "foodpet": 1,
     "releaseper": 1,
     "releasepet": 1,
-    "remini": 15,
+    "remini": 16,
     "openbo": 17,
     "stamina": 1,
     "negararusia": 1,
@@ -5140,5 +5140,5 @@
     "apilist": 1,
     "bai": 1
   },
-  "lastUpdated": 1776510807944
+  "lastUpdated": 1776510867937
 }
