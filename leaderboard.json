@@ -33,7 +33,7 @@
     {
       "name": "Aisha",
       "level": 118,
-      "exp": 285514,
+      "exp": 285565,
       "saldo": 0
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Aisha",
       "level": 118,
-      "exp": 285514,
+      "exp": 285565,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776549180100
+  "lastUpdated": 1776549240094
 }
