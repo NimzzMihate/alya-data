@@ -3759,7 +3759,7 @@
     "104797353033809": 4,
     "6282130641503": 9,
     "buyitem": 1,
-    "play": 272,
+    "play": 274,
     "ytmp3": 203,
     "152609298108555": 84,
     "35588770111681": 1,
@@ -3869,8 +3869,8 @@
     "cekganteng": 81,
     "crkganteng": 1,
     "puqi": 36,
-    "anj": 41,
-    "anjing": 26,
+    "anj": 42,
+    "anjing": 27,
     "winkhd": 1,
     "winkuhd": 3,
     "edan": 7,
@@ -3924,7 +3924,7 @@
     "kecocokan": 10,
     "register": 16,
     "rename": 1,
-    "cn": 52,
+    "cn": 53,
     "cari": 6,
     "menurpg": 2,
     "mengaji": 1,
@@ -4103,7 +4103,7 @@
     "atmtake": 32,
     "giftshop": 1,
     "kasihnamaanak": 9,
-    "babi": 18,
+    "babi": 19,
     "dongo": 8,
     "rampok3": 5,
     "cekbatang": 83,
@@ -4990,7 +4990,7 @@
     "60117160570910": 15,
     "setgoodbye": 2,
     "63570532417729": 2,
-    "audio": 2,
+    "audio": 3,
     "239535241838598": 10,
     "6283157422005": 2,
     "6283151851454": 1,
@@ -5137,7 +5137,8 @@
     "henyaaaaaaaaaaaaaa🤤🤤🤤": 1,
     "panti": 1,
     "simpanapi": 1,
-    "apilist": 1
+    "apilist": 1,
+    "bai": 1
   },
-  "lastUpdated": 1776507927912
+  "lastUpdated": 1776507987913
 }
