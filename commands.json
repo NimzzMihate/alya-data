@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 12,
     "status": 15,
-    "pap": 605,
+    "pap": 606,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3800,7 +3800,7 @@
     "updatealya": 21,
     "kencan": 246,
     "kasihsusu": 90,
-    "wm": 128,
+    "wm": 130,
     "absen": 3,
     "mulaiabsen": 3,
     "6283848672013": 25,
@@ -3839,7 +3839,7 @@
     "cekgay": 28,
     "ytdoc": 46,
     "hargasewa": 4,
-    "d": 163,
+    "d": 164,
     "pabrik": 1,
     "fitnah": 69,
     "puji": 246,
@@ -5140,5 +5140,5 @@
     "apilist": 1,
     "bai": 1
   },
-  "lastUpdated": 1776517939559
+  "lastUpdated": 1776517999556
 }
