@@ -3670,7 +3670,7 @@
     "pin": 254,
     "hd": 235,
     "useitem": 7,
-    "77605898313906": 248,
+    "77605898313906": 249,
     "huxin": 10,
     "usaha": 54,
     "memancing": 16,
@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 12,
     "status": 15,
-    "pap": 604,
+    "pap": 605,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -5140,5 +5140,5 @@
     "apilist": 1,
     "bai": 1
   },
-  "lastUpdated": 1776517167958
+  "lastUpdated": 1776517227963
 }
