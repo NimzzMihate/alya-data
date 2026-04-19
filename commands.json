@@ -3682,7 +3682,7 @@
     "daily": 59,
     "adventure": 45,
     "cf": 19,
-    "nai2": 53,
+    "nai2": 56,
     "6282137487477": 63,
     "removebg": 91,
     "addown": 7,
@@ -3924,7 +3924,7 @@
     "kecocokan": 10,
     "register": 16,
     "rename": 1,
-    "cn": 59,
+    "cn": 60,
     "cari": 6,
     "menurpg": 2,
     "mengaji": 1,
@@ -5162,5 +5162,5 @@
     "kecil": 1,
     "nai1": 1
   },
-  "lastUpdated": 1776601044676
+  "lastUpdated": 1776601104669
 }
