@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 310,
+    "saldo": 311,
     "demote": 6,
     "sendgc": 2,
     "kirimke": 1,
@@ -4100,7 +4100,7 @@
     "sg": 141,
     "shop": 22,
     "168238516305969": 30,
-    "atmtake": 32,
+    "atmtake": 33,
     "giftshop": 1,
     "kasihnamaanak": 9,
     "babi": 20,
@@ -5159,5 +5159,5 @@
     "151432594505894": 1,
     "manu": 1
   },
-  "lastUpdated": 1776589082008
+  "lastUpdated": 1776589142009
 }
