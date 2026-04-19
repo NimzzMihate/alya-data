@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 441,
-      "exp": 1059121,
+      "exp": 1059556,
       "saldo": 57000
     },
     {
@@ -69,7 +69,7 @@
     {
       "name": "Zxiox",
       "level": 54,
-      "exp": 129748,
+      "exp": 129825,
       "saldo": 0
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 441,
-      "exp": 1059121,
+      "exp": 1059556,
       "saldo": 57000
     },
     {
@@ -307,7 +307,7 @@
     {
       "name": "Zxiox",
       "level": 54,
-      "exp": 129748,
+      "exp": 129825,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776602329230
+  "lastUpdated": 1776602389251
 }
