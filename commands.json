@@ -3633,7 +3633,7 @@
     "rampok2": 595,
     "6285609504925": 15,
     "atm": 189,
-    "bank": 102,
+    "bank": 103,
     "afk": 909,
     "kerja": 74,
     "628176533297": 14,
@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 311,
+    "saldo": 313,
     "demote": 6,
     "sendgc": 2,
     "kirimke": 1,
@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 217,
+    "atmpull": 218,
     "promote": 5,
     "reset": 3,
     "memasak": 1,
@@ -5159,5 +5159,5 @@
     "151432594505894": 1,
     "manu": 1
   },
-  "lastUpdated": 1776589142009
+  "lastUpdated": 1776589202005
 }
