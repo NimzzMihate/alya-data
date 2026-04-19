@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 440,
-      "exp": 1057575,
+      "exp": 1057609,
       "saldo": null
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Aisha",
       "level": 120,
-      "exp": 290237,
+      "exp": 290273,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -69,7 +69,7 @@
     {
       "name": "Zxiox",
       "level": 53,
-      "exp": 129002,
+      "exp": 129185,
       "saldo": 0
     },
     {
@@ -125,13 +125,13 @@
     {
       "name": "Ditz ketoprak",
       "level": 440,
-      "exp": 1057575,
+      "exp": 1057609,
       "saldo": null
     },
     {
       "name": "Aisha",
       "level": 120,
-      "exp": 290237,
+      "exp": 290273,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 440,
-      "exp": 1057575,
+      "exp": 1057609,
       "saldo": null
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "Aisha",
       "level": 120,
-      "exp": 290237,
+      "exp": 290273,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -307,7 +307,7 @@
     {
       "name": "Zxiox",
       "level": 53,
-      "exp": 129002,
+      "exp": 129185,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776601584738
+  "lastUpdated": 1776601644742
 }
