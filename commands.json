@@ -3627,7 +3627,7 @@
     "mobaprofile": 15,
     "playmoba": 38,
     "ngaji": 43,
-    "ewe-paksa": 58,
+    "ewe-paksa": 59,
     "me": 592,
     "setbg": 25,
     "rampok2": 598,
@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 12,
     "status": 15,
-    "pap": 653,
+    "pap": 654,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3839,7 +3839,7 @@
     "cekgay": 28,
     "ytdoc": 47,
     "hargasewa": 4,
-    "d": 179,
+    "d": 183,
     "pabrik": 1,
     "fitnah": 69,
     "puji": 247,
@@ -5161,7 +5161,9 @@
     "toitelanjang": 1,
     "kecil": 1,
     "nai1": 1,
-    "wiwik": 1
+    "wiwik": 1,
+    "pasti": 1,
+    "paptt": 2
   },
-  "lastUpdated": 1776602149232
+  "lastUpdated": 1776602209233
 }
