@@ -45,8 +45,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 88,
-      "exp": 211747,
-      "saldo": 9.28292928929283e+25
+      "exp": 211842,
+      "saldo": 9.851884875072769e+31
     },
     {
       "name": "keyy the destroyer",
@@ -171,6 +171,12 @@
       "saldo": 1.0201800198428828e+35
     },
     {
+      "name": "Flonα Lyzellé ❀.",
+      "level": 88,
+      "exp": 211842,
+      "saldo": 9.851884875072769e+31
+    },
+    {
       "name": "naa",
       "level": 5,
       "exp": 12176,
@@ -181,12 +187,6 @@
       "level": 72,
       "exp": 173504,
       "saldo": 1.0009900140965517e+26
-    },
-    {
-      "name": "Flonα Lyzellé ❀.",
-      "level": 88,
-      "exp": 211747,
-      "saldo": 9.28292928929283e+25
     },
     {
       "name": "Sanzx",
@@ -283,8 +283,8 @@
     {
       "name": "Flonα Lyzellé ❀.",
       "level": 88,
-      "exp": 211747,
-      "saldo": 9.28292928929283e+25
+      "exp": 211842,
+      "saldo": 9.851884875072769e+31
     },
     {
       "name": "keyy the destroyer",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776589082008
+  "lastUpdated": 1776589142009
 }
