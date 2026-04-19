@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 12,
     "status": 15,
-    "pap": 657,
+    "pap": 661,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -5163,7 +5163,8 @@
     "nai1": 1,
     "wiwik": 1,
     "pasti": 1,
-    "paptt": 5
+    "paptt": 5,
+    "vermeil": 1
   },
-  "lastUpdated": 1776604290058
+  "lastUpdated": 1776604350059
 }
