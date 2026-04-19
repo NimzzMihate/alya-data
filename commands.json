@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 12,
     "status": 15,
-    "pap": 639,
+    "pap": 642,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3924,7 +3924,7 @@
     "kecocokan": 10,
     "register": 16,
     "rename": 1,
-    "cn": 60,
+    "cn": 61,
     "cari": 6,
     "menurpg": 2,
     "mengaji": 1,
@@ -5163,5 +5163,5 @@
     "nai1": 1,
     "wiwik": 1
   },
-  "lastUpdated": 1776601704748
+  "lastUpdated": 1776601789231
 }
