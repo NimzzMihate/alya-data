@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 12,
     "status": 15,
-    "pap": 616,
+    "pap": 617,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3839,7 +3839,7 @@
     "cekgay": 28,
     "ytdoc": 47,
     "hargasewa": 4,
-    "d": 166,
+    "d": 167,
     "pabrik": 1,
     "fitnah": 69,
     "puji": 247,
@@ -4085,7 +4085,7 @@
     "buatanak": 28,
     "istiku": 1,
     "cerai": 27,
-    "putus": 106,
+    "putus": 108,
     "crop": 38,
     "shopgift": 57,
     "give": 3,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 29,
+    "detailkarakter": 30,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5149,5 +5149,5 @@
     "nitq": 1,
     "99132693811432": 1
   },
-  "lastUpdated": 1776575978374
+  "lastUpdated": 1776576038379
 }
