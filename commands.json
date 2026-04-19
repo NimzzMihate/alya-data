@@ -4329,7 +4329,7 @@
     "spotifydl": 15,
     "toaudio": 8,
     "speed": 1,
-    "bass": 25,
+    "bass": 29,
     "earrape": 2,
     "nahida": 30,
     "pasanganmenu": 16,
@@ -5155,7 +5155,8 @@
     "bas": 1,
     "ttsound": 1,
     "blown": 3,
-    "bolwn": 1
+    "bolwn": 1,
+    "151432594505894": 1
   },
-  "lastUpdated": 1776581581471
+  "lastUpdated": 1776581641468
 }
