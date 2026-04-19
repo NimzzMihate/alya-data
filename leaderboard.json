@@ -3,7 +3,7 @@
     {
       "name": "TX",
       "level": 681,
-      "exp": 1635404,
+      "exp": 1635465,
       "saldo": 1.0000055800000003e+63
     },
     {
@@ -15,7 +15,7 @@
     {
       "name": "Ditz ketoprak",
       "level": 441,
-      "exp": 1060167,
+      "exp": 1060237,
       "saldo": 57000
     },
     {
@@ -69,8 +69,8 @@
     {
       "name": "Zxiox",
       "level": 54,
-      "exp": 129825,
-      "saldo": 0
+      "exp": 133849,
+      "saldo": 3127
     },
     {
       "name": "rey",
@@ -155,7 +155,7 @@
     {
       "name": "TX",
       "level": 681,
-      "exp": 1635404,
+      "exp": 1635465,
       "saldo": 1.0000055800000003e+63
     },
     {
@@ -247,13 +247,13 @@
     {
       "name": "TX",
       "level": 681,
-      "exp": 1635404,
+      "exp": 1635465,
       "saldo": 1.0000055800000003e+63
     },
     {
       "name": "Ditz ketoprak",
       "level": 441,
-      "exp": 1060167,
+      "exp": 1060237,
       "saldo": 57000
     },
     {
@@ -307,8 +307,8 @@
     {
       "name": "Zxiox",
       "level": 54,
-      "exp": 129825,
-      "saldo": 0
+      "exp": 133849,
+      "saldo": 3127
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776602509267
+  "lastUpdated": 1776602569249
 }
