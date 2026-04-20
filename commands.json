@@ -3687,7 +3687,7 @@
     "removebg": 93,
     "addown": 7,
     "listowner": 14,
-    "brat": 111,
+    "brat": 112,
     "brathd": 2,
     "editfoto": 100,
     "dailymisi": 69,
@@ -5182,7 +5182,8 @@
     "gconly": 2,
     "setbot": 2,
     "caricase": 1,
-    "setnot": 1
+    "setnot": 1,
+    "riyo": 1
   },
-  "lastUpdated": 1776691068808
+  "lastUpdated": 1776691128804
 }
