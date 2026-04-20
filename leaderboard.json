@@ -45,8 +45,8 @@
     {
       "name": "sky the beginner",
       "level": 89,
-      "exp": 214241,
-      "saldo": 0
+      "exp": 214372,
+      "saldo": 9851884875072768
     },
     {
       "name": "keyy the destroyer",
@@ -225,6 +225,12 @@
       "saldo": 90000000000050000
     },
     {
+      "name": "sky the beginner",
+      "level": 89,
+      "exp": 214372,
+      "saldo": 9851884875072768
+    },
+    {
       "name": "danz",
       "level": 15,
       "exp": 37008,
@@ -235,12 +241,6 @@
       "level": 5,
       "exp": 12027,
       "saldo": 100000000065871
-    },
-    {
-      "name": "Zentzu",
-      "level": 2,
-      "exp": 5575,
-      "saldo": 92829108551919
     }
   ],
   "exp": [
@@ -283,8 +283,8 @@
     {
       "name": "sky the beginner",
       "level": 89,
-      "exp": 214241,
-      "saldo": 0
+      "exp": 214372,
+      "saldo": 9851884875072768
     },
     {
       "name": "keyy the destroyer",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776697397953
+  "lastUpdated": 1776697457955
 }
