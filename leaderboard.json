@@ -45,8 +45,8 @@
     {
       "name": "sky the beginner",
       "level": 89,
-      "exp": 213931,
-      "saldo": 0
+      "exp": 214041,
+      "saldo": 100000000000
     },
     {
       "name": "keyy the destroyer",
@@ -197,8 +197,8 @@
     {
       "name": "renita",
       "level": 13,
-      "exp": 31993,
-      "saldo": 1.0001000443851215e+22
+      "exp": 32173,
+      "saldo": 1.0001000443551213e+22
     },
     {
       "name": "nama amar",
@@ -283,8 +283,8 @@
     {
       "name": "sky the beginner",
       "level": 89,
-      "exp": 213931,
-      "saldo": 0
+      "exp": 214041,
+      "saldo": 100000000000
     },
     {
       "name": "keyy the destroyer",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776697217943
+  "lastUpdated": 1776697277943
 }
