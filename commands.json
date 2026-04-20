@@ -4766,7 +4766,7 @@
     "batal": 3,
     "sf": 1,
     "listplugin": 1,
-    "onlygc": 1,
+    "onlygc": 2,
     "ban": 2,
     "bangc": 1,
     "unbangc": 1,
@@ -5178,7 +5178,9 @@
     "readmoreᅠ": 1,
     "senoritaholic": 1,
     "kntl": 1,
-    "delowner": 1
+    "delowner": 1,
+    "gconly": 2,
+    "setbot": 1
   },
-  "lastUpdated": 1776688601978
+  "lastUpdated": 1776688661979
 }
