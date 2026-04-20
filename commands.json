@@ -4100,7 +4100,7 @@
     "sg": 143,
     "shop": 22,
     "168238516305969": 31,
-    "atmtake": 35,
+    "atmtake": 36,
     "giftshop": 1,
     "kasihnamaanak": 9,
     "babi": 20,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 162,
+    "atmall": 163,
     "inv": 63,
     "healfull": 6,
     "mute": 5,
@@ -5186,7 +5186,9 @@
     "riyo": 1,
     "viona:https://alightcreative.com/am/share/u/bkjjzepnyct98jwzzbknvswebrj2/p/swbxcolkuq-8341b4b9fa1ea87a?source=link": 1,
     "setppp": 1,
-    "getmoney": 1
+    "getmoney": 1,
+    "atmpul": 1,
+    "atmtake10000000000": 1
   },
-  "lastUpdated": 1776697337959
+  "lastUpdated": 1776697397953
 }
