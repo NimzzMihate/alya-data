@@ -3817,7 +3817,7 @@
     "antivirtex": 2,
     "bugwangcap": 1,
     "colong": 1,
-    "ttf": 13,
+    "ttf": 14,
     "cekfemboy": 161,
     "restart": 3,
     "kontol": 6,
@@ -5128,7 +5128,7 @@
     "anry": 1,
     "antimed": 1,
     "antimedia": 1,
-    "python": 1,
+    "python": 2,
     "enc": 2,
     "moai": 1,
     "mereka": 1,
@@ -5180,7 +5180,8 @@
     "kntl": 1,
     "delowner": 1,
     "gconly": 2,
-    "setbot": 1
+    "setbot": 1,
+    "caricase": 1
   },
-  "lastUpdated": 1776688901980
+  "lastUpdated": 1776688961982
 }
