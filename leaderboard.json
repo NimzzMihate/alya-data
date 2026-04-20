@@ -203,8 +203,8 @@
     {
       "name": "renita",
       "level": 12,
-      "exp": 29714,
-      "saldo": 1.0001000446851233e+22
+      "exp": 30202,
+      "saldo": 1.0001000446151228e+22
     },
     {
       "name": "nama amar",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776696725929
+  "lastUpdated": 1776696785931
 }
