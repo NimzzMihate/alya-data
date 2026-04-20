@@ -5180,8 +5180,9 @@
     "kntl": 1,
     "delowner": 1,
     "gconly": 2,
-    "setbot": 1,
-    "caricase": 1
+    "setbot": 2,
+    "caricase": 1,
+    "setnot": 1
   },
-  "lastUpdated": 1776690463234
+  "lastUpdated": 1776690523235
 }
