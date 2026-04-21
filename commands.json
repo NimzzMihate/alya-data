@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 13,
     "status": 15,
-    "pap": 729,
+    "pap": 732,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -4085,7 +4085,7 @@
     "buatanak": 28,
     "istiku": 1,
     "cerai": 27,
-    "putus": 131,
+    "putus": 132,
     "crop": 41,
     "shopgift": 58,
     "give": 3,
@@ -5200,7 +5200,8 @@
     "menu-all": 1,
     "gunting": 1,
     "petakbom": 1,
-    "enobia": 3
+    "enobia": 3,
+    "app": 1
   },
-  "lastUpdated": 1776763747911
+  "lastUpdated": 1776763807917
 }
