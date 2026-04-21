@@ -3667,7 +3667,7 @@
     "6281393286345": 219,
     ">": 7,
     "addapi": 4,
-    "pin": 266,
+    "pin": 267,
     "hd": 256,
     "useitem": 7,
     "77605898313906": 270,
@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 13,
     "status": 15,
-    "pap": 710,
+    "pap": 716,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3845,7 +3845,7 @@
     "puji": 247,
     "pacar": 250,
     "carikarakter": 223,
-    "nembak": 127,
+    "nembak": 128,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -5202,5 +5202,5 @@
     "petakbom": 1,
     "enobia": 2
   },
-  "lastUpdated": 1776762982928
+  "lastUpdated": 1776763042929
 }
