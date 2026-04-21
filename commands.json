@@ -3741,7 +3741,7 @@
     "261581174734897": 1,
     "80505152212993": 1,
     "revomebg": 2,
-    "rvo": 49,
+    "rvo": 50,
     "202766010036371": 59,
     "89374091944116": 108,
     "80548286464072": 37,
@@ -4111,8 +4111,8 @@
     "6289530116661": 1,
     "adoptpet": 31,
     "petstat": 42,
-    "playpet": 79,
-    "feedpet": 147,
+    "playpet": 81,
+    "feedpet": 153,
     "namapet": 3,
     "namepet": 12,
     "statpet": 1,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 153,
+    "battlepet": 154,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5196,5 +5196,5 @@
     "ajjing": 1,
     "totelanjang": 1
   },
-  "lastUpdated": 1776757788026
+  "lastUpdated": 1776757848026
 }
