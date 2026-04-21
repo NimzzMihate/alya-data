@@ -3682,7 +3682,7 @@
     "daily": 61,
     "adventure": 45,
     "cf": 19,
-    "nai2": 80,
+    "nai2": 81,
     "6282137487477": 67,
     "removebg": 94,
     "addown": 7,
@@ -4085,7 +4085,7 @@
     "buatanak": 28,
     "istiku": 1,
     "cerai": 27,
-    "putus": 130,
+    "putus": 131,
     "crop": 41,
     "shopgift": 58,
     "give": 3,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 57,
+    "detailkarakter": 58,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5202,5 +5202,5 @@
     "petakbom": 1,
     "enobia": 3
   },
-  "lastUpdated": 1776763567913
+  "lastUpdated": 1776763627914
 }
