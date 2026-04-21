@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 13,
     "status": 16,
-    "pap": 792,
+    "pap": 793,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 76,
+    "detailkarakter": 78,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5210,5 +5210,5 @@
     "cstbox": 1,
     "balout": 1
   },
-  "lastUpdated": 1776773593759
+  "lastUpdated": 1776773653758
 }
