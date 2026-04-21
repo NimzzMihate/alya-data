@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 13,
     "status": 16,
-    "pap": 780,
+    "pap": 783,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3845,7 +3845,7 @@
     "puji": 247,
     "pacar": 250,
     "carikarakter": 224,
-    "nembak": 145,
+    "nembak": 146,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -5156,7 +5156,7 @@
     "ttsound": 1,
     "blown": 27,
     "bolwn": 1,
-    "151432594505894": 15,
+    "151432594505894": 16,
     "manu": 1,
     "toitelanjang": 1,
     "kecil": 1,
@@ -5209,5 +5209,5 @@
     "shoptift": 1,
     "cstbox": 1
   },
-  "lastUpdated": 1776771633928
+  "lastUpdated": 1776771693932
 }
