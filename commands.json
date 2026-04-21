@@ -3679,7 +3679,7 @@
     "huxinn😡😡": 1,
     "gift": 732,
     "ajakmain": 140,
-    "daily": 61,
+    "daily": 62,
     "adventure": 45,
     "cf": 19,
     "nai2": 97,
@@ -4087,7 +4087,7 @@
     "cerai": 27,
     "putus": 143,
     "crop": 41,
-    "shopgift": 58,
+    "shopgift": 59,
     "give": 3,
     "asep": 1,
     "pasangan": 8,
@@ -5205,7 +5205,8 @@
     "jelek": 1,
     "mayan": 1,
     "walau": 1,
-    "ff": 1
+    "ff": 1,
+    "shoptift": 1
   },
-  "lastUpdated": 1776768753916
+  "lastUpdated": 1776768813916
 }
