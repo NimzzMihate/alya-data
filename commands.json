@@ -4112,7 +4112,7 @@
     "adoptpet": 31,
     "petstat": 42,
     "playpet": 82,
-    "feedpet": 154,
+    "feedpet": 155,
     "namapet": 3,
     "namepet": 12,
     "statpet": 1,
@@ -4616,7 +4616,7 @@
     "kencam": 1,
     "jadwalsholat": 2,
     "byerah": 1,
-    "hug": 10,
+    "hug": 11,
     "slot": 21,
     "boobs": 1,
     "6283193243270": 4,
@@ -5210,5 +5210,5 @@
     "cstbox": 1,
     "balout": 1
   },
-  "lastUpdated": 1776774973772
+  "lastUpdated": 1776775033773
 }
