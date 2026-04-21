@@ -3845,7 +3845,7 @@
     "puji": 247,
     "pacar": 250,
     "carikarakter": 224,
-    "nembak": 135,
+    "nembak": 136,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 62,
+    "detailkarakter": 63,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5156,7 +5156,7 @@
     "ttsound": 1,
     "blown": 27,
     "bolwn": 1,
-    "151432594505894": 10,
+    "151432594505894": 11,
     "manu": 1,
     "toitelanjang": 1,
     "kecil": 1,
@@ -5203,5 +5203,5 @@
     "enobia": 3,
     "app": 1
   },
-  "lastUpdated": 1776764467948
+  "lastUpdated": 1776764527958
 }
