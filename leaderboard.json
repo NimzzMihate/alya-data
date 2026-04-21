@@ -69,8 +69,8 @@
     {
       "name": "Zxiox",
       "level": 56,
-      "exp": 135224,
-      "saldo": 3127
+      "exp": 135338,
+      "saldo": 0
     },
     {
       "name": "rey",
@@ -307,8 +307,8 @@
     {
       "name": "Zxiox",
       "level": 56,
-      "exp": 135224,
-      "saldo": 3127
+      "exp": 135338,
+      "saldo": 0
     },
     {
       "name": "RYZSUKASUPERCAR",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776760552029
+  "lastUpdated": 1776760612029
 }
