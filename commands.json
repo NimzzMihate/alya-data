@@ -3670,7 +3670,7 @@
     "pin": 267,
     "hd": 256,
     "useitem": 7,
-    "77605898313906": 271,
+    "77605898313906": 272,
     "huxin": 10,
     "usaha": 62,
     "memancing": 19,
@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 13,
     "status": 16,
-    "pap": 771,
+    "pap": 776,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3845,7 +3845,7 @@
     "puji": 247,
     "pacar": 250,
     "carikarakter": 224,
-    "nembak": 143,
+    "nembak": 144,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 71,
+    "detailkarakter": 72,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5156,7 +5156,7 @@
     "ttsound": 1,
     "blown": 27,
     "bolwn": 1,
-    "151432594505894": 11,
+    "151432594505894": 12,
     "manu": 1,
     "toitelanjang": 1,
     "kecil": 1,
@@ -5207,5 +5207,5 @@
     "walau": 1,
     "ff": 1
   },
-  "lastUpdated": 1776767960425
+  "lastUpdated": 1776768093909
 }
