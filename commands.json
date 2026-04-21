@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 13,
     "status": 16,
-    "pap": 779,
+    "pap": 780,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3845,7 +3845,7 @@
     "puji": 247,
     "pacar": 250,
     "carikarakter": 224,
-    "nembak": 144,
+    "nembak": 145,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 72,
+    "detailkarakter": 73,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5156,7 +5156,7 @@
     "ttsound": 1,
     "blown": 27,
     "bolwn": 1,
-    "151432594505894": 14,
+    "151432594505894": 15,
     "manu": 1,
     "toitelanjang": 1,
     "kecil": 1,
@@ -5209,5 +5209,5 @@
     "shoptift": 1,
     "cstbox": 1
   },
-  "lastUpdated": 1776771513929
+  "lastUpdated": 1776771573931
 }
