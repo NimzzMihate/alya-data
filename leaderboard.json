@@ -50,8 +50,8 @@
     },
     {
       "name": "keyy the destroyer",
-      "level": 83,
-      "exp": 205348,
+      "level": 85,
+      "exp": 205385,
       "saldo": 2051872
     },
     {
@@ -288,8 +288,8 @@
     },
     {
       "name": "keyy the destroyer",
-      "level": 83,
-      "exp": 205348,
+      "level": 85,
+      "exp": 205385,
       "saldo": 2051872
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776759472023
+  "lastUpdated": 1776759532019
 }
