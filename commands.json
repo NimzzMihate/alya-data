@@ -3621,7 +3621,7 @@
     "231179": 2,
     "2694099605": 6,
     "backup": 5,
-    "get": 71,
+    "get": 72,
     "tohtml": 10,
     "ranked": 71,
     "mobaprofile": 15,
@@ -5190,5 +5190,5 @@
     "atmpul": 1,
     "atmtake10000000000": 1
   },
-  "lastUpdated": 1776731058164
+  "lastUpdated": 1776731118166
 }
