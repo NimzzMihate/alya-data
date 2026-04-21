@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 13,
     "status": 16,
-    "pap": 806,
+    "pap": 808,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3845,7 +3845,7 @@
     "puji": 247,
     "pacar": 251,
     "carikarakter": 224,
-    "nembak": 152,
+    "nembak": 153,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 81,
+    "detailkarakter": 82,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5215,5 +5215,5 @@
     "tebakkimia": 1,
     "susukata": 1
   },
-  "lastUpdated": 1776779639732
+  "lastUpdated": 1776779699731
 }
