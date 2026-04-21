@@ -3898,7 +3898,7 @@
     "/": 16,
     "cekcantik": 45,
     "toplocal": 41,
-    "forward": 386,
+    "forward": 388,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 44,
@@ -4672,9 +4672,9 @@
     "uno": 9,
     "tictactoe": 44,
     "gamesmemu": 1,
-    "suitpvp": 16,
+    "suitpvp": 17,
     "slor": 1,
-    "gas": 1,
+    "gas": 3,
     "batu": 3,
     "kertas": 1,
     "suit": 1,
@@ -5199,5 +5199,5 @@
     "sematkan": 1,
     "menu-all": 1
   },
-  "lastUpdated": 1776761902923
+  "lastUpdated": 1776761962923
 }
