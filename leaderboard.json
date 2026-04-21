@@ -39,13 +39,13 @@
     {
       "name": "Joishi ganteng",
       "level": 98,
-      "exp": 236385,
+      "exp": 236434,
       "saldo": 1.2431518001995756e+37
     },
     {
       "name": "sky the beginner",
       "level": 89,
-      "exp": 215846,
+      "exp": 215961,
       "saldo": 9851884875067768
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "Joishi ganteng",
       "level": 98,
-      "exp": 236385,
+      "exp": 236434,
       "saldo": 1.2431518001995756e+37
     },
     {
@@ -227,7 +227,7 @@
     {
       "name": "sky the beginner",
       "level": 89,
-      "exp": 215846,
+      "exp": 215961,
       "saldo": 9851884875067768
     },
     {
@@ -277,13 +277,13 @@
     {
       "name": "Joishi ganteng",
       "level": 98,
-      "exp": 236385,
+      "exp": 236434,
       "saldo": 1.2431518001995756e+37
     },
     {
       "name": "sky the beginner",
       "level": 89,
-      "exp": 215846,
+      "exp": 215961,
       "saldo": 9851884875067768
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776785115984
+  "lastUpdated": 1776785176052
 }
