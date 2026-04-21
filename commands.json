@@ -3845,7 +3845,7 @@
     "puji": 247,
     "pacar": 250,
     "carikarakter": 224,
-    "nembak": 139,
+    "nembak": 140,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 67,
+    "detailkarakter": 68,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5201,7 +5201,10 @@
     "gunting": 1,
     "petakbom": 1,
     "enobia": 3,
-    "app": 1
+    "app": 1,
+    "jelek": 1,
+    "mayan": 1,
+    "walau": 1
   },
-  "lastUpdated": 1776765140404
+  "lastUpdated": 1776765200402
 }
