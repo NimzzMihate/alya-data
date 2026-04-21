@@ -51,7 +51,7 @@
     {
       "name": "keyy the destroyer",
       "level": 85,
-      "exp": 205385,
+      "exp": 205650,
       "saldo": 2051872
     },
     {
@@ -69,7 +69,7 @@
     {
       "name": "Zxiox",
       "level": 56,
-      "exp": 135182,
+      "exp": 135224,
       "saldo": 3127
     },
     {
@@ -289,7 +289,7 @@
     {
       "name": "keyy the destroyer",
       "level": 85,
-      "exp": 205385,
+      "exp": 205650,
       "saldo": 2051872
     },
     {
@@ -307,7 +307,7 @@
     {
       "name": "Zxiox",
       "level": 56,
-      "exp": 135182,
+      "exp": 135224,
       "saldo": 3127
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776760492027
+  "lastUpdated": 1776760552029
 }
