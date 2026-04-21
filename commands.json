@@ -3653,7 +3653,7 @@
     "p": 4,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 98,
+    "wikwik": 99,
     "heal": 136,
     "menu": 206,
     "owner": 15,
@@ -4110,7 +4110,7 @@
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 31,
-    "petstat": 41,
+    "petstat": 42,
     "playpet": 79,
     "feedpet": 147,
     "namapet": 3,
@@ -5195,5 +5195,5 @@
     "noench": 1,
     "ajjing": 1
   },
-  "lastUpdated": 1776757526965
+  "lastUpdated": 1776757668030
 }
