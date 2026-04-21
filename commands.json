@@ -3655,7 +3655,7 @@
     "61405583679507": 1,
     "wikwik": 100,
     "heal": 136,
-    "menu": 206,
+    "menu": 208,
     "owner": 15,
     "script": 11,
     "joinrpg": 48,
@@ -4455,7 +4455,7 @@
     "yampah": 1,
     "rampo²": 1,
     "enana": 1,
-    "gamesmenu": 13,
+    "gamesmenu": 14,
     "downloadmenu": 2,
     "iya": 1,
     "abu": 1,
@@ -4973,7 +4973,7 @@
     "resetfotopacar": 1,
     "tai": 1,
     "ciumk": 1,
-    "menugame": 1,
+    "menugame": 2,
     "caricharacter": 1,
     "setppprofile": 1,
     "6288289686381": 2,
@@ -5196,7 +5196,8 @@
     "ajjing": 1,
     "totelanjang": 1,
     "entot": 1,
-    "sematkan": 1
+    "sematkan": 1,
+    "menu-all": 1
   },
-  "lastUpdated": 1776761782919
+  "lastUpdated": 1776761842924
 }
