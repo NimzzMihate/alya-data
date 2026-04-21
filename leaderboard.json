@@ -38,9 +38,9 @@
     },
     {
       "name": "Joishi ganteng",
-      "level": 97,
-      "exp": 235115,
-      "saldo": 3.7018001995756757e+34
+      "level": 98,
+      "exp": 235319,
+      "saldo": 9.701800199575676e+34
     },
     {
       "name": "sky the beginner",
@@ -69,7 +69,7 @@
     {
       "name": "Lejen",
       "level": 57,
-      "exp": 136968,
+      "exp": 137085,
       "saldo": 1.1193837377363637e+143
     },
     {
@@ -131,7 +131,7 @@
     {
       "name": "Lejen",
       "level": 57,
-      "exp": 136968,
+      "exp": 137085,
       "saldo": 1.1193837377363637e+143
     },
     {
@@ -160,9 +160,9 @@
     },
     {
       "name": "Joishi ganteng",
-      "level": 97,
-      "exp": 235115,
-      "saldo": 3.7018001995756757e+34
+      "level": 98,
+      "exp": 235319,
+      "saldo": 9.701800199575676e+34
     },
     {
       "name": "Player-314",
@@ -276,9 +276,9 @@
     },
     {
       "name": "Joishi ganteng",
-      "level": 97,
-      "exp": 235115,
-      "saldo": 3.7018001995756757e+34
+      "level": 98,
+      "exp": 235319,
+      "saldo": 9.701800199575676e+34
     },
     {
       "name": "sky the beginner",
@@ -307,7 +307,7 @@
     {
       "name": "Lejen",
       "level": 57,
-      "exp": 136968,
+      "exp": 137085,
       "saldo": 1.1193837377363637e+143
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776773133942
+  "lastUpdated": 1776773193939
 }
