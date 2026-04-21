@@ -4228,7 +4228,7 @@
     "non": 1,
     "upch": 26,
     "uch": 1,
-    "joinch": 1,
+    "joinch": 2,
     "htspam": 1,
     "rating": 4,
     "rampokatm": 1,
@@ -5194,5 +5194,5 @@
     ".pap": 1,
     "noench": 1
   },
-  "lastUpdated": 1776752581220
+  "lastUpdated": 1776752641222
 }
