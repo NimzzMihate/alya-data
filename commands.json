@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 129,
-    "tes": 385,
+    "tes": 387,
     "listown": 15,
     "getpp": 14,
     "linkgc": 16,
@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 13,
     "status": 15,
-    "pap": 716,
+    "pap": 719,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3844,8 +3844,8 @@
     "fitnah": 70,
     "puji": 247,
     "pacar": 250,
-    "carikarakter": 223,
-    "nembak": 128,
+    "carikarakter": 224,
+    "nembak": 130,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 55,
+    "detailkarakter": 56,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5202,5 +5202,5 @@
     "petakbom": 1,
     "enobia": 2
   },
-  "lastUpdated": 1776763222934
+  "lastUpdated": 1776763327917
 }
