@@ -3970,7 +3970,7 @@
     "yumeko": 1,
     "mahiru": 1,
     "marshaandthebear": 1,
-    "allmenu": 24,
+    "allmenu": 25,
     "gamemenu": 4,
     "catur": 240,
     "mulai": 1,
@@ -4221,7 +4221,7 @@
     "monthly": 3,
     "yearly": 1,
     "terimanikah": 10,
-    "6283133734215": 3,
+    "6283133734215": 4,
     "ai2": 14,
     "ajg": 4,
     "wibu": 10,
@@ -4672,7 +4672,7 @@
     "uno": 9,
     "tictactoe": 44,
     "gamesmemu": 1,
-    "suitpvp": 15,
+    "suitpvp": 16,
     "slor": 1,
     "gas": 1,
     "batu": 3,
@@ -5199,5 +5199,5 @@
     "sematkan": 1,
     "menu-all": 1
   },
-  "lastUpdated": 1776761842924
+  "lastUpdated": 1776761902923
 }
