@@ -3708,7 +3708,7 @@
     "makan": 16,
     "repair": 1,
     "kapal": 6,
-    "craft": 333,
+    "craft": 336,
     "listheri": 1,
     "listhero": 6,
     "mancing": 10,
@@ -3991,8 +3991,8 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 85,
-    "jual": 85,
+    "sell": 86,
+    "jual": 86,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -5210,5 +5210,5 @@
     "cstbox": 1,
     "balout": 1
   },
-  "lastUpdated": 1776773133942
+  "lastUpdated": 1776773193939
 }
