@@ -3682,7 +3682,7 @@
     "daily": 61,
     "adventure": 45,
     "cf": 19,
-    "nai2": 76,
+    "nai2": 77,
     "6282137487477": 67,
     "removebg": 94,
     "addown": 7,
@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 13,
     "status": 15,
-    "pap": 702,
+    "pap": 703,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -4085,7 +4085,7 @@
     "buatanak": 28,
     "istiku": 1,
     "cerai": 27,
-    "putus": 126,
+    "putus": 127,
     "crop": 41,
     "shopgift": 58,
     "give": 3,
@@ -5199,7 +5199,8 @@
     "sematkan": 1,
     "menu-all": 1,
     "gunting": 1,
-    "petakbom": 1
+    "petakbom": 1,
+    "enobia": 1
   },
-  "lastUpdated": 1776762742924
+  "lastUpdated": 1776762802926
 }
