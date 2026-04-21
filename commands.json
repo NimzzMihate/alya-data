@@ -3628,7 +3628,7 @@
     "playmoba": 38,
     "ngaji": 47,
     "ewe-paksa": 60,
-    "me": 608,
+    "me": 609,
     "setbg": 25,
     "rampok2": 599,
     "6285609504925": 15,
@@ -3830,7 +3830,7 @@
     "kuis": 25,
     "32968236081310": 127,
     "6283152469722": 4,
-    "6285649132023": 135,
+    "6285649132023": 137,
     "oldyk": 4,
     "no": 3,
     "edit": 7,
@@ -4672,7 +4672,7 @@
     "uno": 9,
     "tictactoe": 44,
     "gamesmemu": 1,
-    "suitpvp": 18,
+    "suitpvp": 19,
     "slor": 1,
     "gas": 3,
     "batu": 3,
@@ -5197,7 +5197,8 @@
     "totelanjang": 1,
     "entot": 1,
     "sematkan": 1,
-    "menu-all": 1
+    "menu-all": 1,
+    "gunting": 1
   },
-  "lastUpdated": 1776762022922
+  "lastUpdated": 1776762082920
 }
