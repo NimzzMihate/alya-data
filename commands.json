@@ -3702,7 +3702,7 @@
     "195520047915190": 1,
     "setpp": 76,
     "265944542793975": 1,
-    "berburu": 33,
+    "berburu": 34,
     "masak": 17,
     "rpgmenu": 23,
     "makan": 16,
@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 129,
-    "tes": 395,
+    "tes": 396,
     "listown": 15,
     "getpp": 14,
     "linkgc": 16,
@@ -5218,5 +5218,5 @@
     "saldonya": 1,
     "pixs": 1
   },
-  "lastUpdated": 1776851946807
+  "lastUpdated": 1776852006813
 }
