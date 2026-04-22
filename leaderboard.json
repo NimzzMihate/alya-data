@@ -51,8 +51,8 @@
     {
       "name": "sky the beginner",
       "level": 90,
-      "exp": 216663,
-      "saldo": 9851884873074768
+      "exp": 216818,
+      "saldo": 9851884873069768
     },
     {
       "name": "Kayy",
@@ -197,7 +197,7 @@
     {
       "name": "renita",
       "level": 13,
-      "exp": 32624,
+      "exp": 32684,
       "saldo": 1.0001000443551213e+22
     },
     {
@@ -227,8 +227,8 @@
     {
       "name": "sky the beginner",
       "level": 90,
-      "exp": 216663,
-      "saldo": 9851884873074768
+      "exp": 216818,
+      "saldo": 9851884873069768
     },
     {
       "name": "danz",
@@ -289,8 +289,8 @@
     {
       "name": "sky the beginner",
       "level": 90,
-      "exp": 216663,
-      "saldo": 9851884873074768
+      "exp": 216818,
+      "saldo": 9851884873069768
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776901507783
+  "lastUpdated": 1776901583935
 }
