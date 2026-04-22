@@ -3635,7 +3635,7 @@
     "atm": 191,
     "bank": 104,
     "afk": 960,
-    "kerja": 74,
+    "kerja": 75,
     "628176533297": 14,
     "s": 397,
     "jwkwnwkabs": 1,
@@ -5216,7 +5216,8 @@
     "susukata": 1,
     "wn": 1,
     "saldonya": 1,
-    "pixs": 1
+    "pixs": 1,
+    "bakuljahe": 1
   },
-  "lastUpdated": 1776853837226
+  "lastUpdated": 1776853897228
 }
