@@ -3845,7 +3845,7 @@
     "puji": 247,
     "pacar": 254,
     "carikarakter": 228,
-    "nembak": 154,
+    "nembak": 155,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -3934,7 +3934,7 @@
     "145161355005957": 9,
     "istriku": 32,
     "271966086938834": 1,
-    "51338180305071": 14,
+    "51338180305071": 15,
     "hitamkan": 73,
     "hitam": 1,
     "6281393699096": 18,
@@ -4087,7 +4087,7 @@
     "cerai": 28,
     "putus": 154,
     "crop": 43,
-    "shopgift": 59,
+    "shopgift": 60,
     "give": 3,
     "asep": 1,
     "pasangan": 8,
@@ -5218,7 +5218,8 @@
     "saldonya": 1,
     "pixs": 1,
     "bakuljahe": 1,
-    "tukangbengkel": 1
+    "tukangbengkel": 1,
+    "oroak": 1
   },
-  "lastUpdated": 1776854317229
+  "lastUpdated": 1776854377230
 }
