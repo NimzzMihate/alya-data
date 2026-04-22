@@ -167,7 +167,7 @@
     {
       "name": "Player-314",
       "level": 0,
-      "exp": 1491,
+      "exp": 1566,
       "saldo": 1e+31
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776823862218
+  "lastUpdated": 1776823922221
 }
