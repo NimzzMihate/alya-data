@@ -3630,7 +3630,7 @@
     "ewe-paksa": 60,
     "me": 610,
     "setbg": 25,
-    "rampok2": 600,
+    "rampok2": 601,
     "6285609504925": 15,
     "atm": 191,
     "bank": 104,
@@ -3653,8 +3653,8 @@
     "p": 4,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 100,
-    "heal": 136,
+    "wikwik": 101,
+    "heal": 137,
     "menu": 211,
     "owner": 15,
     "script": 11,
@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 327,
+    "saldo": 329,
     "demote": 6,
     "sendgc": 2,
     "kirimke": 1,
@@ -5214,7 +5214,8 @@
     "tebaklirik": 1,
     "tebakkimia": 1,
     "susukata": 1,
-    "wn": 1
+    "wn": 1,
+    "saldonya": 1
   },
-  "lastUpdated": 1776831602283
+  "lastUpdated": 1776831662281
 }
