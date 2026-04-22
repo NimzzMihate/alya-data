@@ -3634,7 +3634,7 @@
     "6285609504925": 15,
     "atm": 191,
     "bank": 104,
-    "afk": 960,
+    "afk": 961,
     "kerja": 75,
     "628176533297": 14,
     "s": 397,
@@ -3845,7 +3845,7 @@
     "puji": 247,
     "pacar": 254,
     "carikarakter": 227,
-    "nembak": 153,
+    "nembak": 154,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -3925,7 +3925,7 @@
     "register": 16,
     "rename": 1,
     "cn": 72,
-    "cari": 7,
+    "cari": 8,
     "menurpg": 2,
     "mengaji": 1,
     "dagang": 35,
@@ -4520,7 +4520,7 @@
     "rampom2": 1,
     "cekgenteng": 1,
     "6285711426403": 4,
-    "6289529326989": 65,
+    "6289529326989": 66,
     "cekpemboy": 1,
     "cektt": 5,
     "kuiz": 2,
@@ -5220,5 +5220,5 @@
     "bakuljahe": 1,
     "tukangbengkel": 1
   },
-  "lastUpdated": 1776854017226
+  "lastUpdated": 1776854077228
 }
