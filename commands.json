@@ -3777,7 +3777,7 @@
     "verify": 29,
     "daftr": 13,
     "status": 16,
-    "pap": 813,
+    "pap": 814,
     "tebakbendera": 26,
     "tebak": 2,
     "gantinama": 1,
@@ -3885,7 +3885,7 @@
     "...": 3,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 142,
+    "statuspacar": 144,
     "kasihmakan": 326,
     "kasihminum": 93,
     "naena": 15,
@@ -3925,7 +3925,7 @@
     "register": 16,
     "rename": 1,
     "cn": 72,
-    "cari": 6,
+    "cari": 7,
     "menurpg": 2,
     "mengaji": 1,
     "dagang": 35,
@@ -5217,7 +5217,8 @@
     "wn": 1,
     "saldonya": 1,
     "pixs": 1,
-    "bakuljahe": 1
+    "bakuljahe": 1,
+    "tukangbengkel": 1
   },
-  "lastUpdated": 1776853897228
+  "lastUpdated": 1776853957228
 }
