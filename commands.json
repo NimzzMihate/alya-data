@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 129,
-    "tes": 394,
+    "tes": 395,
     "listown": 15,
     "getpp": 14,
     "linkgc": 16,
@@ -4720,9 +4720,9 @@
     "character": 2,
     "rampok1": 1,
     "deletecasino": 1,
-    "nuliskiri": 14,
+    "nuliskiri": 15,
     "nulinkanan": 1,
-    "nuliskanan": 3,
+    "nuliskanan": 4,
     ".d": 1,
     "payment": 1,
     "gopay": 2,
@@ -5218,5 +5218,5 @@
     "saldonya": 1,
     "pixs": 1
   },
-  "lastUpdated": 1776850626793
+  "lastUpdated": 1776850686793
 }
