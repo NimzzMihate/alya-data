@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 163,
+    "atmall": 164,
     "inv": 63,
     "healfull": 6,
     "mute": 5,
@@ -5217,5 +5217,5 @@
     "wn": 1,
     "saldonya": 1
   },
-  "lastUpdated": 1776831662281
+  "lastUpdated": 1776831722286
 }
