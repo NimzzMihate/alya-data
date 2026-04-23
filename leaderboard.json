@@ -20,9 +20,9 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 442,
-      "exp": 1063163,
-      "saldo": 54760
+      "level": 443,
+      "exp": 1063267,
+      "saldo": 5.674747474747456e+68
     },
     {
       "name": "⚊bímm153",
@@ -147,6 +147,12 @@
       "saldo": 3.937373737636364e+70
     },
     {
+      "name": "Ditz ketoprak",
+      "level": 443,
+      "exp": 1063267,
+      "saldo": 5.674747474747456e+68
+    },
+    {
       "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
       "level": 4,
       "exp": 11489,
@@ -235,12 +241,6 @@
       "level": 91,
       "exp": 219220,
       "saldo": 9851884884973304
-    },
-    {
-      "name": "danz",
-      "level": 15,
-      "exp": 37008,
-      "saldo": 252183670087847
     }
   ],
   "exp": [
@@ -258,9 +258,9 @@
     },
     {
       "name": "Ditz ketoprak",
-      "level": 442,
-      "exp": 1063163,
-      "saldo": 54760
+      "level": 443,
+      "exp": 1063267,
+      "saldo": 5.674747474747456e+68
     },
     {
       "name": "Nimzz >.<",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776949263632
+  "lastUpdated": 1776949323644
 }
