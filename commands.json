@@ -3708,7 +3708,7 @@
     "makan": 16,
     "repair": 1,
     "kapal": 6,
-    "craft": 343,
+    "craft": 344,
     "listheri": 1,
     "listhero": 6,
     "mancing": 11,
@@ -3991,7 +3991,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 88,
+    "sell": 89,
     "jual": 86,
     "vid": 3,
     "nfsw": 2,
@@ -4136,7 +4136,7 @@
     "cek": 17,
     "forward.forward": 1,
     "hell": 1,
-    "bailout": 56,
+    "bailout": 57,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -5235,5 +5235,5 @@
     "steam": 2,
     "steal2": 2
   },
-  "lastUpdated": 1776949263632
+  "lastUpdated": 1776949323644
 }
