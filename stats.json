@@ -1,10 +1,10 @@
 {
   "botName": "🍄 𝗔𝗹𝘆𝗮 𝗠𝗗",
-  "totalUsers": 1099,
+  "totalUsers": 1100,
   "totalGroups": 38,
   "totalFeatures": 3610,
-  "totalCmd": 27679,
-  "totalChat": 27679,
+  "totalCmd": 27680,
+  "totalChat": 27680,
   "topCommands": [
     {
       "cmd": "afk",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 780,
-  "lastUpdated": 1776956550805
+  "uptimeSeconds": 840,
+  "lastUpdated": 1776956610800
 }
