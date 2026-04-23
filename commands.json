@@ -4221,7 +4221,7 @@
     "monthly": 3,
     "yearly": 1,
     "terimanikah": 10,
-    "6283133734215": 13,
+    "6283133734215": 14,
     "ai2": 14,
     "ajg": 4,
     "wibu": 10,
@@ -4672,7 +4672,7 @@
     "uno": 9,
     "tictactoe": 44,
     "gamesmemu": 1,
-    "suitpvp": 21,
+    "suitpvp": 23,
     "slor": 1,
     "gas": 3,
     "batu": 4,
@@ -5237,5 +5237,5 @@
     "atmfull": 1,
     "yoimg": 1
   },
-  "lastUpdated": 1776953830241
+  "lastUpdated": 1776953890238
 }
