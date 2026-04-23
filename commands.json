@@ -3708,7 +3708,7 @@
     "makan": 16,
     "repair": 1,
     "kapal": 6,
-    "craft": 344,
+    "craft": 345,
     "listheri": 1,
     "listhero": 6,
     "mancing": 11,
@@ -5236,5 +5236,5 @@
     "steal2": 2,
     "atmfull": 1
   },
-  "lastUpdated": 1776949443643
+  "lastUpdated": 1776949503661
 }
