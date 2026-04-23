@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 218,
+    "atmpull": 219,
     "promote": 5,
     "reset": 3,
     "memasak": 1,
@@ -4608,7 +4608,7 @@
     "227552249524236": 3,
     "caturpvp": 2,
     "sado": 1,
-    "atmpulll": 1,
+    "atmpulll": 2,
     "jembut": 1,
     "bajingn": 1,
     "60192070491": 52,
@@ -5233,7 +5233,8 @@
     "28613810335927": 1,
     "steal": 2,
     "steam": 2,
-    "steal2": 2
+    "steal2": 2,
+    "atmfull": 1
   },
-  "lastUpdated": 1776949383642
+  "lastUpdated": 1776949443643
 }
