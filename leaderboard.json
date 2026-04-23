@@ -44,9 +44,9 @@
     },
     {
       "name": "sky the beginner",
-      "level": 91,
-      "exp": 220793,
-      "saldo": 9851884884973304
+      "level": 92,
+      "exp": 220853,
+      "saldo": 9851884884980304
     },
     {
       "name": "keyy the destroyer",
@@ -282,9 +282,9 @@
     },
     {
       "name": "sky the beginner",
-      "level": 91,
-      "exp": 220793,
-      "saldo": 9851884884973304
+      "level": 92,
+      "exp": 220853,
+      "saldo": 9851884884980304
     },
     {
       "name": "keyy the destroyer",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1776957810810
+  "lastUpdated": 1776957870804
 }
