@@ -3633,7 +3633,7 @@
     "rampok2": 603,
     "6285609504925": 15,
     "atm": 192,
-    "bank": 105,
+    "bank": 106,
     "afk": 1025,
     "kerja": 75,
     "628176533297": 14,
@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 53,
-    "cekbank": 56,
+    "cekbank": 57,
     "cektomboy": 2,
     "bajingan": 4,
     "tabungan": 9,
@@ -5240,5 +5240,5 @@
     "hotel": 1,
     "botol": 2
   },
-  "lastUpdated": 1777000771222
+  "lastUpdated": 1777000831230
 }
