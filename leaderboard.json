@@ -93,8 +93,8 @@
     {
       "name": "Oguri cap",
       "level": 30,
-      "exp": 72367,
-      "saldo": 81084242042474
+      "exp": 72410,
+      "saldo": 81084243954317
     },
     {
       "name": "Player-1118802",
@@ -337,8 +337,8 @@
     {
       "name": "Oguri cap",
       "level": 30,
-      "exp": 72367,
-      "saldo": 81084242042474
+      "exp": 72410,
+      "saldo": 81084243954317
     },
     {
       "name": "Player-1118802",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1777074057027
+  "lastUpdated": 1777074117030
 }
