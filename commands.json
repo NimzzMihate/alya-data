@@ -3869,7 +3869,7 @@
     "cekganteng": 83,
     "crkganteng": 1,
     "puqi": 37,
-    "anj": 50,
+    "anj": 51,
     "anjing": 32,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4069,7 +4069,7 @@
     "6289673557732": 6,
     "tolol": 37,
     "puki": 3,
-    "goblok": 30,
+    "goblok": 31,
     "suki": 1,
     "kanjut": 1,
     "ubah": 3,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 159,
+    "battlepet": 160,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5239,7 +5239,8 @@
     "6285887021410": 2,
     "hotel": 1,
     "botol": 2,
-    "tsz": 1
+    "tsz": 1,
+    "battlepey": 1
   },
-  "lastUpdated": 1777070876986
+  "lastUpdated": 1777070936987
 }
