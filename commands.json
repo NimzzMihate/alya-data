@@ -3719,7 +3719,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 133,
+    "cekprofile": 134,
     "tes": 407,
     "listown": 15,
     "getpp": 14,
@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 53,
-    "cekbank": 55,
+    "cekbank": 56,
     "cektomboy": 2,
     "bajingan": 4,
     "tabungan": 9,
@@ -5240,5 +5240,5 @@
     "hotel": 1,
     "botol": 2
   },
-  "lastUpdated": 1777000651225
+  "lastUpdated": 1777000711225
 }
