@@ -85,16 +85,16 @@
       "saldo": 9999975000
     },
     {
+      "name": "Oguri cap",
+      "level": 30,
+      "exp": 72468,
+      "saldo": 81084243954317
+    },
+    {
       "name": "Souta",
       "level": 30,
       "exp": 72458,
       "saldo": 480625437
-    },
-    {
-      "name": "Oguri cap",
-      "level": 30,
-      "exp": 72410,
-      "saldo": 81084243954317
     },
     {
       "name": "Player-1118802",
@@ -329,16 +329,16 @@
       "saldo": 9999975000
     },
     {
+      "name": "Oguri cap",
+      "level": 30,
+      "exp": 72468,
+      "saldo": 81084243954317
+    },
+    {
       "name": "Souta",
       "level": 30,
       "exp": 72458,
       "saldo": 480625437
-    },
-    {
-      "name": "Oguri cap",
-      "level": 30,
-      "exp": 72410,
-      "saldo": 81084243954317
     },
     {
       "name": "Player-1118802",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1777074237031
+  "lastUpdated": 1777074297028
 }
