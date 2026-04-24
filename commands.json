@@ -3664,7 +3664,7 @@
     "cekidch": 15,
     "tourl": 45,
     "title": 1,
-    "6281393286345": 244,
+    "6281393286345": 245,
     ">": 7,
     "addapi": 4,
     "pin": 270,
@@ -3682,7 +3682,7 @@
     "daily": 66,
     "adventure": 53,
     "cf": 19,
-    "nai2": 127,
+    "nai2": 129,
     "6282137487477": 67,
     "removebg": 97,
     "addown": 7,
@@ -3695,7 +3695,7 @@
     "ewepaksa": 182,
     "topglobal": 87,
     "6285789692015": 1,
-    "buy": 620,
+    "buy": 621,
     "smeme": 181,
     "getno": 120,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3708,7 +3708,7 @@
     "makan": 16,
     "repair": 1,
     "kapal": 6,
-    "craft": 345,
+    "craft": 346,
     "listheri": 1,
     "listhero": 6,
     "mancing": 11,
@@ -3992,7 +3992,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 89,
-    "jual": 86,
+    "jual": 87,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -5236,7 +5236,9 @@
     "steal2": 2,
     "atmfull": 1,
     "yoimg": 1,
-    "6285887021410": 1
+    "6285887021410": 1,
+    "hotel": 1,
+    "botol": 1
   },
-  "lastUpdated": 1776989911084
+  "lastUpdated": 1776989971088
 }
