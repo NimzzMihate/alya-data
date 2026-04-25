@@ -3623,12 +3623,12 @@
     "backup": 5,
     "get": 74,
     "tohtml": 10,
-    "ranked": 75,
+    "ranked": 77,
     "mobaprofile": 15,
     "playmoba": 38,
     "ngaji": 53,
     "ewe-paksa": 65,
-    "me": 631,
+    "me": 632,
     "setbg": 31,
     "rampok2": 604,
     "6285609504925": 15,
@@ -3674,7 +3674,7 @@
     "huxin": 10,
     "usaha": 73,
     "memancing": 23,
-    "271481040834666": 208,
+    "271481040834666": 209,
     "6285189358241": 364,
     "huxinn😡😡": 1,
     "gift": 757,
@@ -5259,5 +5259,5 @@
     "morse": 1,
     "tomorse": 3
   },
-  "lastUpdated": 1777102273061
+  "lastUpdated": 1777102333068
 }
