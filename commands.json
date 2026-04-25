@@ -3760,7 +3760,7 @@
     "6282130641503": 10,
     "buyitem": 3,
     "play": 330,
-    "ytmp3": 240,
+    "ytmp3": 241,
     "152609298108555": 87,
     "35588770111681": 1,
     "intro": 82,
@@ -4329,7 +4329,7 @@
     "spotifydl": 15,
     "toaudio": 11,
     "speed": 1,
-    "bass": 63,
+    "bass": 64,
     "earrape": 3,
     "nahida": 30,
     "pasanganmenu": 16,
@@ -5284,5 +5284,5 @@
     "reseylink": 1,
     "bak": 1
   },
-  "lastUpdated": 1777136679095
+  "lastUpdated": 1777136739095
 }
