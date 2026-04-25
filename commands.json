@@ -4109,10 +4109,10 @@
     "cekbatang": 83,
     "tahun": 3,
     "6289530116661": 1,
-    "adoptpet": 31,
+    "adoptpet": 33,
     "petstat": 42,
-    "playpet": 84,
-    "feedpet": 160,
+    "playpet": 85,
+    "feedpet": 161,
     "namapet": 3,
     "namepet": 12,
     "statpet": 1,
@@ -5246,5 +5246,5 @@
     "ngji": 1,
     "push": 1
   },
-  "lastUpdated": 1777094072973
+  "lastUpdated": 1777094132976
 }
