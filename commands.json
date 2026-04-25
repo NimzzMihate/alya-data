@@ -3693,7 +3693,7 @@
     "dailymisi": 73,
     "open-bo": 53,
     "ewepaksa": 183,
-    "topglobal": 87,
+    "topglobal": 88,
     "6285789692015": 1,
     "buy": 623,
     "smeme": 181,
@@ -3708,7 +3708,7 @@
     "makan": 16,
     "repair": 1,
     "kapal": 6,
-    "craft": 347,
+    "craft": 349,
     "listheri": 1,
     "listhero": 6,
     "mancing": 11,
@@ -3924,7 +3924,7 @@
     "kecocokan": 10,
     "register": 17,
     "rename": 1,
-    "cn": 72,
+    "cn": 73,
     "cari": 8,
     "menurpg": 2,
     "mengaji": 1,
@@ -4215,7 +4215,7 @@
     "join": 3,
     "monopoli": 60,
     "oom": 1,
-    "inventory": 15,
+    "inventory": 16,
     "like": 1,
     "suka": 1,
     "monthly": 3,
@@ -5246,5 +5246,5 @@
     "ngji": 1,
     "push": 1
   },
-  "lastUpdated": 1777094192969
+  "lastUpdated": 1777094252975
 }
