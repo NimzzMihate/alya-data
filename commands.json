@@ -3708,7 +3708,7 @@
     "makan": 16,
     "repair": 1,
     "kapal": 6,
-    "craft": 346,
+    "craft": 347,
     "listheri": 1,
     "listhero": 6,
     "mancing": 11,
@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 331,
+    "saldo": 332,
     "demote": 6,
     "sendgc": 2,
     "kirimke": 1,
@@ -3992,7 +3992,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 89,
-    "jual": 87,
+    "jual": 88,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 164,
+    "atmall": 165,
     "inv": 65,
     "healfull": 6,
     "mute": 5,
@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 53,
-    "cekbank": 58,
+    "cekbank": 59,
     "cektomboy": 2,
     "bajingan": 4,
     "tabungan": 9,
@@ -5243,5 +5243,5 @@
     "battlepey": 1,
     "´⊙ω⊙`)": 1
   },
-  "lastUpdated": 1777086177098
+  "lastUpdated": 1777086237093
 }
