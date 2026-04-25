@@ -3625,7 +3625,7 @@
     "tohtml": 10,
     "ranked": 77,
     "mobaprofile": 15,
-    "playmoba": 38,
+    "playmoba": 39,
     "ngaji": 53,
     "ewe-paksa": 65,
     "me": 632,
@@ -3641,7 +3641,7 @@
     "jwkwnwkabs": 1,
     "🗿": 1,
     "165850548031616": 3,
-    "mobashop": 2,
+    "mobashop": 4,
     "select": 2,
     "gunakan": 1,
     "6283104066685": 6,
@@ -3758,7 +3758,7 @@
     "78817548841029": 2,
     "104797353033809": 4,
     "6282130641503": 9,
-    "buyitem": 1,
+    "buyitem": 3,
     "play": 309,
     "ytmp3": 227,
     "152609298108555": 87,
@@ -5257,7 +5257,8 @@
     "ttearch": 1,
     "pap3": 1,
     "morse": 1,
-    "tomorse": 3
+    "tomorse": 3,
+    "monashop": 1
   },
-  "lastUpdated": 1777102333068
+  "lastUpdated": 1777102393068
 }
