@@ -3626,9 +3626,9 @@
     "ranked": 80,
     "mobaprofile": 15,
     "playmoba": 39,
-    "ngaji": 54,
+    "ngaji": 55,
     "ewe-paksa": 65,
-    "me": 636,
+    "me": 637,
     "setbg": 31,
     "rampok2": 604,
     "6285609504925": 15,
@@ -3693,7 +3693,7 @@
     "dailymisi": 73,
     "open-bo": 53,
     "ewepaksa": 186,
-    "topglobal": 94,
+    "topglobal": 95,
     "6285789692015": 1,
     "buy": 632,
     "smeme": 184,
@@ -4111,8 +4111,8 @@
     "6289530116661": 1,
     "adoptpet": 33,
     "petstat": 43,
-    "playpet": 86,
-    "feedpet": 162,
+    "playpet": 87,
+    "feedpet": 163,
     "namapet": 3,
     "namepet": 12,
     "statpet": 2,
@@ -5277,5 +5277,5 @@
     "xlist": 1,
     "opengc": 2
   },
-  "lastUpdated": 1777128937365
+  "lastUpdated": 1777128997360
 }
