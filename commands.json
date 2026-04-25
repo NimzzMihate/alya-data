@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 135,
-    "tes": 411,
+    "tes": 412,
     "listown": 15,
     "getpp": 14,
     "linkgc": 16,
@@ -5255,7 +5255,9 @@
     "pedagang": 2,
     "anjir": 1,
     "ttearch": 1,
-    "pap3": 1
+    "pap3": 1,
+    "morse": 1,
+    "tomorse": 3
   },
-  "lastUpdated": 1777101853041
+  "lastUpdated": 1777101913062
 }
