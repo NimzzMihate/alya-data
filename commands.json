@@ -3722,7 +3722,7 @@
     "cekprofile": 136,
     "tes": 412,
     "listown": 15,
-    "getpp": 18,
+    "getpp": 19,
     "linkgc": 16,
     "cekpasangan": 94,
     "6281283401829": 7,
@@ -3924,7 +3924,7 @@
     "kecocokan": 10,
     "register": 17,
     "rename": 1,
-    "cn": 75,
+    "cn": 76,
     "cari": 8,
     "menurpg": 2,
     "mengaji": 1,
@@ -5264,7 +5264,8 @@
     "warn😡😡": 1,
     "cekwarn": 2,
     "listadmin": 2,
-    "bloon": 1
+    "bloon": 1,
+    "@": 1
   },
-  "lastUpdated": 1777112159351
+  "lastUpdated": 1777112219358
 }
