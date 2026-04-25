@@ -3710,7 +3710,7 @@
     "kapal": 6,
     "craft": 349,
     "listheri": 1,
-    "listhero": 7,
+    "listhero": 8,
     "mancing": 11,
     "randomba": 9,
     "chatgpt3": 4,
@@ -3954,7 +3954,7 @@
     "6283839942035": 3,
     "herolist": 1,
     "232414219628797": 10,
-    "buyhero": 4,
+    "buyhero": 5,
     "selecthero": 4,
     "211394498711641": 3,
     "271850458320966": 2,
@@ -4123,7 +4123,7 @@
     "statuspasangan": 9,
     "bego": 6,
     "haram": 1,
-    "6282327857595": 68,
+    "6282327857595": 69,
     "roast": 47,
     "rampokin": 11,
     "nikahpaksa": 35,
@@ -5259,5 +5259,5 @@
     "morse": 1,
     "tomorse": 3
   },
-  "lastUpdated": 1777102153062
+  "lastUpdated": 1777102213061
 }
