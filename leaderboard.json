@@ -27,13 +27,13 @@
     {
       "name": "⚊bímm153",
       "level": 133,
-      "exp": 319558,
+      "exp": 319754,
       "saldo": 9.837377737372883e+153
     },
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 116188,
+      "exp": 116275,
       "saldo": 1e+26
     },
     {
@@ -74,9 +74,9 @@
     },
     {
       "name": "rey",
-      "level": 44,
-      "exp": 107832,
-      "saldo": 1e+32
+      "level": 45,
+      "exp": 108025,
+      "saldo": 9.9999999999998e+31
     },
     {
       "name": "*KUROSE*",
@@ -125,7 +125,7 @@
     {
       "name": "⚊bímm153",
       "level": 133,
-      "exp": 319558,
+      "exp": 319754,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -172,9 +172,9 @@
     },
     {
       "name": "rey",
-      "level": 44,
-      "exp": 107832,
-      "saldo": 1e+32
+      "level": 45,
+      "exp": 108025,
+      "saldo": 9.9999999999998e+31
     },
     {
       "name": "Player-314",
@@ -197,7 +197,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 116188,
+      "exp": 116275,
       "saldo": 1e+26
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "⚊bímm153",
       "level": 133,
-      "exp": 319558,
+      "exp": 319754,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -313,14 +313,14 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 116188,
+      "exp": 116275,
       "saldo": 1e+26
     },
     {
       "name": "rey",
-      "level": 44,
-      "exp": 107832,
-      "saldo": 1e+32
+      "level": 45,
+      "exp": 108025,
+      "saldo": 9.9999999999998e+31
     },
     {
       "name": "*KUROSE*",
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1777134093709
+  "lastUpdated": 1777134153710
 }
