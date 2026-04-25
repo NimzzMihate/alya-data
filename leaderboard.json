@@ -33,7 +33,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 116072,
+      "exp": 116136,
       "saldo": 1e+26
     },
     {
@@ -197,7 +197,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 116072,
+      "exp": 116136,
       "saldo": 1e+26
     },
     {
@@ -227,7 +227,7 @@
     {
       "name": "Vanz",
       "level": 8,
-      "exp": 19401,
+      "exp": 19431,
       "saldo": 2.2668395755839215e+21
     },
     {
@@ -313,7 +313,7 @@
     {
       "name": "RYZSUKASUPERCAR",
       "level": 122,
-      "exp": 116072,
+      "exp": 116136,
       "saldo": 1e+26
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1777083777083
+  "lastUpdated": 1777083837083
 }
