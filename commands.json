@@ -3708,7 +3708,7 @@
     "makan": 17,
     "repair": 1,
     "kapal": 6,
-    "craft": 358,
+    "craft": 359,
     "listheri": 1,
     "listhero": 8,
     "mancing": 11,
@@ -3991,7 +3991,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 90,
+    "sell": 91,
     "jual": 89,
     "vid": 3,
     "nfsw": 2,
@@ -4188,7 +4188,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 166,
-    "inv": 65,
+    "inv": 66,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -4215,7 +4215,7 @@
     "join": 3,
     "monopoli": 60,
     "oom": 1,
-    "inventory": 17,
+    "inventory": 19,
     "like": 1,
     "suka": 1,
     "monthly": 3,
@@ -5277,5 +5277,5 @@
     "xlist": 1,
     "opengc": 2
   },
-  "lastUpdated": 1777128757364
+  "lastUpdated": 1777128817360
 }
