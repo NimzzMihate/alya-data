@@ -3898,7 +3898,7 @@
     "/": 16,
     "cekcantik": 45,
     "toplocal": 47,
-    "forward": 401,
+    "forward": 403,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 47,
@@ -5261,7 +5261,9 @@
     "monashop": 1,
     "ola?": 1,
     "ceklesby": 1,
-    "warn😡😡": 1
+    "warn😡😡": 1,
+    "cekwarn": 2,
+    "listadmin": 2
   },
-  "lastUpdated": 1777111559350
+  "lastUpdated": 1777111619345
 }
