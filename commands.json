@@ -3653,7 +3653,7 @@
     "p": 4,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 102,
+    "wikwik": 103,
     "heal": 148,
     "menu": 213,
     "owner": 15,
@@ -3703,9 +3703,9 @@
     "setpp": 76,
     "265944542793975": 1,
     "berburu": 39,
-    "masak": 17,
+    "masak": 20,
     "rpgmenu": 23,
-    "makan": 16,
+    "makan": 17,
     "repair": 1,
     "kapal": 6,
     "craft": 349,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 93,
+    "detailkarakter": 94,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5246,5 +5246,5 @@
     "ngji": 1,
     "push": 1
   },
-  "lastUpdated": 1777094312970
+  "lastUpdated": 1777094372969
 }
