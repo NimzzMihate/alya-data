@@ -3897,7 +3897,7 @@
     "getcase": 12,
     "/": 16,
     "cekcantik": 45,
-    "toplocal": 46,
+    "toplocal": 47,
     "forward": 401,
     "6283147484272": 6,
     "cekfemboty": 1,
@@ -4263,7 +4263,7 @@
     "tebaktebakan": 1,
     "tambahwaktu": 1,
     "menyerah": 1,
-    "(": 1,
+    "(": 2,
     "buycincin": 2,
     "but": 8,
     "cekstatuspacar": 1,
@@ -5262,5 +5262,5 @@
     "ola?": 1,
     "ceklesby": 1
   },
-  "lastUpdated": 1777110612880
+  "lastUpdated": 1777110672883
 }
