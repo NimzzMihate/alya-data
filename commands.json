@@ -3653,7 +3653,7 @@
     "p": 4,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 103,
+    "wikwik": 104,
     "heal": 148,
     "menu": 215,
     "owner": 15,
@@ -3692,7 +3692,7 @@
     "editfoto": 100,
     "dailymisi": 73,
     "open-bo": 53,
-    "ewepaksa": 184,
+    "ewepaksa": 186,
     "topglobal": 94,
     "6285789692015": 1,
     "buy": 632,
@@ -3708,7 +3708,7 @@
     "makan": 17,
     "repair": 1,
     "kapal": 6,
-    "craft": 359,
+    "craft": 365,
     "listheri": 1,
     "listhero": 8,
     "mancing": 11,
@@ -5277,5 +5277,5 @@
     "xlist": 1,
     "opengc": 2
   },
-  "lastUpdated": 1777128817360
+  "lastUpdated": 1777128877362
 }
