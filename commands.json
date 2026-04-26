@@ -3660,7 +3660,7 @@
     "script": 11,
     "joinrpg": 48,
     "mentahan": 1,
-    "claim": 46,
+    "claim": 47,
     "cekidch": 15,
     "tourl": 45,
     "title": 1,
@@ -3690,7 +3690,7 @@
     "brat": 124,
     "brathd": 2,
     "editfoto": 100,
-    "dailymisi": 74,
+    "dailymisi": 75,
     "open-bo": 53,
     "ewepaksa": 187,
     "topglobal": 96,
@@ -3705,7 +3705,7 @@
     "berburu": 49,
     "masak": 20,
     "rpgmenu": 23,
-    "makan": 17,
+    "makan": 18,
     "repair": 1,
     "kapal": 6,
     "craft": 387,
@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 338,
+    "saldo": 340,
     "demote": 6,
     "sendgc": 2,
     "kirimke": 1,
@@ -4204,7 +4204,7 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 8,
+    "nyampah": 9,
     "berlayar": 16,
     "6285817528851": 2,
     "reedem": 1,
@@ -5289,5 +5289,5 @@
     "topaktif": 1,
     "fishing": 1
   },
-  "lastUpdated": 1777183897676
+  "lastUpdated": 1777183957676
 }
