@@ -3763,7 +3763,7 @@
     "ytmp3": 245,
     "152609298108555": 87,
     "35588770111681": 1,
-    "intro": 83,
+    "intro": 84,
     "up": 1,
     "40210104643627": 1,
     "..": 6,
@@ -5290,10 +5290,10 @@
     "fishing": 1,
     "coolmax": 1,
     "tipactive": 1,
-    "listbl": 1,
+    "listbl": 2,
     "listblacklist": 1,
     "unpet": 1,
     "listwl": 1
   },
-  "lastUpdated": 1777194022264
+  "lastUpdated": 1777194082288
 }
