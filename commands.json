@@ -3654,7 +3654,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 104,
-    "heal": 149,
+    "heal": 150,
     "menu": 220,
     "owner": 15,
     "script": 11,
@@ -3680,7 +3680,7 @@
     "gift": 759,
     "ajakmain": 142,
     "daily": 70,
-    "adventure": 53,
+    "adventure": 55,
     "cf": 19,
     "nai2": 153,
     "6282137487477": 71,
@@ -3773,7 +3773,7 @@
     "setprofile": 160,
     "daftar": 31,
     "profile": 40,
-    "topactive": 106,
+    "topactive": 107,
     "verify": 30,
     "daftr": 13,
     "status": 17,
@@ -4204,8 +4204,8 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 7,
-    "berlayar": 15,
+    "nyampah": 8,
+    "berlayar": 16,
     "6285817528851": 2,
     "reedem": 1,
     "redeem": 1,
@@ -5286,7 +5286,8 @@
     "𝙍𝙛𝙯𝙭𝙆𝙮𝙤𝙠𝙚𝙣`ft": 1,
     "saveapi": 1,
     "renked": 1,
-    "topaktif": 1
+    "topaktif": 1,
+    "fishing": 1
   },
-  "lastUpdated": 1777183837682
+  "lastUpdated": 1777183897676
 }
