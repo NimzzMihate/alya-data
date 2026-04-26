@@ -4422,7 +4422,7 @@
     "uncap": 11,
     "jembod": 1,
     "femboy": 4,
-    "pet": 7,
+    "pet": 8,
     "cewe": 1,
     "mana": 1,
     "dana": 1,
@@ -5292,7 +5292,8 @@
     "tipactive": 1,
     "listbl": 1,
     "listblacklist": 1,
-    "unpet": 1
+    "unpet": 1,
+    "listwl": 1
   },
-  "lastUpdated": 1777193962262
+  "lastUpdated": 1777194022264
 }
