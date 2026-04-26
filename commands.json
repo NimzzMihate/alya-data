@@ -3708,7 +3708,7 @@
     "makan": 17,
     "repair": 1,
     "kapal": 6,
-    "craft": 386,
+    "craft": 387,
     "listheri": 1,
     "listhero": 8,
     "mancing": 11,
@@ -3992,7 +3992,7 @@
     "f": 3,
     "heal.": 1,
     "sell": 94,
-    "jual": 99,
+    "jual": 100,
     "vid": 3,
     "nfsw": 2,
     "vidmg": 1,
@@ -5286,5 +5286,5 @@
     "𝙍𝙛𝙯𝙭𝙆𝙮𝙤𝙠𝙚𝙣`ft": 1,
     "saveapi": 1
   },
-  "lastUpdated": 1777172936116
+  "lastUpdated": 1777172996119
 }
