@@ -3692,7 +3692,7 @@
     "editfoto": 100,
     "dailymisi": 75,
     "open-bo": 53,
-    "ewepaksa": 187,
+    "ewepaksa": 188,
     "topglobal": 97,
     "6285789692015": 1,
     "buy": 659,
@@ -3898,7 +3898,7 @@
     "/": 16,
     "cekcantik": 57,
     "toplocal": 50,
-    "forward": 407,
+    "forward": 408,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 50,
@@ -5290,7 +5290,8 @@
     "fishing": 1,
     "coolmax": 1,
     "tipactive": 1,
-    "listbl": 1
+    "listbl": 1,
+    "listblacklist": 1
   },
-  "lastUpdated": 1777193662577
+  "lastUpdated": 1777193722582
 }
