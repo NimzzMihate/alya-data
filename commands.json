@@ -3655,7 +3655,7 @@
     "61405583679507": 1,
     "wikwik": 104,
     "heal": 148,
-    "menu": 219,
+    "menu": 220,
     "owner": 15,
     "script": 11,
     "joinrpg": 48,
@@ -3722,7 +3722,7 @@
     "cekprofile": 138,
     "tes": 419,
     "listown": 15,
-    "getpp": 19,
+    "getpp": 22,
     "linkgc": 19,
     "cekpasangan": 94,
     "6281283401829": 7,
@@ -4455,7 +4455,7 @@
     "yampah": 1,
     "rampo²": 1,
     "enana": 1,
-    "gamesmenu": 16,
+    "gamesmenu": 17,
     "downloadmenu": 2,
     "iya": 2,
     "abu": 1,
@@ -5287,5 +5287,5 @@
     "saveapi": 1,
     "renked": 1
   },
-  "lastUpdated": 1777182716205
+  "lastUpdated": 1777182776206
 }
