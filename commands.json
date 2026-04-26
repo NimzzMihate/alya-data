@@ -3682,7 +3682,7 @@
     "daily": 70,
     "adventure": 55,
     "cf": 19,
-    "nai2": 155,
+    "nai2": 156,
     "6282137487477": 71,
     "removebg": 103,
     "addown": 7,
@@ -3773,7 +3773,7 @@
     "setprofile": 160,
     "daftar": 31,
     "profile": 40,
-    "topactive": 110,
+    "topactive": 111,
     "verify": 30,
     "daftr": 13,
     "status": 17,
@@ -5289,5 +5289,5 @@
     "topaktif": 1,
     "fishing": 1
   },
-  "lastUpdated": 1777184197675
+  "lastUpdated": 1777184257677
 }
