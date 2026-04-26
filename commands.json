@@ -3628,7 +3628,7 @@
     "playmoba": 39,
     "ngaji": 57,
     "ewe-paksa": 65,
-    "me": 649,
+    "me": 650,
     "setbg": 31,
     "rampok2": 610,
     "6285609504925": 15,
@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 138,
-    "tes": 418,
+    "tes": 419,
     "listown": 15,
     "getpp": 19,
     "linkgc": 19,
@@ -3778,7 +3778,7 @@
     "daftr": 13,
     "status": 17,
     "pap": 859,
-    "tebakbendera": 27,
+    "tebakbendera": 29,
     "tebak": 2,
     "gantinama": 1,
     "69372932575293": 1,
@@ -4973,7 +4973,7 @@
     "resetfotopacar": 1,
     "tai": 1,
     "ciumk": 1,
-    "menugame": 2,
+    "menugame": 3,
     "caricharacter": 1,
     "setppprofile": 1,
     "6288289686381": 2,
@@ -5197,7 +5197,7 @@
     "totelanjang": 1,
     "entot": 1,
     "sematkan": 1,
-    "menu-all": 1,
+    "menu-all": 2,
     "gunting": 1,
     "petakbom": 1,
     "enobia": 3,
@@ -5287,5 +5287,5 @@
     "saveapi": 1,
     "renked": 1
   },
-  "lastUpdated": 1777182596207
+  "lastUpdated": 1777182656210
 }
