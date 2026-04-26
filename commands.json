@@ -3787,7 +3787,7 @@
     "izin": 1,
     "build": 2,
     "saldo": 340,
-    "demote": 6,
+    "demote": 7,
     "sendgc": 2,
     "kirimke": 1,
     "setpromosi": 5,
@@ -3909,7 +3909,7 @@
     "262672297816205": 6,
     "blacksits": 2,
     "blacklist": 4,
-    "unblacklist": 2,
+    "unblacklist": 3,
     "undefined": 2,
     "afk\nmau": 1,
     "6285692376590": 1,
@@ -5295,5 +5295,5 @@
     "unpet": 1,
     "listwl": 1
   },
-  "lastUpdated": 1777194142283
+  "lastUpdated": 1777194202283
 }
