@@ -5179,7 +5179,7 @@
     "senoritaholic": 1,
     "kntl": 1,
     "delowner": 1,
-    "gconly": 2,
+    "gconly": 3,
     "setbot": 3,
     "caricase": 1,
     "setnot": 1,
@@ -5287,5 +5287,5 @@
     "saveapi": 1,
     "renked": 1
   },
-  "lastUpdated": 1777175516143
+  "lastUpdated": 1777175576130
 }
