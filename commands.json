@@ -3869,8 +3869,8 @@
     "cekganteng": 85,
     "crkganteng": 1,
     "puqi": 37,
-    "anj": 63,
-    "anjing": 32,
+    "anj": 64,
+    "anjing": 33,
     "winkhd": 1,
     "winkuhd": 3,
     "edan": 7,
@@ -4067,7 +4067,7 @@
     "v": 8,
     "39076216463471": 1,
     "6289673557732": 6,
-    "tolol": 43,
+    "tolol": 44,
     "puki": 3,
     "goblok": 33,
     "suki": 1,
@@ -4460,7 +4460,7 @@
     "iya": 2,
     "abu": 1,
     "dajjal": 4,
-    "dakjal": 14,
+    "dakjal": 15,
     "goft": 1,
     "ngising": 1,
     "152609298108555mau": 1,
@@ -4535,7 +4535,7 @@
     "armor": 3,
     "fish": 1,
     "poke": 1,
-    "anjg": 53,
+    "anjg": 55,
     "cekbank": 61,
     "cektomboy": 2,
     "bajingan": 4,
@@ -5287,5 +5287,5 @@
     "saveapi": 1,
     "renked": 1
   },
-  "lastUpdated": 1777183597677
+  "lastUpdated": 1777183657681
 }
