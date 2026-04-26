@@ -3773,7 +3773,7 @@
     "setprofile": 160,
     "daftar": 31,
     "profile": 40,
-    "topactive": 104,
+    "topactive": 105,
     "verify": 30,
     "daftr": 13,
     "status": 17,
@@ -3869,7 +3869,7 @@
     "cekganteng": 85,
     "crkganteng": 1,
     "puqi": 37,
-    "anj": 58,
+    "anj": 60,
     "anjing": 32,
     "winkhd": 1,
     "winkuhd": 3,
@@ -5287,5 +5287,5 @@
     "saveapi": 1,
     "renked": 1
   },
-  "lastUpdated": 1777179776153
+  "lastUpdated": 1777179836158
 }
