@@ -3869,7 +3869,7 @@
     "cekganteng": 85,
     "crkganteng": 1,
     "puqi": 37,
-    "anj": 66,
+    "anj": 68,
     "anjing": 33,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4067,9 +4067,9 @@
     "v": 8,
     "39076216463471": 1,
     "6289673557732": 6,
-    "tolol": 49,
+    "tolol": 50,
     "puki": 3,
-    "goblok": 33,
+    "goblok": 34,
     "suki": 1,
     "kanjut": 1,
     "ubah": 3,
@@ -4224,7 +4224,7 @@
     "6283133734215": 15,
     "ai2": 14,
     "ajg": 4,
-    "wibu": 14,
+    "wibu": 15,
     "non": 1,
     "upch": 26,
     "uch": 1,
@@ -4460,7 +4460,7 @@
     "iya": 2,
     "abu": 1,
     "dajjal": 4,
-    "dakjal": 17,
+    "dakjal": 18,
     "goft": 1,
     "ngising": 1,
     "152609298108555mau": 1,
@@ -5287,7 +5287,8 @@
     "saveapi": 1,
     "renked": 1,
     "topaktif": 1,
-    "fishing": 1
+    "fishing": 1,
+    "coolmax": 1
   },
-  "lastUpdated": 1777184377676
+  "lastUpdated": 1777184437677
 }
