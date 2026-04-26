@@ -3670,7 +3670,7 @@
     "pin": 280,
     "hd": 288,
     "useitem": 7,
-    "77605898313906": 289,
+    "77605898313906": 290,
     "huxin": 10,
     "usaha": 78,
     "memancing": 30,
@@ -3702,7 +3702,7 @@
     "195520047915190": 1,
     "setpp": 81,
     "265944542793975": 1,
-    "berburu": 49,
+    "berburu": 50,
     "masak": 20,
     "rpgmenu": 23,
     "makan": 18,
@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 140,
-    "tes": 420,
+    "tes": 422,
     "listown": 15,
     "getpp": 23,
     "linkgc": 19,
@@ -4112,7 +4112,7 @@
     "adoptpet": 33,
     "petstat": 43,
     "playpet": 87,
-    "feedpet": 163,
+    "feedpet": 164,
     "namapet": 3,
     "namepet": 12,
     "statpet": 2,
@@ -5291,7 +5291,8 @@
     "coolmax": 1,
     "tipactive": 1,
     "listbl": 1,
-    "listblacklist": 1
+    "listblacklist": 1,
+    "unpet": 1
   },
-  "lastUpdated": 1777193842580
+  "lastUpdated": 1777193962262
 }
