@@ -3623,7 +3623,7 @@
     "backup": 5,
     "get": 75,
     "tohtml": 10,
-    "ranked": 82,
+    "ranked": 85,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 58,
@@ -5295,5 +5295,5 @@
     "unpet": 1,
     "listwl": 1
   },
-  "lastUpdated": 1777194322290
+  "lastUpdated": 1777194382285
 }
