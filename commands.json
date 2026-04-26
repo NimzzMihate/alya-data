@@ -3623,7 +3623,7 @@
     "backup": 5,
     "get": 75,
     "tohtml": 10,
-    "ranked": 81,
+    "ranked": 82,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 57,
@@ -3660,7 +3660,7 @@
     "script": 11,
     "joinrpg": 48,
     "mentahan": 1,
-    "claim": 45,
+    "claim": 46,
     "cekidch": 15,
     "tourl": 45,
     "title": 1,
@@ -3672,7 +3672,7 @@
     "useitem": 7,
     "77605898313906": 286,
     "huxin": 10,
-    "usaha": 75,
+    "usaha": 76,
     "memancing": 27,
     "271481040834666": 214,
     "6285189358241": 381,
@@ -3839,7 +3839,7 @@
     "cekgay": 30,
     "ytdoc": 49,
     "hargasewa": 4,
-    "d": 215,
+    "d": 216,
     "pabrik": 1,
     "fitnah": 71,
     "puji": 249,
@@ -5284,7 +5284,8 @@
     "reseylink": 1,
     "bak": 1,
     "𝙍𝙛𝙯𝙭𝙆𝙮𝙤𝙠𝙚𝙣`ft": 1,
-    "saveapi": 1
+    "saveapi": 1,
+    "renked": 1
   },
-  "lastUpdated": 1777175156129
+  "lastUpdated": 1777175216128
 }
