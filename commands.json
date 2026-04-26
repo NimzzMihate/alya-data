@@ -3633,7 +3633,7 @@
     "rampok2": 610,
     "6285609504925": 15,
     "atm": 192,
-    "bank": 110,
+    "bank": 111,
     "afk": 1064,
     "kerja": 82,
     "628176533297": 14,
@@ -3818,7 +3818,7 @@
     "bugwangcap": 1,
     "colong": 1,
     "ttf": 14,
-    "cekfemboy": 178,
+    "cekfemboy": 180,
     "restart": 3,
     "kontol": 6,
     "93283032285420": 9,
@@ -5291,5 +5291,5 @@
     "coolmax": 1,
     "tipactive": 1
   },
-  "lastUpdated": 1777192281380
+  "lastUpdated": 1777192341388
 }
