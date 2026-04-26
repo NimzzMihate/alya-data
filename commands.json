@@ -3773,7 +3773,7 @@
     "setprofile": 160,
     "daftar": 31,
     "profile": 40,
-    "topactive": 108,
+    "topactive": 110,
     "verify": 30,
     "daftr": 13,
     "status": 17,
@@ -5289,5 +5289,5 @@
     "topaktif": 1,
     "fishing": 1
   },
-  "lastUpdated": 1777184137675
+  "lastUpdated": 1777184197675
 }
