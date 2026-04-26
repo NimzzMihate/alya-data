@@ -209,7 +209,7 @@
     {
       "name": "axell",
       "level": 11,
-      "exp": 28521,
+      "exp": 28571,
       "saldo": 1e+24
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 0
     }
   ],
-  "lastUpdated": 1777190317733
+  "lastUpdated": 1777190377719
 }
