@@ -9,7 +9,7 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 375513,
+      "exp": 375543,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -45,8 +45,8 @@
     {
       "name": "keyy the destroyer",
       "level": 97,
-      "exp": 234237,
-      "saldo": 9.183628246264793e+52
+      "exp": 234502,
+      "saldo": 0
     },
     {
       "name": "sky the beginner",
@@ -161,7 +161,7 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 375513,
+      "exp": 375543,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -169,12 +169,6 @@
       "level": 685,
       "exp": 1646001,
       "saldo": 1.0000186600000004e+63
-    },
-    {
-      "name": "keyy the destroyer",
-      "level": 97,
-      "exp": 234237,
-      "saldo": 9.183628246264793e+52
     },
     {
       "name": "Joishi ganteng",
@@ -241,6 +235,12 @@
       "level": 8,
       "exp": 20653,
       "saldo": 2.266839575583926e+21
+    },
+    {
+      "name": "kensoy",
+      "level": 20,
+      "exp": 49626,
+      "saldo": 10000139079676375000
     }
   ],
   "exp": [
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 375513,
+      "exp": 375543,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "keyy the destroyer",
       "level": 97,
-      "exp": 234237,
-      "saldo": 9.183628246264793e+52
+      "exp": 234502,
+      "saldo": 0
     },
     {
       "name": "sky the beginner",
@@ -365,5 +365,5 @@
       "saldo": 1.0000000917726353e+86
     }
   ],
-  "lastUpdated": 1777293189985
+  "lastUpdated": 1777293249981
 }
