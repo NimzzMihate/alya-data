@@ -3630,7 +3630,7 @@
     "ewe-paksa": 65,
     "me": 659,
     "setbg": 31,
-    "rampok2": 614,
+    "rampok2": 615,
     "6285609504925": 15,
     "atm": 192,
     "bank": 112,
@@ -3682,7 +3682,7 @@
     "daily": 70,
     "adventure": 55,
     "cf": 19,
-    "nai2": 172,
+    "nai2": 173,
     "6282137487477": 73,
     "removebg": 103,
     "addown": 7,
@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 341,
+    "saldo": 342,
     "demote": 7,
     "sendgc": 2,
     "kirimke": 1,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 167,
+    "atmall": 168,
     "inv": 69,
     "healfull": 6,
     "mute": 5,
@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 56,
-    "cekbank": 62,
+    "cekbank": 63,
     "cektomboy": 2,
     "bajingan": 4,
     "tabungan": 9,
@@ -5304,5 +5304,5 @@
     "toaaudio": 1,
     "hapusabsen": 1
   },
-  "lastUpdated": 1777291366493
+  "lastUpdated": 1777291426493
 }
