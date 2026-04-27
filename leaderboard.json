@@ -45,8 +45,8 @@
     {
       "name": "keyy the destroyer",
       "level": 97,
-      "exp": 234502,
-      "saldo": 0
+      "exp": 234565,
+      "saldo": 2000000
     },
     {
       "name": "sky the beginner",
@@ -149,7 +149,7 @@
     {
       "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
       "level": 5,
-      "exp": 12661,
+      "exp": 12731,
       "saldo": 1.05111e+81
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "keyy the destroyer",
       "level": 97,
-      "exp": 234502,
-      "saldo": 0
+      "exp": 234565,
+      "saldo": 2000000
     },
     {
       "name": "sky the beginner",
@@ -365,5 +365,5 @@
       "saldo": 1.0000000917726353e+86
     }
   ],
-  "lastUpdated": 1777293369978
+  "lastUpdated": 1777293429982
 }
