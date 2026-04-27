@@ -3898,7 +3898,7 @@
     "/": 16,
     "cekcantik": 57,
     "toplocal": 50,
-    "forward": 408,
+    "forward": 409,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 50,
@@ -5295,7 +5295,8 @@
     "unpet": 1,
     "listwl": 1,
     "kemasukan": 1,
-    "yra": 1
+    "yra": 1,
+    "whitelist": 1
   },
-  "lastUpdated": 1777266141505
+  "lastUpdated": 1777266201505
 }
