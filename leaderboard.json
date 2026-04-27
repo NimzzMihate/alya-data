@@ -27,7 +27,7 @@
     {
       "name": "aisha",
       "level": 142,
-      "exp": 341549,
+      "exp": 341696,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -45,8 +45,8 @@
     {
       "name": "keyy the destroyer",
       "level": 95,
-      "exp": 228042,
-      "saldo": 0
+      "exp": 228085,
+      "saldo": 9.183628246264793e+52
     },
     {
       "name": "sky the beginner",
@@ -125,7 +125,7 @@
     {
       "name": "aisha",
       "level": 142,
-      "exp": 341549,
+      "exp": 341696,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -169,6 +169,12 @@
       "level": 685,
       "exp": 1646001,
       "saldo": 1.0000186600000004e+63
+    },
+    {
+      "name": "keyy the destroyer",
+      "level": 95,
+      "exp": 228085,
+      "saldo": 9.183628246264793e+52
     },
     {
       "name": "Joishi ganteng",
@@ -235,12 +241,6 @@
       "level": 8,
       "exp": 20436,
       "saldo": 2.266839575583926e+21
-    },
-    {
-      "name": "kensoy",
-      "level": 20,
-      "exp": 49626,
-      "saldo": 10000139079676375000
     }
   ],
   "exp": [
@@ -271,7 +271,7 @@
     {
       "name": "aisha",
       "level": 142,
-      "exp": 341549,
+      "exp": 341696,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -283,8 +283,8 @@
     {
       "name": "keyy the destroyer",
       "level": 95,
-      "exp": 228042,
-      "saldo": 0
+      "exp": 228085,
+      "saldo": 9.183628246264793e+52
     },
     {
       "name": "sky the beginner",
@@ -365,5 +365,5 @@
       "saldo": 9.177263526273937e+78
     }
   ],
-  "lastUpdated": 1777291426493
+  "lastUpdated": 1777291486493
 }
