@@ -4327,7 +4327,7 @@
     "39397852504138": 6,
     "hachawaifu": 1,
     "spotifydl": 15,
-    "toaudio": 11,
+    "toaudio": 13,
     "speed": 1,
     "bass": 64,
     "earrape": 3,
@@ -5300,7 +5300,8 @@
     "unwhitelist": 1,
     "listwhitelist": 1,
     "ero,": 1,
-    "tupai": 2
+    "tupai": 2,
+    "toaaudio": 1
   },
-  "lastUpdated": 1777285636685
+  "lastUpdated": 1777285696683
 }
