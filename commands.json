@@ -3773,7 +3773,7 @@
     "setprofile": 160,
     "daftar": 31,
     "profile": 40,
-    "topactive": 112,
+    "topactive": 113,
     "verify": 30,
     "daftr": 13,
     "status": 17,
@@ -3801,7 +3801,7 @@
     "kencan": 260,
     "kasihsusu": 90,
     "wm": 172,
-    "absen": 11,
+    "absen": 13,
     "mulaiabsen": 7,
     "6283848672013": 30,
     "ratebot": 2,
@@ -5156,7 +5156,7 @@
     "ttsound": 1,
     "blown": 43,
     "bolwn": 1,
-    "151432594505894": 22,
+    "151432594505894": 23,
     "manu": 1,
     "toitelanjang": 1,
     "kecil": 1,
@@ -5301,7 +5301,8 @@
     "listwhitelist": 1,
     "ero,": 1,
     "tupai": 2,
-    "toaaudio": 1
+    "toaaudio": 1,
+    "hapusabsen": 1
   },
-  "lastUpdated": 1777290826489
+  "lastUpdated": 1777290886485
 }
