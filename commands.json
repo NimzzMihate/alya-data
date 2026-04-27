@@ -4479,7 +4479,7 @@
     "voicemenu": 6,
     "smooth": 6,
     "fast": 12,
-    "deep": 16,
+    "deep": 17,
     "isi": 1,
     "62881024436220": 24,
     "dandelions": 1,
@@ -5300,7 +5300,7 @@
     "unwhitelist": 1,
     "listwhitelist": 1,
     "ero,": 1,
-    "tupai": 1
+    "tupai": 2
   },
-  "lastUpdated": 1777285216694
+  "lastUpdated": 1777285276683
 }
