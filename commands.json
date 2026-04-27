@@ -3668,7 +3668,7 @@
     ">": 7,
     "addapi": 4,
     "pin": 280,
-    "hd": 290,
+    "hd": 291,
     "useitem": 7,
     "77605898313906": 293,
     "huxin": 10,
@@ -5298,7 +5298,8 @@
     "yra": 1,
     "whitelist": 1,
     "unwhitelist": 1,
-    "listwhitelist": 1
+    "listwhitelist": 1,
+    "ero,": 1
   },
-  "lastUpdated": 1777284736689
+  "lastUpdated": 1777284796684
 }
