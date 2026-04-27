@@ -9,7 +9,7 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 375389,
+      "exp": 375483,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -27,7 +27,7 @@
     {
       "name": "aisha",
       "level": 145,
-      "exp": 348621,
+      "exp": 348673,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -118,14 +118,14 @@
       "name": "axell",
       "level": 14,
       "exp": 34524,
-      "saldo": 9.177263526273937e+78
+      "saldo": 1.0000000917726353e+86
     }
   ],
   "saldo": [
     {
       "name": "aisha",
       "level": 145,
-      "exp": 348621,
+      "exp": 348673,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -141,9 +141,15 @@
       "saldo": 2.0202009291887255e+91
     },
     {
+      "name": "axell",
+      "level": 14,
+      "exp": 34524,
+      "saldo": 1.0000000917726353e+86
+    },
+    {
       "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
       "level": 5,
-      "exp": 12536,
+      "exp": 12596,
       "saldo": 1.05111e+81
     },
     {
@@ -153,15 +159,9 @@
       "saldo": 5.8658584384551316e+79
     },
     {
-      "name": "axell",
-      "level": 14,
-      "exp": 34524,
-      "saldo": 9.177263526273937e+78
-    },
-    {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 375389,
+      "exp": 375483,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -265,13 +265,13 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 375389,
+      "exp": 375483,
       "saldo": 3.937373737636364e+70
     },
     {
       "name": "aisha",
       "level": 145,
-      "exp": 348621,
+      "exp": 348673,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -362,8 +362,8 @@
       "name": "axell",
       "level": 14,
       "exp": 34524,
-      "saldo": 9.177263526273937e+78
+      "saldo": 1.0000000917726353e+86
     }
   ],
-  "lastUpdated": 1777293069977
+  "lastUpdated": 1777293129983
 }
