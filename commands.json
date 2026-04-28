@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 232,
+    "atmpull": 233,
     "promote": 5,
     "reset": 3,
     "memasak": 1,
@@ -5310,5 +5310,5 @@
     "pap45": 1,
     "pap1": 1
   },
-  "lastUpdated": 1777368579902
+  "lastUpdated": 1777368639913
 }
