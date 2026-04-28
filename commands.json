@@ -3777,7 +3777,7 @@
     "verify": 30,
     "daftr": 13,
     "status": 17,
-    "pap": 868,
+    "pap": 869,
     "tebakbendera": 31,
     "tebak": 2,
     "gantinama": 1,
@@ -4111,14 +4111,14 @@
     "6289530116661": 1,
     "adoptpet": 33,
     "petstat": 43,
-    "playpet": 88,
-    "feedpet": 164,
+    "playpet": 89,
+    "feedpet": 165,
     "namapet": 3,
     "namepet": 12,
     "statpet": 2,
     "makannin": 1,
-    "pepek": 1,
-    "perak": 3,
+    "pepek": 2,
+    "perak": 4,
     "adoptper": 1,
     "statuspasangan": 9,
     "bego": 6,
@@ -5310,5 +5310,5 @@
     "pap45": 1,
     "pap1": 1
   },
-  "lastUpdated": 1777358132943
+  "lastUpdated": 1777358192943
 }
