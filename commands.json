@@ -3660,7 +3660,7 @@
     "script": 11,
     "joinrpg": 48,
     "mentahan": 1,
-    "claim": 52,
+    "claim": 53,
     "cekidch": 15,
     "tourl": 45,
     "title": 1,
@@ -5318,5 +5318,5 @@
     "buy1gb": 1,
     "buy5gb": 1
   },
-  "lastUpdated": 1777377157421
+  "lastUpdated": 1777377217413
 }
