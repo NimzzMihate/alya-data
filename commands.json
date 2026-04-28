@@ -3843,7 +3843,7 @@
     "pabrik": 1,
     "fitnah": 71,
     "puji": 250,
-    "pacar": 270,
+    "pacar": 271,
     "carikarakter": 231,
     "nembak": 168,
     "cry": 7,
@@ -3982,7 +3982,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 509,
+    "tf": 510,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4091,7 +4091,7 @@
     "give": 3,
     "asep": 1,
     "pasangan": 8,
-    "setpppacar": 48,
+    "setpppacar": 49,
     "dompet": 3,
     "istri": 5,
     "lamar": 16,
@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 56,
-    "cekbank": 63,
+    "cekbank": 64,
     "cektomboy": 2,
     "bajingan": 4,
     "tabungan": 9,
@@ -5314,5 +5314,5 @@
     "liston": 1,
     "cecanmenu": 1
   },
-  "lastUpdated": 1777373977395
+  "lastUpdated": 1777374037395
 }
