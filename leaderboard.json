@@ -15,8 +15,8 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 506,
-      "exp": 1215235,
-      "saldo": 7.919287373738384e+134
+      "exp": 1215287,
+      "saldo": 0
     },
     {
       "name": "Ditz ketoprak",
@@ -135,12 +135,6 @@
       "saldo": 1.1193837377363637e+143
     },
     {
-      "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
-      "level": 506,
-      "exp": 1215235,
-      "saldo": 7.919287373738384e+134
-    },
-    {
       "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
       "level": 5,
       "exp": 13420,
@@ -241,6 +235,12 @@
       "level": 20,
       "exp": 49626,
       "saldo": 10000139079676375000
+    },
+    {
+      "name": "cano",
+      "level": 0,
+      "exp": 707,
+      "saldo": 90000000000050000
     }
   ],
   "exp": [
@@ -253,8 +253,8 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 506,
-      "exp": 1215235,
-      "saldo": 7.919287373738384e+134
+      "exp": 1215287,
+      "saldo": 0
     },
     {
       "name": "Ditz ketoprak",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777368519902
+  "lastUpdated": 1777368579902
 }
