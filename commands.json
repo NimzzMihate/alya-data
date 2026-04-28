@@ -3670,7 +3670,7 @@
     "pin": 281,
     "hd": 302,
     "useitem": 7,
-    "77605898313906": 296,
+    "77605898313906": 297,
     "huxin": 10,
     "usaha": 84,
     "memancing": 40,
@@ -3777,7 +3777,7 @@
     "verify": 30,
     "daftr": 13,
     "status": 17,
-    "pap": 876,
+    "pap": 877,
     "tebakbendera": 31,
     "tebak": 2,
     "gantinama": 1,
@@ -4085,7 +4085,7 @@
     "buatanak": 28,
     "istiku": 1,
     "cerai": 28,
-    "putus": 165,
+    "putus": 166,
     "crop": 52,
     "shopgift": 60,
     "give": 3,
@@ -5310,5 +5310,5 @@
     "pap45": 1,
     "pap1": 1
   },
-  "lastUpdated": 1777365399864
+  "lastUpdated": 1777365459860
 }
