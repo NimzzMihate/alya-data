@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 169,
+    "atmall": 170,
     "inv": 75,
     "healfull": 6,
     "mute": 5,
@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 56,
-    "cekbank": 65,
+    "cekbank": 67,
     "cektomboy": 2,
     "bajingan": 4,
     "tabungan": 9,
@@ -5314,5 +5314,5 @@
     "liston": 1,
     "cecanmenu": 1
   },
-  "lastUpdated": 1777374157394
+  "lastUpdated": 1777374217395
 }
