@@ -3660,7 +3660,7 @@
     "script": 11,
     "joinrpg": 48,
     "mentahan": 1,
-    "claim": 51,
+    "claim": 52,
     "cekidch": 15,
     "tourl": 45,
     "title": 1,
@@ -4215,7 +4215,7 @@
     "join": 3,
     "monopoli": 60,
     "oom": 1,
-    "inventory": 20,
+    "inventory": 21,
     "like": 1,
     "suka": 1,
     "monthly": 3,
@@ -5310,5 +5310,5 @@
     "pap45": 1,
     "pap1": 1
   },
-  "lastUpdated": 1777356632942
+  "lastUpdated": 1777356692941
 }
