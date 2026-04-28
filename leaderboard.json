@@ -39,13 +39,13 @@
     {
       "name": "keyy the destroyer",
       "level": 100,
-      "exp": 240240,
+      "exp": 240275,
       "saldo": 2013485
     },
     {
       "name": "Joishi ganteng",
       "level": 99,
-      "exp": 238070,
+      "exp": 238107,
       "saldo": 1.2564726002007225e+37
     },
     {
@@ -173,7 +173,7 @@
     {
       "name": "Joishi ganteng",
       "level": 99,
-      "exp": 238070,
+      "exp": 238107,
       "saldo": 1.2564726002007225e+37
     },
     {
@@ -277,13 +277,13 @@
     {
       "name": "keyy the destroyer",
       "level": 100,
-      "exp": 240240,
+      "exp": 240275,
       "saldo": 2013485
     },
     {
       "name": "Joishi ganteng",
       "level": 99,
-      "exp": 238070,
+      "exp": 238107,
       "saldo": 1.2564726002007225e+37
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 9.288262617474644e+89
     }
   ],
-  "lastUpdated": 1777356632942
+  "lastUpdated": 1777356692941
 }
