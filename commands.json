@@ -4373,7 +4373,7 @@
     "68458205204495": 17,
     "invpd": 2,
     "628895327267": 20,
-    "ceklimit": 8,
+    "ceklimit": 9,
     "ceksaldo": 64,
     "selectskill": 1,
     "ternak": 1,
@@ -5314,5 +5314,5 @@
     "liston": 1,
     "cecanmenu": 1
   },
-  "lastUpdated": 1777373857395
+  "lastUpdated": 1777373917396
 }
