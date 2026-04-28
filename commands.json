@@ -3630,7 +3630,7 @@
     "ewe-paksa": 65,
     "me": 666,
     "setbg": 31,
-    "rampok2": 623,
+    "rampok2": 624,
     "6285609504925": 15,
     "atm": 193,
     "bank": 118,
@@ -3731,7 +3731,7 @@
     "cium": 312,
     "6281915895220": 10,
     "6281215537344": 3,
-    "rampok": 146,
+    "rampok": 147,
     "listapi": 16,
     "family100": 14,
     "tebakpokemon": 1,
@@ -5315,8 +5315,8 @@
     "cecanmenu": 1,
     "menuall": 1,
     "addcmd": 1,
-    "buy1gb": 2,
+    "buy1gb": 3,
     "buy5gb": 1
   },
-  "lastUpdated": 1777377277413
+  "lastUpdated": 1777377337419
 }
