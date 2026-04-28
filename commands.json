@@ -3630,7 +3630,7 @@
     "ewe-paksa": 65,
     "me": 666,
     "setbg": 31,
-    "rampok2": 621,
+    "rampok2": 623,
     "6285609504925": 15,
     "atm": 193,
     "bank": 118,
@@ -4041,7 +4041,7 @@
     "setstatus": 2,
     "pin.": 1,
     "bounty": 2,
-    "listcase": 1,
+    "listcase": 2,
     "test": 5,
     "pin2": 14,
     "itachi": 1,
@@ -4272,7 +4272,7 @@
     "toko": 1,
     "penjara": 2,
     "ambil": 1,
-    "listchat": 1,
+    "listchat": 2,
     "cecan": 1,
     "carilirik": 1,
     "putus🗿": 1,
@@ -5311,8 +5311,8 @@
     "pap1": 1,
     "upsw": 1,
     "totag": 17,
-    "liston": 1,
+    "liston": 2,
     "cecanmenu": 1
   },
-  "lastUpdated": 1777374337395
+  "lastUpdated": 1777374397396
 }
