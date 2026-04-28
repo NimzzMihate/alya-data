@@ -3839,7 +3839,7 @@
     "cekgay": 34,
     "ytdoc": 49,
     "hargasewa": 4,
-    "d": 218,
+    "d": 219,
     "pabrik": 1,
     "fitnah": 71,
     "puji": 250,
@@ -5313,7 +5313,8 @@
     "totag": 17,
     "liston": 2,
     "cecanmenu": 1,
-    "menuall": 1
+    "menuall": 1,
+    "addcmd": 1
   },
-  "lastUpdated": 1777374517399
+  "lastUpdated": 1777374577398
 }
