@@ -3708,7 +3708,7 @@
     "makan": 20,
     "repair": 1,
     "kapal": 6,
-    "craft": 391,
+    "craft": 392,
     "listheri": 1,
     "listhero": 9,
     "mancing": 11,
@@ -3869,7 +3869,7 @@
     "cekganteng": 118,
     "crkganteng": 1,
     "puqi": 37,
-    "anj": 88,
+    "anj": 89,
     "anjing": 33,
     "winkhd": 1,
     "winkuhd": 3,
@@ -3991,7 +3991,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 95,
+    "sell": 96,
     "jual": 100,
     "vid": 3,
     "nfsw": 2,
@@ -4188,7 +4188,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 170,
-    "inv": 76,
+    "inv": 77,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -5333,7 +5333,8 @@
     "jokowi": 1,
     "damn": 1,
     "628818523845": 2,
-    "mbut": 1
+    "mbut": 1,
+    "foto": 1
   },
-  "lastUpdated": 1777385682622
+  "lastUpdated": 1777385742619
 }
