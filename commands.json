@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 241,
+    "atmpull": 242,
     "promote": 5,
     "reset": 3,
     "memasak": 1,
@@ -4399,7 +4399,7 @@
     "polisi": 4,
     "job": 2,
     "minum": 2,
-    "atmpullall": 1,
+    "atmpullall": 2,
     "worker": 1,
     "pemadam": 1,
     "mandi": 2,
@@ -5344,5 +5344,5 @@
     "mefemboy": 1,
     "isfemboy": 1
   },
-  "lastUpdated": 1777419085075
+  "lastUpdated": 1777419145077
 }
