@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 350,
+    "saldo": 352,
     "demote": 7,
     "sendgc": 2,
     "kirimke": 1,
@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 234,
+    "atmpull": 236,
     "promote": 5,
     "reset": 3,
     "memasak": 1,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 171,
+    "atmall": 172,
     "inv": 78,
     "healfull": 6,
     "mute": 5,
@@ -5344,5 +5344,5 @@
     "mefemboy": 1,
     "isfemboy": 1
   },
-  "lastUpdated": 1777415065021
+  "lastUpdated": 1777415125016
 }
