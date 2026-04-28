@@ -37,16 +37,16 @@
       "saldo": 1e+26
     },
     {
+      "name": "keyy the destroyer",
+      "level": 100,
+      "exp": 240167,
+      "saldo": 2013485
+    },
+    {
       "name": "Joishi ganteng",
       "level": 99,
       "exp": 237683,
       "saldo": 1.2431518001995756e+37
-    },
-    {
-      "name": "keyy the destroyer",
-      "level": 97,
-      "exp": 234879,
-      "saldo": 2000000
     },
     {
       "name": "sky the beginner",
@@ -275,16 +275,16 @@
       "saldo": 9.837377737372883e+153
     },
     {
+      "name": "keyy the destroyer",
+      "level": 100,
+      "exp": 240167,
+      "saldo": 2013485
+    },
+    {
       "name": "Joishi ganteng",
       "level": 99,
       "exp": 237683,
       "saldo": 1.2431518001995756e+37
-    },
-    {
-      "name": "keyy the destroyer",
-      "level": 97,
-      "exp": 234879,
-      "saldo": 2000000
     },
     {
       "name": "sky the beginner",
@@ -365,5 +365,5 @@
       "saldo": 1.0000000917726353e+86
     }
   ],
-  "lastUpdated": 1777354292926
+  "lastUpdated": 1777354352925
 }
