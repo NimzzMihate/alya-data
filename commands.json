@@ -3650,7 +3650,7 @@
     "6283875917267": 14,
     "6282220581787": 3,
     "6285757790301": 14,
-    "p": 5,
+    "p": 6,
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 106,
@@ -3719,7 +3719,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 141,
+    "cekprofile": 142,
     "tes": 451,
     "listown": 15,
     "getpp": 23,
@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 233,
+    "atmpull": 234,
     "promote": 5,
     "reset": 3,
     "memasak": 1,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 170,
+    "atmall": 171,
     "inv": 78,
     "healfull": 6,
     "mute": 5,
@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 56,
-    "cekbank": 69,
+    "cekbank": 71,
     "cektomboy": 2,
     "bajingan": 4,
     "tabungan": 9,
@@ -5338,5 +5338,5 @@
     "opm": 1,
     "jmk": 1
   },
-  "lastUpdated": 1777385862623
+  "lastUpdated": 1777385922620
 }
