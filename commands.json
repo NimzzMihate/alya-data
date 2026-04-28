@@ -3623,7 +3623,7 @@
     "backup": 5,
     "get": 76,
     "tohtml": 11,
-    "ranked": 85,
+    "ranked": 86,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 59,
@@ -3710,7 +3710,7 @@
     "kapal": 6,
     "craft": 391,
     "listheri": 1,
-    "listhero": 8,
+    "listhero": 9,
     "mancing": 11,
     "randomba": 9,
     "chatgpt3": 4,
@@ -4115,7 +4115,7 @@
     "feedpet": 165,
     "namapet": 3,
     "namepet": 12,
-    "statpet": 2,
+    "statpet": 3,
     "makannin": 1,
     "pepek": 2,
     "perak": 4,
@@ -5310,5 +5310,5 @@
     "pap45": 1,
     "pap1": 1
   },
-  "lastUpdated": 1777358192943
+  "lastUpdated": 1777358252943
 }
