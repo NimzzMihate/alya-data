@@ -3655,7 +3655,7 @@
     "61405583679507": 1,
     "wikwik": 106,
     "heal": 151,
-    "menu": 224,
+    "menu": 225,
     "owner": 15,
     "script": 11,
     "joinrpg": 48,
@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 141,
-    "tes": 442,
+    "tes": 444,
     "listown": 15,
     "getpp": 23,
     "linkgc": 19,
@@ -5320,7 +5320,8 @@
     "nae2": 2,
     "encmenu": 1,
     "mu": 1,
-    "customenc": 2
+    "customenc": 2,
+    "levi": 1
   },
-  "lastUpdated": 1777383064095
+  "lastUpdated": 1777383124092
 }
