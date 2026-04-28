@@ -3708,7 +3708,7 @@
     "makan": 20,
     "repair": 1,
     "kapal": 6,
-    "craft": 392,
+    "craft": 393,
     "listheri": 1,
     "listhero": 9,
     "mancing": 12,
@@ -3982,7 +3982,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 516,
+    "tf": 517,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -3991,7 +3991,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 97,
+    "sell": 99,
     "jual": 100,
     "vid": 3,
     "nfsw": 2,
@@ -5344,5 +5344,5 @@
     "mefemboy": 1,
     "isfemboy": 1
   },
-  "lastUpdated": 1777418245037
+  "lastUpdated": 1777418305039
 }
