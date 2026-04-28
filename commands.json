@@ -3628,7 +3628,7 @@
     "playmoba": 39,
     "ngaji": 59,
     "ewe-paksa": 65,
-    "me": 669,
+    "me": 670,
     "setbg": 31,
     "rampok2": 624,
     "6285609504925": 15,
@@ -3719,7 +3719,7 @@
     "totalcase": 1,
     "ra": 1,
     "tolid": 1,
-    "cekprofile": 142,
+    "cekprofile": 143,
     "tes": 451,
     "listown": 15,
     "getpp": 23,
@@ -4021,7 +4021,7 @@
     "profil": 11,
     "prefix": 4,
     "6282313526033": 4,
-    "game": 8,
+    "game": 9,
     "main": 2,
     "moba": 1,
     "mobaprofil": 1,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 99,
+    "detailkarakter": 100,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5336,7 +5336,10 @@
     "mbut": 1,
     "foto": 1,
     "opm": 1,
-    "jmk": 1
+    "jmk": 1,
+    "meme": 1,
+    "cekmarah": 1,
+    "ceksaran": 3
   },
-  "lastUpdated": 1777385922620
+  "lastUpdated": 1777386033618
 }
