@@ -3777,7 +3777,7 @@
     "verify": 30,
     "daftr": 13,
     "status": 17,
-    "pap": 873,
+    "pap": 876,
     "tebakbendera": 31,
     "tebak": 2,
     "gantinama": 1,
@@ -3845,7 +3845,7 @@
     "puji": 250,
     "pacar": 270,
     "carikarakter": 231,
-    "nembak": 167,
+    "nembak": 168,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4085,7 +4085,7 @@
     "buatanak": 28,
     "istiku": 1,
     "cerai": 28,
-    "putus": 164,
+    "putus": 165,
     "crop": 52,
     "shopgift": 60,
     "give": 3,
@@ -5310,5 +5310,5 @@
     "pap45": 1,
     "pap1": 1
   },
-  "lastUpdated": 1777365339859
+  "lastUpdated": 1777365399864
 }
