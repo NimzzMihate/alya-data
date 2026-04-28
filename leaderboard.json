@@ -27,7 +27,7 @@
     {
       "name": "aisha",
       "level": 147,
-      "exp": 355026,
+      "exp": 355085,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -112,7 +112,7 @@
       "name": "axell",
       "level": 16,
       "exp": 39853,
-      "saldo": 9.288262617474644e+89
+      "saldo": 9.197372919308329e+105
     },
     {
       "name": "danz",
@@ -125,7 +125,7 @@
     {
       "name": "aisha",
       "level": 147,
-      "exp": 355026,
+      "exp": 355085,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -135,16 +135,16 @@
       "saldo": 1.1193837377363637e+143
     },
     {
+      "name": "axell",
+      "level": 16,
+      "exp": 39853,
+      "saldo": 9.197372919308329e+105
+    },
+    {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 508,
       "exp": 1220495,
       "saldo": 9e+100
-    },
-    {
-      "name": "axell",
-      "level": 16,
-      "exp": 39853,
-      "saldo": 9.288262617474644e+89
     },
     {
       "name": "Ditz ketoprak",
@@ -271,7 +271,7 @@
     {
       "name": "aisha",
       "level": 147,
-      "exp": 355026,
+      "exp": 355085,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -356,7 +356,7 @@
       "name": "axell",
       "level": 16,
       "exp": 39853,
-      "saldo": 9.288262617474644e+89
+      "saldo": 9.197372919308329e+105
     },
     {
       "name": "danz",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777416985036
+  "lastUpdated": 1777417045033
 }
