@@ -27,7 +27,7 @@
     {
       "name": "aisha",
       "level": 147,
-      "exp": 354704,
+      "exp": 354774,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "aisha",
       "level": 147,
-      "exp": 354704,
+      "exp": 354774,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -139,12 +139,6 @@
       "level": 508,
       "exp": 1220012,
       "saldo": 9e+100
-    },
-    {
-      "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
-      "level": 6,
-      "exp": 14403,
-      "saldo": 1.0000000999999999e+99
     },
     {
       "name": "axell",
@@ -241,6 +235,12 @@
       "level": 20,
       "exp": 49626,
       "saldo": 10000139079676375000
+    },
+    {
+      "name": "cano",
+      "level": 0,
+      "exp": 707,
+      "saldo": 90000000000050000
     }
   ],
   "exp": [
@@ -271,7 +271,7 @@
     {
       "name": "aisha",
       "level": 147,
-      "exp": 354704,
+      "exp": 354774,
       "saldo": 9.837377737372883e+153
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777385862623
+  "lastUpdated": 1777385922620
 }
