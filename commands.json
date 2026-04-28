@@ -3682,7 +3682,7 @@
     "daily": 75,
     "adventure": 59,
     "cf": 19,
-    "nai2": 192,
+    "nai2": 194,
     "6282137487477": 73,
     "removebg": 103,
     "addown": 7,
@@ -4530,7 +4530,7 @@
     "genshinmenu": 3,
     "gens-character": 2,
     "asuna": 2,
-    "45904929247295": 38,
+    "45904929247295": 39,
     "nomor": 2,
     "armor": 3,
     "fish": 1,
@@ -5316,7 +5316,8 @@
     "menuall": 1,
     "addcmd": 1,
     "buy1gb": 3,
-    "buy5gb": 1
+    "buy5gb": 1,
+    "nae2": 1
   },
-  "lastUpdated": 1777378477419
+  "lastUpdated": 1777378537419
 }
