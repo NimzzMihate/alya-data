@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 238,
+    "atmpull": 241,
     "promote": 5,
     "reset": 3,
     "memasak": 1,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 172,
+    "atmall": 173,
     "inv": 78,
     "healfull": 6,
     "mute": 5,
@@ -5344,5 +5344,5 @@
     "mefemboy": 1,
     "isfemboy": 1
   },
-  "lastUpdated": 1777418545042
+  "lastUpdated": 1777418605043
 }
