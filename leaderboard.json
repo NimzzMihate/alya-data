@@ -51,7 +51,7 @@
     {
       "name": "sky the beginner",
       "level": 93,
-      "exp": 223372,
+      "exp": 223453,
       "saldo": 9851884900376704
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
       "level": 5,
-      "exp": 13420,
+      "exp": 13495,
       "saldo": 1.0000000999999999e+99
     },
     {
@@ -289,7 +289,7 @@
     {
       "name": "sky the beginner",
       "level": 93,
-      "exp": 223372,
+      "exp": 223453,
       "saldo": 9851884900376704
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777382464083
+  "lastUpdated": 1777382524078
 }
