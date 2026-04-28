@@ -3633,7 +3633,7 @@
     "rampok2": 616,
     "6285609504925": 15,
     "atm": 192,
-    "bank": 113,
+    "bank": 116,
     "afk": 1132,
     "kerja": 84,
     "628176533297": 14,
@@ -3660,7 +3660,7 @@
     "script": 11,
     "joinrpg": 48,
     "mentahan": 1,
-    "claim": 49,
+    "claim": 51,
     "cekidch": 15,
     "tourl": 45,
     "title": 1,
@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 141,
-    "tes": 437,
+    "tes": 439,
     "listown": 15,
     "getpp": 23,
     "linkgc": 19,
@@ -5307,5 +5307,5 @@
     "6285862216321": 2,
     "/kick": 1
   },
-  "lastUpdated": 1777340037020
+  "lastUpdated": 1777340097021
 }
