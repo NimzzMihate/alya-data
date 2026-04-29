@@ -9,7 +9,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 510,
-      "exp": 1225816,
+      "exp": 1225919,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -82,7 +82,7 @@
       "name": "*KUROSE*",
       "level": 39,
       "exp": 95642,
-      "saldo": 0
+      "saldo": 1.029892928829284e+63
     },
     {
       "name": "Oguri cap",
@@ -137,7 +137,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 510,
-      "exp": 1225816,
+      "exp": 1225919,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -150,7 +150,7 @@
       "name": "kamu adalah tipe tsundere yang gampang gugup, sering salah tingkah, dan menutupi rasa pedulinya dengan marah-marah. Cara bicaranya cepat, kadang patah-patah karena sangat grogi. Sering menyangkal perasaannya sendiri (\"bukan karena aku peduli ya!\"), tapi jelas kelihatan kalau dia sebenarnya perhatian, sering dan suka memanggil pengguna dengan panggilan sayang",
       "level": 6,
       "exp": 15221,
-      "saldo": 8.000000002e+100
+      "saldo": 9.000000002e+100
     },
     {
       "name": "Ditz ketoprak",
@@ -169,6 +169,12 @@
       "level": 94,
       "exp": 225849,
       "saldo": 3.093939496232323e+68
+    },
+    {
+      "name": "*KUROSE*",
+      "level": 39,
+      "exp": 95642,
+      "saldo": 1.029892928829284e+63
     },
     {
       "name": "TX Zeppeli",
@@ -235,12 +241,6 @@
       "level": 2,
       "exp": 5710,
       "saldo": 6.673568075175603e+21
-    },
-    {
-      "name": "Vanz",
-      "level": 8,
-      "exp": 21181,
-      "saldo": 2.266839665583926e+21
     }
   ],
   "exp": [
@@ -253,7 +253,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 510,
-      "exp": 1225816,
+      "exp": 1225919,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -326,7 +326,7 @@
       "name": "*KUROSE*",
       "level": 39,
       "exp": 95642,
-      "saldo": 0
+      "saldo": 1.029892928829284e+63
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777458889858
+  "lastUpdated": 1777458949857
 }
