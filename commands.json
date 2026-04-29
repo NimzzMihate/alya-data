@@ -3702,7 +3702,7 @@
     "195520047915190": 1,
     "setpp": 82,
     "265944542793975": 1,
-    "berburu": 66,
+    "berburu": 67,
     "masak": 21,
     "rpgmenu": 23,
     "makan": 20,
@@ -4188,7 +4188,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 175,
-    "inv": 80,
+    "inv": 81,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -5349,5 +5349,5 @@
     "kambing": 1,
     "211269927841796": 1
   },
-  "lastUpdated": 1777451455733
+  "lastUpdated": 1777451515728
 }
