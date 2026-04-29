@@ -3708,7 +3708,7 @@
     "makan": 20,
     "repair": 1,
     "kapal": 6,
-    "craft": 393,
+    "craft": 395,
     "listheri": 1,
     "listhero": 9,
     "mancing": 12,
@@ -3991,7 +3991,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 99,
+    "sell": 100,
     "jual": 100,
     "vid": 3,
     "nfsw": 2,
@@ -5332,7 +5332,7 @@
     "banteng": 2,
     "jokowi": 1,
     "damn": 1,
-    "628818523845": 8,
+    "628818523845": 9,
     "mbut": 1,
     "foto": 1,
     "opm": 1,
@@ -5354,5 +5354,5 @@
     "removebv": 1,
     "ado": 1
   },
-  "lastUpdated": 1777459909890
+  "lastUpdated": 1777459969891
 }
