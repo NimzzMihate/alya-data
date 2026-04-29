@@ -3633,7 +3633,7 @@
     "rampok2": 628,
     "6285609504925": 15,
     "atm": 193,
-    "bank": 119,
+    "bank": 120,
     "afk": 1186,
     "kerja": 84,
     "628176533297": 14,
@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 56,
-    "cekbank": 73,
+    "cekbank": 74,
     "cektomboy": 2,
     "bajingan": 5,
     "tabungan": 9,
@@ -5345,5 +5345,5 @@
     "isfemboy": 1,
     "asw": 1
   },
-  "lastUpdated": 1777442453191
+  "lastUpdated": 1777442513183
 }
