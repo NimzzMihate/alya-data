@@ -4111,8 +4111,8 @@
     "6289530116661": 1,
     "adoptpet": 33,
     "petstat": 43,
-    "playpet": 89,
-    "feedpet": 166,
+    "playpet": 90,
+    "feedpet": 167,
     "namapet": 3,
     "namepet": 12,
     "statpet": 3,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 160,
+    "battlepet": 161,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -4194,7 +4194,7 @@
     "perstat": 1,
     "lesby": 9,
     "bokeppaksa": 1,
-    "taksi": 6,
+    "taksi": 7,
     "bangsat": 9,
     "foodpet": 1,
     "releaseper": 1,
@@ -5104,7 +5104,7 @@
     "193226401136727": 1,
     "antilinkgc": 2,
     "opem": 1,
-    "ojek": 4,
+    "ojek": 5,
     "ceo": 1,
     "oap": 1,
     "lejengkpunyamalu💜": 1,
@@ -5361,5 +5361,5 @@
     "flo": 1,
     "31396680753191": 1
   },
-  "lastUpdated": 1777469568909
+  "lastUpdated": 1777469628906
 }
