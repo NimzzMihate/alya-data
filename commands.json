@@ -3777,7 +3777,7 @@
     "verify": 30,
     "daftr": 13,
     "status": 17,
-    "pap": 885,
+    "pap": 888,
     "tebakbendera": 31,
     "tebak": 2,
     "gantinama": 1,
@@ -3898,7 +3898,7 @@
     "/": 16,
     "cekcantik": 70,
     "toplocal": 51,
-    "forward": 456,
+    "forward": 463,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 50,
@@ -4686,7 +4686,7 @@
     "family50": 1,
     "family200": 1,
     "mainmenu": 1,
-    "6357071720498": 26,
+    "6357071720498": 27,
     "ted": 9,
     "naya": 5,
     "halo": 1,
@@ -5310,7 +5310,7 @@
     "pap45": 1,
     "pap1": 1,
     "upsw": 1,
-    "totag": 22,
+    "totag": 29,
     "liston": 2,
     "cecanmenu": 1,
     "menuall": 1,
@@ -5351,5 +5351,5 @@
     "ubahskala": 1,
     "ukuran": 1
   },
-  "lastUpdated": 1777454155743
+  "lastUpdated": 1777454215748
 }
