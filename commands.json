@@ -3630,7 +3630,7 @@
     "ewe-paksa": 65,
     "me": 688,
     "setbg": 33,
-    "rampok2": 631,
+    "rampok2": 633,
     "6285609504925": 15,
     "atm": 194,
     "bank": 120,
@@ -3660,7 +3660,7 @@
     "script": 11,
     "joinrpg": 48,
     "mentahan": 1,
-    "claim": 56,
+    "claim": 58,
     "cekidch": 15,
     "tourl": 45,
     "title": 1,
@@ -3977,7 +3977,7 @@
     "e2": 2,
     "6285180841166": 1,
     "limt": 1,
-    "limit": 33,
+    "limit": 35,
     "cihuy": 1,
     "afk\ntidur": 1,
     "mong": 1,
@@ -4536,7 +4536,7 @@
     "fish": 1,
     "poke": 1,
     "anjg": 57,
-    "cekbank": 74,
+    "cekbank": 75,
     "cektomboy": 2,
     "bajingan": 5,
     "tabungan": 9,
@@ -5359,5 +5359,5 @@
     "total": 1,
     "revers": 1
   },
-  "lastUpdated": 1777463957023
+  "lastUpdated": 1777464017015
 }
