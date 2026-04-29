@@ -3761,7 +3761,7 @@
     "buyitem": 3,
     "play": 355,
     "ytmp3": 272,
-    "152609298108555": 89,
+    "152609298108555": 90,
     "35588770111681": 1,
     "intro": 86,
     "up": 1,
@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 360,
+    "saldo": 361,
     "demote": 7,
     "sendgc": 2,
     "kirimke": 1,
@@ -3982,7 +3982,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 534,
+    "tf": 535,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4374,7 +4374,7 @@
     "invpd": 2,
     "628895327267": 25,
     "ceklimit": 9,
-    "ceksaldo": 67,
+    "ceksaldo": 68,
     "selectskill": 1,
     "ternak": 1,
     "berternak": 1,
@@ -5353,5 +5353,5 @@
     "toteg": 1,
     "removebv": 1
   },
-  "lastUpdated": 1777454838598
+  "lastUpdated": 1777454898596
 }
