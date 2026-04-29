@@ -4886,7 +4886,7 @@
     "diffusion": 3,
     "carbon": 2,
     "toptv": 2,
-    "stcrandom": 11,
+    "stcrandom": 12,
     "readvo": 3,
     "say2": 6,
     "hijaukan": 3,
@@ -5352,7 +5352,8 @@
     "ukuran": 1,
     "toteg": 1,
     "removebv": 1,
-    "ado": 1
+    "ado": 1,
+    "upscale": 1
   },
-  "lastUpdated": 1777460569891
+  "lastUpdated": 1777460629892
 }
