@@ -3628,11 +3628,11 @@
     "playmoba": 39,
     "ngaji": 59,
     "ewe-paksa": 65,
-    "me": 676,
+    "me": 677,
     "setbg": 31,
     "rampok2": 631,
     "6285609504925": 15,
-    "atm": 193,
+    "atm": 194,
     "bank": 120,
     "afk": 1187,
     "kerja": 84,
@@ -3722,7 +3722,7 @@
     "cekprofile": 146,
     "tes": 453,
     "listown": 15,
-    "getpp": 25,
+    "getpp": 27,
     "linkgc": 19,
     "cekpasangan": 96,
     "6281283401829": 7,
@@ -3850,7 +3850,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 244,
+    "atmpull": 245,
     "promote": 5,
     "reset": 3,
     "memasak": 1,
@@ -5352,5 +5352,5 @@
     "ukuran": 1,
     "toteg": 1
   },
-  "lastUpdated": 1777454275749
+  "lastUpdated": 1777454335746
 }
