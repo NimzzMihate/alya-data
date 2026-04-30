@@ -3787,7 +3787,7 @@
     "izin": 1,
     "build": 2,
     "saldo": 362,
-    "demote": 13,
+    "demote": 14,
     "sendgc": 2,
     "kirimke": 1,
     "setpromosi": 5,
@@ -3839,7 +3839,7 @@
     "cekgay": 35,
     "ytdoc": 49,
     "hargasewa": 4,
-    "d": 234,
+    "d": 238,
     "pabrik": 1,
     "fitnah": 71,
     "puji": 250,
@@ -4188,7 +4188,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 177,
-    "inv": 91,
+    "inv": 92,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -5006,7 +5006,7 @@
     "topglocal": 1,
     "6283878568219": 4,
     "kadihminum": 1,
-    "sama": 1,
+    "sama": 2,
     "⁨radit⁩": 1,
     "editpoto2": 2,
     "rekomendasi": 1,
@@ -5373,5 +5373,5 @@
     "listwarn": 2,
     "forward.promote": 1
   },
-  "lastUpdated": 1777540249113
+  "lastUpdated": 1777540309118
 }
