@@ -3693,7 +3693,7 @@
     "dailymisi": 80,
     "open-bo": 53,
     "ewepaksa": 207,
-    "topglobal": 107,
+    "topglobal": 108,
     "6285789692015": 1,
     "buy": 681,
     "smeme": 227,
@@ -3898,7 +3898,7 @@
     "/": 16,
     "cekcantik": 78,
     "toplocal": 52,
-    "forward": 491,
+    "forward": 492,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 51,
@@ -4015,7 +4015,7 @@
     "139685271736427": 6,
     "setprofil": 29,
     "cm": 1,
-    "warn": 6,
+    "warn": 7,
     "tagme": 8,
     "130365243027683": 3,
     "profil": 11,
@@ -5369,7 +5369,8 @@
     "sethbd": 2,
     "setcmd": 4,
     "reply": 1,
-    "naj2": 1
+    "naj2": 1,
+    "listwarn": 2
   },
-  "lastUpdated": 1777539109109
+  "lastUpdated": 1777539169110
 }
