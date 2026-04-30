@@ -3724,7 +3724,7 @@
     "listown": 15,
     "getpp": 30,
     "linkgc": 19,
-    "cekpasangan": 101,
+    "cekpasangan": 102,
     "6281283401829": 7,
     "tembak": 44,
     "terima": 19,
@@ -4221,7 +4221,7 @@
     "monthly": 3,
     "yearly": 1,
     "terimanikah": 10,
-    "6283133734215": 20,
+    "6283133734215": 21,
     "ai2": 14,
     "ajg": 4,
     "wibu": 16,
@@ -5371,7 +5371,8 @@
     "reply": 1,
     "naj2": 1,
     "listwarn": 2,
-    "forward.promote": 1
+    "forward.promote": 1,
+    "⁨zio": 4
   },
-  "lastUpdated": 1777540489128
+  "lastUpdated": 1777540549131
 }
