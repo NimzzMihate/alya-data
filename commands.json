@@ -4086,7 +4086,7 @@
     "istiku": 1,
     "cerai": 28,
     "putus": 166,
-    "crop": 65,
+    "crop": 66,
     "shopgift": 60,
     "give": 3,
     "asep": 1,
@@ -5370,5 +5370,5 @@
     "setcmd": 4,
     "reply": 1
   },
-  "lastUpdated": 1777535449082
+  "lastUpdated": 1777535509085
 }
