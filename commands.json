@@ -3679,7 +3679,7 @@
     "huxinn😡😡": 1,
     "gift": 772,
     "ajakmain": 143,
-    "daily": 79,
+    "daily": 80,
     "adventure": 60,
     "cf": 19,
     "nai2": 260,
@@ -3702,7 +3702,7 @@
     "195520047915190": 1,
     "setpp": 82,
     "265944542793975": 1,
-    "berburu": 86,
+    "berburu": 87,
     "masak": 22,
     "rpgmenu": 24,
     "makan": 22,
@@ -3824,7 +3824,7 @@
     "93283032285420": 11,
     "188571210244160": 3,
     "222531466350642": 2,
-    "tidur": 24,
+    "tidur": 25,
     "akun": 2,
     "jembott": 1,
     "kuis": 32,
@@ -4188,7 +4188,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 178,
-    "inv": 97,
+    "inv": 98,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -5384,5 +5384,5 @@
     "battelepey": 1,
     "battelepet": 1
   },
-  "lastUpdated": 1777583562346
+  "lastUpdated": 1777583622346
 }
