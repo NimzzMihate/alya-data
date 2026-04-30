@@ -3,8 +3,8 @@
   "totalUsers": 1110,
   "totalGroups": 38,
   "totalFeatures": 3610,
-  "totalCmd": 31459,
-  "totalChat": 31459,
+  "totalCmd": 31462,
+  "totalChat": 31462,
   "topCommands": [
     {
       "cmd": "afk",
@@ -31,11 +31,11 @@
       "count": 637
     },
     {
-      "cmd": "s",
-      "count": 551
+      "cmd": "tf",
+      "count": 552
     },
     {
-      "cmd": "tf",
+      "cmd": "s",
       "count": 551
     },
     {
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 1441,
-  "lastUpdated": 1777546748757
+  "uptimeSeconds": 1501,
+  "lastUpdated": 1777546808757
 }
