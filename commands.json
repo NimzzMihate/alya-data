@@ -4136,7 +4136,7 @@
     "cek": 22,
     "forward.forward": 2,
     "hell": 1,
-    "bailout": 60,
+    "bailout": 61,
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
@@ -5369,5 +5369,5 @@
     "sethbd": 2,
     "setcmd": 4
   },
-  "lastUpdated": 1777530072914
+  "lastUpdated": 1777530132920
 }
