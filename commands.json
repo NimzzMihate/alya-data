@@ -3787,7 +3787,7 @@
     "izin": 1,
     "build": 2,
     "saldo": 361,
-    "demote": 9,
+    "demote": 10,
     "sendgc": 2,
     "kirimke": 1,
     "setpromosi": 5,
@@ -3839,7 +3839,7 @@
     "cekgay": 35,
     "ytdoc": 49,
     "hargasewa": 4,
-    "d": 227,
+    "d": 229,
     "pabrik": 1,
     "fitnah": 71,
     "puji": 250,
@@ -3898,7 +3898,7 @@
     "/": 16,
     "cekcantik": 78,
     "toplocal": 52,
-    "forward": 486,
+    "forward": 487,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 51,
@@ -5369,5 +5369,5 @@
     "sethbd": 2,
     "setcmd": 4
   },
-  "lastUpdated": 1777530852926
+  "lastUpdated": 1777530912922
 }
