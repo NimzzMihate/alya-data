@@ -3787,7 +3787,7 @@
     "izin": 1,
     "build": 2,
     "saldo": 361,
-    "demote": 7,
+    "demote": 8,
     "sendgc": 2,
     "kirimke": 1,
     "setpromosi": 5,
@@ -3851,7 +3851,7 @@
     "sad": 1,
     "bully": 10,
     "atmpull": 245,
-    "promote": 9,
+    "promote": 10,
     "reset": 3,
     "memasak": 1,
     "wm\n>": 2,
@@ -3898,7 +3898,7 @@
     "/": 16,
     "cekcantik": 73,
     "toplocal": 52,
-    "forward": 481,
+    "forward": 483,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 51,
@@ -5367,5 +5367,5 @@
     "confess": 1,
     "setwelcome": 8
   },
-  "lastUpdated": 1777528755305
+  "lastUpdated": 1777528815306
 }
