@@ -3720,7 +3720,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 157,
-    "tes": 475,
+    "tes": 476,
     "listown": 15,
     "getpp": 30,
     "linkgc": 19,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 162,
+    "battlepet": 163,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5381,7 +5381,8 @@
     "banfitur": 2,
     "yυɾα`:order": 1,
     "6285602728493": 1,
-    "battelepey": 1
+    "battelepey": 1,
+    "battelepet": 1
   },
-  "lastUpdated": 1777573422315
+  "lastUpdated": 1777573482300
 }
