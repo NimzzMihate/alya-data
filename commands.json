@@ -3654,8 +3654,8 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 108,
-    "heal": 151,
-    "menu": 234,
+    "heal": 152,
+    "menu": 235,
     "owner": 15,
     "script": 11,
     "joinrpg": 49,
@@ -3680,7 +3680,7 @@
     "gift": 772,
     "ajakmain": 143,
     "daily": 80,
-    "adventure": 60,
+    "adventure": 61,
     "cf": 19,
     "nai2": 260,
     "6282137487477": 73,
@@ -3704,7 +3704,7 @@
     "265944542793975": 1,
     "berburu": 87,
     "masak": 22,
-    "rpgmenu": 24,
+    "rpgmenu": 25,
     "makan": 22,
     "repair": 1,
     "kapal": 6,
@@ -3926,7 +3926,7 @@
     "rename": 1,
     "cn": 86,
     "cari": 8,
-    "menurpg": 2,
+    "menurpg": 3,
     "mengaji": 5,
     "dagang": 35,
     "gccanvas": 2,
@@ -5382,7 +5382,8 @@
     "yυɾα`:order": 1,
     "6285602728493": 1,
     "battelepey": 1,
-    "battelepet": 1
+    "battelepet": 1,
+    "advanture": 1
   },
-  "lastUpdated": 1777583622346
+  "lastUpdated": 1777583682352
 }
