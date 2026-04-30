@@ -97,16 +97,16 @@
       "saldo": 480625437
     },
     {
+      "name": "axell",
+      "level": 26,
+      "exp": 63585,
+      "saldo": 9.281737392013948e+62
+    },
+    {
       "name": "Player-1118802",
       "level": 24,
       "exp": 62913,
       "saldo": 52114
-    },
-    {
-      "name": "axell",
-      "level": 23,
-      "exp": 56558,
-      "saldo": 9.281737392013948e+62
     },
     {
       "name": "kensoy",
@@ -178,8 +178,8 @@
     },
     {
       "name": "axell",
-      "level": 23,
-      "exp": 56558,
+      "level": 26,
+      "exp": 63585,
       "saldo": 9.281737392013948e+62
     },
     {
@@ -341,16 +341,16 @@
       "saldo": 480625437
     },
     {
+      "name": "axell",
+      "level": 26,
+      "exp": 63585,
+      "saldo": 9.281737392013948e+62
+    },
+    {
       "name": "Player-1118802",
       "level": 24,
       "exp": 62913,
       "saldo": 52114
-    },
-    {
-      "name": "axell",
-      "level": 23,
-      "exp": 56558,
-      "saldo": 9.281737392013948e+62
     },
     {
       "name": "kensoy",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777583742347
+  "lastUpdated": 1777583802355
 }
