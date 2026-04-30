@@ -3633,7 +3633,7 @@
     "rampok2": 638,
     "6285609504925": 15,
     "atm": 194,
-    "bank": 121,
+    "bank": 122,
     "afk": 1295,
     "kerja": 86,
     "628176533297": 14,
@@ -4187,7 +4187,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 177,
+    "atmall": 178,
     "inv": 93,
     "healfull": 6,
     "mute": 5,
@@ -5381,5 +5381,5 @@
     "banfitur": 2,
     "yυɾα`:order": 1
   },
-  "lastUpdated": 1777556224546
+  "lastUpdated": 1777556284545
 }
