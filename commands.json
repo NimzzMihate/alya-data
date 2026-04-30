@@ -5366,7 +5366,8 @@
     "cekfeboy": 1,
     "confess": 1,
     "setwelcome": 8,
-    "sethbd": 1
+    "sethbd": 1,
+    "setcmd": 2
   },
-  "lastUpdated": 1777529472905
+  "lastUpdated": 1777529532907
 }
