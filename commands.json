@@ -3628,7 +3628,7 @@
     "playmoba": 39,
     "ngaji": 60,
     "ewe-paksa": 65,
-    "me": 692,
+    "me": 693,
     "setbg": 33,
     "rampok2": 633,
     "6285609504925": 15,
@@ -3702,7 +3702,7 @@
     "195520047915190": 1,
     "setpp": 82,
     "265944542793975": 1,
-    "berburu": 77,
+    "berburu": 78,
     "masak": 22,
     "rpgmenu": 24,
     "makan": 21,
@@ -3898,7 +3898,7 @@
     "/": 16,
     "cekcantik": 73,
     "toplocal": 52,
-    "forward": 484,
+    "forward": 485,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 51,
@@ -3991,7 +3991,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 105,
+    "sell": 106,
     "jual": 101,
     "vid": 3,
     "nfsw": 2,
@@ -4188,7 +4188,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 177,
-    "inv": 89,
+    "inv": 90,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -5367,5 +5367,5 @@
     "confess": 1,
     "setwelcome": 8
   },
-  "lastUpdated": 1777529115309
+  "lastUpdated": 1777529175318
 }
