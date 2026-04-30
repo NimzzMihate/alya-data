@@ -3654,7 +3654,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 108,
-    "heal": 152,
+    "heal": 153,
     "menu": 235,
     "owner": 15,
     "script": 11,
@@ -3928,7 +3928,7 @@
     "cari": 8,
     "menurpg": 3,
     "mengaji": 5,
-    "dagang": 35,
+    "dagang": 37,
     "gccanvas": 2,
     "totalchat": 4,
     "145161355005957": 9,
@@ -5385,5 +5385,5 @@
     "battelepet": 1,
     "advanture": 1
   },
-  "lastUpdated": 1777583682352
+  "lastUpdated": 1777583742347
 }
