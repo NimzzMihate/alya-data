@@ -3692,7 +3692,7 @@
     "editfoto": 100,
     "dailymisi": 80,
     "open-bo": 53,
-    "ewepaksa": 205,
+    "ewepaksa": 206,
     "topglobal": 107,
     "6285789692015": 1,
     "buy": 681,
@@ -4727,7 +4727,7 @@
     "payment": 1,
     "gopay": 2,
     "qris": 1,
-    "6283194787778": 5,
+    "6283194787778": 6,
     "io": 7,
     "cekgateng": 1,
     "ms": 1,
@@ -5370,5 +5370,5 @@
     "setcmd": 4,
     "reply": 1
   },
-  "lastUpdated": 1777533912945
+  "lastUpdated": 1777533972946
 }
