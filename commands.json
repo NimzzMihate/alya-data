@@ -3623,7 +3623,7 @@
     "backup": 5,
     "get": 80,
     "tohtml": 11,
-    "ranked": 86,
+    "ranked": 88,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 60,
@@ -3682,7 +3682,7 @@
     "daily": 79,
     "adventure": 60,
     "cf": 19,
-    "nai2": 256,
+    "nai2": 257,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -5384,5 +5384,5 @@
     "battelepey": 1,
     "battelepet": 1
   },
-  "lastUpdated": 1777573842302
+  "lastUpdated": 1777573902300
 }
