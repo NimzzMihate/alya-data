@@ -3787,7 +3787,7 @@
     "izin": 1,
     "build": 2,
     "saldo": 361,
-    "demote": 8,
+    "demote": 9,
     "sendgc": 2,
     "kirimke": 1,
     "setpromosi": 5,
@@ -4372,7 +4372,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 2,
-    "628895327267": 32,
+    "628895327267": 33,
     "ceklimit": 9,
     "ceksaldo": 68,
     "selectskill": 1,
@@ -4686,7 +4686,7 @@
     "family50": 1,
     "family200": 1,
     "mainmenu": 1,
-    "6357071720498": 35,
+    "6357071720498": 36,
     "ted": 9,
     "naya": 5,
     "halo": 1,
@@ -5367,5 +5367,5 @@
     "confess": 1,
     "setwelcome": 8
   },
-  "lastUpdated": 1777528935311
+  "lastUpdated": 1777528995312
 }
