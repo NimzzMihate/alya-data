@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 163,
+    "battlepet": 164,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5292,7 +5292,7 @@
     "tipactive": 1,
     "listbl": 2,
     "listblacklist": 1,
-    "unpet": 1,
+    "unpet": 2,
     "listwl": 1,
     "kemasukan": 1,
     "yra": 1,
@@ -5384,5 +5384,5 @@
     "battelepey": 1,
     "battelepet": 1
   },
-  "lastUpdated": 1777573482300
+  "lastUpdated": 1777573542307
 }
