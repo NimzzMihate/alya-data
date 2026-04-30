@@ -4115,7 +4115,7 @@
     "feedpet": 169,
     "namapet": 3,
     "namepet": 12,
-    "statpet": 3,
+    "statpet": 4,
     "makannin": 1,
     "pepek": 2,
     "perak": 4,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 161,
+    "battlepet": 162,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5380,7 +5380,8 @@
     "dafar": 1,
     "banfitur": 2,
     "yυɾα`:order": 1,
-    "6285602728493": 1
+    "6285602728493": 1,
+    "battelepey": 1
   },
-  "lastUpdated": 1777573362300
+  "lastUpdated": 1777573422315
 }
