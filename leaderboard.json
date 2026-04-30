@@ -9,7 +9,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 527,
-      "exp": 1266247,
+      "exp": 1266348,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 527,
-      "exp": 1266247,
+      "exp": 1266348,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -189,6 +189,12 @@
       "saldo": 9.291827301019274e+51
     },
     {
+      "name": "nama amar",
+      "level": 2,
+      "exp": 13426,
+      "saldo": 1.0283673846287375e+40
+    },
+    {
       "name": "Joishi ganteng",
       "level": 99,
       "exp": 238940,
@@ -235,12 +241,6 @@
       "level": 14,
       "exp": 33904,
       "saldo": 1.0001000443551213e+22
-    },
-    {
-      "name": "nama amar",
-      "level": 2,
-      "exp": 13426,
-      "saldo": 6.673568075175603e+21
     }
   ],
   "exp": [
@@ -253,7 +253,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 527,
-      "exp": 1266247,
+      "exp": 1266348,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777549711565
+  "lastUpdated": 1777549771566
 }
