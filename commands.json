@@ -3682,7 +3682,7 @@
     "daily": 79,
     "adventure": 60,
     "cf": 19,
-    "nai2": 257,
+    "nai2": 259,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -3777,7 +3777,7 @@
     "verify": 31,
     "daftr": 14,
     "status": 17,
-    "pap": 890,
+    "pap": 891,
     "tebakbendera": 31,
     "tebak": 2,
     "gantinama": 1,
@@ -3845,7 +3845,7 @@
     "puji": 250,
     "pacar": 282,
     "carikarakter": 234,
-    "nembak": 169,
+    "nembak": 170,
     "cry": 7,
     "happy": 4,
     "sad": 1,
@@ -4443,7 +4443,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 102,
+    "detailkarakter": 103,
     "gcsider": 1,
     "quoted": 19,
     "pentol": 2,
@@ -5384,5 +5384,5 @@
     "battelepey": 1,
     "battelepet": 1
   },
-  "lastUpdated": 1777573962300
+  "lastUpdated": 1777574022303
 }
