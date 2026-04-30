@@ -3682,7 +3682,7 @@
     "daily": 79,
     "adventure": 60,
     "cf": 19,
-    "nai2": 253,
+    "nai2": 255,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -3705,7 +3705,7 @@
     "berburu": 84,
     "masak": 22,
     "rpgmenu": 24,
-    "makan": 21,
+    "makan": 22,
     "repair": 1,
     "kapal": 6,
     "craft": 396,
@@ -3991,7 +3991,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 107,
+    "sell": 108,
     "jual": 101,
     "vid": 3,
     "nfsw": 2,
@@ -5384,5 +5384,5 @@
     "battelepey": 1,
     "battelepet": 1
   },
-  "lastUpdated": 1777573662300
+  "lastUpdated": 1777573722302
 }
