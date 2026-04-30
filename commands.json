@@ -3724,7 +3724,7 @@
     "listown": 15,
     "getpp": 30,
     "linkgc": 19,
-    "cekpasangan": 99,
+    "cekpasangan": 100,
     "6281283401829": 7,
     "tembak": 44,
     "terima": 19,
@@ -3866,7 +3866,7 @@
     "ytmp4": 25,
     "ttdl": 8,
     "playch": 56,
-    "cekganteng": 130,
+    "cekganteng": 132,
     "crkganteng": 1,
     "puqi": 37,
     "anj": 102,
@@ -4015,7 +4015,7 @@
     "139685271736427": 6,
     "setprofil": 29,
     "cm": 1,
-    "warn": 7,
+    "warn": 8,
     "tagme": 8,
     "130365243027683": 3,
     "profil": 11,
@@ -5373,5 +5373,5 @@
     "listwarn": 2,
     "forward.promote": 1
   },
-  "lastUpdated": 1777540309118
+  "lastUpdated": 1777540369113
 }
