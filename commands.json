@@ -4188,7 +4188,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 177,
-    "inv": 90,
+    "inv": 91,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -5367,5 +5367,5 @@
     "confess": 1,
     "setwelcome": 8
   },
-  "lastUpdated": 1777529175318
+  "lastUpdated": 1777529235315
 }
