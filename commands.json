@@ -3870,7 +3870,7 @@
     "cekganteng": 134,
     "crkganteng": 1,
     "puqi": 40,
-    "anj": 175,
+    "anj": 176,
     "anjing": 33,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4728,7 +4728,7 @@
     "payment": 1,
     "gopay": 2,
     "qris": 1,
-    "6283194787778": 8,
+    "6283194787778": 9,
     "io": 8,
     "cekgateng": 1,
     "ms": 1,
@@ -5395,5 +5395,5 @@
     "heall": 1,
     "forward.promate": 1
   },
-  "lastUpdated": 1777638511946
+  "lastUpdated": 1777638571947
 }
