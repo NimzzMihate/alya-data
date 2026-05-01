@@ -3703,7 +3703,7 @@
     "195520047915190": 1,
     "setpp": 82,
     "265944542793975": 1,
-    "berburu": 93,
+    "berburu": 94,
     "masak": 22,
     "rpgmenu": 25,
     "makan": 22,
@@ -4112,7 +4112,7 @@
     "6289530116661": 1,
     "adoptpet": 33,
     "petstat": 43,
-    "playpet": 94,
+    "playpet": 95,
     "feedpet": 171,
     "namapet": 3,
     "namepet": 12,
@@ -5393,5 +5393,5 @@
     "z.tes": 1,
     "e": 1
   },
-  "lastUpdated": 1777636727079
+  "lastUpdated": 1777636787075
 }
