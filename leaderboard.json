@@ -9,7 +9,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 542,
-      "exp": 1302922,
+      "exp": 1302957,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -81,8 +81,8 @@
     {
       "name": "*KUROSE*",
       "level": 40,
-      "exp": 96682,
-      "saldo": 1.8283682827739474e+63
+      "exp": 96762,
+      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -137,7 +137,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 542,
-      "exp": 1302922,
+      "exp": 1302957,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -169,12 +169,6 @@
       "level": 95,
       "exp": 229546,
       "saldo": 3.093939496232323e+68
-    },
-    {
-      "name": "*KUROSE*",
-      "level": 40,
-      "exp": 96682,
-      "saldo": 1.8283682827739474e+63
     },
     {
       "name": "TX Zeppeli",
@@ -241,6 +235,12 @@
       "level": 1,
       "exp": 4634,
       "saldo": 1.000000000999995e+25
+    },
+    {
+      "name": "renita",
+      "level": 14,
+      "exp": 34100,
+      "saldo": 1.0001000443551213e+22
     }
   ],
   "exp": [
@@ -253,7 +253,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 542,
-      "exp": 1302922,
+      "exp": 1302957,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -325,8 +325,8 @@
     {
       "name": "*KUROSE*",
       "level": 40,
-      "exp": 96682,
-      "saldo": 1.8283682827739474e+63
+      "exp": 96762,
+      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777630277583
+  "lastUpdated": 1777630337582
 }
