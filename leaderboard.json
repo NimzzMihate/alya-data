@@ -9,13 +9,13 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 542,
-      "exp": 1302105,
+      "exp": 1302165,
       "saldo": 7.919287373738384e+134
     },
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 380282,
+      "exp": 380327,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -82,7 +82,7 @@
       "name": "*KUROSE*",
       "level": 40,
       "exp": 96682,
-      "saldo": 84200
+      "saldo": 1.8283682827739474e+63
     },
     {
       "name": "Oguri cap",
@@ -137,7 +137,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 542,
-      "exp": 1302105,
+      "exp": 1302165,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 380282,
+      "exp": 380327,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -169,6 +169,12 @@
       "level": 95,
       "exp": 229476,
       "saldo": 3.093939496232323e+68
+    },
+    {
+      "name": "*KUROSE*",
+      "level": 40,
+      "exp": 96682,
+      "saldo": 1.8283682827739474e+63
     },
     {
       "name": "TX Zeppeli",
@@ -235,12 +241,6 @@
       "level": 1,
       "exp": 4634,
       "saldo": 1.000000000999995e+25
-    },
-    {
-      "name": "renita",
-      "level": 14,
-      "exp": 34100,
-      "saldo": 1.0001000443551213e+22
     }
   ],
   "exp": [
@@ -253,7 +253,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 542,
-      "exp": 1302105,
+      "exp": 1302165,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 380282,
+      "exp": 380327,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -326,7 +326,7 @@
       "name": "*KUROSE*",
       "level": 40,
       "exp": 96682,
-      "saldo": 84200
+      "saldo": 1.8283682827739474e+63
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777626707436
+  "lastUpdated": 1777626767444
 }
