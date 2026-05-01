@@ -3635,7 +3635,7 @@
     "6285609504925": 15,
     "atm": 195,
     "bank": 123,
-    "afk": 1340,
+    "afk": 1341,
     "kerja": 90,
     "628176533297": 14,
     "s": 559,
@@ -3661,7 +3661,7 @@
     "script": 11,
     "joinrpg": 49,
     "mentahan": 1,
-    "claim": 62,
+    "claim": 63,
     "cekidch": 15,
     "tourl": 45,
     "title": 1,
@@ -3681,7 +3681,7 @@
     "gift": 773,
     "ajakmain": 143,
     "daily": 83,
-    "adventure": 64,
+    "adventure": 65,
     "cf": 19,
     "nai2": 262,
     "6282137487477": 73,
@@ -4189,7 +4189,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 179,
-    "inv": 102,
+    "inv": 103,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -4373,7 +4373,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 2,
-    "628895327267": 61,
+    "628895327267": 62,
     "ceklimit": 9,
     "ceksaldo": 69,
     "selectskill": 1,
@@ -5391,5 +5391,5 @@
     "ikan": 1,
     "ani": 1
   },
-  "lastUpdated": 1777629497577
+  "lastUpdated": 1777629557587
 }
