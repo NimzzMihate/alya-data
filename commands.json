@@ -4111,7 +4111,7 @@
     "6289530116661": 1,
     "adoptpet": 33,
     "petstat": 43,
-    "playpet": 91,
+    "playpet": 92,
     "feedpet": 170,
     "namapet": 3,
     "namepet": 12,
@@ -4224,7 +4224,7 @@
     "6283133734215": 22,
     "ai2": 14,
     "ajg": 4,
-    "wibu": 17,
+    "wibu": 18,
     "non": 1,
     "upch": 26,
     "uch": 1,
@@ -5385,5 +5385,5 @@
     "battelepet": 1,
     "advanture": 1
   },
-  "lastUpdated": 1777596426178
+  "lastUpdated": 1777596486196
 }
