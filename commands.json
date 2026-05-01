@@ -4189,7 +4189,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 179,
-    "inv": 99,
+    "inv": 101,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -5269,7 +5269,7 @@
     "@": 1,
     "gerno": 1,
     "70653017341989": 11,
-    "idan": 3,
+    "idan": 4,
     "idannn": 1,
     "ibra": 1,
     "botset": 2,
@@ -5387,7 +5387,8 @@
     "advanture": 1,
     "unbanfitur": 1,
     "forwardx": 1,
-    "hai": 1
+    "hai": 1,
+    "ikan": 1
   },
-  "lastUpdated": 1777619784539
+  "lastUpdated": 1777619844541
 }
