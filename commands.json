@@ -3620,7 +3620,7 @@
     "1000": 1,
     "231179": 2,
     "2694099605": 17,
-    "backup": 5,
+    "backup": 6,
     "get": 81,
     "tohtml": 11,
     "ranked": 90,
@@ -3982,7 +3982,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 562,
+    "tf": 563,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -5387,5 +5387,5 @@
     "unbanfitur": 1,
     "forwardx": 1
   },
-  "lastUpdated": 1777607948295
+  "lastUpdated": 1777608008279
 }
