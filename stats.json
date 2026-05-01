@@ -3,8 +3,8 @@
   "totalUsers": 1110,
   "totalGroups": 38,
   "totalFeatures": 3610,
-  "totalCmd": 32659,
-  "totalChat": 32659,
+  "totalCmd": 32666,
+  "totalChat": 32666,
   "topCommands": [
     {
       "cmd": "afk",
@@ -20,7 +20,7 @@
     },
     {
       "cmd": "me",
-      "count": 718
+      "count": 719
     },
     {
       "cmd": "buy",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 541,
-  "lastUpdated": 1777648738833
+  "uptimeSeconds": 601,
+  "lastUpdated": 1777648798827
 }
