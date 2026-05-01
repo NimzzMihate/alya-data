@@ -3621,7 +3621,7 @@
     "231179": 2,
     "2694099605": 17,
     "backup": 5,
-    "get": 80,
+    "get": 81,
     "tohtml": 11,
     "ranked": 88,
     "mobaprofile": 15,
@@ -5385,5 +5385,5 @@
     "battelepet": 1,
     "advanture": 1
   },
-  "lastUpdated": 1777593966160
+  "lastUpdated": 1777594026161
 }
