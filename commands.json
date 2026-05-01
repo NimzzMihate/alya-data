@@ -3694,7 +3694,7 @@
     "dailymisi": 81,
     "open-bo": 53,
     "ewepaksa": 210,
-    "topglobal": 110,
+    "topglobal": 111,
     "6285789692015": 1,
     "buy": 694,
     "smeme": 229,
@@ -4188,7 +4188,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 179,
+    "atmall": 180,
     "inv": 103,
     "healfull": 6,
     "mute": 5,
@@ -4373,7 +4373,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 2,
-    "628895327267": 64,
+    "628895327267": 65,
     "ceklimit": 9,
     "ceksaldo": 69,
     "selectskill": 1,
@@ -5391,5 +5391,5 @@
     "ikan": 1,
     "ani": 1
   },
-  "lastUpdated": 1777630277583
+  "lastUpdated": 1777630337582
 }
