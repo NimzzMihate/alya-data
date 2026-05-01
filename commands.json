@@ -2526,6 +2526,8 @@
     "instastalk",
     "stalkig",
     "igstalk",
+    "wastalk",
+    "stalkwa",
     "chwastalk",
     "channelstalk",
     "chstalk",
@@ -4943,7 +4945,7 @@
     "buildmlbb": 1,
     "buildhero": 1,
     "got": 1,
-    "wastalk": 1,
+    "wastalk": 3,
     "ytstalk": 2,
     "spotify": 2,
     "ajakamain": 1,
@@ -5398,5 +5400,5 @@
     "lishhero": 1,
     "toprank": 1
   },
-  "lastUpdated": 1777676173364
+  "lastUpdated": 1777676233355
 }
