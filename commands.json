@@ -2421,6 +2421,7 @@
     "bisakah",
     "kapankah",
     "tuduh",
+    "fitnah",
     "cekganteng",
     "cekcantik",
     "cekgay",
@@ -3720,7 +3721,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 162,
-    "tes": 487,
+    "tes": 488,
     "listown": 15,
     "getpp": 30,
     "linkgc": 19,
@@ -5396,5 +5397,5 @@
     "backlist": 1,
     "furry": 1
   },
-  "lastUpdated": 1777646322551
+  "lastUpdated": 1777646382540
 }
