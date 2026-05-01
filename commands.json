@@ -3851,7 +3851,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 245,
+    "atmpull": 246,
     "promote": 12,
     "reset": 3,
     "memasak": 1,
@@ -5395,5 +5395,5 @@
     "heall": 1,
     "forward.promate": 1
   },
-  "lastUpdated": 1777637731939
+  "lastUpdated": 1777637791948
 }
