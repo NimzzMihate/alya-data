@@ -3623,7 +3623,7 @@
     "backup": 5,
     "get": 81,
     "tohtml": 11,
-    "ranked": 88,
+    "ranked": 90,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 61,
@@ -3673,7 +3673,7 @@
     "77605898313906": 310,
     "huxin": 11,
     "usaha": 98,
-    "memancing": 75,
+    "memancing": 77,
     "271481040834666": 253,
     "6285189358241": 428,
     "huxinn😡😡": 1,
@@ -4111,7 +4111,7 @@
     "6289530116661": 1,
     "adoptpet": 33,
     "petstat": 43,
-    "playpet": 92,
+    "playpet": 93,
     "feedpet": 170,
     "namapet": 3,
     "namepet": 12,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 165,
+    "battlepet": 166,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -4205,7 +4205,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 13,
-    "berlayar": 19,
+    "berlayar": 20,
     "6285817528851": 2,
     "reedem": 1,
     "redeem": 1,
@@ -5385,5 +5385,5 @@
     "battelepet": 1,
     "advanture": 1
   },
-  "lastUpdated": 1777597926206
+  "lastUpdated": 1777597986219
 }
