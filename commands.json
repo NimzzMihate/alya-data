@@ -833,8 +833,6 @@
     "gantifiles",
     "gantifile",
     "scbackup",
-    "backupsc",
-    "backup",
     "sesiget",
     "getsesi",
     "sesionget",
@@ -3178,6 +3176,9 @@
     "nahida",
     "ntts",
     "voice",
+    "scbackup",
+    "backupsc",
+    "backup",
     "tests",
     "embut",
     "wkwk",
@@ -3620,7 +3621,7 @@
     "1000": 1,
     "231179": 2,
     "2694099605": 17,
-    "backup": 6,
+    "backup": 7,
     "get": 81,
     "tohtml": 11,
     "ranked": 90,
@@ -5119,11 +5120,11 @@
     "femboylantam": 1,
     "embut": 1,
     "leberblume": 1,
-    "addcase": 7,
+    "addcase": 10,
     "pushcpi": 3,
     "updatecpi": 1,
     "femboybangke": 1,
-    "delcase": 2,
+    "delcase": 3,
     "6287759961230": 2,
     "anry": 1,
     "antimed": 1,
@@ -5387,5 +5388,5 @@
     "unbanfitur": 1,
     "forwardx": 1
   },
-  "lastUpdated": 1777608864384
+  "lastUpdated": 1777608924514
 }
