@@ -4373,7 +4373,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 2,
-    "628895327267": 58,
+    "628895327267": 59,
     "ceklimit": 9,
     "ceksaldo": 69,
     "selectskill": 1,
@@ -4673,7 +4673,7 @@
     "uno": 11,
     "tictactoe": 44,
     "gamesmemu": 1,
-    "suitpvp": 29,
+    "suitpvp": 30,
     "slor": 1,
     "gas": 3,
     "batu": 4,
@@ -5391,5 +5391,5 @@
     "ikan": 1,
     "ani": 1
   },
-  "lastUpdated": 1777626167347
+  "lastUpdated": 1777626227346
 }
