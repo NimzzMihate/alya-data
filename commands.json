@@ -3660,7 +3660,7 @@
     "script": 11,
     "joinrpg": 49,
     "mentahan": 1,
-    "claim": 64,
+    "claim": 65,
     "cekidch": 15,
     "tourl": 45,
     "title": 1,
@@ -3841,7 +3841,7 @@
     "hargasewa": 4,
     "d": 250,
     "pabrik": 1,
-    "fitnah": 112,
+    "fitnah": 114,
     "puji": 250,
     "pacar": 284,
     "carikarakter": 234,
@@ -4188,7 +4188,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 181,
-    "inv": 103,
+    "inv": 104,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -5398,5 +5398,5 @@
     "lishhero": 1,
     "toprank": 1
   },
-  "lastUpdated": 1777649338830
+  "lastUpdated": 1777649398828
 }
