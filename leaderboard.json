@@ -2,20 +2,20 @@
   "level": [
     {
       "name": "TX Zeppeli",
-      "level": 686,
-      "exp": 1648747,
+      "level": 687,
+      "exp": 1648812,
       "saldo": 1.0000186600000004e+63
     },
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 542,
-      "exp": 1301121,
+      "exp": 1301164,
       "saldo": 7.919287373738384e+134
     },
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 379470,
+      "exp": 379578,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 542,
-      "exp": 1301121,
+      "exp": 1301164,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 379470,
+      "exp": 379578,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -172,8 +172,8 @@
     },
     {
       "name": "TX Zeppeli",
-      "level": 686,
-      "exp": 1648747,
+      "level": 687,
+      "exp": 1648812,
       "saldo": 1.0000186600000004e+63
     },
     {
@@ -246,14 +246,14 @@
   "exp": [
     {
       "name": "TX Zeppeli",
-      "level": 686,
-      "exp": 1648747,
+      "level": 687,
+      "exp": 1648812,
       "saldo": 1.0000186600000004e+63
     },
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 542,
-      "exp": 1301121,
+      "exp": 1301164,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -265,7 +265,7 @@
     {
       "name": "Nimzz >.<",
       "level": 510,
-      "exp": 379470,
+      "exp": 379578,
       "saldo": 3.937373737636364e+70
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777608684358
+  "lastUpdated": 1777608744366
 }
