@@ -3710,7 +3710,7 @@
     "kapal": 6,
     "craft": 397,
     "listheri": 1,
-    "listhero": 9,
+    "listhero": 10,
     "mancing": 13,
     "randomba": 9,
     "chatgpt3": 4,
@@ -3841,7 +3841,7 @@
     "hargasewa": 4,
     "d": 250,
     "pabrik": 1,
-    "fitnah": 108,
+    "fitnah": 110,
     "puji": 250,
     "pacar": 284,
     "carikarakter": 234,
@@ -5394,7 +5394,9 @@
     "heall": 1,
     "forward.promate": 1,
     "backlist": 1,
-    "furry": 1
+    "furry": 1,
+    "lishhero": 1,
+    "toprank": 1
   },
-  "lastUpdated": 1777649158826
+  "lastUpdated": 1777649218834
 }
