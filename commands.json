@@ -4099,7 +4099,7 @@
     "beli": 9,
     "maaf": 9,
     "sg": 147,
-    "shop": 27,
+    "shop": 28,
     "168238516305969": 47,
     "atmtake": 37,
     "giftshop": 1,
@@ -4205,7 +4205,7 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 14,
+    "nyampah": 15,
     "berlayar": 20,
     "6285817528851": 2,
     "reedem": 1,
@@ -4666,7 +4666,7 @@
     "tea": 1,
     "gremory": 1,
     "delcasino": 8,
-    "berkebun": 2,
+    "berkebun": 5,
     "repoy": 1,
     "bgk": 1,
     "atmpull\n.atmtake": 1,
@@ -5390,5 +5390,5 @@
     "hai": 1,
     "ikan": 1
   },
-  "lastUpdated": 1777619844541
+  "lastUpdated": 1777619904539
 }
