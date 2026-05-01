@@ -3777,7 +3777,7 @@
     "verify": 32,
     "daftr": 14,
     "status": 17,
-    "pap": 894,
+    "pap": 896,
     "tebakbendera": 31,
     "tebak": 2,
     "gantinama": 1,
@@ -3786,7 +3786,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 365,
+    "saldo": 366,
     "demote": 14,
     "sendgc": 2,
     "kirimke": 1,
@@ -3841,7 +3841,7 @@
     "hargasewa": 4,
     "d": 250,
     "pabrik": 1,
-    "fitnah": 95,
+    "fitnah": 96,
     "puji": 250,
     "pacar": 284,
     "carikarakter": 234,
@@ -5396,5 +5396,5 @@
     "backlist": 1,
     "furry": 1
   },
-  "lastUpdated": 1777648798828
+  "lastUpdated": 1777648858827
 }
