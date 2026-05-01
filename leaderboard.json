@@ -9,8 +9,8 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 543,
-      "exp": 1304506,
-      "saldo": 0
+      "exp": 1304558,
+      "saldo": 1e+130
     },
     {
       "name": "Nimzz >.<",
@@ -135,6 +135,12 @@
       "saldo": 1.1193837377363637e+143
     },
     {
+      "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
+      "level": 543,
+      "exp": 1304558,
+      "saldo": 1e+130
+    },
+    {
       "name": ".",
       "level": 47,
       "exp": 114009,
@@ -235,12 +241,6 @@
       "level": 14,
       "exp": 34100,
       "saldo": 1.0001000443551213e+22
-    },
-    {
-      "name": "Vanz",
-      "level": 9,
-      "exp": 22023,
-      "saldo": 2.266839665583929e+21
     }
   ],
   "exp": [
@@ -253,8 +253,8 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 543,
-      "exp": 1304506,
-      "saldo": 0
+      "exp": 1304558,
+      "saldo": 1e+130
     },
     {
       "name": "Ditz ketoprak",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777637731939
+  "lastUpdated": 1777637791948
 }
