@@ -4760,7 +4760,7 @@
     "ceknomor": 1,
     "getnomor": 4,
     "mr": 2,
-    "nai": 11,
+    "nai": 12,
     "stok": 1,
     ".": 7,
     "atmal": 1,
@@ -5386,7 +5386,8 @@
     "battelepet": 1,
     "advanture": 1,
     "unbanfitur": 1,
-    "forwardx": 1
+    "forwardx": 1,
+    "hai": 1
   },
-  "lastUpdated": 1777609824493
+  "lastUpdated": 1777609884486
 }
