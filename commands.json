@@ -3634,7 +3634,7 @@
     "rampok2": 639,
     "6285609504925": 15,
     "atm": 195,
-    "bank": 124,
+    "bank": 125,
     "afk": 1363,
     "kerja": 90,
     "628176533297": 14,
@@ -4188,7 +4188,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 9,
-    "atmall": 180,
+    "atmall": 181,
     "inv": 103,
     "healfull": 6,
     "mute": 5,
@@ -5385,7 +5385,7 @@
     "battelepey": 1,
     "battelepet": 1,
     "advanture": 1,
-    "unbanfitur": 2,
+    "unbanfitur": 3,
     "forwardx": 1,
     "hai": 1,
     "ikan": 1,
@@ -5395,5 +5395,5 @@
     "heall": 1,
     "forward.promate": 1
   },
-  "lastUpdated": 1777637671941
+  "lastUpdated": 1777637731939
 }
