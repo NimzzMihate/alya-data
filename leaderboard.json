@@ -9,7 +9,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 541,
-      "exp": 1300280,
+      "exp": 1300334,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -27,7 +27,7 @@
     {
       "name": "⚊bímm153",
       "level": 157,
-      "exp": 376827,
+      "exp": 376892,
       "saldo": 9.837377737372784e+153
     },
     {
@@ -81,8 +81,8 @@
     {
       "name": "*KUROSE*",
       "level": 40,
-      "exp": 96261,
-      "saldo": 1.001928927282728e+48
+      "exp": 96398,
+      "saldo": 89200
     },
     {
       "name": "Oguri cap",
@@ -99,7 +99,7 @@
     {
       "name": "axell",
       "level": 26,
-      "exp": 64732,
+      "exp": 64763,
       "saldo": 9.281737392013948e+62
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "⚊bímm153",
       "level": 157,
-      "exp": 376827,
+      "exp": 376892,
       "saldo": 9.837377737372784e+153
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 541,
-      "exp": 1300280,
+      "exp": 1300334,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "axell",
       "level": 26,
-      "exp": 64732,
+      "exp": 64763,
       "saldo": 9.281737392013948e+62
     },
     {
@@ -187,12 +187,6 @@
       "level": 4,
       "exp": 10643,
       "saldo": 9.291827301019274e+51
-    },
-    {
-      "name": "*KUROSE*",
-      "level": 40,
-      "exp": 96261,
-      "saldo": 1.001928927282728e+48
     },
     {
       "name": "nama amar",
@@ -241,6 +235,12 @@
       "level": 89,
       "exp": 213641,
       "saldo": 6.06400000008e+22
+    },
+    {
+      "name": "renita",
+      "level": 14,
+      "exp": 34100,
+      "saldo": 1.0001000443551213e+22
     }
   ],
   "exp": [
@@ -253,7 +253,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 541,
-      "exp": 1300280,
+      "exp": 1300334,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -271,7 +271,7 @@
     {
       "name": "⚊bímm153",
       "level": 157,
-      "exp": 376827,
+      "exp": 376892,
       "saldo": 9.837377737372784e+153
     },
     {
@@ -325,8 +325,8 @@
     {
       "name": "*KUROSE*",
       "level": 40,
-      "exp": 96261,
-      "saldo": 1.001928927282728e+48
+      "exp": 96398,
+      "saldo": 89200
     },
     {
       "name": "Oguri cap",
@@ -343,7 +343,7 @@
     {
       "name": "axell",
       "level": 26,
-      "exp": 64732,
+      "exp": 64763,
       "saldo": 9.281737392013948e+62
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777598106209
+  "lastUpdated": 1777598166213
 }
