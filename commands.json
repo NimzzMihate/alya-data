@@ -3656,7 +3656,7 @@
     "61405583679507": 1,
     "wikwik": 108,
     "heal": 156,
-    "menu": 237,
+    "menu": 239,
     "owner": 15,
     "script": 11,
     "joinrpg": 49,
@@ -4580,7 +4580,7 @@
     "pantun": 1,
     "wait": 1,
     "log": 5,
-    "jadibot": 7,
+    "jadibot": 8,
     "aturanbot": 2,
     "aturan": 2,
     "@32968236081310": 1,
@@ -5388,5 +5388,5 @@
     "unbanfitur": 1,
     "forwardx": 1
   },
-  "lastUpdated": 1777609104480
+  "lastUpdated": 1777609164476
 }
