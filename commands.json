@@ -3635,7 +3635,7 @@
     "6285609504925": 15,
     "atm": 195,
     "bank": 123,
-    "afk": 1330,
+    "afk": 1331,
     "kerja": 90,
     "628176533297": 14,
     "s": 559,
@@ -3828,7 +3828,7 @@
     "tidur": 25,
     "akun": 2,
     "jembott": 1,
-    "kuis": 32,
+    "kuis": 33,
     "32968236081310": 133,
     "6283152469722": 4,
     "6285649132023": 287,
@@ -4456,7 +4456,7 @@
     "yampah": 1,
     "rampo²": 1,
     "enana": 1,
-    "gamesmenu": 18,
+    "gamesmenu": 19,
     "downloadmenu": 2,
     "iya": 2,
     "abu": 1,
@@ -5213,7 +5213,7 @@
     "149826092191879": 1,
     "caklontong": 2,
     "tebaklirik": 1,
-    "tebakkimia": 1,
+    "tebakkimia": 2,
     "susukata": 1,
     "wn": 1,
     "saldonya": 1,
@@ -5237,7 +5237,7 @@
     "steal2": 2,
     "atmfull": 1,
     "yoimg": 1,
-    "6285887021410": 26,
+    "6285887021410": 27,
     "hotel": 1,
     "botol": 2,
     "tsz": 1,
@@ -5389,5 +5389,5 @@
     "forwardx": 1,
     "hai": 1
   },
-  "lastUpdated": 1777614084507
+  "lastUpdated": 1777614144509
 }
