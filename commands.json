@@ -3655,7 +3655,7 @@
     "61405583679507": 1,
     "wikwik": 108,
     "heal": 156,
-    "menu": 235,
+    "menu": 237,
     "owner": 15,
     "script": 11,
     "joinrpg": 49,
@@ -4148,7 +4148,7 @@
     "petmenu": 2,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 166,
+    "battlepet": 168,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -4579,7 +4579,7 @@
     "pantun": 1,
     "wait": 1,
     "log": 5,
-    "jadibot": 6,
+    "jadibot": 7,
     "aturanbot": 2,
     "aturan": 2,
     "@32968236081310": 1,
@@ -5387,5 +5387,5 @@
     "unbanfitur": 1,
     "forwardx": 1
   },
-  "lastUpdated": 1777608684358
+  "lastUpdated": 1777608744366
 }
