@@ -9,7 +9,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 541,
-      "exp": 1300100,
+      "exp": 1300280,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -82,7 +82,7 @@
       "name": "*KUROSE*",
       "level": 40,
       "exp": 96261,
-      "saldo": 0
+      "saldo": 1.001928927282728e+48
     },
     {
       "name": "Oguri cap",
@@ -99,7 +99,7 @@
     {
       "name": "axell",
       "level": 26,
-      "exp": 64617,
+      "exp": 64732,
       "saldo": 9.281737392013948e+62
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 541,
-      "exp": 1300100,
+      "exp": 1300280,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "axell",
       "level": 26,
-      "exp": 64617,
+      "exp": 64732,
       "saldo": 9.281737392013948e+62
     },
     {
@@ -187,6 +187,12 @@
       "level": 4,
       "exp": 10643,
       "saldo": 9.291827301019274e+51
+    },
+    {
+      "name": "*KUROSE*",
+      "level": 40,
+      "exp": 96261,
+      "saldo": 1.001928927282728e+48
     },
     {
       "name": "nama amar",
@@ -235,12 +241,6 @@
       "level": 89,
       "exp": 213641,
       "saldo": 6.06400000008e+22
-    },
-    {
-      "name": "renita",
-      "level": 14,
-      "exp": 34100,
-      "saldo": 1.0001000443551213e+22
     }
   ],
   "exp": [
@@ -253,7 +253,7 @@
     {
       "name": "*bimn top 4 leaderboard gabisa nyalip tiga besar 😏😏😏*",
       "level": 541,
-      "exp": 1300100,
+      "exp": 1300280,
       "saldo": 7.919287373738384e+134
     },
     {
@@ -326,7 +326,7 @@
       "name": "*KUROSE*",
       "level": 40,
       "exp": 96261,
-      "saldo": 0
+      "saldo": 1.001928927282728e+48
     },
     {
       "name": "Oguri cap",
@@ -343,7 +343,7 @@
     {
       "name": "axell",
       "level": 26,
-      "exp": 64617,
+      "exp": 64732,
       "saldo": 9.281737392013948e+62
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777598046205
+  "lastUpdated": 1777598106209
 }
