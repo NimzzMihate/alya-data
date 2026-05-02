@@ -8,9 +8,9 @@
     },
     {
       "name": "Xarzzx",
-      "level": 559,
-      "exp": 1346627,
-      "saldo": 98229
+      "level": 561,
+      "exp": 1347026,
+      "saldo": 936183
     },
     {
       "name": "Nimzz >.<",
@@ -37,16 +37,16 @@
       "saldo": 1e+26
     },
     {
+      "name": "zio",
+      "level": 108,
+      "exp": 259292,
+      "saldo": 7.410467968424726e+26
+    },
+    {
       "name": "keyy the destroyer",
       "level": 105,
       "exp": 253852,
       "saldo": 10263317
-    },
-    {
-      "name": "zio",
-      "level": 103,
-      "exp": 248756,
-      "saldo": 7.410467968424726e+26
     },
     {
       "name": "Joishi ganteng",
@@ -202,8 +202,8 @@
     },
     {
       "name": "zio",
-      "level": 103,
-      "exp": 248756,
+      "level": 108,
+      "exp": 259292,
       "saldo": 7.410467968424726e+26
     },
     {
@@ -252,9 +252,9 @@
     },
     {
       "name": "Xarzzx",
-      "level": 559,
-      "exp": 1346627,
-      "saldo": 98229
+      "level": 561,
+      "exp": 1347026,
+      "saldo": 936183
     },
     {
       "name": "Ditz ketoprak",
@@ -275,16 +275,16 @@
       "saldo": 3.937373737636364e+70
     },
     {
+      "name": "zio",
+      "level": 108,
+      "exp": 259292,
+      "saldo": 7.410467968424726e+26
+    },
+    {
       "name": "keyy the destroyer",
       "level": 105,
       "exp": 253852,
       "saldo": 10263317
-    },
-    {
-      "name": "zio",
-      "level": 103,
-      "exp": 248756,
-      "saldo": 7.410467968424726e+26
     },
     {
       "name": "Joishi ganteng",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777732892667
+  "lastUpdated": 1777732952673
 }
