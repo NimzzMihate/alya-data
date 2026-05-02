@@ -3632,7 +3632,7 @@
     "ngaji": 64,
     "ewe-paksa": 65,
     "me": 756,
-    "setbg": 40,
+    "setbg": 41,
     "rampok2": 649,
     "6285609504925": 15,
     "atm": 195,
@@ -3775,7 +3775,7 @@
     "....": 3,
     "setprofile": 170,
     "daftar": 40,
-    "profile": 40,
+    "profile": 41,
     "topactive": 127,
     "verify": 32,
     "daftr": 14,
@@ -5438,5 +5438,5 @@
     "heroin": 1,
     "mw": 1
   },
-  "lastUpdated": 1777760851407
+  "lastUpdated": 1777760911381
 }
