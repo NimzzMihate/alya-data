@@ -3844,7 +3844,7 @@
     "hargasewa": 4,
     "d": 250,
     "pabrik": 1,
-    "fitnah": 142,
+    "fitnah": 143,
     "puji": 250,
     "pacar": 285,
     "carikarakter": 234,
@@ -4114,10 +4114,10 @@
     "6289530116661": 1,
     "adoptpet": 35,
     "petstat": 44,
-    "playpet": 98,
-    "feedpet": 174,
+    "playpet": 99,
+    "feedpet": 175,
     "namapet": 3,
-    "namepet": 12,
+    "namepet": 13,
     "statpet": 4,
     "makannin": 1,
     "pepek": 2,
@@ -4151,7 +4151,7 @@
     "petmenu": 4,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 171,
+    "battlepet": 172,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -4306,7 +4306,7 @@
     "???": 2,
     "?": 6,
     "@250693499797710": 2,
-    "ngojek": 8,
+    "ngojek": 9,
     "rt": 8,
     ".e": 2,
     "kokop": 1,
@@ -5419,5 +5419,5 @@
     "enryoku": 2,
     "resleasepet": 1
   },
-  "lastUpdated": 1777716850409
+  "lastUpdated": 1777716910405
 }
