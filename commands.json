@@ -3636,7 +3636,7 @@
     "6285609504925": 15,
     "atm": 195,
     "bank": 125,
-    "afk": 1419,
+    "afk": 1420,
     "kerja": 91,
     "628176533297": 14,
     "s": 564,
@@ -3843,7 +3843,7 @@
     "hargasewa": 4,
     "d": 250,
     "pabrik": 1,
-    "fitnah": 131,
+    "fitnah": 132,
     "puji": 250,
     "pacar": 285,
     "carikarakter": 234,
@@ -4174,7 +4174,7 @@
     "628818366526": 6,
     "rampoki": 1,
     "6287870709356": 2,
-    "6281290311984": 52,
+    "6281290311984": 53,
     "buyallxp": 1,
     "xp": 1,
     "delsampah": 6,
@@ -4447,7 +4447,7 @@
     "cekdroplet": 1,
     "detailkarakter": 103,
     "gcsider": 1,
-    "quoted": 22,
+    "quoted": 23,
     "pentol": 2,
     "wajib": 1,
     ".pacar": 1,
@@ -5401,5 +5401,5 @@
     "toprank": 1,
     "*\nbase": 1
   },
-  "lastUpdated": 1777706076263
+  "lastUpdated": 1777706136258
 }
