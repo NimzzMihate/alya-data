@@ -3657,7 +3657,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 111,
-    "heal": 177,
+    "heal": 180,
     "menu": 244,
     "owner": 15,
     "script": 11,
@@ -3693,7 +3693,7 @@
     "brat": 140,
     "brathd": 2,
     "editfoto": 101,
-    "dailymisi": 87,
+    "dailymisi": 88,
     "open-bo": 54,
     "ewepaksa": 219,
     "topglobal": 122,
@@ -3705,7 +3705,7 @@
     "195520047915190": 1,
     "setpp": 89,
     "265944542793975": 1,
-    "berburu": 112,
+    "berburu": 113,
     "masak": 29,
     "rpgmenu": 25,
     "makan": 30,
@@ -4192,7 +4192,7 @@
     "cekprofil": 9,
     "atmall": 183,
     "inv": 122,
-    "healfull": 9,
+    "healfull": 10,
     "mute": 5,
     "perstat": 1,
     "lesby": 9,
@@ -5438,5 +5438,5 @@
     "heroin": 1,
     "mw": 1
   },
-  "lastUpdated": 1777761691381
+  "lastUpdated": 1777761751390
 }
