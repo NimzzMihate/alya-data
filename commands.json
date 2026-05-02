@@ -3656,8 +3656,8 @@
     "p": 6,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 111,
-    "heal": 184,
+    "wikwik": 112,
+    "heal": 185,
     "menu": 244,
     "owner": 15,
     "script": 11,
@@ -3705,7 +3705,7 @@
     "195520047915190": 1,
     "setpp": 89,
     "265944542793975": 1,
-    "berburu": 113,
+    "berburu": 114,
     "masak": 29,
     "rpgmenu": 25,
     "makan": 30,
@@ -4208,7 +4208,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 22,
-    "berlayar": 43,
+    "berlayar": 44,
     "6285817528851": 2,
     "reedem": 1,
     "redeem": 1,
@@ -5438,5 +5438,5 @@
     "heroin": 1,
     "mw": 1
   },
-  "lastUpdated": 1777765051638
+  "lastUpdated": 1777765111417
 }
