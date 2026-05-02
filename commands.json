@@ -3711,7 +3711,7 @@
     "makan": 30,
     "repair": 1,
     "kapal": 6,
-    "craft": 429,
+    "craft": 430,
     "listheri": 1,
     "listhero": 16,
     "mancing": 13,
@@ -4191,7 +4191,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 183,
-    "inv": 123,
+    "inv": 124,
     "healfull": 10,
     "mute": 5,
     "perstat": 1,
@@ -4306,7 +4306,7 @@
     "???": 2,
     "?": 6,
     "@250693499797710": 2,
-    "ngojek": 11,
+    "ngojek": 13,
     "rt": 8,
     ".e": 2,
     "kokop": 1,
@@ -5438,5 +5438,5 @@
     "heroin": 1,
     "mw": 1
   },
-  "lastUpdated": 1777764871406
+  "lastUpdated": 1777764931409
 }
