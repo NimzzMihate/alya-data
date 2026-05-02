@@ -3723,7 +3723,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 164,
-    "tes": 501,
+    "tes": 504,
     "listown": 15,
     "getpp": 30,
     "linkgc": 19,
@@ -3844,7 +3844,7 @@
     "hargasewa": 4,
     "d": 250,
     "pabrik": 1,
-    "fitnah": 150,
+    "fitnah": 151,
     "puji": 250,
     "pacar": 285,
     "carikarakter": 234,
@@ -5423,5 +5423,5 @@
     "stathero": 2,
     "statheto": 1
   },
-  "lastUpdated": 1777722843991
+  "lastUpdated": 1777722903993
 }
