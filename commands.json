@@ -3657,7 +3657,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 111,
-    "heal": 180,
+    "heal": 181,
     "menu": 244,
     "owner": 15,
     "script": 11,
@@ -3723,7 +3723,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 166,
-    "tes": 513,
+    "tes": 515,
     "listown": 15,
     "getpp": 32,
     "linkgc": 19,
@@ -4208,7 +4208,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 21,
-    "berlayar": 40,
+    "berlayar": 41,
     "6285817528851": 2,
     "reedem": 1,
     "redeem": 1,
@@ -5074,7 +5074,7 @@
     "takebank": 1,
     "battle": 1,
     "nguli": 1,
-    "weekly": 6,
+    "weekly": 7,
     "hm.:https://a9fm.github.io/lightshot": 1,
     "atmmske": 1,
     "atmmake": 1,
@@ -5438,5 +5438,5 @@
     "heroin": 1,
     "mw": 1
   },
-  "lastUpdated": 1777762351389
+  "lastUpdated": 1777762411392
 }
