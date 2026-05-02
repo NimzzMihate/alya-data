@@ -3626,7 +3626,7 @@
     "backup": 7,
     "get": 94,
     "tohtml": 11,
-    "ranked": 98,
+    "ranked": 99,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 63,
@@ -3708,12 +3708,12 @@
     "berburu": 108,
     "masak": 29,
     "rpgmenu": 25,
-    "makan": 27,
+    "makan": 28,
     "repair": 1,
     "kapal": 6,
     "craft": 426,
     "listheri": 1,
-    "listhero": 14,
+    "listhero": 15,
     "mancing": 13,
     "randomba": 9,
     "chatgpt3": 4,
@@ -3827,7 +3827,7 @@
     "93283032285420": 11,
     "188571210244160": 3,
     "222531466350642": 2,
-    "tidur": 29,
+    "tidur": 31,
     "akun": 2,
     "jembott": 1,
     "kuis": 34,
@@ -3957,7 +3957,7 @@
     "6283839942035": 3,
     "herolist": 1,
     "232414219628797": 18,
-    "buyhero": 8,
+    "buyhero": 9,
     "selecthero": 4,
     "211394498711641": 4,
     "271850458320966": 2,
@@ -5419,7 +5419,9 @@
     "enryoku": 2,
     "resleasepet": 1,
     "adventurr": 1,
-    "crafy": 1
+    "crafy": 1,
+    "stathero": 2,
+    "statheto": 1
   },
-  "lastUpdated": 1777722543989
+  "lastUpdated": 1777722603994
 }
