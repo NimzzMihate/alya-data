@@ -3626,7 +3626,7 @@
     "backup": 7,
     "get": 92,
     "tohtml": 11,
-    "ranked": 94,
+    "ranked": 96,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 61,
@@ -3713,7 +3713,7 @@
     "kapal": 6,
     "craft": 422,
     "listheri": 1,
-    "listhero": 10,
+    "listhero": 13,
     "mancing": 13,
     "randomba": 9,
     "chatgpt3": 4,
@@ -3957,7 +3957,7 @@
     "6283839942035": 3,
     "herolist": 1,
     "232414219628797": 18,
-    "buyhero": 7,
+    "buyhero": 8,
     "selecthero": 4,
     "211394498711641": 4,
     "271850458320966": 2,
@@ -5415,5 +5415,5 @@
     "ke": 1,
     "litshero": 1
   },
-  "lastUpdated": 1777712719499
+  "lastUpdated": 1777712779433
 }
