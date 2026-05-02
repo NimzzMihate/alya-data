@@ -3637,7 +3637,7 @@
     "6285609504925": 15,
     "atm": 195,
     "bank": 125,
-    "afk": 1432,
+    "afk": 1433,
     "kerja": 92,
     "628176533297": 14,
     "s": 565,
@@ -3711,7 +3711,7 @@
     "makan": 27,
     "repair": 1,
     "kapal": 6,
-    "craft": 409,
+    "craft": 411,
     "listheri": 1,
     "listhero": 10,
     "mancing": 13,
@@ -4191,7 +4191,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 181,
-    "inv": 105,
+    "inv": 106,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -4218,7 +4218,7 @@
     "join": 3,
     "monopoli": 60,
     "oom": 2,
-    "inventory": 23,
+    "inventory": 24,
     "like": 1,
     "suka": 1,
     "monthly": 3,
@@ -4543,7 +4543,7 @@
     "cektomboy": 3,
     "bajingan": 5,
     "tabungan": 9,
-    "62895364790602": 46,
+    "62895364790602": 47,
     "pria": 1,
     "601121817858": 20,
     "when": 3,
@@ -5412,5 +5412,5 @@
     "program": 1,
     "tembok": 1
   },
-  "lastUpdated": 1777710679350
+  "lastUpdated": 1777710739358
 }
