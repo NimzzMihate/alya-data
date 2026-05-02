@@ -3626,7 +3626,7 @@
     "backup": 7,
     "get": 94,
     "tohtml": 11,
-    "ranked": 96,
+    "ranked": 97,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 63,
@@ -5421,5 +5421,5 @@
     "adventurr": 1,
     "crafy": 1
   },
-  "lastUpdated": 1777722123990
+  "lastUpdated": 1777722183998
 }
