@@ -3670,7 +3670,7 @@
     "6281393286345": 269,
     ">": 7,
     "addapi": 4,
-    "pin": 309,
+    "pin": 310,
     "hd": 326,
     "useitem": 7,
     "77605898313906": 317,
@@ -3729,7 +3729,7 @@
     "linkgc": 19,
     "cekpasangan": 110,
     "6281283401829": 7,
-    "tembak": 51,
+    "tembak": 52,
     "terima": 19,
     "cium": 312,
     "6281915895220": 10,
@@ -4908,7 +4908,7 @@
     "palypet": 1,
     "addowner": 1,
     "getkodeotp": 1,
-    "ramal": 1,
+    "ramal": 3,
     "getinfooribadi": 1,
     "addlimit": 10,
     "addlimitgame": 2,
@@ -5424,5 +5424,5 @@
     "statheto": 1,
     "867051314767696": 2
   },
-  "lastUpdated": 1777724693883
+  "lastUpdated": 1777724753883
 }
