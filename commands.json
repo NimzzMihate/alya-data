@@ -3626,7 +3626,7 @@
     "backup": 7,
     "get": 92,
     "tohtml": 11,
-    "ranked": 93,
+    "ranked": 94,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 61,
@@ -4533,7 +4533,7 @@
     "genshinmenu": 3,
     "gens-character": 2,
     "asuna": 2,
-    "45904929247295": 55,
+    "45904929247295": 56,
     "nomor": 2,
     "armor": 3,
     "fish": 1,
@@ -5412,7 +5412,8 @@
     "program": 1,
     "tembok": 1,
     "tthttps://vt.tiktok.com/zs9uknbww/": 1,
-    "ke": 1
+    "ke": 1,
+    "litshero": 1
   },
-  "lastUpdated": 1777712659379
+  "lastUpdated": 1777712719499
 }
