@@ -3658,7 +3658,7 @@
     "61405583679507": 1,
     "wikwik": 110,
     "heal": 161,
-    "menu": 243,
+    "menu": 244,
     "owner": 15,
     "script": 11,
     "joinrpg": 50,
@@ -3693,7 +3693,7 @@
     "brat": 138,
     "brathd": 2,
     "editfoto": 100,
-    "dailymisi": 83,
+    "dailymisi": 84,
     "open-bo": 54,
     "ewepaksa": 217,
     "topglobal": 119,
@@ -4148,7 +4148,7 @@
     "dokter": 3,
     "carikarakter[shizuka": 1,
     "nama": 4,
-    "petmenu": 3,
+    "petmenu": 4,
     "resgis": 1,
     "regis": 3,
     "battlepet": 169,
@@ -4375,7 +4375,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 2,
-    "628895327267": 89,
+    "628895327267": 90,
     "ceklimit": 9,
     "ceksaldo": 69,
     "selectskill": 1,
@@ -5418,5 +5418,5 @@
     "--.": 1,
     "enryoku": 2
   },
-  "lastUpdated": 1777716610402
+  "lastUpdated": 1777716670401
 }
