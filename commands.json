@@ -3685,7 +3685,7 @@
     "daily": 85,
     "adventure": 65,
     "cf": 19,
-    "nai2": 316,
+    "nai2": 317,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -4731,7 +4731,7 @@
     "gopay": 2,
     "qris": 1,
     "6283194787778": 9,
-    "io": 21,
+    "io": 22,
     "cekgateng": 1,
     "ms": 1,
     "cekprogile": 1,
@@ -5418,5 +5418,5 @@
     "--.": 1,
     "enryoku": 2
   },
-  "lastUpdated": 1777715910424
+  "lastUpdated": 1777715970417
 }
