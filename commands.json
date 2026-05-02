@@ -3633,7 +3633,7 @@
     "ewe-paksa": 65,
     "me": 764,
     "setbg": 42,
-    "rampok2": 649,
+    "rampok2": 650,
     "6285609504925": 15,
     "atm": 195,
     "bank": 129,
@@ -3657,7 +3657,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 112,
-    "heal": 186,
+    "heal": 187,
     "menu": 245,
     "owner": 15,
     "script": 11,
@@ -4203,7 +4203,7 @@
     "releaseper": 1,
     "releasepet": 1,
     "remini": 18,
-    "openbo": 28,
+    "openbo": 29,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
@@ -5438,5 +5438,5 @@
     "heroin": 1,
     "mw": 1
   },
-  "lastUpdated": 1777765435059
+  "lastUpdated": 1777765495064
 }
