@@ -3631,7 +3631,7 @@
     "playmoba": 39,
     "ngaji": 65,
     "ewe-paksa": 65,
-    "me": 762,
+    "me": 764,
     "setbg": 42,
     "rampok2": 649,
     "6285609504925": 15,
@@ -3657,7 +3657,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 112,
-    "heal": 185,
+    "heal": 186,
     "menu": 244,
     "owner": 15,
     "script": 11,
@@ -4207,8 +4207,8 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 22,
-    "berlayar": 44,
+    "nyampah": 24,
+    "berlayar": 45,
     "6285817528851": 2,
     "reedem": 1,
     "redeem": 1,
@@ -5438,5 +5438,5 @@
     "heroin": 1,
     "mw": 1
   },
-  "lastUpdated": 1777765111417
+  "lastUpdated": 1777765195065
 }
