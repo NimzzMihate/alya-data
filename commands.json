@@ -5182,7 +5182,7 @@
     "kntl": 1,
     "delowner": 1,
     "gconly": 6,
-    "setbot": 3,
+    "setbot": 4,
     "caricase": 1,
     "setnot": 1,
     "riyo": 1,
@@ -5400,5 +5400,5 @@
     "lishhero": 1,
     "toprank": 1
   },
-  "lastUpdated": 1777689553489
+  "lastUpdated": 1777689613504
 }
