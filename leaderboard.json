@@ -79,16 +79,16 @@
       "saldo": 1e+111
     },
     {
+      "name": "axell",
+      "level": 40,
+      "exp": 97027,
+      "saldo": 9.281737392013948e+62
+    },
+    {
       "name": "*KUROSE*",
       "level": 40,
       "exp": 96967,
       "saldo": 0
-    },
-    {
-      "name": "axell",
-      "level": 40,
-      "exp": 96897,
-      "saldo": 9.281737392013948e+62
     },
     {
       "name": "Oguri cap",
@@ -167,7 +167,7 @@
     {
       "name": "axell",
       "level": 40,
-      "exp": 96897,
+      "exp": 97027,
       "saldo": 9.281737392013948e+62
     },
     {
@@ -323,16 +323,16 @@
       "saldo": 1e+111
     },
     {
+      "name": "axell",
+      "level": 40,
+      "exp": 97027,
+      "saldo": 9.281737392013948e+62
+    },
+    {
       "name": "*KUROSE*",
       "level": 40,
       "exp": 96967,
       "saldo": 0
-    },
-    {
-      "name": "axell",
-      "level": 40,
-      "exp": 96897,
-      "saldo": 9.281737392013948e+62
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777723203990
+  "lastUpdated": 1777723264000
 }
