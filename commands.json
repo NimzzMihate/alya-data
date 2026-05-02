@@ -3707,7 +3707,7 @@
     "berburu": 101,
     "masak": 26,
     "rpgmenu": 25,
-    "makan": 24,
+    "makan": 27,
     "repair": 1,
     "kapal": 6,
     "craft": 397,
@@ -3784,7 +3784,7 @@
     "tebak": 2,
     "gantinama": 1,
     "69372932575293": 1,
-    "close": 8,
+    "close": 9,
     "buildml": 22,
     "izin": 1,
     "build": 2,
@@ -5405,7 +5405,8 @@
     "menupet": 1,
     "stalk": 1,
     "start": 1,
-    "abesn": 1
+    "abesn": 1,
+    "crome": 1
   },
-  "lastUpdated": 1777710149590
+  "lastUpdated": 1777710209595
 }
