@@ -3711,7 +3711,7 @@
     "makan": 27,
     "repair": 1,
     "kapal": 6,
-    "craft": 421,
+    "craft": 422,
     "listheri": 1,
     "listhero": 10,
     "mancing": 13,
@@ -4191,7 +4191,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 182,
-    "inv": 112,
+    "inv": 113,
     "healfull": 6,
     "mute": 5,
     "perstat": 1,
@@ -5413,5 +5413,5 @@
     "tembok": 1,
     "tthttps://vt.tiktok.com/zs9uknbww/": 1
   },
-  "lastUpdated": 1777711339370
+  "lastUpdated": 1777711399377
 }
