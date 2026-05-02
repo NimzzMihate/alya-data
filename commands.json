@@ -3626,7 +3626,7 @@
     "backup": 7,
     "get": 94,
     "tohtml": 11,
-    "ranked": 97,
+    "ranked": 98,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 63,
@@ -3670,7 +3670,7 @@
     "6281393286345": 269,
     ">": 7,
     "addapi": 4,
-    "pin": 306,
+    "pin": 307,
     "hd": 326,
     "useitem": 7,
     "77605898313906": 317,
@@ -5421,5 +5421,5 @@
     "adventurr": 1,
     "crafy": 1
   },
-  "lastUpdated": 1777722303994
+  "lastUpdated": 1777722363985
 }
