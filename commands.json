@@ -3670,7 +3670,7 @@
     "6281393286345": 269,
     ">": 7,
     "addapi": 4,
-    "pin": 308,
+    "pin": 309,
     "hd": 326,
     "useitem": 7,
     "77605898313906": 317,
@@ -3713,7 +3713,7 @@
     "kapal": 6,
     "craft": 426,
     "listheri": 1,
-    "listhero": 13,
+    "listhero": 14,
     "mancing": 13,
     "randomba": 9,
     "chatgpt3": 4,
@@ -5421,5 +5421,5 @@
     "adventurr": 1,
     "crafy": 1
   },
-  "lastUpdated": 1777722483987
+  "lastUpdated": 1777722543989
 }
