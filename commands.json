@@ -3711,7 +3711,7 @@
     "makan": 27,
     "repair": 1,
     "kapal": 6,
-    "craft": 425,
+    "craft": 426,
     "listheri": 1,
     "listhero": 13,
     "mancing": 13,
@@ -4191,7 +4191,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 183,
-    "inv": 115,
+    "inv": 116,
     "healfull": 9,
     "mute": 5,
     "perstat": 1,
@@ -5421,5 +5421,5 @@
     "adventurr": 1,
     "crafy": 1
   },
-  "lastUpdated": 1777719963962
+  "lastUpdated": 1777720023971
 }
