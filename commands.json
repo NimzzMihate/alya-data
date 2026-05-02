@@ -3703,7 +3703,7 @@
     "195520047915190": 1,
     "setpp": 86,
     "265944542793975": 1,
-    "berburu": 99,
+    "berburu": 100,
     "masak": 23,
     "rpgmenu": 25,
     "makan": 24,
@@ -3774,7 +3774,7 @@
     "setprofile": 167,
     "daftar": 40,
     "profile": 40,
-    "topactive": 120,
+    "topactive": 122,
     "verify": 32,
     "daftr": 14,
     "status": 17,
@@ -5400,5 +5400,5 @@
     "toprank": 1,
     "*\nbase": 1
   },
-  "lastUpdated": 1777702429167
+  "lastUpdated": 1777702489168
 }
