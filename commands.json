@@ -4191,7 +4191,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 183,
-    "inv": 122,
+    "inv": 123,
     "healfull": 10,
     "mute": 5,
     "perstat": 1,
@@ -5438,5 +5438,5 @@
     "heroin": 1,
     "mw": 1
   },
-  "lastUpdated": 1777762231392
+  "lastUpdated": 1777762291384
 }
