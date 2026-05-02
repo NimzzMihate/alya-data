@@ -2,9 +2,9 @@
   "level": [
     {
       "name": "TX Zeppeli",
-      "level": 702,
-      "exp": 1687149,
-      "saldo": 4307229
+      "level": 703,
+      "exp": 1687246,
+      "saldo": 4314229
     },
     {
       "name": "Xarzzx",
@@ -246,9 +246,9 @@
   "exp": [
     {
       "name": "TX Zeppeli",
-      "level": 702,
-      "exp": 1687149,
-      "saldo": 4307229
+      "level": 703,
+      "exp": 1687246,
+      "saldo": 4314229
     },
     {
       "name": "Xarzzx",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777725730798
+  "lastUpdated": 1777725790798
 }
