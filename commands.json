@@ -3636,7 +3636,7 @@
     "rampok2": 649,
     "6285609504925": 15,
     "atm": 195,
-    "bank": 128,
+    "bank": 129,
     "afk": 1498,
     "kerja": 95,
     "628176533297": 14,
@@ -5074,7 +5074,7 @@
     "takebank": 1,
     "battle": 1,
     "nguli": 1,
-    "weekly": 7,
+    "weekly": 9,
     "hm.:https://a9fm.github.io/lightshot": 1,
     "atmmske": 1,
     "atmmake": 1,
@@ -5438,5 +5438,5 @@
     "heroin": 1,
     "mw": 1
   },
-  "lastUpdated": 1777762531385
+  "lastUpdated": 1777762591386
 }
