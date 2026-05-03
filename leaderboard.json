@@ -3,7 +3,7 @@
     {
       "name": "TX Zeppeli",
       "level": 714,
-      "exp": 1714535,
+      "exp": 1714653,
       "saldo": 10393564
     },
     {
@@ -57,7 +57,7 @@
     {
       "name": "sky the beginner",
       "level": 96,
-      "exp": 231425,
+      "exp": 231463,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -167,7 +167,7 @@
     {
       "name": "sky the beginner",
       "level": 96,
-      "exp": 231425,
+      "exp": 231463,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -247,7 +247,7 @@
     {
       "name": "TX Zeppeli",
       "level": 714,
-      "exp": 1714535,
+      "exp": 1714653,
       "saldo": 10393564
     },
     {
@@ -295,7 +295,7 @@
     {
       "name": "sky the beginner",
       "level": 96,
-      "exp": 231425,
+      "exp": 231463,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777797943084
+  "lastUpdated": 1777798003086
 }
