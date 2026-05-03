@@ -4192,7 +4192,7 @@
     "cekstatus": 1,
     "cekprofil": 10,
     "atmall": 183,
-    "inv": 148,
+    "inv": 149,
     "healfull": 11,
     "mute": 5,
     "perstat": 1,
@@ -5456,7 +5456,9 @@
     "zaman": 1,
     "zmemancing": 1,
     "132612215582899": 1,
-    "45969722888434": 1
+    "45969722888434": 1,
+    "irau": 1,
+    "irah": 1
   },
-  "lastUpdated": 1777812973882
+  "lastUpdated": 1777813033888
 }
