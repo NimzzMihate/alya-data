@@ -4114,9 +4114,9 @@
     "tahun": 3,
     "6289530116661": 1,
     "adoptpet": 35,
-    "petstat": 44,
-    "playpet": 101,
-    "feedpet": 178,
+    "petstat": 45,
+    "playpet": 105,
+    "feedpet": 185,
     "namapet": 3,
     "namepet": 13,
     "statpet": 4,
@@ -5445,7 +5445,8 @@
     "nv": 1,
     "addprofile": 1,
     "playpat": 1,
-    "ero": 2
+    "ero": 2,
+    "exo": 1
   },
-  "lastUpdated": 1777797703080
+  "lastUpdated": 1777797763081
 }
