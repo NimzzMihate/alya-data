@@ -4115,11 +4115,11 @@
     "6289530116661": 1,
     "adoptpet": 35,
     "petstat": 45,
-    "playpet": 108,
+    "playpet": 109,
     "feedpet": 188,
     "namapet": 3,
     "namepet": 13,
-    "statpet": 5,
+    "statpet": 6,
     "makannin": 1,
     "pepek": 2,
     "perak": 4,
@@ -4152,7 +4152,7 @@
     "petmenu": 4,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 178,
+    "battlepet": 179,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5386,7 +5386,7 @@
     "yυɾα`:order": 1,
     "6285602728493": 2,
     "battelepey": 1,
-    "battelepet": 1,
+    "battelepet": 2,
     "advanture": 2,
     "unbanfitur": 8,
     "forwardx": 1,
@@ -5465,5 +5465,5 @@
     "mantan": 1,
     "langkahi": 1
   },
-  "lastUpdated": 1777831971049
+  "lastUpdated": 1777832031051
 }
