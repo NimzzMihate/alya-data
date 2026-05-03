@@ -4115,11 +4115,11 @@
     "6289530116661": 1,
     "adoptpet": 35,
     "petstat": 45,
-    "playpet": 107,
-    "feedpet": 187,
+    "playpet": 108,
+    "feedpet": 188,
     "namapet": 3,
     "namepet": 13,
-    "statpet": 4,
+    "statpet": 5,
     "makannin": 1,
     "pepek": 2,
     "perak": 4,
@@ -5465,5 +5465,5 @@
     "mantan": 1,
     "langkahi": 1
   },
-  "lastUpdated": 1777831911047
+  "lastUpdated": 1777831971049
 }
