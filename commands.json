@@ -3658,7 +3658,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 114,
-    "heal": 213,
+    "heal": 214,
     "menu": 260,
     "owner": 15,
     "script": 11,
@@ -4115,7 +4115,7 @@
     "6289530116661": 1,
     "adoptpet": 35,
     "petstat": 45,
-    "playpet": 110,
+    "playpet": 111,
     "feedpet": 188,
     "namapet": 3,
     "namepet": 13,
@@ -4209,7 +4209,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 28,
-    "berlayar": 69,
+    "berlayar": 71,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -4635,7 +4635,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 11,
+    "mining": 13,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5467,5 +5467,5 @@
     "buah": 1,
     "giftpacar": 1
   },
-  "lastUpdated": 1777844097391
+  "lastUpdated": 1777844157381
 }
