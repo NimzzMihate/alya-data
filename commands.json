@@ -3686,7 +3686,7 @@
     "daily": 89,
     "adventure": 83,
     "cf": 19,
-    "nai2": 416,
+    "nai2": 419,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -3791,7 +3791,7 @@
     "izin": 1,
     "build": 2,
     "saldo": 369,
-    "demote": 18,
+    "demote": 19,
     "sendgc": 2,
     "kirimke": 1,
     "setpromosi": 5,
@@ -5453,5 +5453,5 @@
     "cekprovil": 1,
     "fitnah|sibuk": 1
   },
-  "lastUpdated": 1777802644359
+  "lastUpdated": 1777802704352
 }
