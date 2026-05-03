@@ -3639,7 +3639,7 @@
     "atm": 195,
     "bank": 133,
     "afk": 1588,
-    "kerja": 99,
+    "kerja": 100,
     "628176533297": 14,
     "s": 581,
     "jwkwnwkabs": 1,
@@ -4198,7 +4198,7 @@
     "perstat": 1,
     "lesby": 9,
     "bokeppaksa": 1,
-    "taksi": 7,
+    "taksi": 8,
     "bangsat": 9,
     "foodpet": 2,
     "releaseper": 1,
@@ -4626,7 +4626,7 @@
     "6283193243270": 4,
     "setppbot": 5,
     "bokep": 4,
-    "roket": 22,
+    "roket": 23,
     "cringe": 1,
     "setan": 8,
     "sw": 2,
@@ -5468,5 +5468,5 @@
     "giftpacar": 1,
     "rawat": 3
   },
-  "lastUpdated": 1777850119569
+  "lastUpdated": 1777850179561
 }
