@@ -3,8 +3,8 @@
   "totalUsers": 1110,
   "totalGroups": 38,
   "totalFeatures": 3611,
-  "totalCmd": 34277,
-  "totalChat": 34277,
+  "totalCmd": 34281,
+  "totalChat": 34281,
   "topCommands": [
     {
       "cmd": "afk",
@@ -15,12 +15,12 @@
       "count": 896
     },
     {
-      "cmd": "gift",
+      "cmd": "me",
       "count": 773
     },
     {
-      "cmd": "me",
-      "count": 772
+      "cmd": "gift",
+      "count": 773
     },
     {
       "cmd": "buy",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 4441,
-  "lastUpdated": 1777772043470
+  "uptimeSeconds": 4501,
+  "lastUpdated": 1777772103470
 }
