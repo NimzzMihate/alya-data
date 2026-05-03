@@ -3686,7 +3686,7 @@
     "daily": 89,
     "adventure": 82,
     "cf": 19,
-    "nai2": 400,
+    "nai2": 401,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -3932,7 +3932,7 @@
     "cari": 8,
     "menurpg": 3,
     "mengaji": 12,
-    "dagang": 43,
+    "dagang": 45,
     "gccanvas": 2,
     "totalchat": 4,
     "145161355005957": 9,
@@ -5446,5 +5446,5 @@
     "addprofile": 1,
     "playpat": 1
   },
-  "lastUpdated": 1777795462612
+  "lastUpdated": 1777795522608
 }
