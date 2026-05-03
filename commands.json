@@ -4198,7 +4198,7 @@
     "perstat": 1,
     "lesby": 9,
     "bokeppaksa": 1,
-    "taksi": 8,
+    "taksi": 13,
     "bangsat": 9,
     "foodpet": 2,
     "releaseper": 1,
@@ -5468,5 +5468,5 @@
     "giftpacar": 1,
     "rawat": 3
   },
-  "lastUpdated": 1777850179561
+  "lastUpdated": 1777850239557
 }
