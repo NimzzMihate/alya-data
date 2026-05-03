@@ -3625,7 +3625,7 @@
     "231179": 2,
     "2694099605": 20,
     "backup": 7,
-    "get": 101,
+    "get": 102,
     "tohtml": 11,
     "ranked": 99,
     "mobaprofile": 15,
@@ -3728,7 +3728,7 @@
     "listown": 15,
     "getpp": 32,
     "linkgc": 19,
-    "cekpasangan": 114,
+    "cekpasangan": 115,
     "6281283401829": 7,
     "tembak": 54,
     "terima": 19,
@@ -3739,7 +3739,7 @@
     "listapi": 17,
     "family100": 14,
     "tebakpokemon": 1,
-    "6283869039585": 59,
+    "6283869039585": 60,
     "nyerah": 44,
     "mf": 1,
     "261581174734897": 1,
@@ -5463,5 +5463,5 @@
     "⁨h4nzz⁩": 2,
     "⁨~h4nzz⁩": 1
   },
-  "lastUpdated": 1777813756567
+  "lastUpdated": 1777813816563
 }
