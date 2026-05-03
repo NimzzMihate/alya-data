@@ -3763,7 +3763,7 @@
     "6282130641503": 10,
     "buyitem": 3,
     "play": 379,
-    "ytmp3": 284,
+    "ytmp3": 285,
     "152609298108555": 94,
     "35588770111681": 1,
     "intro": 86,
@@ -3844,7 +3844,7 @@
     "hargasewa": 4,
     "d": 258,
     "pabrik": 1,
-    "fitnah": 173,
+    "fitnah": 175,
     "puji": 250,
     "pacar": 285,
     "carikarakter": 234,
@@ -5299,8 +5299,8 @@
     "listwl": 1,
     "kemasukan": 1,
     "yra": 1,
-    "whitelist": 1,
-    "unwhitelist": 1,
+    "whitelist": 2,
+    "unwhitelist": 2,
     "listwhitelist": 1,
     "ero,": 1,
     "tupai": 2,
@@ -5440,5 +5440,5 @@
     "yeraely": 1,
     "yearely": 1
   },
-  "lastUpdated": 1777766875101
+  "lastUpdated": 1777766935104
 }
