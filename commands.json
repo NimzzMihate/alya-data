@@ -3659,7 +3659,7 @@
     "61405583679507": 1,
     "wikwik": 114,
     "heal": 219,
-    "menu": 261,
+    "menu": 262,
     "owner": 15,
     "script": 11,
     "joinrpg": 50,
@@ -4635,7 +4635,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 13,
+    "mining": 14,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5465,7 +5465,8 @@
     "mantan": 1,
     "langkahi": 1,
     "buah": 1,
-    "giftpacar": 1
+    "giftpacar": 1,
+    "rawat": 2
   },
-  "lastUpdated": 1777849497400
+  "lastUpdated": 1777849557399
 }
