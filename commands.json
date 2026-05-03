@@ -3658,8 +3658,8 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 114,
-    "heal": 214,
-    "menu": 260,
+    "heal": 217,
+    "menu": 261,
     "owner": 15,
     "script": 11,
     "joinrpg": 50,
@@ -3684,7 +3684,7 @@
     "gift": 778,
     "ajakmain": 144,
     "daily": 91,
-    "adventure": 83,
+    "adventure": 84,
     "cf": 21,
     "nai2": 463,
     "6282137487477": 73,
@@ -4209,7 +4209,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 28,
-    "berlayar": 71,
+    "berlayar": 74,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -5467,5 +5467,5 @@
     "buah": 1,
     "giftpacar": 1
   },
-  "lastUpdated": 1777844157381
+  "lastUpdated": 1777844217388
 }
