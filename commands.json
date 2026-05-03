@@ -3845,7 +3845,7 @@
     "hargasewa": 4,
     "d": 259,
     "pabrik": 1,
-    "fitnah": 176,
+    "fitnah": 177,
     "puji": 250,
     "pacar": 285,
     "carikarakter": 234,
@@ -4192,7 +4192,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 183,
-    "inv": 140,
+    "inv": 141,
     "healfull": 10,
     "mute": 5,
     "perstat": 1,
@@ -5444,5 +5444,5 @@
     "⁨bimn": 1,
     "nv": 1
   },
-  "lastUpdated": 1777779144712
+  "lastUpdated": 1777779204713
 }
