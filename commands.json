@@ -3676,7 +3676,7 @@
     "useitem": 7,
     "77605898313906": 325,
     "huxin": 11,
-    "usaha": 125,
+    "usaha": 126,
     "memancing": 119,
     "271481040834666": 277,
     "6285189358241": 474,
@@ -3709,7 +3709,7 @@
     "berburu": 119,
     "masak": 29,
     "rpgmenu": 30,
-    "makan": 30,
+    "makan": 31,
     "repair": 1,
     "kapal": 6,
     "craft": 445,
@@ -3724,7 +3724,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 177,
-    "tes": 522,
+    "tes": 523,
     "listown": 15,
     "getpp": 32,
     "linkgc": 19,
@@ -4425,7 +4425,7 @@
     "unban": 15,
     "uncap": 12,
     "jembod": 1,
-    "femboy": 29,
+    "femboy": 30,
     "pet": 10,
     "cewe": 1,
     "mana": 1,
@@ -5452,7 +5452,8 @@
     "sabar": 1,
     "cekprovil": 1,
     "fitnah|sibuk": 1,
-    "topterkaya": 1
+    "topterkaya": 1,
+    "zaman": 1
   },
-  "lastUpdated": 1777803372506
+  "lastUpdated": 1777803432507
 }
