@@ -9,8 +9,8 @@
     {
       "name": "Xarzzx",
       "level": 564,
-      "exp": 1355759,
-      "saldo": 1e+115
+      "exp": 1355847,
+      "saldo": 0
     },
     {
       "name": "Nimzz >.<",
@@ -135,12 +135,6 @@
       "saldo": 1.1193837377363637e+143
     },
     {
-      "name": "Xarzzx",
-      "level": 564,
-      "exp": 1355759,
-      "saldo": 1e+115
-    },
-    {
       "name": ".",
       "level": 48,
       "exp": 115270,
@@ -185,7 +179,7 @@
     {
       "name": "Genoo",
       "level": 1,
-      "exp": 3172,
+      "exp": 3231,
       "saldo": 2.9287292619262828e+53
     },
     {
@@ -241,6 +235,12 @@
       "level": 122,
       "exp": 116753,
       "saldo": 1e+26
+    },
+    {
+      "name": "Sanzx",
+      "level": 2,
+      "exp": 4923,
+      "saldo": 1.000000000999995e+25
     }
   ],
   "exp": [
@@ -253,8 +253,8 @@
     {
       "name": "Xarzzx",
       "level": 564,
-      "exp": 1355759,
-      "saldo": 1e+115
+      "exp": 1355847,
+      "saldo": 0
     },
     {
       "name": "Ditz ketoprak",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777814356565
+  "lastUpdated": 1777814416572
 }
