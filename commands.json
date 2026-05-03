@@ -3659,7 +3659,7 @@
     "61405583679507": 1,
     "wikwik": 112,
     "heal": 202,
-    "menu": 248,
+    "menu": 249,
     "owner": 15,
     "script": 11,
     "joinrpg": 50,
@@ -3708,7 +3708,7 @@
     "265944542793975": 1,
     "berburu": 118,
     "masak": 29,
-    "rpgmenu": 28,
+    "rpgmenu": 29,
     "makan": 30,
     "repair": 1,
     "kapal": 6,
@@ -3974,7 +3974,7 @@
     "yumeko": 1,
     "mahiru": 1,
     "marshaandthebear": 1,
-    "allmenu": 33,
+    "allmenu": 34,
     "gamemenu": 4,
     "catur": 240,
     "mulai": 1,
@@ -5446,5 +5446,5 @@
     "addprofile": 1,
     "playpat": 1
   },
-  "lastUpdated": 1777795342618
+  "lastUpdated": 1777795402607
 }
