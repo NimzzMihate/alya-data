@@ -3631,7 +3631,7 @@
     "playmoba": 39,
     "ngaji": 68,
     "ewe-paksa": 65,
-    "me": 770,
+    "me": 772,
     "setbg": 42,
     "rampok2": 650,
     "6285609504925": 15,
@@ -3657,7 +3657,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 112,
-    "heal": 188,
+    "heal": 189,
     "menu": 246,
     "owner": 15,
     "script": 11,
@@ -3762,8 +3762,8 @@
     "104797353033809": 4,
     "6282130641503": 10,
     "buyitem": 3,
-    "play": 372,
-    "ytmp3": 281,
+    "play": 373,
+    "ytmp3": 282,
     "152609298108555": 94,
     "35588770111681": 1,
     "intro": 86,
@@ -4191,7 +4191,7 @@
     "cekstatus": 1,
     "cekprofil": 9,
     "atmall": 183,
-    "inv": 125,
+    "inv": 126,
     "healfull": 10,
     "mute": 5,
     "perstat": 1,
@@ -4208,7 +4208,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 24,
-    "berlayar": 47,
+    "berlayar": 48,
     "6285817528851": 2,
     "reedem": 1,
     "redeem": 1,
@@ -5440,5 +5440,5 @@
     "yeraely": 1,
     "yearely": 1
   },
-  "lastUpdated": 1777766395105
+  "lastUpdated": 1777766455098
 }
