@@ -2,9 +2,9 @@
   "level": [
     {
       "name": "TX Zeppeli",
-      "level": 709,
-      "exp": 1703043,
-      "saldo": 6358652
+      "level": 713,
+      "exp": 1713405,
+      "saldo": 6380143
     },
     {
       "name": "Xarzzx",
@@ -74,8 +74,8 @@
     },
     {
       "name": "axell",
-      "level": 57,
-      "exp": 138884,
+      "level": 59,
+      "exp": 143237,
       "saldo": 8.283903028187264e+83
     },
     {
@@ -148,8 +148,8 @@
     },
     {
       "name": "axell",
-      "level": 57,
-      "exp": 138884,
+      "level": 59,
+      "exp": 143237,
       "saldo": 8.283903028187264e+83
     },
     {
@@ -246,9 +246,9 @@
   "exp": [
     {
       "name": "TX Zeppeli",
-      "level": 709,
-      "exp": 1703043,
-      "saldo": 6358652
+      "level": 713,
+      "exp": 1713405,
+      "saldo": 6380143
     },
     {
       "name": "Xarzzx",
@@ -312,8 +312,8 @@
     },
     {
       "name": "axell",
-      "level": 57,
-      "exp": 138884,
+      "level": 59,
+      "exp": 143237,
       "saldo": 8.283903028187264e+83
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777785984761
+  "lastUpdated": 1777786044771
 }
