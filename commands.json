@@ -3638,7 +3638,7 @@
     "6285609504925": 15,
     "atm": 195,
     "bank": 129,
-    "afk": 1546,
+    "afk": 1547,
     "kerja": 96,
     "628176533297": 14,
     "s": 569,
@@ -3807,7 +3807,7 @@
     "wm": 191,
     "absen": 23,
     "mulaiabsen": 10,
-    "6283848672013": 129,
+    "6283848672013": 131,
     "ratebot": 4,
     "webfeedback": 2,
     "171511465922650": 1,
@@ -4447,7 +4447,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 103,
+    "detailkarakter": 104,
     "gcsider": 1,
     "quoted": 27,
     "pentol": 2,
@@ -5450,5 +5450,5 @@
     "toimage": 1,
     "tourl2": 1
   },
-  "lastUpdated": 1777799983101
+  "lastUpdated": 1777800043096
 }
