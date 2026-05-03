@@ -3625,7 +3625,7 @@
     "231179": 2,
     "2694099605": 20,
     "backup": 7,
-    "get": 100,
+    "get": 101,
     "tohtml": 11,
     "ranked": 99,
     "mobaprofile": 15,
@@ -3686,7 +3686,7 @@
     "daily": 90,
     "adventure": 83,
     "cf": 19,
-    "nai2": 437,
+    "nai2": 439,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -3728,7 +3728,7 @@
     "listown": 15,
     "getpp": 32,
     "linkgc": 19,
-    "cekpasangan": 111,
+    "cekpasangan": 113,
     "6281283401829": 7,
     "tembak": 54,
     "terima": 19,
@@ -4524,7 +4524,7 @@
     "rampom2": 1,
     "cekgenteng": 1,
     "6285711426403": 4,
-    "6289529326989": 155,
+    "6289529326989": 156,
     "cekpemboy": 1,
     "cektt": 5,
     "kuiz": 2,
@@ -5461,5 +5461,5 @@
     "irah": 1,
     "gg": 1
   },
-  "lastUpdated": 1777813636560
+  "lastUpdated": 1777813696558
 }
