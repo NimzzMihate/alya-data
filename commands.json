@@ -3696,7 +3696,7 @@
     "editfoto": 101,
     "dailymisi": 93,
     "open-bo": 57,
-    "ewepaksa": 227,
+    "ewepaksa": 228,
     "topglobal": 128,
     "6285789692015": 1,
     "buy": 817,
@@ -3706,7 +3706,7 @@
     "195520047915190": 1,
     "setpp": 96,
     "265944542793975": 1,
-    "berburu": 119,
+    "berburu": 120,
     "masak": 29,
     "rpgmenu": 30,
     "makan": 32,
@@ -4116,7 +4116,7 @@
     "adoptpet": 35,
     "petstat": 45,
     "playpet": 107,
-    "feedpet": 186,
+    "feedpet": 187,
     "namapet": 3,
     "namepet": 13,
     "statpet": 4,
@@ -5465,5 +5465,5 @@
     "mantan": 1,
     "langkahi": 1
   },
-  "lastUpdated": 1777831851050
+  "lastUpdated": 1777831911047
 }
