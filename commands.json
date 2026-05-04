@@ -3660,7 +3660,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 269,
+    "heal": 271,
     "menu": 285,
     "owner": 15,
     "script": 11,
@@ -3686,7 +3686,7 @@
     "gift": 784,
     "ajakmain": 144,
     "daily": 94,
-    "adventure": 108,
+    "adventure": 109,
     "cf": 21,
     "nai2": 529,
     "6282137487477": 73,
@@ -3714,7 +3714,7 @@
     "makan": 36,
     "repair": 1,
     "kapal": 6,
-    "craft": 446,
+    "craft": 447,
     "listheri": 1,
     "listhero": 16,
     "mancing": 15,
@@ -4211,7 +4211,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 37,
-    "berlayar": 122,
+    "berlayar": 123,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -4637,7 +4637,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 21,
+    "mining": 22,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5492,7 +5492,9 @@
     "atmin": 1,
     "orang": 1,
     "siang": 2,
-    "aktif": 1
+    "aktif": 1,
+    "villager": 1,
+    "abyys": 1
   },
-  "lastUpdated": 1777898960461
+  "lastUpdated": 1777899020464
 }
