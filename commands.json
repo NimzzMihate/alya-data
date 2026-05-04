@@ -3630,7 +3630,7 @@
     "ranked": 99,
     "mobaprofile": 15,
     "playmoba": 39,
-    "ngaji": 82,
+    "ngaji": 83,
     "ewe-paksa": 65,
     "me": 817,
     "setbg": 45,
@@ -4192,7 +4192,7 @@
     "cekstatus": 1,
     "cekprofil": 10,
     "atmall": 185,
-    "inv": 152,
+    "inv": 153,
     "healfull": 12,
     "mute": 5,
     "perstat": 1,
@@ -4425,7 +4425,7 @@
     "unban": 15,
     "uncap": 12,
     "jembod": 1,
-    "femboy": 32,
+    "femboy": 33,
     "pet": 10,
     "cewe": 1,
     "mana": 1,
@@ -5467,7 +5467,8 @@
     "buah": 1,
     "giftpacar": 1,
     "rawat": 3,
-    "😹": 1
+    "😹": 1,
+    "batre": 1
   },
-  "lastUpdated": 1777873044775
+  "lastUpdated": 1777873104776
 }
