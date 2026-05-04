@@ -3778,7 +3778,7 @@
     "....": 3,
     "setprofile": 173,
     "daftar": 41,
-    "profile": 66,
+    "profile": 67,
     "topactive": 143,
     "verify": 32,
     "daftr": 14,
@@ -4637,7 +4637,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 19,
+    "mining": 20,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5490,5 +5490,5 @@
     "cita": 1,
     "ab": 2
   },
-  "lastUpdated": 1777898360451
+  "lastUpdated": 1777898420456
 }
