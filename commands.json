@@ -3658,7 +3658,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 114,
-    "heal": 222,
+    "heal": 223,
     "menu": 266,
     "owner": 15,
     "script": 11,
@@ -3684,7 +3684,7 @@
     "gift": 781,
     "ajakmain": 144,
     "daily": 93,
-    "adventure": 84,
+    "adventure": 87,
     "cf": 21,
     "nai2": 465,
     "6282137487477": 73,
@@ -4635,7 +4635,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 15,
+    "mining": 16,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5468,5 +5468,5 @@
     "giftpacar": 1,
     "rawat": 3
   },
-  "lastUpdated": 1777862419667
+  "lastUpdated": 1777862479664
 }
