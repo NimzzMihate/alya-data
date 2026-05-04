@@ -3639,7 +3639,7 @@
     "atm": 195,
     "bank": 134,
     "afk": 1604,
-    "kerja": 103,
+    "kerja": 104,
     "628176533297": 14,
     "s": 581,
     "jwkwnwkabs": 1,
@@ -3659,7 +3659,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 230,
-    "menu": 275,
+    "menu": 276,
     "owner": 15,
     "script": 11,
     "joinrpg": 51,
@@ -3696,7 +3696,7 @@
     "editfoto": 101,
     "dailymisi": 98,
     "open-bo": 58,
-    "ewepaksa": 233,
+    "ewepaksa": 234,
     "topglobal": 136,
     "6285789692015": 1,
     "buy": 836,
@@ -5478,5 +5478,5 @@
     "angh": 1,
     "who?": 1
   },
-  "lastUpdated": 1777876010497
+  "lastUpdated": 1777876070491
 }
