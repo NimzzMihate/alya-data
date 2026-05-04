@@ -3659,7 +3659,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 251,
-    "menu": 282,
+    "menu": 283,
     "owner": 15,
     "script": 11,
     "joinrpg": 51,
@@ -3870,7 +3870,7 @@
     "ytmp4": 25,
     "ttdl": 8,
     "playch": 56,
-    "cekganteng": 148,
+    "cekganteng": 149,
     "crkganteng": 1,
     "puqi": 41,
     "anj": 349,
@@ -3900,7 +3900,7 @@
     "pap2": 130,
     "getcase": 13,
     "/": 17,
-    "cekcantik": 89,
+    "cekcantik": 90,
     "toplocal": 69,
     "forward": 507,
     "6283147484272": 6,
@@ -4918,7 +4918,7 @@
     "ytsearch": 3,
     "41176472277013": 1,
     "exp": 1,
-    "islammenu": 1,
+    "islammenu": 2,
     "fun": 1,
     "bugmenu": 1,
     "carikaracter": 1,
@@ -5479,7 +5479,9 @@
     "who?": 1,
     "meta": 1,
     "kere": 1,
-    "cekcewek": 1
+    "cekcewek": 1,
+    "oi": 1,
+    "hu": 1
   },
-  "lastUpdated": 1777896151176
+  "lastUpdated": 1777896211176
 }
