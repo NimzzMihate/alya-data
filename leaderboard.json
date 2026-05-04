@@ -55,16 +55,16 @@
       "saldo": 2.6064726002007225e+37
     },
     {
+      "name": "axell",
+      "level": 96,
+      "exp": 234766,
+      "saldo": 1e+140
+    },
+    {
       "name": "sky the beginner",
       "level": 96,
       "exp": 232185,
       "saldo": 3.093939496232323e+68
-    },
-    {
-      "name": "axell",
-      "level": 95,
-      "exp": 230261,
-      "saldo": 1e+140
     },
     {
       "name": "Kayy",
@@ -130,8 +130,8 @@
     },
     {
       "name": "axell",
-      "level": 95,
-      "exp": 230261,
+      "level": 96,
+      "exp": 234766,
       "saldo": 1e+140
     },
     {
@@ -293,16 +293,16 @@
       "saldo": 2.6064726002007225e+37
     },
     {
+      "name": "axell",
+      "level": 96,
+      "exp": 234766,
+      "saldo": 1e+140
+    },
+    {
       "name": "sky the beginner",
       "level": 96,
       "exp": 232185,
       "saldo": 3.093939496232323e+68
-    },
-    {
-      "name": "axell",
-      "level": 95,
-      "exp": 230261,
-      "saldo": 1e+140
     },
     {
       "name": "Kayy",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777925705745
+  "lastUpdated": 1777925765741
 }
