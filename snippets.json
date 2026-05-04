@@ -15,7 +15,15 @@
       "author": "Nimzz",
       "authorJid": "6282137487477@s.whatsapp.net",
       "createdAt": 1773821141226
+    },
+    {
+      "id": "p8qoru",
+      "title": "pindl.js",
+      "code": "import axios from 'axios';\nimport * as cheerio from 'cheerio';\n\nasync function pinterestDownload(pinterestUrl) {\n  try {\n    const { data } = await axios.get('https://savepinmedia.com/php/api/api.php', {\n      params: { url: pinterestUrl },\n      headers: {\n        'Accept': '*/*',\n        'X-Requested-With': 'XMLHttpRequest',\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'\n      }\n    });\n\n    const $ = cheerio.load(data);\n\n    const rawLink = $('.button-download a').attr('href');\n    if (!rawLink) throw new Error('Video tidak ditemukan');\n\n    const result = {\n      status: true,\n      author: $('.info a').text().trim(),\n      thumbnail: $('[style*=\"background:url\"]').attr('style')?.match(/url\\((.+?)\\)/)?.[1] ?? null,\n      quality: $('.button-download .size').text().trim(),\n      videoUrl: rawLink.replace('/download.php?id=', '')\n    };\n\n    console.log(JSON.stringify(result, null, 2));\n    return result;\n\n  } catch (err) {\n    const result = {\n      status: false,\n      message: err.message\n    };\n    console.log(JSON.stringify(result, null, 2));\n    return result;\n  }\n}\n\npinterestDownload('https://pin.it/5MAqbc0PJ');",
+      "author": "Nimzz >.<",
+      "authorJid": "6282137487477@s.whatsapp.net",
+      "createdAt": 1777920723254
     }
   ],
-  "lastUpdated": 1777920664845
+  "lastUpdated": 1777920723255
 }
