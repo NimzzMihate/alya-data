@@ -3641,7 +3641,7 @@
     "atm": 195,
     "bank": 134,
     "afk": 1653,
-    "kerja": 116,
+    "kerja": 117,
     "628176533297": 14,
     "s": 583,
     "jwkwnwkabs": 1,
@@ -3660,7 +3660,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 284,
+    "heal": 285,
     "menu": 289,
     "owner": 15,
     "script": 11,
@@ -3686,7 +3686,7 @@
     "gift": 785,
     "ajakmain": 144,
     "daily": 95,
-    "adventure": 139,
+    "adventure": 140,
     "cf": 21,
     "nai2": 534,
     "6282137487477": 73,
@@ -4944,7 +4944,7 @@
     "qc": 10,
     "siapakahaku": 3,
     "yts": 1,
-    "ngepet": 3,
+    "ngepet": 4,
     "keyboard": 1,
     "buildmlbb": 1,
     "buildhero": 1,
@@ -5506,5 +5506,5 @@
     "downloadermenu": 1,
     "ntaji": 1
   },
-  "lastUpdated": 1777934649279
+  "lastUpdated": 1777934709285
 }
