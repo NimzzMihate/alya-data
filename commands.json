@@ -3661,7 +3661,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 271,
-    "menu": 285,
+    "menu": 286,
     "owner": 15,
     "script": 11,
     "joinrpg": 52,
@@ -3969,14 +3969,14 @@
     "80290588442827hmmmm": 1,
     "ular": 1,
     "listmenu": 7,
-    "animemenu": 5,
+    "animemenu": 6,
     "installermenu": 1,
     "installtemabiling": 1,
     "installtemabilling": 1,
     "yumeko": 1,
     "mahiru": 1,
     "marshaandthebear": 1,
-    "allmenu": 34,
+    "allmenu": 35,
     "gamemenu": 4,
     "catur": 240,
     "mulai": 1,
@@ -5494,7 +5494,8 @@
     "siang": 2,
     "aktif": 1,
     "villager": 1,
-    "abyys": 1
+    "abyys": 1,
+    "akiyama": 1
   },
-  "lastUpdated": 1777899500474
+  "lastUpdated": 1777899560462
 }
