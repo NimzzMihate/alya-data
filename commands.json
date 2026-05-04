@@ -3641,7 +3641,7 @@
     "atm": 195,
     "bank": 134,
     "afk": 1627,
-    "kerja": 111,
+    "kerja": 112,
     "628176533297": 14,
     "s": 583,
     "jwkwnwkabs": 1,
@@ -3664,7 +3664,7 @@
     "menu": 285,
     "owner": 15,
     "script": 11,
-    "joinrpg": 51,
+    "joinrpg": 52,
     "mentahan": 1,
     "claim": 72,
     "cekidch": 16,
@@ -3688,7 +3688,7 @@
     "daily": 94,
     "adventure": 103,
     "cf": 21,
-    "nai2": 527,
+    "nai2": 528,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -3778,7 +3778,7 @@
     "....": 3,
     "setprofile": 173,
     "daftar": 41,
-    "profile": 67,
+    "profile": 68,
     "topactive": 143,
     "verify": 32,
     "daftr": 14,
@@ -5488,7 +5488,8 @@
     "ml": 2,
     "singko": 1,
     "cita": 1,
-    "ab": 2
+    "ab": 2,
+    "atmin": 1
   },
-  "lastUpdated": 1777898600455
+  "lastUpdated": 1777898660461
 }
