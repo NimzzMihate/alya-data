@@ -3708,7 +3708,7 @@
     "265944542793975": 1,
     "berburu": 124,
     "masak": 29,
-    "rpgmenu": 33,
+    "rpgmenu": 34,
     "makan": 33,
     "repair": 1,
     "kapal": 6,
@@ -3782,7 +3782,7 @@
     "daftr": 14,
     "status": 18,
     "pap": 900,
-    "tebakbendera": 31,
+    "tebakbendera": 32,
     "tebak": 2,
     "gantinama": 1,
     "69372932575293": 1,
@@ -4192,7 +4192,7 @@
     "cekstatus": 1,
     "cekprofil": 10,
     "atmall": 185,
-    "inv": 149,
+    "inv": 150,
     "healfull": 12,
     "mute": 5,
     "perstat": 1,
@@ -5468,5 +5468,5 @@
     "giftpacar": 1,
     "rawat": 3
   },
-  "lastUpdated": 1777863319682
+  "lastUpdated": 1777863379669
 }
