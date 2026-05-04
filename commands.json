@@ -3625,14 +3625,14 @@
     "231179": 2,
     "2694099605": 21,
     "backup": 7,
-    "get": 107,
+    "get": 108,
     "tohtml": 11,
     "ranked": 99,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 84,
     "ewe-paksa": 65,
-    "me": 823,
+    "me": 824,
     "setbg": 46,
     "rampok2": 661,
     "6285609504925": 15,
@@ -3697,7 +3697,7 @@
     "dailymisi": 98,
     "open-bo": 58,
     "ewepaksa": 233,
-    "topglobal": 134,
+    "topglobal": 135,
     "6285789692015": 1,
     "buy": 836,
     "smeme": 262,
@@ -4054,7 +4054,7 @@
     "...:https://docs.google.com/forms/d/e/1faipqlsdon8gjz-e4lvyaqerqpqlwsphd4w46xnyndbnu_n_bctib_q/viewform?usp=sf_link": 1,
     "top": 81,
     "spotifys": 32,
-    "ttsearch": 52,
+    "ttsearch": 53,
     "6283875289405": 18,
     "118709305766130": 5,
     "pirate": 11,
@@ -5475,5 +5475,5 @@
     "adventurer": 1,
     "pancing": 1
   },
-  "lastUpdated": 1777873944776
+  "lastUpdated": 1777874004778
 }
