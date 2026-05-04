@@ -3641,7 +3641,7 @@
     "atm": 195,
     "bank": 134,
     "afk": 1650,
-    "kerja": 114,
+    "kerja": 115,
     "628176533297": 14,
     "s": 583,
     "jwkwnwkabs": 1,
@@ -3875,7 +3875,7 @@
     "cekganteng": 149,
     "crkganteng": 1,
     "puqi": 41,
-    "anj": 350,
+    "anj": 352,
     "anjing": 33,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4541,7 +4541,7 @@
     "armor": 3,
     "fish": 1,
     "poke": 4,
-    "anjg": 71,
+    "anjg": 73,
     "cekbank": 79,
     "cektomboy": 3,
     "bajingan": 12,
@@ -5505,5 +5505,5 @@
     "pinvid": 1,
     "downloadermenu": 1
   },
-  "lastUpdated": 1777918804827
+  "lastUpdated": 1777918864830
 }
