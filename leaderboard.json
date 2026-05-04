@@ -21,8 +21,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 449,
-      "exp": 1079272,
-      "saldo": 5.865858443900758e+79
+      "exp": 1079303,
+      "saldo": null
     },
     {
       "name": "⚊bímm153",
@@ -123,6 +123,12 @@
   ],
   "saldo": [
     {
+      "name": "Ditz ketoprak",
+      "level": 449,
+      "exp": 1079303,
+      "saldo": null
+    },
+    {
       "name": "Lejen",
       "level": 64,
       "exp": 153829,
@@ -151,12 +157,6 @@
       "level": 7,
       "exp": 17288,
       "saldo": 9.000900014999999e+109
-    },
-    {
-      "name": "Ditz ketoprak",
-      "level": 449,
-      "exp": 1079272,
-      "saldo": 5.865858443900758e+79
     },
     {
       "name": "Nimzz >.<",
@@ -259,8 +259,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 449,
-      "exp": 1079272,
-      "saldo": 5.865858443900758e+79
+      "exp": 1079303,
+      "saldo": null
     },
     {
       "name": "⚊bímm153",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777887067766
+  "lastUpdated": 1777887127765
 }
