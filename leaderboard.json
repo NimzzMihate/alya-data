@@ -49,16 +49,16 @@
       "saldo": 10263317
     },
     {
+      "name": "axell",
+      "level": 99,
+      "exp": 248899,
+      "saldo": 1e+140
+    },
+    {
       "name": "Joishi ganteng",
       "level": 99,
       "exp": 238940,
       "saldo": 2.6064726002007225e+37
-    },
-    {
-      "name": "axell",
-      "level": 96,
-      "exp": 234766,
-      "saldo": 1e+140
     },
     {
       "name": "sky the beginner",
@@ -130,8 +130,8 @@
     },
     {
       "name": "axell",
-      "level": 96,
-      "exp": 234766,
+      "level": 99,
+      "exp": 248899,
       "saldo": 1e+140
     },
     {
@@ -287,16 +287,16 @@
       "saldo": 10263317
     },
     {
+      "name": "axell",
+      "level": 99,
+      "exp": 248899,
+      "saldo": 1e+140
+    },
+    {
       "name": "Joishi ganteng",
       "level": 99,
       "exp": 238940,
       "saldo": 2.6064726002007225e+37
-    },
-    {
-      "name": "axell",
-      "level": 96,
-      "exp": 234766,
-      "saldo": 1e+140
     },
     {
       "name": "sky the beginner",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777925765741
+  "lastUpdated": 1777925825746
 }
