@@ -3686,7 +3686,7 @@
     "daily": 94,
     "adventure": 97,
     "cf": 21,
-    "nai2": 503,
+    "nai2": 505,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -5160,7 +5160,7 @@
     "ttsound": 1,
     "blown": 54,
     "bolwn": 1,
-    "151432594505894": 45,
+    "151432594505894": 47,
     "manu": 1,
     "toitelanjang": 1,
     "kecil": 1,
@@ -5376,7 +5376,7 @@
     "naj2": 1,
     "listwarn": 2,
     "forward.promote": 1,
-    "⁨zio": 7,
+    "⁨zio": 8,
     "6281234494116": 12,
     "bim": 1,
     "am": 2,
@@ -5479,5 +5479,5 @@
     "who?": 1,
     "meta": 1
   },
-  "lastUpdated": 1777887967776
+  "lastUpdated": 1777888027788
 }
