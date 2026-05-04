@@ -3686,7 +3686,7 @@
     "gift": 785,
     "ajakmain": 144,
     "daily": 95,
-    "adventure": 140,
+    "adventure": 141,
     "cf": 21,
     "nai2": 534,
     "6282137487477": 73,
@@ -3709,7 +3709,7 @@
     "setpp": 100,
     "265944542793975": 1,
     "berburu": 130,
-    "masak": 63,
+    "masak": 65,
     "rpgmenu": 38,
     "makan": 36,
     "repair": 1,
@@ -4211,7 +4211,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 39,
-    "berlayar": 137,
+    "berlayar": 138,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -5506,5 +5506,5 @@
     "downloadermenu": 1,
     "ntaji": 1
   },
-  "lastUpdated": 1777934889301
+  "lastUpdated": 1777934949282
 }
