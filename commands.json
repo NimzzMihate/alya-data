@@ -3632,7 +3632,7 @@
     "playmoba": 39,
     "ngaji": 97,
     "ewe-paksa": 65,
-    "me": 841,
+    "me": 842,
     "setbg": 51,
     "rampok2": 664,
     "6285609504925": 15,
@@ -4191,7 +4191,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 10,
-    "atmall": 185,
+    "atmall": 186,
     "inv": 163,
     "healfull": 13,
     "mute": 5,
@@ -4254,7 +4254,7 @@
     "tebakpacarorang": 1,
     "gachawaifu": 27,
     "curipacarorang": 1,
-    "user": 3,
+    "user": 4,
     "gerobak": 1,
     "airdrop": 1,
     "rpg": 8,
@@ -5483,7 +5483,8 @@
     "oi": 1,
     "hu": 4,
     "surah": 1,
-    "ml": 1
+    "ml": 1,
+    "singko": 1
   },
-  "lastUpdated": 1777897701927
+  "lastUpdated": 1777897761920
 }
