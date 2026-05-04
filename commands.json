@@ -3632,8 +3632,8 @@
     "playmoba": 39,
     "ngaji": 97,
     "ewe-paksa": 65,
-    "me": 839,
-    "setbg": 50,
+    "me": 840,
+    "setbg": 51,
     "rampok2": 664,
     "6285609504925": 15,
     "atm": 195,
@@ -4090,7 +4090,7 @@
     "istiku": 1,
     "cerai": 29,
     "putus": 167,
-    "crop": 73,
+    "crop": 74,
     "shopgift": 60,
     "give": 3,
     "asep": 1,
@@ -4115,7 +4115,7 @@
     "6289530116661": 1,
     "adoptpet": 35,
     "petstat": 45,
-    "playpet": 116,
+    "playpet": 117,
     "feedpet": 189,
     "namapet": 3,
     "namepet": 13,
@@ -4745,7 +4745,7 @@
     "afira": 1,
     "detail": 1,
     "tomp3": 14,
-    "oldyck": 1,
+    "oldyck": 2,
     "peler": 1,
     "ijo": 1,
     "topict": 1,
@@ -5485,5 +5485,5 @@
     "surah": 1,
     "ml": 1
   },
-  "lastUpdated": 1777897581934
+  "lastUpdated": 1777897641926
 }
