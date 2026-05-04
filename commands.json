@@ -3684,7 +3684,7 @@
     "gift": 782,
     "ajakmain": 144,
     "daily": 94,
-    "adventure": 87,
+    "adventure": 88,
     "cf": 21,
     "nai2": 471,
     "6282137487477": 73,
@@ -3873,7 +3873,7 @@
     "cekganteng": 146,
     "crkganteng": 1,
     "puqi": 40,
-    "anj": 225,
+    "anj": 226,
     "anjing": 33,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4209,7 +4209,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 33,
-    "berlayar": 85,
+    "berlayar": 86,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -5149,7 +5149,7 @@
     "n": 1,
     "narto": 1,
     "nita": 1,
-    "ange": 2,
+    "ange": 3,
     "nitq": 1,
     "99132693811432": 1,
     "reward": 2,
@@ -5473,7 +5473,9 @@
     "clbk": 1,
     "bakso": 1,
     "adventurer": 1,
-    "pancing": 1
+    "pancing": 1,
+    "a": 1,
+    "angh": 1
   },
-  "lastUpdated": 1777874724793
+  "lastUpdated": 1777874815271
 }
