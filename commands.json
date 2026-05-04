@@ -3659,7 +3659,7 @@
     "61405583679507": 1,
     "wikwik": 114,
     "heal": 223,
-    "menu": 266,
+    "menu": 267,
     "owner": 15,
     "script": 11,
     "joinrpg": 50,
@@ -3708,7 +3708,7 @@
     "265944542793975": 1,
     "berburu": 124,
     "masak": 29,
-    "rpgmenu": 32,
+    "rpgmenu": 33,
     "makan": 32,
     "repair": 1,
     "kapal": 6,
@@ -4222,7 +4222,7 @@
     "inventory": 26,
     "like": 1,
     "suka": 1,
-    "monthly": 5,
+    "monthly": 6,
     "yearly": 3,
     "terimanikah": 10,
     "6283133734215": 30,
@@ -5468,5 +5468,5 @@
     "giftpacar": 1,
     "rawat": 3
   },
-  "lastUpdated": 1777862479664
+  "lastUpdated": 1777862539664
 }
