@@ -3686,7 +3686,7 @@
     "gift": 784,
     "ajakmain": 144,
     "daily": 94,
-    "adventure": 110,
+    "adventure": 111,
     "cf": 21,
     "nai2": 529,
     "6282137487477": 73,
@@ -3709,7 +3709,7 @@
     "setpp": 100,
     "265944542793975": 1,
     "berburu": 129,
-    "masak": 29,
+    "masak": 32,
     "rpgmenu": 37,
     "makan": 36,
     "repair": 1,
@@ -3859,7 +3859,7 @@
     "atmpull": 252,
     "promote": 14,
     "reset": 3,
-    "memasak": 1,
+    "memasak": 2,
     "wm\n>": 2,
     "iqc": 10,
     "hackwa": 3,
@@ -4211,7 +4211,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 37,
-    "berlayar": 124,
+    "berlayar": 125,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -5500,7 +5500,8 @@
     "elenski": 1,
     "kowiziw": 1,
     "hdvin": 1,
-    "setultah": 2
+    "setultah": 2,
+    "ngeroket": 1
   },
-  "lastUpdated": 1777917074478
+  "lastUpdated": 1777917134480
 }
