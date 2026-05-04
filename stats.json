@@ -3,12 +3,12 @@
   "totalUsers": 1110,
   "totalGroups": 38,
   "totalFeatures": 3611,
-  "totalCmd": 36602,
-  "totalChat": 36602,
+  "totalCmd": 36606,
+  "totalChat": 36606,
   "topCommands": [
     {
       "cmd": "afk",
-      "count": 1633
+      "count": 1634
     },
     {
       "cmd": "pap",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 481,
-  "lastUpdated": 1777902563235
+  "uptimeSeconds": 541,
+  "lastUpdated": 1777902623235
 }
