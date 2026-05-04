@@ -3783,7 +3783,7 @@
     "verify": 32,
     "daftr": 14,
     "status": 19,
-    "pap": 903,
+    "pap": 905,
     "tebakbendera": 32,
     "tebak": 2,
     "gantinama": 1,
@@ -4779,7 +4779,7 @@
     "setsewa": 1,
     "musuh": 1,
     "eus": 2,
-    "pp": 3,
+    "pp": 5,
     ".....": 2,
     "batllepet": 2,
     "plaupet": 1,
@@ -5207,7 +5207,7 @@
     "gunting": 1,
     "petakbom": 1,
     "enobia": 3,
-    "app": 1,
+    "app": 2,
     "jelek": 1,
     "mayan": 1,
     "walau": 1,
@@ -5505,5 +5505,5 @@
     "pinvid": 1,
     "downloadermenu": 1
   },
-  "lastUpdated": 1777919164832
+  "lastUpdated": 1777919224837
 }
