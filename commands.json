@@ -3658,7 +3658,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 240,
+    "heal": 242,
     "menu": 281,
     "owner": 15,
     "script": 11,
@@ -3684,7 +3684,7 @@
     "gift": 782,
     "ajakmain": 144,
     "daily": 94,
-    "adventure": 94,
+    "adventure": 95,
     "cf": 21,
     "nai2": 501,
     "6282137487477": 73,
@@ -4095,7 +4095,7 @@
     "give": 3,
     "asep": 1,
     "pasangan": 8,
-    "setpppacar": 53,
+    "setpppacar": 54,
     "dompet": 4,
     "istri": 5,
     "lamar": 16,
@@ -4209,7 +4209,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 33,
-    "berlayar": 102,
+    "berlayar": 103,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -4635,7 +4635,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 17,
+    "mining": 18,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5478,5 +5478,5 @@
     "angh": 1,
     "who?": 1
   },
-  "lastUpdated": 1777886767763
+  "lastUpdated": 1777886827765
 }
