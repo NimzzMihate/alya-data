@@ -3659,7 +3659,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 230,
-    "menu": 274,
+    "menu": 275,
     "owner": 15,
     "script": 11,
     "joinrpg": 51,
@@ -3706,9 +3706,9 @@
     "195520047915190": 1,
     "setpp": 98,
     "265944542793975": 1,
-    "berburu": 125,
+    "berburu": 126,
     "masak": 29,
-    "rpgmenu": 34,
+    "rpgmenu": 35,
     "makan": 36,
     "repair": 1,
     "kapal": 6,
@@ -4115,7 +4115,7 @@
     "6289530116661": 1,
     "adoptpet": 35,
     "petstat": 45,
-    "playpet": 113,
+    "playpet": 114,
     "feedpet": 189,
     "namapet": 3,
     "namepet": 13,
@@ -4192,7 +4192,7 @@
     "cekstatus": 1,
     "cekprofil": 10,
     "atmall": 185,
-    "inv": 154,
+    "inv": 155,
     "healfull": 12,
     "mute": 5,
     "perstat": 1,
@@ -5478,5 +5478,5 @@
     "angh": 1,
     "who?": 1
   },
-  "lastUpdated": 1777875950489
+  "lastUpdated": 1777876010497
 }
