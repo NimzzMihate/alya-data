@@ -3660,7 +3660,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 267,
+    "heal": 269,
     "menu": 285,
     "owner": 15,
     "script": 11,
@@ -3686,7 +3686,7 @@
     "gift": 784,
     "ajakmain": 144,
     "daily": 94,
-    "adventure": 107,
+    "adventure": 108,
     "cf": 21,
     "nai2": 529,
     "6282137487477": 73,
@@ -3938,7 +3938,7 @@
     "gccanvas": 2,
     "totalchat": 4,
     "145161355005957": 9,
-    "istriku": 38,
+    "istriku": 39,
     "271966086938834": 1,
     "51338180305071": 16,
     "hitamkan": 74,
@@ -4139,7 +4139,7 @@
     "259468235436086": 3,
     "6281374721324": 19,
     "cekpenjara": 6,
-    "cek": 23,
+    "cek": 24,
     "forward.forward": 2,
     "hell": 1,
     "bailout": 69,
@@ -4211,7 +4211,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 37,
-    "berlayar": 121,
+    "berlayar": 122,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -5494,5 +5494,5 @@
     "siang": 2,
     "aktif": 1
   },
-  "lastUpdated": 1777898900459
+  "lastUpdated": 1777898960461
 }
