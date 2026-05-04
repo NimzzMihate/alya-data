@@ -22,12 +22,12 @@
       "name": "Ditz ketoprak",
       "level": 449,
       "exp": 1079437,
-      "saldo": null
+      "saldo": 0
     },
     {
       "name": "⚊bímm153",
       "level": 191,
-      "exp": 458482,
+      "exp": 458524,
       "saldo": 5.5156470412166725e+69
     },
     {
@@ -63,7 +63,7 @@
     {
       "name": "axell",
       "level": 92,
-      "exp": 221441,
+      "exp": 221486,
       "saldo": 1e+140
     },
     {
@@ -123,12 +123,6 @@
   ],
   "saldo": [
     {
-      "name": "Ditz ketoprak",
-      "level": 449,
-      "exp": 1079437,
-      "saldo": null
-    },
-    {
       "name": "Lejen",
       "level": 64,
       "exp": 153829,
@@ -137,7 +131,7 @@
     {
       "name": "axell",
       "level": 92,
-      "exp": 221441,
+      "exp": 221486,
       "saldo": 1e+140
     },
     {
@@ -167,7 +161,7 @@
     {
       "name": "⚊bímm153",
       "level": 191,
-      "exp": 458482,
+      "exp": 458524,
       "saldo": 5.5156470412166725e+69
     },
     {
@@ -241,6 +235,12 @@
       "level": 122,
       "exp": 116825,
       "saldo": 1e+26
+    },
+    {
+      "name": "Sanzx",
+      "level": 2,
+      "exp": 4923,
+      "saldo": 1.000000000999995e+25
     }
   ],
   "exp": [
@@ -260,12 +260,12 @@
       "name": "Ditz ketoprak",
       "level": 449,
       "exp": 1079437,
-      "saldo": null
+      "saldo": 0
     },
     {
       "name": "⚊bímm153",
       "level": 191,
-      "exp": 458482,
+      "exp": 458524,
       "saldo": 5.5156470412166725e+69
     },
     {
@@ -301,7 +301,7 @@
     {
       "name": "axell",
       "level": 92,
-      "exp": 221441,
+      "exp": 221486,
       "saldo": 1e+140
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777888387787
+  "lastUpdated": 1777888494844
 }
