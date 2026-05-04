@@ -3658,7 +3658,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 254,
+    "heal": 255,
     "menu": 283,
     "owner": 15,
     "script": 11,
@@ -3686,7 +3686,7 @@
     "daily": 94,
     "adventure": 101,
     "cf": 21,
-    "nai2": 525,
+    "nai2": 526,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -3774,9 +3774,9 @@
     "628998866123": 34,
     "166121432961259": 74,
     "....": 3,
-    "setprofile": 172,
+    "setprofile": 173,
     "daftar": 41,
-    "profile": 63,
+    "profile": 64,
     "topactive": 142,
     "verify": 32,
     "daftr": 14,
@@ -4635,7 +4635,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 18,
+    "mining": 19,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5485,5 +5485,5 @@
     "surah": 1,
     "ml": 1
   },
-  "lastUpdated": 1777896981686
+  "lastUpdated": 1777897041684
 }
