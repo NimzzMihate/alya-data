@@ -3632,7 +3632,7 @@
     "ranked": 99,
     "mobaprofile": 15,
     "playmoba": 39,
-    "ngaji": 101,
+    "ngaji": 102,
     "ewe-paksa": 65,
     "me": 848,
     "setbg": 51,
@@ -3660,7 +3660,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 274,
+    "heal": 275,
     "menu": 287,
     "owner": 15,
     "script": 11,
@@ -4210,7 +4210,7 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 37,
+    "nyampah": 38,
     "berlayar": 134,
     "6285817528851": 2,
     "reedem": 2,
@@ -5505,5 +5505,5 @@
     "pinvid": 1,
     "downloadermenu": 1
   },
-  "lastUpdated": 1777925705745
+  "lastUpdated": 1777925765741
 }
