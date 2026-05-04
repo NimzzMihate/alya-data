@@ -3661,7 +3661,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 294,
-    "menu": 289,
+    "menu": 291,
     "owner": 15,
     "script": 11,
     "joinrpg": 52,
@@ -3701,7 +3701,7 @@
     "ewepaksa": 239,
     "topglobal": 143,
     "6285789692015": 1,
-    "buy": 845,
+    "buy": 847,
     "smeme": 262,
     "getno": 179,
     "nayla.𝑠𝑖𝑔𝑚𝑎6": 1,
@@ -3710,7 +3710,7 @@
     "265944542793975": 1,
     "berburu": 130,
     "masak": 65,
-    "rpgmenu": 38,
+    "rpgmenu": 39,
     "makan": 36,
     "repair": 1,
     "kapal": 6,
@@ -4210,7 +4210,7 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 39,
+    "nyampah": 40,
     "berlayar": 144,
     "6285817528851": 2,
     "reedem": 2,
@@ -5506,5 +5506,5 @@
     "downloadermenu": 1,
     "ntaji": 1
   },
-  "lastUpdated": 1777936449304
+  "lastUpdated": 1777936509299
 }
