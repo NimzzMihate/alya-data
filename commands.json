@@ -3641,7 +3641,7 @@
     "atm": 195,
     "bank": 134,
     "afk": 1653,
-    "kerja": 118,
+    "kerja": 119,
     "628176533297": 14,
     "s": 583,
     "jwkwnwkabs": 1,
@@ -3969,7 +3969,7 @@
     "80290588442827hmmmm": 1,
     "ular": 1,
     "listmenu": 7,
-    "animemenu": 6,
+    "animemenu": 7,
     "installermenu": 1,
     "installtemabiling": 1,
     "installtemabilling": 1,
@@ -4481,7 +4481,7 @@
     "si'": 1,
     "judi": 1,
     "toolsmenu": 5,
-    "art": 2,
+    "art": 3,
     "voicemenu": 7,
     "smooth": 6,
     "fast": 12,
@@ -5506,5 +5506,5 @@
     "downloadermenu": 1,
     "ntaji": 1
   },
-  "lastUpdated": 1777936509299
+  "lastUpdated": 1777936569311
 }
