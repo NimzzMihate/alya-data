@@ -3658,7 +3658,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 226,
+    "heal": 227,
     "menu": 271,
     "owner": 15,
     "script": 11,
@@ -3697,7 +3697,7 @@
     "dailymisi": 98,
     "open-bo": 58,
     "ewepaksa": 233,
-    "topglobal": 135,
+    "topglobal": 136,
     "6285789692015": 1,
     "buy": 836,
     "smeme": 262,
@@ -4208,7 +4208,7 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 30,
+    "nyampah": 33,
     "berlayar": 85,
     "6285817528851": 2,
     "reedem": 2,
@@ -4635,7 +4635,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 16,
+    "mining": 17,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -4690,7 +4690,7 @@
     "family50": 1,
     "family200": 1,
     "mainmenu": 1,
-    "6357071720498": 86,
+    "6357071720498": 87,
     "ted": 9,
     "naya": 5,
     "halo": 2,
@@ -5475,5 +5475,5 @@
     "adventurer": 1,
     "pancing": 1
   },
-  "lastUpdated": 1777874484792
+  "lastUpdated": 1777874544784
 }
