@@ -3660,7 +3660,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 120,
-    "heal": 355,
+    "heal": 356,
     "menu": 330,
     "owner": 18,
     "script": 11,
@@ -3686,7 +3686,7 @@
     "gift": 795,
     "ajakmain": 146,
     "daily": 98,
-    "adventure": 170,
+    "adventure": 172,
     "cf": 21,
     "nai2": 565,
     "6282137487477": 73,
@@ -3696,7 +3696,7 @@
     "brat": 156,
     "brathd": 2,
     "editfoto": 101,
-    "dailymisi": 112,
+    "dailymisi": 113,
     "open-bo": 65,
     "ewepaksa": 251,
     "topglobal": 150,
@@ -5549,5 +5549,5 @@
     "stcsticker": 1,
     "setintro": 1
   },
-  "lastUpdated": 1778015101826
+  "lastUpdated": 1778015161822
 }
