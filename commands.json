@@ -3661,7 +3661,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 338,
-    "menu": 303,
+    "menu": 304,
     "owner": 16,
     "script": 11,
     "joinrpg": 52,
@@ -4310,7 +4310,7 @@
     "?": 6,
     "@250693499797710": 2,
     "ngojek": 58,
-    "rt": 13,
+    "rt": 15,
     ".e": 2,
     "kokop": 1,
     "bailoutt": 1,
@@ -5515,5 +5515,5 @@
     "snippethelp": 1,
     "setprefix": 2
   },
-  "lastUpdated": 1777977177047
+  "lastUpdated": 1777977237045
 }
