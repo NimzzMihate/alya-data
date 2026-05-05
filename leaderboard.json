@@ -31,16 +31,16 @@
       "saldo": 4.883828523708162e+102
     },
     {
+      "name": "axell",
+      "level": 135,
+      "exp": 325066,
+      "saldo": 1e+140
+    },
+    {
       "name": "zio",
       "level": 133,
       "exp": 320478,
       "saldo": 1.2039423357307736e+27
-    },
-    {
-      "name": "axell",
-      "level": 131,
-      "exp": 314708,
-      "saldo": 1e+140
     },
     {
       "name": "Ryeeezzzz•CDID",
@@ -130,8 +130,8 @@
     },
     {
       "name": "axell",
-      "level": 131,
-      "exp": 314708,
+      "level": 135,
+      "exp": 325066,
       "saldo": 1e+140
     },
     {
@@ -275,16 +275,16 @@
       "saldo": 3.937373737636364e+70
     },
     {
+      "name": "axell",
+      "level": 135,
+      "exp": 325066,
+      "saldo": 1e+140
+    },
+    {
       "name": "zio",
       "level": 133,
       "exp": 320478,
       "saldo": 1.2039423357307736e+27
-    },
-    {
-      "name": "axell",
-      "level": 131,
-      "exp": 314708,
-      "saldo": 1e+140
     },
     {
       "name": "SuperKeyy",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1778017870437
+  "lastUpdated": 1778017930434
 }
