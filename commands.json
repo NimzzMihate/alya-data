@@ -4194,7 +4194,7 @@
     "cekstatus": 1,
     "cekprofil": 10,
     "atmall": 190,
-    "inv": 167,
+    "inv": 168,
     "healfull": 13,
     "mute": 5,
     "perstat": 1,
@@ -4210,7 +4210,7 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 50,
+    "nyampah": 51,
     "berlayar": 195,
     "6285817528851": 2,
     "reedem": 2,
@@ -4944,7 +4944,7 @@
     "qc": 10,
     "siapakahaku": 3,
     "yts": 1,
-    "ngepet": 17,
+    "ngepet": 18,
     "keyboard": 1,
     "buildmlbb": 1,
     "buildhero": 1,
@@ -5549,5 +5549,5 @@
     "stcsticker": 1,
     "setintro": 1
   },
-  "lastUpdated": 1778016061828
+  "lastUpdated": 1778016121828
 }
