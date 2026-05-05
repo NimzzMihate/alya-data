@@ -3641,7 +3641,7 @@
     "atm": 195,
     "bank": 134,
     "afk": 1670,
-    "kerja": 120,
+    "kerja": 121,
     "628176533297": 14,
     "s": 583,
     "jwkwnwkabs": 1,
@@ -3778,7 +3778,7 @@
     "....": 3,
     "setprofile": 173,
     "daftar": 41,
-    "profile": 80,
+    "profile": 81,
     "topactive": 146,
     "verify": 32,
     "daftr": 14,
@@ -5507,5 +5507,5 @@
     "ntaji": 1,
     "hf": 1
   },
-  "lastUpdated": 1777959814850
+  "lastUpdated": 1777959874853
 }
