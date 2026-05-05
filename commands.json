@@ -3640,7 +3640,7 @@
     "6285609504925": 15,
     "atm": 195,
     "bank": 134,
-    "afk": 1664,
+    "afk": 1665,
     "kerja": 120,
     "628176533297": 14,
     "s": 583,
@@ -4117,8 +4117,8 @@
     "6289530116661": 1,
     "adoptpet": 35,
     "petstat": 45,
-    "playpet": 117,
-    "feedpet": 189,
+    "playpet": 118,
+    "feedpet": 190,
     "namapet": 3,
     "namepet": 13,
     "statpet": 6,
@@ -4378,7 +4378,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 2,
-    "628895327267": 150,
+    "628895327267": 151,
     "ceklimit": 9,
     "ceksaldo": 71,
     "selectskill": 2,
@@ -5506,5 +5506,5 @@
     "downloadermenu": 1,
     "ntaji": 1
   },
-  "lastUpdated": 1777950854160
+  "lastUpdated": 1777950914141
 }
