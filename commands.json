@@ -3629,7 +3629,7 @@
     "backup": 7,
     "get": 109,
     "tohtml": 11,
-    "ranked": 99,
+    "ranked": 100,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 114,
@@ -5507,5 +5507,5 @@
     "ntaji": 1,
     "hf": 1
   },
-  "lastUpdated": 1777966341368
+  "lastUpdated": 1777966401370
 }
