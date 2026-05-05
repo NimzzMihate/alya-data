@@ -3641,7 +3641,7 @@
     "atm": 196,
     "bank": 141,
     "afk": 1711,
-    "kerja": 128,
+    "kerja": 129,
     "628176533297": 14,
     "s": 583,
     "jwkwnwkabs": 1,
@@ -3661,7 +3661,7 @@
     "61405583679507": 1,
     "wikwik": 119,
     "heal": 351,
-    "menu": 329,
+    "menu": 330,
     "owner": 18,
     "script": 11,
     "joinrpg": 53,
@@ -3710,7 +3710,7 @@
     "265944542793975": 1,
     "berburu": 135,
     "masak": 67,
-    "rpgmenu": 42,
+    "rpgmenu": 43,
     "makan": 37,
     "repair": 1,
     "kapal": 6,
@@ -4211,7 +4211,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 50,
-    "berlayar": 169,
+    "berlayar": 170,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -5549,5 +5549,5 @@
     "stcsticker": 1,
     "setintro": 1
   },
-  "lastUpdated": 1778014264369
+  "lastUpdated": 1778014324348
 }
