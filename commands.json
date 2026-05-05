@@ -3659,8 +3659,8 @@
     "p": 6,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 119,
-    "heal": 351,
+    "wikwik": 120,
+    "heal": 353,
     "menu": 330,
     "owner": 18,
     "script": 11,
@@ -4637,7 +4637,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 33,
+    "mining": 34,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5549,5 +5549,5 @@
     "stcsticker": 1,
     "setintro": 1
   },
-  "lastUpdated": 1778014324348
+  "lastUpdated": 1778014384360
 }
