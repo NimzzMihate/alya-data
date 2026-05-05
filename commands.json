@@ -3693,7 +3693,7 @@
     "removebg": 104,
     "addown": 7,
     "listowner": 16,
-    "brat": 145,
+    "brat": 147,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 110,
@@ -4154,7 +4154,7 @@
     "petmenu": 4,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 182,
+    "battlepet": 183,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5519,5 +5519,5 @@
     "271369455562992": 1,
     "antibokep": 4
   },
-  "lastUpdated": 1777979383322
+  "lastUpdated": 1777979443318
 }
