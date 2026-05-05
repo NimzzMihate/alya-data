@@ -3693,7 +3693,7 @@
     "removebg": 104,
     "addown": 7,
     "listowner": 16,
-    "brat": 149,
+    "brat": 150,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 110,
@@ -3792,7 +3792,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 385,
+    "saldo": 386,
     "demote": 19,
     "sendgc": 2,
     "kirimke": 1,
@@ -3988,7 +3988,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 592,
+    "tf": 593,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4542,7 +4542,7 @@
     "fish": 1,
     "poke": 4,
     "anjg": 74,
-    "cekbank": 79,
+    "cekbank": 80,
     "cektomboy": 3,
     "bajingan": 12,
     "tabungan": 9,
@@ -5520,7 +5520,8 @@
     "antibokep": 5,
     "antilink": 7,
     "point": 2,
-    "!!!!": 1
+    "!!!!": 1,
+    "whatflag": 1
   },
-  "lastUpdated": 1777979786716
+  "lastUpdated": 1777979846712
 }
