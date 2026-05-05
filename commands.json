@@ -3661,7 +3661,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 338,
-    "menu": 300,
+    "menu": 302,
     "owner": 15,
     "script": 11,
     "joinrpg": 52,
@@ -3849,7 +3849,7 @@
     "pabrik": 1,
     "fitnah": 197,
     "puji": 251,
-    "pacar": 297,
+    "pacar": 298,
     "carikarakter": 238,
     "nembak": 172,
     "cry": 7,
@@ -5515,5 +5515,5 @@
     "snippethelp": 1,
     "setprefix": 2
   },
-  "lastUpdated": 1777975462011
+  "lastUpdated": 1777975522009
 }
