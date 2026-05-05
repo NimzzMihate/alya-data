@@ -3660,8 +3660,8 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 303,
-    "menu": 291,
+    "heal": 304,
+    "menu": 292,
     "owner": 15,
     "script": 11,
     "joinrpg": 52,
@@ -3698,7 +3698,7 @@
     "editfoto": 101,
     "dailymisi": 102,
     "open-bo": 58,
-    "ewepaksa": 239,
+    "ewepaksa": 240,
     "topglobal": 143,
     "6285789692015": 1,
     "buy": 847,
@@ -4436,7 +4436,7 @@
     "scale": 2,
     "smile": 4,
     "rasio": 1,
-    "ewe": 54,
+    "ewe": 56,
     "nonc": 1,
     "naonc": 1,
     "mabar": 1,
@@ -5506,5 +5506,5 @@
     "downloadermenu": 1,
     "ntaji": 1
   },
-  "lastUpdated": 1777946054046
+  "lastUpdated": 1777946114048
 }
