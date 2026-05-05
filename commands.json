@@ -3697,7 +3697,7 @@
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 110,
-    "open-bo": 63,
+    "open-bo": 64,
     "ewepaksa": 246,
     "topglobal": 149,
     "6285789692015": 1,
@@ -3792,7 +3792,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 388,
+    "saldo": 389,
     "demote": 19,
     "sendgc": 2,
     "kirimke": 1,
@@ -5531,5 +5531,5 @@
     "close-bo": 1,
     "ah": 1
   },
-  "lastUpdated": 1777981658909
+  "lastUpdated": 1777981766820
 }
