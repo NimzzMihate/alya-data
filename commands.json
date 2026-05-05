@@ -3675,7 +3675,7 @@
     ">": 7,
     "addapi": 4,
     "pin": 324,
-    "hd": 357,
+    "hd": 358,
     "useitem": 7,
     "77605898313906": 335,
     "huxin": 13,
@@ -4093,7 +4093,7 @@
     "istiku": 1,
     "cerai": 29,
     "putus": 171,
-    "crop": 76,
+    "crop": 77,
     "shopgift": 61,
     "give": 3,
     "asep": 1,
@@ -5550,5 +5550,5 @@
     "stcsticker": 1,
     "setintro": 2
   },
-  "lastUpdated": 1778022610474
+  "lastUpdated": 1778022670471
 }
