@@ -3660,7 +3660,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 319,
+    "heal": 320,
     "menu": 293,
     "owner": 15,
     "script": 11,
@@ -3696,10 +3696,10 @@
     "brat": 142,
     "brathd": 2,
     "editfoto": 101,
-    "dailymisi": 102,
+    "dailymisi": 103,
     "open-bo": 58,
     "ewepaksa": 241,
-    "topglobal": 145,
+    "topglobal": 146,
     "6285789692015": 1,
     "buy": 847,
     "smeme": 262,
@@ -5507,5 +5507,5 @@
     "ntaji": 1,
     "hf": 1
   },
-  "lastUpdated": 1777964134909
+  "lastUpdated": 1777964194905
 }
