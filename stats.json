@@ -3,8 +3,8 @@
   "totalUsers": 1188,
   "totalGroups": 40,
   "totalFeatures": 3611,
-  "totalCmd": 37758,
-  "totalChat": 37758,
+  "totalCmd": 37766,
+  "totalChat": 37766,
   "topCommands": [
     {
       "cmd": "afk",
@@ -12,7 +12,7 @@
     },
     {
       "cmd": "pap",
-      "count": 908
+      "count": 910
     },
     {
       "cmd": "me",
@@ -20,11 +20,11 @@
     },
     {
       "cmd": "buy",
-      "count": 852
+      "count": 853
     },
     {
       "cmd": "gift",
-      "count": 788
+      "count": 789
     },
     {
       "cmd": "rampok2",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 421,
-  "lastUpdated": 1777980878868
+  "uptimeSeconds": 481,
+  "lastUpdated": 1777980938866
 }
