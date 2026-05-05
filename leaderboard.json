@@ -21,8 +21,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 455,
-      "exp": 1092405,
-      "saldo": 28095
+      "exp": 1092616,
+      "saldo": null
     },
     {
       "name": "⚊bímm153",
@@ -93,7 +93,7 @@
     {
       "name": "Souta",
       "level": 32,
-      "exp": 78499,
+      "exp": 78577,
       "saldo": 2.8369242737450238e+44
     },
     {
@@ -122,6 +122,12 @@
     }
   ],
   "saldo": [
+    {
+      "name": "Ditz ketoprak",
+      "level": 455,
+      "exp": 1092616,
+      "saldo": null
+    },
     {
       "name": "Lejen",
       "level": 64,
@@ -191,7 +197,7 @@
     {
       "name": "Souta",
       "level": 32,
-      "exp": 78499,
+      "exp": 78577,
       "saldo": 2.8369242737450238e+44
     },
     {
@@ -235,12 +241,6 @@
       "level": 72,
       "exp": 173751,
       "saldo": 1.0009900140965517e+26
-    },
-    {
-      "name": "Ryeeezzzz•CDID",
-      "level": 122,
-      "exp": 116873,
-      "saldo": 1e+26
     }
   ],
   "exp": [
@@ -259,8 +259,8 @@
     {
       "name": "Ditz ketoprak",
       "level": 455,
-      "exp": 1092405,
-      "saldo": 28095
+      "exp": 1092616,
+      "saldo": null
     },
     {
       "name": "⚊bímm153",
@@ -337,7 +337,7 @@
     {
       "name": "Souta",
       "level": 32,
-      "exp": 78499,
+      "exp": 78577,
       "saldo": 2.8369242737450238e+44
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777979443318
+  "lastUpdated": 1777979503319
 }
