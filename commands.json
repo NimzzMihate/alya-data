@@ -3640,7 +3640,7 @@
     "6285609504925": 15,
     "atm": 195,
     "bank": 134,
-    "afk": 1656,
+    "afk": 1657,
     "kerja": 119,
     "628176533297": 14,
     "s": 583,
@@ -4210,7 +4210,7 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 40,
+    "nyampah": 41,
     "berlayar": 147,
     "6285817528851": 2,
     "reedem": 2,
@@ -4378,7 +4378,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 2,
-    "628895327267": 148,
+    "628895327267": 149,
     "ceklimit": 9,
     "ceksaldo": 71,
     "selectskill": 2,
@@ -5506,5 +5506,5 @@
     "downloadermenu": 1,
     "ntaji": 1
   },
-  "lastUpdated": 1777939478687
+  "lastUpdated": 1777939538691
 }
