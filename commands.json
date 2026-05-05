@@ -3635,11 +3635,11 @@
     "ngaji": 117,
     "ewe-paksa": 65,
     "me": 860,
-    "setbg": 51,
+    "setbg": 52,
     "rampok2": 665,
     "6285609504925": 15,
     "atm": 196,
-    "bank": 135,
+    "bank": 136,
     "afk": 1690,
     "kerja": 128,
     "628176533297": 14,
@@ -4092,7 +4092,7 @@
     "istiku": 1,
     "cerai": 29,
     "putus": 167,
-    "crop": 75,
+    "crop": 76,
     "shopgift": 60,
     "give": 3,
     "asep": 1,
@@ -4944,7 +4944,7 @@
     "qc": 10,
     "siapakahaku": 3,
     "yts": 1,
-    "ngepet": 14,
+    "ngepet": 15,
     "keyboard": 1,
     "buildmlbb": 1,
     "buildhero": 1,
@@ -5517,5 +5517,5 @@
     "listsewa": 1,
     "zzzzzzzzzz": 1
   },
-  "lastUpdated": 1777978423301
+  "lastUpdated": 1777978483301
 }
