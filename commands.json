@@ -3988,7 +3988,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 599,
+    "tf": 601,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4380,7 +4380,7 @@
     "invpd": 2,
     "628895327267": 164,
     "ceklimit": 9,
-    "ceksaldo": 73,
+    "ceksaldo": 74,
     "selectskill": 2,
     "ternak": 1,
     "berternak": 1,
@@ -5521,7 +5521,8 @@
     "antilink": 7,
     "point": 2,
     "!!!!": 1,
-    "whatflag": 1
+    "whatflag": 1,
+    "160851440996378": 1
   },
-  "lastUpdated": 1777979966714
+  "lastUpdated": 1777980026719
 }
