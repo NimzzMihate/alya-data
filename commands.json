@@ -5254,9 +5254,9 @@
     "gens-vievpoint": 1,
     "gens-viewpoint": 1,
     "islamicmenu": 1,
-    "alquran": 2,
+    "alquran": 4,
     "pantunislam": 1,
-    "gislam": 4,
+    "gislam": 5,
     "contoh": 1,
     "pedagang": 2,
     "anjir": 1,
@@ -5515,5 +5515,5 @@
     "snippethelp": 1,
     "setprefix": 2
   },
-  "lastUpdated": 1777976542008
+  "lastUpdated": 1777976602017
 }
