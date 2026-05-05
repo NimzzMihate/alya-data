@@ -3661,7 +3661,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 346,
-    "menu": 320,
+    "menu": 321,
     "owner": 17,
     "script": 11,
     "joinrpg": 52,
@@ -3792,7 +3792,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 379,
+    "saldo": 380,
     "demote": 19,
     "sendgc": 2,
     "kirimke": 1,
@@ -3988,7 +3988,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 584,
+    "tf": 586,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4103,7 +4103,7 @@
     "lamar": 16,
     "beli": 9,
     "maaf": 9,
-    "sg": 150,
+    "sg": 152,
     "shop": 30,
     "168238516305969": 56,
     "atmtake": 37,
@@ -5516,7 +5516,8 @@
     "setprefix": 2,
     "listsewa": 1,
     "zzzzzzzzzz": 1,
-    "271369455562992": 1
+    "271369455562992": 1,
+    "antibokep": 2
   },
-  "lastUpdated": 1777979263318
+  "lastUpdated": 1777979323318
 }
