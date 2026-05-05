@@ -3660,7 +3660,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 120,
-    "heal": 374,
+    "heal": 376,
     "menu": 331,
     "owner": 18,
     "script": 11,
@@ -3686,7 +3686,7 @@
     "gift": 797,
     "ajakmain": 146,
     "daily": 98,
-    "adventure": 194,
+    "adventure": 195,
     "cf": 21,
     "nai2": 567,
     "6282137487477": 73,
@@ -3709,7 +3709,7 @@
     "setpp": 102,
     "265944542793975": 1,
     "berburu": 135,
-    "masak": 67,
+    "masak": 68,
     "rpgmenu": 43,
     "makan": 37,
     "repair": 1,
@@ -3778,7 +3778,7 @@
     "....": 3,
     "setprofile": 173,
     "daftar": 44,
-    "profile": 92,
+    "profile": 93,
     "topactive": 149,
     "verify": 34,
     "daftr": 14,
@@ -4211,7 +4211,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 50,
-    "berlayar": 189,
+    "berlayar": 192,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -5549,5 +5549,5 @@
     "stcsticker": 1,
     "setintro": 1
   },
-  "lastUpdated": 1778015821825
+  "lastUpdated": 1778015881829
 }
