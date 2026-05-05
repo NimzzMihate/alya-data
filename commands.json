@@ -5146,7 +5146,7 @@
     "apilist": 1,
     "bai": 1,
     "170115635105874": 2,
-    "tourl4": 32,
+    "tourl4": 34,
     "lrampok2": 1,
     "n": 1,
     "narto": 1,
@@ -5254,7 +5254,7 @@
     "gens-vievpoint": 1,
     "gens-viewpoint": 1,
     "islamicmenu": 1,
-    "alquran": 4,
+    "alquran": 6,
     "pantunislam": 1,
     "gislam": 7,
     "contoh": 1,
@@ -5515,5 +5515,5 @@
     "snippethelp": 1,
     "setprefix": 2
   },
-  "lastUpdated": 1777977717051
+  "lastUpdated": 1777977777048
 }
