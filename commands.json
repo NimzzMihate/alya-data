@@ -3660,7 +3660,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 308,
+    "heal": 309,
     "menu": 293,
     "owner": 15,
     "script": 11,
@@ -3686,7 +3686,7 @@
     "gift": 785,
     "ajakmain": 144,
     "daily": 95,
-    "adventure": 149,
+    "adventure": 151,
     "cf": 21,
     "nai2": 541,
     "6282137487477": 73,
@@ -5506,5 +5506,5 @@
     "downloadermenu": 1,
     "ntaji": 1
   },
-  "lastUpdated": 1777950434145
+  "lastUpdated": 1777950494141
 }
