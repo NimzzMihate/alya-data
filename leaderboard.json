@@ -45,7 +45,7 @@
     {
       "name": "axell",
       "level": 118,
-      "exp": 284135,
+      "exp": 284218,
       "saldo": 1e+140
     },
     {
@@ -93,8 +93,8 @@
     {
       "name": "Souta",
       "level": 30,
-      "exp": 72798,
-      "saldo": 480625437
+      "exp": 72873,
+      "saldo": 480628840
     },
     {
       "name": "Oguri cap",
@@ -131,7 +131,7 @@
     {
       "name": "axell",
       "level": 118,
-      "exp": 284135,
+      "exp": 284218,
       "saldo": 1e+140
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "axell",
       "level": 118,
-      "exp": 284135,
+      "exp": 284218,
       "saldo": 1e+140
     },
     {
@@ -337,8 +337,8 @@
     {
       "name": "Souta",
       "level": 30,
-      "exp": 72798,
-      "saldo": 480625437
+      "exp": 72873,
+      "saldo": 480628840
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777978423301
+  "lastUpdated": 1777978483301
 }
