@@ -4115,10 +4115,10 @@
     "cekbatang": 101,
     "tahun": 3,
     "6289530116661": 1,
-    "adoptpet": 37,
+    "adoptpet": 39,
     "petstat": 45,
-    "playpet": 123,
-    "feedpet": 194,
+    "playpet": 124,
+    "feedpet": 197,
     "namapet": 3,
     "namepet": 14,
     "statpet": 7,
@@ -4154,7 +4154,7 @@
     "petmenu": 4,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 181,
+    "battlepet": 182,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5517,5 +5517,5 @@
     "listsewa": 1,
     "zzzzzzzzzz": 1
   },
-  "lastUpdated": 1777978963316
+  "lastUpdated": 1777979023318
 }
