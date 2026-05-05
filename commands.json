@@ -3662,7 +3662,7 @@
     "61405583679507": 1,
     "wikwik": 120,
     "heal": 392,
-    "menu": 332,
+    "menu": 333,
     "owner": 18,
     "script": 11,
     "joinrpg": 53,
@@ -3711,7 +3711,7 @@
     "265944542793975": 1,
     "berburu": 135,
     "masak": 69,
-    "rpgmenu": 43,
+    "rpgmenu": 44,
     "makan": 37,
     "repair": 1,
     "kapal": 6,
@@ -5548,7 +5548,8 @@
     "souta": 1,
     "gantipp": 2,
     "stcsticker": 1,
-    "setintro": 2
+    "setintro": 2,
+    "nebang": 1
   },
-  "lastUpdated": 1778023810475
+  "lastUpdated": 1778023870475
 }
