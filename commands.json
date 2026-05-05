@@ -3666,7 +3666,7 @@
     "script": 11,
     "joinrpg": 53,
     "mentahan": 1,
-    "claim": 77,
+    "claim": 79,
     "cekidch": 16,
     "tourl": 48,
     "title": 1,
@@ -3696,7 +3696,7 @@
     "brat": 156,
     "brathd": 2,
     "editfoto": 101,
-    "dailymisi": 110,
+    "dailymisi": 111,
     "open-bo": 65,
     "ewepaksa": 250,
     "topglobal": 149,
@@ -4117,8 +4117,8 @@
     "6289530116661": 1,
     "adoptpet": 39,
     "petstat": 45,
-    "playpet": 125,
-    "feedpet": 198,
+    "playpet": 126,
+    "feedpet": 199,
     "namapet": 3,
     "namepet": 15,
     "statpet": 7,
@@ -4206,7 +4206,7 @@
     "releaseper": 1,
     "releasepet": 2,
     "remini": 18,
-    "openbo": 47,
+    "openbo": 48,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
@@ -5549,5 +5549,5 @@
     "stcsticker": 1,
     "setintro": 1
   },
-  "lastUpdated": 1778014144343
+  "lastUpdated": 1778014204342
 }
