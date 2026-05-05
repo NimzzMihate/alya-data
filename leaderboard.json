@@ -87,14 +87,14 @@
     {
       "name": "*KUROSE*",
       "level": 40,
-      "exp": 97420,
-      "saldo": 0
+      "exp": 97472,
+      "saldo": 1
     },
     {
       "name": "Souta",
       "level": 33,
-      "exp": 80378,
-      "saldo": 10018319
+      "exp": 80445,
+      "saldo": 10018318
     },
     {
       "name": "Oguri cap",
@@ -331,14 +331,14 @@
     {
       "name": "*KUROSE*",
       "level": 40,
-      "exp": 97420,
-      "saldo": 0
+      "exp": 97472,
+      "saldo": 1
     },
     {
       "name": "Souta",
       "level": 33,
-      "exp": 80378,
-      "saldo": 10018319
+      "exp": 80445,
+      "saldo": 10018318
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777983386848
+  "lastUpdated": 1777983446848
 }
