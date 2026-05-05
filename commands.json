@@ -3792,7 +3792,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 381,
+    "saldo": 382,
     "demote": 19,
     "sendgc": 2,
     "kirimke": 1,
@@ -3845,7 +3845,7 @@
     "cekgay": 35,
     "ytdoc": 58,
     "hargasewa": 4,
-    "d": 272,
+    "d": 273,
     "pabrik": 1,
     "fitnah": 197,
     "puji": 251,
@@ -4441,7 +4441,7 @@
     "naonc": 1,
     "mabar": 1,
     "malam": 3,
-    "addsaldo": 33,
+    "addsaldo": 34,
     "3260467388514": 50,
     "peluk": 3,
     "nambahpacat": 1,
@@ -5517,7 +5517,8 @@
     "listsewa": 1,
     "zzzzzzzzzz": 1,
     "271369455562992": 1,
-    "antibokep": 4
+    "antibokep": 4,
+    "antilink": 3
   },
-  "lastUpdated": 1777979443318
+  "lastUpdated": 1777979503319
 }
