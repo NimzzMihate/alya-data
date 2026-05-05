@@ -3697,7 +3697,7 @@
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 110,
-    "open-bo": 60,
+    "open-bo": 62,
     "ewepaksa": 246,
     "topglobal": 149,
     "6285789692015": 1,
@@ -5527,7 +5527,8 @@
     "invd": 1,
     "joko": 2,
     "yanas": 1,
-    "tokoh": 1
+    "tokoh": 1,
+    "close-bo": 1
   },
-  "lastUpdated": 1777981418907
+  "lastUpdated": 1777981478906
 }
