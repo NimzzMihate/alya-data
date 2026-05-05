@@ -3848,7 +3848,7 @@
     "d": 273,
     "pabrik": 1,
     "fitnah": 197,
-    "puji": 253,
+    "puji": 254,
     "pacar": 302,
     "carikarakter": 243,
     "nembak": 180,
@@ -5318,7 +5318,7 @@
     "upsw": 1,
     "totag": 32,
     "liston": 2,
-    "cecanmenu": 1,
+    "cecanmenu": 2,
     "menuall": 1,
     "addcmd": 1,
     "buy1gb": 3,
@@ -5535,7 +5535,8 @@
     "berdoa": 1,
     "ngentot": 1,
     "ewe-": 1,
-    "detailkrakter": 1
+    "detailkrakter": 1,
+    "china": 1
   },
-  "lastUpdated": 1777984061597
+  "lastUpdated": 1777984121585
 }
