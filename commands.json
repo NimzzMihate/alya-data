@@ -3661,7 +3661,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 338,
-    "menu": 302,
+    "menu": 303,
     "owner": 16,
     "script": 11,
     "joinrpg": 52,
@@ -4920,7 +4920,7 @@
     "ytsearch": 3,
     "41176472277013": 1,
     "exp": 1,
-    "islammenu": 2,
+    "islammenu": 3,
     "fun": 1,
     "bugmenu": 1,
     "carikaracter": 1,
@@ -5515,5 +5515,5 @@
     "snippethelp": 1,
     "setprefix": 2
   },
-  "lastUpdated": 1777976482028
+  "lastUpdated": 1777976542008
 }
