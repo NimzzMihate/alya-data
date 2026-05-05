@@ -3636,7 +3636,7 @@
     "ewe-paksa": 65,
     "me": 871,
     "setbg": 53,
-    "rampok2": 667,
+    "rampok2": 669,
     "6285609504925": 15,
     "atm": 196,
     "bank": 140,
@@ -5530,7 +5530,8 @@
     "tokoh": 1,
     "close-bo": 1,
     "ah": 1,
-    "atm-tarik": 2
+    "atm-tarik": 2,
+    "rampok10": 1
   },
-  "lastUpdated": 1777982666825
+  "lastUpdated": 1777982726823
 }
