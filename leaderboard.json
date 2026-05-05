@@ -37,16 +37,16 @@
       "saldo": 1.2039423357307736e+27
     },
     {
+      "name": "axell",
+      "level": 125,
+      "exp": 300887,
+      "saldo": 1e+140
+    },
+    {
       "name": "Ryeeezzzz•CDID",
       "level": 122,
       "exp": 116924,
       "saldo": 1e+26
-    },
-    {
-      "name": "axell",
-      "level": 121,
-      "exp": 291244,
-      "saldo": 1e+140
     },
     {
       "name": "SuperKeyy",
@@ -130,8 +130,8 @@
     },
     {
       "name": "axell",
-      "level": 121,
-      "exp": 291244,
+      "level": 125,
+      "exp": 300887,
       "saldo": 1e+140
     },
     {
@@ -282,8 +282,8 @@
     },
     {
       "name": "axell",
-      "level": 121,
-      "exp": 291244,
+      "level": 125,
+      "exp": 300887,
       "saldo": 1e+140
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1778014084324
+  "lastUpdated": 1778014144343
 }
