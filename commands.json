@@ -3641,7 +3641,7 @@
     "atm": 196,
     "bank": 135,
     "afk": 1687,
-    "kerja": 126,
+    "kerja": 127,
     "628176533297": 14,
     "s": 583,
     "jwkwnwkabs": 1,
@@ -3661,7 +3661,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 340,
-    "menu": 307,
+    "menu": 308,
     "owner": 16,
     "script": 11,
     "joinrpg": 52,
@@ -4309,7 +4309,7 @@
     "???": 2,
     "?": 6,
     "@250693499797710": 2,
-    "ngojek": 58,
+    "ngojek": 59,
     "rt": 15,
     ".e": 2,
     "kokop": 1,
@@ -4754,7 +4754,7 @@
     "pict": 1,
     "putihkan": 5,
     "pulihkan": 1,
-    "level": 5,
+    "level": 6,
     "leave": 3,
     "my": 1,
     "bl": 1,
@@ -5515,5 +5515,5 @@
     "snippethelp": 1,
     "setprefix": 2
   },
-  "lastUpdated": 1777978017049
+  "lastUpdated": 1777978077048
 }
