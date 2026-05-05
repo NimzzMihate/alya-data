@@ -3627,7 +3627,7 @@
     "231179": 2,
     "2694099605": 25,
     "backup": 7,
-    "get": 109,
+    "get": 110,
     "tohtml": 11,
     "ranked": 100,
     "mobaprofile": 15,
@@ -5549,5 +5549,5 @@
     "stcsticker": 1,
     "setintro": 1
   },
-  "lastUpdated": 1778020450445
+  "lastUpdated": 1778020510452
 }
