@@ -3615,7 +3615,7 @@
   "usage": {
     "2": 1,
     "3": 2,
-    "5": 1,
+    "5": 2,
     "9": 1,
     "13": 1,
     "28": 1,
@@ -3686,9 +3686,9 @@
     "gift": 795,
     "ajakmain": 146,
     "daily": 98,
-    "adventure": 172,
+    "adventure": 173,
     "cf": 21,
-    "nai2": 566,
+    "nai2": 567,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -4211,7 +4211,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 50,
-    "berlayar": 171,
+    "berlayar": 172,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -5549,5 +5549,5 @@
     "stcsticker": 1,
     "setintro": 1
   },
-  "lastUpdated": 1778015221821
+  "lastUpdated": 1778015281826
 }
