@@ -4275,7 +4275,7 @@
     "cekstatuspacar": 1,
     "tff": 1,
     "tft": 2,
-    "toko": 1,
+    "toko": 2,
     "penjara": 2,
     "ambil": 1,
     "listchat": 2,
@@ -4377,7 +4377,7 @@
     "nulis": 5,
     "listrank": 1,
     "68458205204495": 17,
-    "invpd": 2,
+    "invpd": 3,
     "628895327267": 168,
     "ceklimit": 9,
     "ceksaldo": 75,
@@ -5524,7 +5524,9 @@
     "whatflag": 1,
     "160851440996378": 1,
     "uang": 1,
-    "invd": 1
+    "invd": 1,
+    "joko": 1,
+    "yanas": 1
   },
-  "lastUpdated": 1777981178912
+  "lastUpdated": 1777981238908
 }
