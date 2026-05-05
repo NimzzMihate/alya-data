@@ -3666,7 +3666,7 @@
     "script": 11,
     "joinrpg": 53,
     "mentahan": 1,
-    "claim": 76,
+    "claim": 77,
     "cekidch": 16,
     "tourl": 48,
     "title": 1,
@@ -4379,7 +4379,7 @@
     "68458205204495": 17,
     "invpd": 3,
     "628895327267": 168,
-    "ceklimit": 9,
+    "ceklimit": 10,
     "ceksaldo": 75,
     "selectskill": 2,
     "ternak": 1,
@@ -5541,5 +5541,5 @@
     "cekbatamg": 1,
     "vembatang": 1
   },
-  "lastUpdated": 1777984481588
+  "lastUpdated": 1777984541589
 }
