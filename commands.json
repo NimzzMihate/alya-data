@@ -4665,7 +4665,7 @@
     "pvp": 1,
     "stop": 1,
     "hentikan": 1,
-    "mode": 4,
+    "mode": 5,
     "battlepat": 2,
     "rampokw": 3,
     "tea": 1,
@@ -5514,5 +5514,5 @@
     "lapor": 1,
     "snippethelp": 1
   },
-  "lastUpdated": 1777975162005
+  "lastUpdated": 1777975222003
 }
