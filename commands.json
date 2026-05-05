@@ -3661,7 +3661,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 338,
-    "menu": 305,
+    "menu": 307,
     "owner": 16,
     "script": 11,
     "joinrpg": 52,
@@ -5515,5 +5515,5 @@
     "snippethelp": 1,
     "setprefix": 2
   },
-  "lastUpdated": 1777977357049
+  "lastUpdated": 1777977417047
 }
