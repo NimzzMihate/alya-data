@@ -9,8 +9,8 @@
     {
       "name": "Xarzzx",
       "level": 594,
-      "exp": 1426393,
-      "saldo": 2497434
+      "exp": 1426476,
+      "saldo": 0
     },
     {
       "name": "Nimzz >.<",
@@ -45,7 +45,7 @@
     {
       "name": "axell",
       "level": 116,
-      "exp": 279120,
+      "exp": 279190,
       "saldo": 1e+140
     },
     {
@@ -131,7 +131,7 @@
     {
       "name": "axell",
       "level": 116,
-      "exp": 279120,
+      "exp": 279190,
       "saldo": 1e+140
     },
     {
@@ -253,8 +253,8 @@
     {
       "name": "Xarzzx",
       "level": 594,
-      "exp": 1426393,
-      "saldo": 2497434
+      "exp": 1426476,
+      "saldo": 0
     },
     {
       "name": "Ditz ketoprak",
@@ -283,7 +283,7 @@
     {
       "name": "axell",
       "level": 116,
-      "exp": 279120,
+      "exp": 279190,
       "saldo": 1e+140
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1777964961357
+  "lastUpdated": 1777965021363
 }
