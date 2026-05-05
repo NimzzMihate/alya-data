@@ -3673,7 +3673,7 @@
     "6281393286345": 283,
     ">": 7,
     "addapi": 4,
-    "pin": 320,
+    "pin": 321,
     "hd": 354,
     "useitem": 7,
     "77605898313906": 335,
@@ -3903,7 +3903,7 @@
     "getcase": 14,
     "/": 18,
     "cekcantik": 91,
-    "toplocal": 72,
+    "toplocal": 73,
     "forward": 508,
     "6283147484272": 6,
     "cekfemboty": 1,
@@ -4115,10 +4115,10 @@
     "cekbatang": 101,
     "tahun": 3,
     "6289530116661": 1,
-    "adoptpet": 35,
+    "adoptpet": 37,
     "petstat": 45,
-    "playpet": 121,
-    "feedpet": 193,
+    "playpet": 122,
+    "feedpet": 194,
     "namapet": 3,
     "namepet": 13,
     "statpet": 7,
@@ -4428,7 +4428,7 @@
     "uncap": 13,
     "jembod": 1,
     "femboy": 35,
-    "pet": 10,
+    "pet": 11,
     "cewe": 1,
     "mana": 1,
     "dana": 2,
@@ -5517,5 +5517,5 @@
     "listsewa": 1,
     "zzzzzzzzzz": 1
   },
-  "lastUpdated": 1777978843318
+  "lastUpdated": 1777978903319
 }
