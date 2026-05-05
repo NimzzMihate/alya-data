@@ -4892,7 +4892,7 @@
     "diffusion": 3,
     "carbon": 2,
     "toptv": 2,
-    "stcrandom": 28,
+    "stcrandom": 31,
     "readvo": 3,
     "say2": 6,
     "hijaukan": 3,
@@ -5545,7 +5545,8 @@
     "whoami": 1,
     "free": 1,
     "souta": 1,
-    "gantipp": 2
+    "gantipp": 2,
+    "stcsticker": 1
   },
-  "lastUpdated": 1777997224219
+  "lastUpdated": 1777997284174
 }
