@@ -3661,7 +3661,7 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 338,
-    "menu": 297,
+    "menu": 300,
     "owner": 15,
     "script": 11,
     "joinrpg": 52,
@@ -3778,7 +3778,7 @@
     "....": 3,
     "setprofile": 173,
     "daftar": 41,
-    "profile": 83,
+    "profile": 85,
     "topactive": 146,
     "verify": 32,
     "daftr": 14,
@@ -3849,7 +3849,7 @@
     "pabrik": 1,
     "fitnah": 197,
     "puji": 251,
-    "pacar": 296,
+    "pacar": 297,
     "carikarakter": 238,
     "nembak": 172,
     "cry": 7,
@@ -3891,7 +3891,7 @@
     "...": 4,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 162,
+    "statuspacar": 163,
     "kasihmakan": 326,
     "kasihminum": 93,
     "naena": 17,
@@ -4117,7 +4117,7 @@
     "6289530116661": 1,
     "adoptpet": 35,
     "petstat": 45,
-    "playpet": 119,
+    "playpet": 120,
     "feedpet": 192,
     "namapet": 3,
     "namepet": 13,
@@ -4310,7 +4310,7 @@
     "?": 6,
     "@250693499797710": 2,
     "ngojek": 57,
-    "rt": 11,
+    "rt": 13,
     ".e": 2,
     "kokop": 1,
     "bailoutt": 1,
@@ -5513,7 +5513,7 @@
     "bug": 1,
     "lapor": 1,
     "snippethelp": 1,
-    "setprefix": 1
+    "setprefix": 2
   },
-  "lastUpdated": 1777975402009
+  "lastUpdated": 1777975462011
 }
