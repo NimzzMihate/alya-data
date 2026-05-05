@@ -3634,7 +3634,7 @@
     "playmoba": 39,
     "ngaji": 118,
     "ewe-paksa": 65,
-    "me": 865,
+    "me": 866,
     "setbg": 53,
     "rampok2": 666,
     "6285609504925": 15,
@@ -3792,7 +3792,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 384,
+    "saldo": 385,
     "demote": 19,
     "sendgc": 2,
     "kirimke": 1,
@@ -3988,7 +3988,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 589,
+    "tf": 591,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4380,7 +4380,7 @@
     "invpd": 2,
     "628895327267": 164,
     "ceklimit": 9,
-    "ceksaldo": 72,
+    "ceksaldo": 73,
     "selectskill": 2,
     "ternak": 1,
     "berternak": 1,
@@ -4892,7 +4892,7 @@
     "diffusion": 3,
     "carbon": 2,
     "toptv": 2,
-    "stcrandom": 13,
+    "stcrandom": 14,
     "readvo": 3,
     "say2": 6,
     "hijaukan": 3,
@@ -5518,7 +5518,9 @@
     "zzzzzzzzzz": 1,
     "271369455562992": 1,
     "antibokep": 4,
-    "antilink": 7
+    "antilink": 7,
+    "point": 2,
+    "!!!!": 1
   },
-  "lastUpdated": 1777979606692
+  "lastUpdated": 1777979666716
 }
