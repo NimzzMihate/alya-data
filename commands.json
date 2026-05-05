@@ -3640,7 +3640,7 @@
     "6285609504925": 15,
     "atm": 196,
     "bank": 135,
-    "afk": 1680,
+    "afk": 1681,
     "kerja": 125,
     "628176533297": 14,
     "s": 583,
@@ -3662,7 +3662,7 @@
     "wikwik": 116,
     "heal": 338,
     "menu": 302,
-    "owner": 15,
+    "owner": 16,
     "script": 11,
     "joinrpg": 52,
     "mentahan": 1,
@@ -4378,7 +4378,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 2,
-    "628895327267": 160,
+    "628895327267": 161,
     "ceklimit": 9,
     "ceksaldo": 72,
     "selectskill": 2,
@@ -4665,7 +4665,7 @@
     "pvp": 1,
     "stop": 1,
     "hentikan": 1,
-    "mode": 5,
+    "mode": 6,
     "battlepat": 2,
     "rampokw": 3,
     "tea": 1,
@@ -5515,5 +5515,5 @@
     "snippethelp": 1,
     "setprefix": 2
   },
-  "lastUpdated": 1777975522009
+  "lastUpdated": 1777975582006
 }
