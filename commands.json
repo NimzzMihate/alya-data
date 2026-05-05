@@ -3661,8 +3661,8 @@
     "61405583679507": 1,
     "wikwik": 116,
     "heal": 347,
-    "menu": 322,
-    "owner": 17,
+    "menu": 323,
+    "owner": 18,
     "script": 11,
     "joinrpg": 53,
     "mentahan": 1,
@@ -4275,7 +4275,7 @@
     "cekstatuspacar": 1,
     "tff": 1,
     "tft": 2,
-    "toko": 2,
+    "toko": 3,
     "penjara": 2,
     "ambil": 1,
     "listchat": 2,
@@ -5525,8 +5525,9 @@
     "160851440996378": 1,
     "uang": 1,
     "invd": 1,
-    "joko": 1,
-    "yanas": 1
+    "joko": 2,
+    "yanas": 1,
+    "tokoh": 1
   },
-  "lastUpdated": 1777981238908
+  "lastUpdated": 1777981298905
 }
