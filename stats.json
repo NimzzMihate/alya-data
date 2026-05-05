@@ -1,10 +1,10 @@
 {
   "botName": "🍄 𝗔𝗹𝘆𝗮 𝗠𝗗",
-  "totalUsers": 1185,
+  "totalUsers": 1186,
   "totalGroups": 40,
   "totalFeatures": 3611,
-  "totalCmd": 37746,
-  "totalChat": 37746,
+  "totalCmd": 37753,
+  "totalChat": 37753,
   "topCommands": [
     {
       "cmd": "afk",
@@ -24,7 +24,7 @@
     },
     {
       "cmd": "gift",
-      "count": 786
+      "count": 788
     },
     {
       "cmd": "rampok2",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 301,
-  "lastUpdated": 1777980758870
+  "uptimeSeconds": 361,
+  "lastUpdated": 1777980818875
 }
