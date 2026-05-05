@@ -3660,7 +3660,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 116,
-    "heal": 311,
+    "heal": 312,
     "menu": 293,
     "owner": 15,
     "script": 11,
@@ -3686,7 +3686,7 @@
     "gift": 785,
     "ajakmain": 144,
     "daily": 95,
-    "adventure": 152,
+    "adventure": 154,
     "cf": 21,
     "nai2": 541,
     "6282137487477": 73,
@@ -4211,7 +4211,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 42,
-    "berlayar": 151,
+    "berlayar": 152,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -4378,7 +4378,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 2,
-    "628895327267": 151,
+    "628895327267": 152,
     "ceklimit": 9,
     "ceksaldo": 71,
     "selectskill": 2,
@@ -5146,7 +5146,7 @@
     "apilist": 1,
     "bai": 1,
     "170115635105874": 2,
-    "tourl4": 28,
+    "tourl4": 29,
     "lrampok2": 1,
     "n": 1,
     "narto": 1,
@@ -5507,5 +5507,5 @@
     "ntaji": 1,
     "hf": 1
   },
-  "lastUpdated": 1777954094161
+  "lastUpdated": 1777954154155
 }
