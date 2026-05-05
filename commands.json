@@ -4193,7 +4193,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 10,
-    "atmall": 189,
+    "atmall": 190,
     "inv": 166,
     "healfull": 13,
     "mute": 5,
@@ -5529,7 +5529,8 @@
     "yanas": 1,
     "tokoh": 1,
     "close-bo": 1,
-    "ah": 1
+    "ah": 1,
+    "atm-tarik": 1
   },
-  "lastUpdated": 1777982486826
+  "lastUpdated": 1777982546823
 }
