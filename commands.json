@@ -3689,7 +3689,7 @@
     "daily": 98,
     "adventure": 204,
     "cf": 21,
-    "nai2": 574,
+    "nai2": 575,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -3730,7 +3730,7 @@
     "tes": 541,
     "listown": 15,
     "getpp": 34,
-    "linkgc": 20,
+    "linkgc": 21,
     "cekpasangan": 121,
     "6281283401829": 7,
     "tembak": 60,
@@ -5509,7 +5509,7 @@
     "hf": 1,
     "nyawit": 1,
     "zzzzzz": 1,
-    "addsewa": 6,
+    "addsewa": 7,
     "creategc": 1,
     "bug": 1,
     "lapor": 1,
@@ -5550,5 +5550,5 @@
     "stcsticker": 1,
     "setintro": 2
   },
-  "lastUpdated": 1778022670471
+  "lastUpdated": 1778022730469
 }
