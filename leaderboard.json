@@ -116,8 +116,8 @@
     },
     {
       "name": "Aul",
-      "level": 17,
-      "exp": 43040,
+      "level": 18,
+      "exp": 43256,
       "saldo": 64933
     }
   ],
@@ -360,10 +360,10 @@
     },
     {
       "name": "Aul",
-      "level": 17,
-      "exp": 43040,
+      "level": 18,
+      "exp": 43256,
       "saldo": 64933
     }
   ],
-  "lastUpdated": 1778054040955
+  "lastUpdated": 1778054100961
 }
