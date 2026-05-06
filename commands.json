@@ -3698,7 +3698,7 @@
     "6281393286345": 287,
     ">": 7,
     "addapi": 4,
-    "pin": 327,
+    "pin": 328,
     "hd": 365,
     "useitem": 7,
     "77605898313906": 336,
@@ -3955,7 +3955,7 @@
     "kecocokan": 10,
     "register": 18,
     "rename": 1,
-    "cn": 92,
+    "cn": 93,
     "cari": 9,
     "menurpg": 4,
     "mengaji": 13,
@@ -4662,7 +4662,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 42,
+    "mining": 43,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5603,5 +5603,5 @@
     "delpremium": 1,
     "ikanbakar": 1
   },
-  "lastUpdated": 1778057417742
+  "lastUpdated": 1778057477744
 }
