@@ -3952,7 +3952,7 @@
     "kecocokan": 10,
     "register": 18,
     "rename": 1,
-    "cn": 91,
+    "cn": 92,
     "cari": 9,
     "menurpg": 4,
     "mengaji": 13,
@@ -4035,7 +4035,7 @@
     "hilangkan": 1,
     "236606158053483": 1,
     "118056370061403": 2,
-    "list": 5,
+    "list": 6,
     "pib": 1,
     "kirimucapan": 1,
     "tiktok": 14,
@@ -4076,7 +4076,7 @@
     "gojo": 1,
     "banyak": 1,
     "...:https://docs.google.com/forms/d/e/1faipqlsdon8gjz-e4lvyaqerqpqlwsphd4w46xnyndbnu_n_bctib_q/viewform?usp=sf_link": 1,
-    "top": 83,
+    "top": 84,
     "spotifys": 32,
     "ttsearch": 55,
     "6283875289405": 18,
@@ -5536,7 +5536,7 @@
     "lapor": 1,
     "snippethelp": 1,
     "setprefix": 2,
-    "listsewa": 1,
+    "listsewa": 2,
     "zzzzzzzzzz": 1,
     "271369455562992": 1,
     "antibokep": 5,
@@ -5577,7 +5577,8 @@
     "anticnpanjang": 2,
     "sh": 1,
     "shsnsave": 1,
-    "snsave": 5
+    "snsave": 5,
+    "listprem": 1
   },
-  "lastUpdated": 1778046038821
+  "lastUpdated": 1778046098807
 }
