@@ -3739,7 +3739,7 @@
     "makan": 39,
     "repair": 1,
     "kapal": 6,
-    "craft": 449,
+    "craft": 450,
     "listheri": 1,
     "listhero": 17,
     "mancing": 15,
@@ -4662,7 +4662,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 46,
+    "mining": 47,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5619,5 +5619,5 @@
     "lishthero": 1,
     "lihthero": 1
   },
-  "lastUpdated": 1778064953636
+  "lastUpdated": 1778065013639
 }
