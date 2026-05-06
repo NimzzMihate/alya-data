@@ -2973,6 +2973,10 @@
     "botinformation",
     "botinfo",
     "infobot",
+    "anticnpanjang",
+    "anticnlong",
+    "limitnama",
+    "limitcn",
     "idulfitri",
     "lebaran",
     "idul",
@@ -3179,6 +3183,10 @@
     "scbackup",
     "backupsc",
     "backup",
+    "setlinkbot",
+    "setlinkgcbot",
+    "setbotlink",
+    "__infosewa__",
     "tests",
     "embut",
     "wkwk",
@@ -5552,5 +5560,5 @@
     "nebang": 1,
     "6282154926421": 1
   },
-  "lastUpdated": 1778027470505
+  "lastUpdated": 1778027530508
 }
