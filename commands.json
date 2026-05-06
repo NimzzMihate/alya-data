@@ -3875,7 +3875,7 @@
     "fitnah": 202,
     "puji": 254,
     "pacar": 303,
-    "carikarakter": 243,
+    "carikarakter": 244,
     "nembak": 181,
     "cry": 7,
     "happy": 4,
@@ -4116,7 +4116,7 @@
     "buatanak": 30,
     "istiku": 1,
     "cerai": 29,
-    "putus": 171,
+    "putus": 172,
     "crop": 79,
     "shopgift": 61,
     "give": 3,
@@ -4474,7 +4474,7 @@
     "commandowner": 1,
     "digitalocean": 1,
     "cekdroplet": 1,
-    "detailkarakter": 106,
+    "detailkarakter": 107,
     "gcsider": 1,
     "quoted": 30,
     "pentol": 4,
@@ -5619,5 +5619,5 @@
     "lishthero": 1,
     "lihthero": 1
   },
-  "lastUpdated": 1778064833636
+  "lastUpdated": 1778064893639
 }
