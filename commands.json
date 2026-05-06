@@ -5621,7 +5621,8 @@
     "pemulung": 1,
     "snget": 2,
     "sngetnlist": 1,
-    "sngetsnlist": 2
+    "sngetsnlist": 2,
+    "addprem": 1
   },
-  "lastUpdated": 1778066513652
+  "lastUpdated": 1778066573652
 }
