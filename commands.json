@@ -3661,7 +3661,7 @@
     "rampok2": 669,
     "6285609504925": 15,
     "atm": 196,
-    "bank": 141,
+    "bank": 142,
     "afk": 1733,
     "kerja": 134,
     "628176533297": 14,
@@ -3683,7 +3683,7 @@
     "61405583679507": 1,
     "wikwik": 120,
     "heal": 400,
-    "menu": 344,
+    "menu": 345,
     "owner": 18,
     "script": 11,
     "joinrpg": 53,
@@ -4483,7 +4483,7 @@
     "yampah": 1,
     "rampo²": 1,
     "enana": 1,
-    "gamesmenu": 23,
+    "gamesmenu": 24,
     "downloadmenu": 2,
     "iya": 2,
     "abu": 1,
@@ -5543,7 +5543,7 @@
     "antilink": 7,
     "point": 2,
     "!!!!": 1,
-    "whatflag": 1,
+    "whatflag": 2,
     "160851440996378": 1,
     "uang": 1,
     "invd": 1,
@@ -5555,7 +5555,7 @@
     "atm-tarik": 2,
     "rampok10": 1,
     "berdoa": 1,
-    "ngentot": 1,
+    "ngentot": 2,
     "ewe-": 1,
     "detailkrakter": 1,
     "china": 1,
@@ -5583,5 +5583,5 @@
     "sewabot": 1,
     "leaderboard": 1
   },
-  "lastUpdated": 1778050716598
+  "lastUpdated": 1778050776600
 }
