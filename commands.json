@@ -3654,12 +3654,12 @@
     "backup": 7,
     "get": 114,
     "tohtml": 11,
-    "ranked": 100,
+    "ranked": 101,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 133,
     "ewe-paksa": 65,
-    "me": 893,
+    "me": 894,
     "setbg": 56,
     "rampok2": 669,
     "6285609504925": 15,
@@ -3713,7 +3713,7 @@
     "daily": 98,
     "adventure": 220,
     "cf": 21,
-    "nai2": 576,
+    "nai2": 577,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -3803,7 +3803,7 @@
     "....": 3,
     "setprofile": 173,
     "daftar": 44,
-    "profile": 99,
+    "profile": 100,
     "topactive": 149,
     "verify": 34,
     "daftr": 14,
@@ -4662,7 +4662,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 41,
+    "mining": 42,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5589,5 +5589,5 @@
     "tebakgambat": 1,
     "yy": 2
   },
-  "lastUpdated": 1778052216609
+  "lastUpdated": 1778052276604
 }
