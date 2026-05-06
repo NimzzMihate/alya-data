@@ -3649,7 +3649,7 @@
     "231179": 2,
     "2694099605": 25,
     "backup": 7,
-    "get": 112,
+    "get": 114,
     "tohtml": 11,
     "ranked": 100,
     "mobaprofile": 15,
@@ -3867,7 +3867,7 @@
     "cekgay": 35,
     "ytdoc": 58,
     "hargasewa": 4,
-    "d": 273,
+    "d": 274,
     "pabrik": 1,
     "fitnah": 197,
     "puji": 254,
@@ -5578,7 +5578,9 @@
     "sh": 1,
     "shsnsave": 1,
     "snsave": 5,
-    "listprem": 1
+    "listprem": 1,
+    "tanpa": 1,
+    "sewabot": 1
   },
-  "lastUpdated": 1778049038840
+  "lastUpdated": 1778049098828
 }
