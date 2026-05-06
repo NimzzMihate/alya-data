@@ -3179,16 +3179,6 @@
     "ewe",
     "begituan",
     "wikwik2",
-    "startimpostor",
-    "impostorstart",
-    "mulaimpostor",
-    "vote",
-    "voteimpostor",
-    "hasilimpostor",
-    "cekvote",
-    "voteresult",
-    "stopimpostor",
-    "impostorend",
     "todak",
     "faktahoax",
     "tebakfakta",
@@ -3870,7 +3860,7 @@
     "edit": 7,
     "6289516231559": 8,
     "tiktoksearch": 34,
-    "cekgay": 35,
+    "cekgay": 36,
     "ytdoc": 59,
     "hargasewa": 4,
     "d": 276,
@@ -3900,7 +3890,7 @@
     "ytmp4": 26,
     "ttdl": 8,
     "playch": 56,
-    "cekganteng": 156,
+    "cekganteng": 157,
     "crkganteng": 1,
     "puqi": 41,
     "anj": 366,
@@ -5627,5 +5617,5 @@
     "sngetsnlist": 2,
     "addprem": 1
   },
-  "lastUpdated": 1778067542446
+  "lastUpdated": 1778067602439
 }
