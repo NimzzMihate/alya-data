@@ -3713,7 +3713,7 @@
     "daily": 98,
     "adventure": 221,
     "cf": 21,
-    "nai2": 602,
+    "nai2": 603,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -5567,7 +5567,7 @@
     "vembatang": 1,
     "welcome": 4,
     "goodbye": 3,
-    "whoami": 1,
+    "whoami": 2,
     "free": 1,
     "souta": 1,
     "gantipp": 2,
@@ -5603,5 +5603,5 @@
     "delpremium": 1,
     "ikanbakar": 1
   },
-  "lastUpdated": 1778056997734
+  "lastUpdated": 1778057057733
 }
