@@ -2429,9 +2429,6 @@
     "cekhobi",
     "cekhoby",
     "cekhobby",
-    "cekhobi",
-    "cekhoby",
-    "cekhobby",
     "jodoh",
     "cekjodoh",
     "femboy",
@@ -3658,7 +3655,7 @@
     "6285609504925": 15,
     "atm": 196,
     "bank": 143,
-    "afk": 1749,
+    "afk": 1750,
     "kerja": 140,
     "628176533297": 14,
     "s": 585,
@@ -3920,7 +3917,7 @@
     "pap2": 130,
     "getcase": 15,
     "/": 19,
-    "cekcantik": 95,
+    "cekcantik": 97,
     "toplocal": 75,
     "forward": 510,
     "6283147484272": 6,
@@ -4026,7 +4023,7 @@
     "tee": 3,
     "6283182874975": 48,
     "6285883750934": 1,
-    "6287883938757": 331,
+    "6287883938757": 332,
     "ttslide": 1,
     "hilangkan": 1,
     "236606158053483": 1,
@@ -5615,7 +5612,8 @@
     "snget": 2,
     "sngetnlist": 1,
     "sngetsnlist": 2,
-    "addprem": 1
+    "addprem": 1,
+    "cekcanting": 1
   },
-  "lastUpdated": 1778067902448
+  "lastUpdated": 1778067962448
 }
