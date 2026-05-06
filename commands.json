@@ -4797,7 +4797,7 @@
     "onlygc": 2,
     "ban": 2,
     "bangc": 2,
-    "unbangc": 1,
+    "unbangc": 2,
     "setsewa": 1,
     "musuh": 1,
     "eus": 2,
@@ -5583,5 +5583,5 @@
     "sewabot": 1,
     "leaderboard": 1
   },
-  "lastUpdated": 1778049398825
+  "lastUpdated": 1778049458822
 }
