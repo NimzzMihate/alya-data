@@ -3686,7 +3686,7 @@
     "61405583679507": 1,
     "wikwik": 124,
     "heal": 410,
-    "menu": 350,
+    "menu": 352,
     "owner": 18,
     "script": 11,
     "joinrpg": 54,
@@ -4330,7 +4330,7 @@
     "getname": 4,
     "amann": 1,
     "resetnama": 3,
-    "menuprem": 2,
+    "menuprem": 3,
     "???": 2,
     "?": 7,
     "@250693499797710": 2,
@@ -5599,5 +5599,5 @@
     "ceklaporan": 1,
     "cekjodoh😈": 1
   },
-  "lastUpdated": 1778054340953
+  "lastUpdated": 1778054400952
 }
