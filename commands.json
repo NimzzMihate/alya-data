@@ -3654,7 +3654,7 @@
     "backup": 9,
     "get": 115,
     "tohtml": 11,
-    "ranked": 102,
+    "ranked": 103,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 137,
@@ -5614,7 +5614,10 @@
     "video": 1,
     "dl": 1,
     "stcmeme": 1,
-    "25014057316561": 1
+    "25014057316561": 1,
+    "hero": 1,
+    "lishthero": 1,
+    "lihthero": 1
   },
-  "lastUpdated": 1778064653633
+  "lastUpdated": 1778064713635
 }
