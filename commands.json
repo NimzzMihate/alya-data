@@ -3881,7 +3881,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 253,
+    "atmpull": 254,
     "promote": 14,
     "reset": 3,
     "memasak": 2,
@@ -4588,7 +4588,7 @@
     "hit": 1,
     "hiu": 1,
     "pukul": 1,
-    "casino": 24,
+    "casino": 26,
     "cekpemain": 1,
     "cekgemini": 1,
     "ulartangga": 73,
@@ -5624,5 +5624,5 @@
     "sngetsnlist": 2,
     "addprem": 1
   },
-  "lastUpdated": 1778066873654
+  "lastUpdated": 1778066933654
 }
