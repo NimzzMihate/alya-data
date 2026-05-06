@@ -3659,7 +3659,7 @@
     "playmoba": 39,
     "ngaji": 137,
     "ewe-paksa": 65,
-    "me": 899,
+    "me": 900,
     "setbg": 57,
     "rampok2": 669,
     "6285609504925": 15,
@@ -3685,7 +3685,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 124,
-    "heal": 423,
+    "heal": 425,
     "menu": 357,
     "owner": 18,
     "script": 11,
@@ -4225,7 +4225,7 @@
     "perstat": 1,
     "lesby": 9,
     "bokeppaksa": 1,
-    "taksi": 14,
+    "taksi": 16,
     "bangsat": 9,
     "foodpet": 2,
     "releaseper": 1,
@@ -5605,7 +5605,8 @@
     "__yuruyuri__": 2,
     "susunkata": 1,
     "intel": 1,
-    "ikatjiwa": 1
+    "ikatjiwa": 1,
+    "_joinrpg_": 2
   },
-  "lastUpdated": 1778062631969
+  "lastUpdated": 1778062691968
 }
