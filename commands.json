@@ -3649,7 +3649,7 @@
     "6285609504925": 15,
     "atm": 196,
     "bank": 141,
-    "afk": 1725,
+    "afk": 1726,
     "kerja": 134,
     "628176533297": 14,
     "s": 585,
@@ -3787,7 +3787,7 @@
     "....": 3,
     "setprofile": 173,
     "daftar": 44,
-    "profile": 97,
+    "profile": 98,
     "topactive": 149,
     "verify": 34,
     "daftr": 14,
@@ -4126,8 +4126,8 @@
     "6289530116661": 1,
     "adoptpet": 39,
     "petstat": 45,
-    "playpet": 127,
-    "feedpet": 200,
+    "playpet": 128,
+    "feedpet": 202,
     "namapet": 3,
     "namepet": 15,
     "statpet": 7,
@@ -4387,7 +4387,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 3,
-    "628895327267": 176,
+    "628895327267": 177,
     "ceklimit": 10,
     "ceksaldo": 76,
     "selectskill": 2,
@@ -5563,5 +5563,5 @@
     "__infosewa__": 2,
     "anticnpanjang": 2
   },
-  "lastUpdated": 1778041898770
+  "lastUpdated": 1778041958771
 }
