@@ -9,8 +9,8 @@
     {
       "name": "Xarzzx",
       "level": 595,
-      "exp": 1428393,
-      "saldo": 7.919272575759963e+134
+      "exp": 1428508,
+      "saldo": 0
     },
     {
       "name": "Nimzz The Best Pemboy",
@@ -32,8 +32,8 @@
     },
     {
       "name": "axell",
-      "level": 139,
-      "exp": 335345,
+      "level": 141,
+      "exp": 338734,
       "saldo": 1e+140
     },
     {
@@ -130,15 +130,9 @@
     },
     {
       "name": "axell",
-      "level": 139,
-      "exp": 335345,
+      "level": 141,
+      "exp": 338734,
       "saldo": 1e+140
-    },
-    {
-      "name": "Xarzzx",
-      "level": 595,
-      "exp": 1428393,
-      "saldo": 7.919272575759963e+134
     },
     {
       "name": ".",
@@ -241,6 +235,12 @@
       "level": 122,
       "exp": 116924,
       "saldo": 1e+26
+    },
+    {
+      "name": "Sanzx",
+      "level": 2,
+      "exp": 4923,
+      "saldo": 1.000000000999995e+25
     }
   ],
   "exp": [
@@ -253,8 +253,8 @@
     {
       "name": "Xarzzx",
       "level": 595,
-      "exp": 1428393,
-      "saldo": 7.919272575759963e+134
+      "exp": 1428508,
+      "saldo": 0
     },
     {
       "name": "Ditz ketoprak",
@@ -276,8 +276,8 @@
     },
     {
       "name": "axell",
-      "level": 139,
-      "exp": 335345,
+      "level": 141,
+      "exp": 338734,
       "saldo": 1e+140
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 252183670087847
     }
   ],
-  "lastUpdated": 1778045558797
+  "lastUpdated": 1778045618795
 }
