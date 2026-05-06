@@ -3641,7 +3641,7 @@
     "ranked": 100,
     "mobaprofile": 15,
     "playmoba": 39,
-    "ngaji": 128,
+    "ngaji": 129,
     "ewe-paksa": 65,
     "me": 883,
     "setbg": 54,
@@ -3669,7 +3669,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 120,
-    "heal": 396,
+    "heal": 397,
     "menu": 335,
     "owner": 18,
     "script": 11,
@@ -3787,7 +3787,7 @@
     "....": 3,
     "setprofile": 173,
     "daftar": 44,
-    "profile": 96,
+    "profile": 97,
     "topactive": 149,
     "verify": 34,
     "daftr": 14,
@@ -5562,5 +5562,5 @@
     "limitcn": 1,
     "__infosewa__": 2
   },
-  "lastUpdated": 1778028818678
+  "lastUpdated": 1778028878673
 }
