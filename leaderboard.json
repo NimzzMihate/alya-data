@@ -3,7 +3,7 @@
     {
       "name": "TX Zeppeli",
       "level": 750,
-      "exp": 1800607,
+      "exp": 1800687,
       "saldo": 750
     },
     {
@@ -247,7 +247,7 @@
     {
       "name": "TX Zeppeli",
       "level": 750,
-      "exp": 1800607,
+      "exp": 1800687,
       "saldo": 750
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 64933
     }
   ],
-  "lastUpdated": 1778069822456
+  "lastUpdated": 1778069882458
 }
