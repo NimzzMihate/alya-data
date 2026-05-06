@@ -3,8 +3,8 @@
   "totalUsers": 1212,
   "totalGroups": 40,
   "totalFeatures": 3635,
-  "totalCmd": 38572,
-  "totalChat": 38572,
+  "totalCmd": 38573,
+  "totalChat": 38573,
   "topCommands": [
     {
       "cmd": "afk",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.3",
   "ratingTotal": 7,
-  "uptimeSeconds": 1501,
-  "lastUpdated": 1778051076609
+  "uptimeSeconds": 1561,
+  "lastUpdated": 1778051136606
 }
