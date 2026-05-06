@@ -3871,7 +3871,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 254,
+    "atmpull": 255,
     "promote": 14,
     "reset": 3,
     "memasak": 2,
@@ -4208,7 +4208,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 10,
-    "atmall": 192,
+    "atmall": 193,
     "inv": 168,
     "healfull": 13,
     "mute": 8,
@@ -4769,7 +4769,7 @@
     "pict": 1,
     "putihkan": 5,
     "pulihkan": 1,
-    "level": 7,
+    "level": 8,
     "leave": 3,
     "my": 1,
     "bl": 1,
@@ -5617,5 +5617,5 @@
     "smeme|": 1,
     "cekxl": 3
   },
-  "lastUpdated": 1778069762457
+  "lastUpdated": 1778069822456
 }
