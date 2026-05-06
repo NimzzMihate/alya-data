@@ -3656,7 +3656,7 @@
     "playmoba": 39,
     "ngaji": 133,
     "ewe-paksa": 65,
-    "me": 892,
+    "me": 893,
     "setbg": 56,
     "rampok2": 669,
     "6285609504925": 15,
@@ -3806,7 +3806,7 @@
     "daftr": 14,
     "status": 19,
     "pap": 912,
-    "tebakbendera": 36,
+    "tebakbendera": 37,
     "tebak": 2,
     "gantinama": 1,
     "69372932575293": 1,
@@ -3999,7 +3999,7 @@
     "mahiru": 1,
     "marshaandthebear": 1,
     "allmenu": 35,
-    "gamemenu": 5,
+    "gamemenu": 6,
     "catur": 240,
     "mulai": 1,
     "e2": 2,
@@ -5581,7 +5581,8 @@
     "listprem": 1,
     "tanpa": 1,
     "sewabot": 1,
-    "leaderboard": 1
+    "leaderboard": 1,
+    "werewolf": 1
   },
-  "lastUpdated": 1778050896606
+  "lastUpdated": 1778050956598
 }
