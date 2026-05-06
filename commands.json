@@ -3685,7 +3685,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 124,
-    "heal": 417,
+    "heal": 418,
     "menu": 355,
     "owner": 18,
     "script": 11,
@@ -3711,7 +3711,7 @@
     "gift": 800,
     "ajakmain": 146,
     "daily": 98,
-    "adventure": 225,
+    "adventure": 226,
     "cf": 21,
     "nai2": 609,
     "6282137487477": 73,
@@ -3901,7 +3901,7 @@
     "crkganteng": 1,
     "puqi": 41,
     "anj": 366,
-    "anjing": 33,
+    "anjing": 34,
     "winkhd": 1,
     "winkuhd": 3,
     "edan": 7,
@@ -4236,7 +4236,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 53,
-    "berlayar": 218,
+    "berlayar": 219,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -4865,7 +4865,7 @@
     "background": 1,
     "ramok2": 1,
     "tampok2": 1,
-    "6287869188222": 85,
+    "6287869188222": 86,
     "toing": 1,
     "toihijab": 1,
     "megumin": 1,
@@ -5603,7 +5603,8 @@
     "delpremium": 1,
     "ikanbakar": 1,
     "__yuruyuri__": 2,
-    "susunkata": 1
+    "susunkata": 1,
+    "intel": 1
   },
-  "lastUpdated": 1778062031965
+  "lastUpdated": 1778062091966
 }
