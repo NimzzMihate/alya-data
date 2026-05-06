@@ -23,16 +23,7 @@
       "author": "Nimzz >.<",
       "authorJid": "6282137487477@s.whatsapp.net",
       "createdAt": 1777920723254
-    },
-    {
-      "id": "2C6XN",
-      "title": "ytdown.js",
-      "author": "Nimzz The Best Pemboy",
-      "code": "import axios from 'axios'\n\nasync function ytdown(url) {\n  const res = await axios.post('https://app.ytdown.to/proxy.php',\n    new URLSearchParams({ url }),\n    {\n      headers: {\n        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',\n        'Accept': '*/*',\n        'X-Requested-With': 'XMLHttpRequest',\n        'User-Agent': 'Mozilla/5.0 (Android 10; Mobile; rv:150.0) Gecko/150.0 Firefox/150.0',\n        'Referer': 'https://app.ytdown.to/id28/'\n      }\n    }\n  )\n\n  const api = res.data.api\n\n  return {\n    title: api.title,\n    id: api.id,\n    thumbnail: api.imagePreviewUrl,\n    uploader: api.userInfo.name,\n    media: api.mediaItems.map(item => ({\n      type: item.type,\n      quality: item.mediaQuality,\n      ext: item.mediaExtension,\n      size: item.mediaFileSize,\n      url: item.mediaUrl\n    }))\n  }\n}\n\nasync function getDirectLink(mediaUrl) {\n  const res = await axios.get(mediaUrl)\n  return {\n    fileName: res.data.fileName,\n    fileUrl: res.data.fileUrl,\n    fileSize: res.data.fileSize\n  }\n}\n\nasync function main() {\n  const result = await ytdown('https://youtube.com/shorts/LBp_4VGDtLA')\n  console.log('Info Video:')\n  console.log('Title:', result.title)\n  console.log('Uploader:', result.uploader)\n  console.log('Media:')\n  console.table(result.media)\n\n  console.log('\\nFetching direct link (audio 128k)...')\n  const direct = await getDirectLink(result.media[7].url)\n  console.log('File:', direct.fileName)\n  console.log('Size:', direct.fileSize)\n  console.log('Download URL:', direct.fileUrl)\n}\n\nmain().catch(console.error)",
-      "category": "Scraper",
-      "language": "JavaScript",
-      "createdAt": 1778043007216
     }
   ],
-  "lastUpdated": 1778043007216
+  "lastUpdated": 1778043038797
 }
