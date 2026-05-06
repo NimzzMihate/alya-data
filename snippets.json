@@ -31,7 +31,16 @@
       "author": "Nimzz </>",
       "authorJid": "6282137487477@s.whatsapp.net",
       "createdAt": 1778071960494
+    },
+    {
+      "id": "UIGR4",
+      "title": "Scraper umamusume char (lengkap, tapi kata kunci harus tepat)",
+      "author": "Nimzz </>",
+      "code": "import axios from 'axios';\n\nasync function getCharacter(slug) {\n    try {\n        const { data } = await axios.get(`https://en-portal.g.kuroco.app/rcms-api/4/characters/${slug}`, {\n            timeout: 10000\n        });\n\n        const char = data.details;\n\n        const result = {\n            success: true,\n            name: char.subject,\n            slug: char.slug,\n            color: char.color,\n            profile: {\n                catch: char.profile.catch || null,\n                va: char.profile.va || null,\n                birthday: char.profile.birthday || null,\n                height: char.profile.height || null,\n                weight: char.profile.weight || null,\n                detail: char.profile.detail || null\n            },\n            voice: char.voice || null,\n            images: {\n                icon: char.download?.icon || null,\n                banner: char.download?.banner || null,\n                gallery: Array.isArray(char.visual)\n                    ? char.visual.map(v => ({\n                        label: v.name.label,\n                        image: v.image,\n                        thumb: v.thumb\n                    }))\n                    : char.visual\n                        ? [{ label: 'Visual', image: char.visual, thumb: null }]\n                        : []\n            }\n        };\n\n        Object.keys(result.profile).forEach(key => {\n            if (result.profile[key] === null) delete result.profile[key];\n        });\n\n        if (result.images.gallery.length === 0) delete result.images.gallery;\n\n        return result;\n\n    } catch (error) {\n        return {\n            success: false,\n            message: error.message\n        };\n    }\n}\n\nasync function searchCharacter(query) {\n    try {\n        const { data } = await axios.get('https://en-portal.g.kuroco.app/rcms-api/4/characters', {\n            timeout: 10000\n        });\n\n        const searchLower = query.toLowerCase();\n        const allChars = [...data.umamusume, ...data.other];\n\n        const found = allChars.find(char =>\n            char.subject.toLowerCase().includes(searchLower)\n        );\n\n        if (!found) {\n            return {\n                success: false,\n                message: `Karakter \"${query}\" tidak ditemukan`\n            };\n        }\n\n        return await getCharacter(found.slug);\n\n    } catch (error) {\n        return {\n            success: false,\n            message: error.message\n        };\n    }\n}\n\nconst query = process.argv[2] || 'tokaiteio';\nconst result = await searchCharacter(query);\nconsole.log(JSON.stringify(result, null, 2));",
+      "language": "JavaScript",
+      "category": "General",
+      "createdAt": 1778108941084
     }
   ],
-  "lastUpdated": 1778108915741
+  "lastUpdated": 1778108941084
 }
