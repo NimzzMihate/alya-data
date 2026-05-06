@@ -5575,7 +5575,9 @@
     "limitcn": 2,
     "__infosewa__": 2,
     "anticnpanjang": 2,
-    "sh": 1
+    "sh": 1,
+    "shsnsave": 1,
+    "snsave": 1
   },
-  "lastUpdated": 1778042018771
+  "lastUpdated": 1778042078772
 }
