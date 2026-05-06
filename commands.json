@@ -4588,7 +4588,7 @@
     "hit": 1,
     "hiu": 1,
     "pukul": 1,
-    "casino": 21,
+    "casino": 24,
     "cekpemain": 1,
     "cekgemini": 1,
     "ulartangga": 73,
@@ -4695,7 +4695,7 @@
     "rampokw": 3,
     "tea": 1,
     "gremory": 1,
-    "delcasino": 10,
+    "delcasino": 12,
     "berkebun": 10,
     "repoy": 1,
     "bgk": 1,
@@ -5624,5 +5624,5 @@
     "sngetsnlist": 2,
     "addprem": 1
   },
-  "lastUpdated": 1778066753658
+  "lastUpdated": 1778066813654
 }
