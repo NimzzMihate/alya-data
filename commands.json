@@ -3685,7 +3685,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 127,
-    "heal": 436,
+    "heal": 437,
     "menu": 359,
     "owner": 18,
     "script": 11,
@@ -3736,7 +3736,7 @@
     "berburu": 140,
     "masak": 72,
     "rpgmenu": 48,
-    "makan": 37,
+    "makan": 39,
     "repair": 1,
     "kapal": 6,
     "craft": 449,
@@ -3855,7 +3855,7 @@
     "93283032285420": 13,
     "188571210244160": 3,
     "222531466350642": 2,
-    "tidur": 41,
+    "tidur": 42,
     "akun": 2,
     "jembott": 1,
     "kuis": 35,
@@ -4142,8 +4142,8 @@
     "6289530116661": 1,
     "adoptpet": 39,
     "petstat": 45,
-    "playpet": 128,
-    "feedpet": 202,
+    "playpet": 129,
+    "feedpet": 203,
     "namapet": 3,
     "namepet": 15,
     "statpet": 7,
@@ -4235,7 +4235,7 @@
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 54,
+    "nyampah": 55,
     "berlayar": 239,
     "6285817528851": 2,
     "reedem": 2,
@@ -5616,5 +5616,5 @@
     "stcmeme": 1,
     "25014057316561": 1
   },
-  "lastUpdated": 1778064533633
+  "lastUpdated": 1778064593634
 }
