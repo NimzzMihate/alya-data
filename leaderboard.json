@@ -93,7 +93,7 @@
     {
       "name": "Souta",
       "level": 38,
-      "exp": 91572,
+      "exp": 91616,
       "saldo": 0
     },
     {
@@ -337,7 +337,7 @@
     {
       "name": "Souta",
       "level": 38,
-      "exp": 91572,
+      "exp": 91616,
       "saldo": 0
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 64933
     }
   ],
-  "lastUpdated": 1778080596666
+  "lastUpdated": 1778080656665
 }
