@@ -3095,6 +3095,19 @@
     "enhanceuhd",
     "hdimage",
     "uhdimage",
+    "snhelp",
+    "sh",
+    "snippethelp",
+    "snsave",
+    "snippetsave",
+    "snlist",
+    "snippetlist",
+    "snget",
+    "snippetget",
+    "snsearch",
+    "snippetsearch",
+    "sndel",
+    "snippetdel",
     "cekgendeng",
     "gendeng",
     "edan",
@@ -3670,7 +3683,7 @@
     "61405583679507": 1,
     "wikwik": 120,
     "heal": 398,
-    "menu": 341,
+    "menu": 342,
     "owner": 18,
     "script": 11,
     "joinrpg": 53,
@@ -5561,7 +5574,8 @@
     "6282154926421": 1,
     "limitcn": 2,
     "__infosewa__": 2,
-    "anticnpanjang": 2
+    "anticnpanjang": 2,
+    "sh": 1
   },
-  "lastUpdated": 1778041958771
+  "lastUpdated": 1778042018771
 }
