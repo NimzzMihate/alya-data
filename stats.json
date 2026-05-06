@@ -3,8 +3,8 @@
   "totalUsers": 1221,
   "totalGroups": 40,
   "totalFeatures": 3635,
-  "totalCmd": 39209,
-  "totalChat": 39209,
+  "totalCmd": 39210,
+  "totalChat": 39210,
   "topCommands": [
     {
       "cmd": "afk",
@@ -36,7 +36,7 @@
     },
     {
       "cmd": "nai2",
-      "count": 612
+      "count": 613
     },
     {
       "cmd": "s",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.5",
   "ratingTotal": 8,
-  "uptimeSeconds": 1801,
-  "lastUpdated": 1778065673643
+  "uptimeSeconds": 1861,
+  "lastUpdated": 1778065733651
 }
