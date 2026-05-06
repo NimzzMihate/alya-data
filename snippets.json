@@ -23,7 +23,16 @@
       "author": "Nimzz >.<",
       "authorJid": "6282137487477@s.whatsapp.net",
       "createdAt": 1777920723254
+    },
+    {
+      "id": "YFG6F",
+      "title": "cek-xl",
+      "author": "Nimzz </>",
+      "code": "import axios from 'axios';\n\nasync function cekPaket(phoneNumber) {\n    try {\n        const cleanNumber = phoneNumber.replace(/\\D/g, '');\n        const number = cleanNumber.startsWith('628') ? '0' + cleanNumber.slice(2) : cleanNumber;\n\n        const { data } = await axios.get('https://xl-ku.my.id/end.php', {\n            params: {\n                check: 'package',\n                number: number,\n                version: '2'\n            },\n            timeout: 10000\n        });\n\n        if (!data.success) {\n            return {\n                success: false,\n                message: data.message || 'Gagal cek paket'\n            };\n        }\n\n        const info = data.data.subs_info;\n        const packages = data.data.package_info.packages;\n\n        const result = {\n            success: true,\n            number: info.msisdn,\n            operator: info.operator,\n            network: info.net_type,\n            activePeriod: info.tenure,\n            expired: info.exp_date,\n            graceUntil: info.grace_until,\n            volte: info.volte,\n            packages: packages.map(pkg => ({\n                name: pkg.name,\n                expired: pkg.expiry,\n                quotas: pkg.quotas\n                    .filter(q => parseFloat(q.remaining) > 0 || q.remaining.includes('Menit'))\n                    .map(q => ({\n                        name: q.name,\n                        total: q.total,\n                        remaining: q.remaining,\n                        percent: q.percent.toFixed(1) + '%'\n                    }))\n            }))\n        };\n\n        console.log(JSON.stringify(result, null, 2));\n        return result;\n\n    } catch (error) {\n        const errorResult = {\n            success: false,\n            message: error.message\n        };\n        console.log(JSON.stringify(errorResult, null, 2));\n        return errorResult;\n    }\n}\n\nconst number = process.argv[2] || '081915895220';\nawait cekPaket(number);",
+      "category": "Scraper",
+      "language": "JavaScript",
+      "createdAt": 1778071043860
     }
   ],
-  "lastUpdated": 1778071022458
+  "lastUpdated": 1778071043860
 }
