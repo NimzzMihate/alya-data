@@ -3,8 +3,8 @@
   "totalUsers": 1222,
   "totalGroups": 40,
   "totalFeatures": 3625,
-  "totalCmd": 39263,
-  "totalChat": 39263,
+  "totalCmd": 39266,
+  "totalChat": 39266,
   "topCommands": [
     {
       "cmd": "afk",
@@ -44,11 +44,11 @@
     },
     {
       "cmd": "tes",
-      "count": 556
+      "count": 557
     }
   ],
   "ratingAvg": "8.5",
   "ratingTotal": 8,
-  "uptimeSeconds": 2041,
-  "lastUpdated": 1778069402458
+  "uptimeSeconds": 2101,
+  "lastUpdated": 1778069462457
 }
