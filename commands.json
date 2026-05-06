@@ -2826,6 +2826,9 @@
     "download",
     "dl",
     "latest",
+    "yuruyuri",
+    "yy",
+    "__yuruyuri__",
     "komiku",
     "search",
     "detail",
@@ -4287,7 +4290,7 @@
     "joiningrpg": 1,
     "buybunga2": 1,
     "tabakkata": 1,
-    "tebakgambar": 3,
+    "tebakgambar": 4,
     "tebaktebakan": 1,
     "tambahwaktu": 1,
     "menyerah": 1,
@@ -5582,7 +5585,9 @@
     "tanpa": 1,
     "sewabot": 1,
     "leaderboard": 1,
-    "werewolf": 1
+    "werewolf": 1,
+    "tebakgambat": 1,
+    "yy": 2
   },
-  "lastUpdated": 1778051016612
+  "lastUpdated": 1778051076611
 }
