@@ -2,9 +2,9 @@
   "level": [
     {
       "name": "TX Zeppeli",
-      "level": 748,
-      "exp": 1796181,
-      "saldo": 1.0000186619277296e+63
+      "level": 750,
+      "exp": 1800607,
+      "saldo": 750
     },
     {
       "name": "Xarzzxx メ",
@@ -177,12 +177,6 @@
       "saldo": 3.093939496232323e+68
     },
     {
-      "name": "TX Zeppeli",
-      "level": 748,
-      "exp": 1796181,
-      "saldo": 1.0000186619277296e+63
-    },
-    {
       "name": "Genoo",
       "level": 2,
       "exp": 6438,
@@ -241,14 +235,20 @@
       "level": 122,
       "exp": 116984,
       "saldo": 1e+26
+    },
+    {
+      "name": "Sanzx",
+      "level": 2,
+      "exp": 4923,
+      "saldo": 1.000000000999995e+25
     }
   ],
   "exp": [
     {
       "name": "TX Zeppeli",
-      "level": 748,
-      "exp": 1796181,
-      "saldo": 1.0000186619277296e+63
+      "level": 750,
+      "exp": 1800607,
+      "saldo": 750
     },
     {
       "name": "Xarzzxx メ",
@@ -365,5 +365,5 @@
       "saldo": 64933
     }
   ],
-  "lastUpdated": 1778069762457
+  "lastUpdated": 1778069822456
 }
