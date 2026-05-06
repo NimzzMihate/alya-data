@@ -5619,7 +5619,9 @@
     "lishthero": 1,
     "lihthero": 1,
     "pemulung": 1,
-    "snget": 1
+    "snget": 1,
+    "sngetnlist": 1,
+    "sngetsnlist": 1
   },
-  "lastUpdated": 1778065493660
+  "lastUpdated": 1778065553650
 }
