@@ -3713,7 +3713,7 @@
     "daily": 98,
     "adventure": 221,
     "cf": 21,
-    "nai2": 594,
+    "nai2": 595,
     "6282137487477": 73,
     "removebg": 104,
     "addown": 7,
@@ -4403,7 +4403,7 @@
     "listrank": 1,
     "68458205204495": 17,
     "invpd": 3,
-    "628895327267": 181,
+    "628895327267": 182,
     "ceklimit": 10,
     "ceksaldo": 76,
     "selectskill": 2,
@@ -5602,5 +5602,5 @@
     "buypremium": 1,
     "delpremium": 1
   },
-  "lastUpdated": 1778055000972
+  "lastUpdated": 1778055060969
 }
