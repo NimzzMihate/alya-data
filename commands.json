@@ -3717,7 +3717,7 @@
     "removebg": 106,
     "addown": 8,
     "listowner": 16,
-    "brat": 200,
+    "brat": 201,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 124,
@@ -4110,7 +4110,7 @@
     "97874318782647": 6,
     "nikah2": 24,
     "statusistri": 5,
-    "bratvid": 8,
+    "bratvid": 13,
     "karakter": 2,
     "buatanak": 31,
     "istiku": 1,
@@ -5668,5 +5668,5 @@
     "topixel": 2,
     "setspeed": 4
   },
-  "lastUpdated": 1778160379941
+  "lastUpdated": 1778160439941
 }
