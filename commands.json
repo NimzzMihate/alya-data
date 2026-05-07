@@ -3712,12 +3712,12 @@
     "daily": 104,
     "adventure": 264,
     "cf": 21,
-    "nai2": 634,
+    "nai2": 635,
     "6282137487477": 73,
     "removebg": 106,
     "addown": 8,
     "listowner": 16,
-    "brat": 188,
+    "brat": 189,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 123,
@@ -3750,7 +3750,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 190,
-    "tes": 563,
+    "tes": 565,
     "listown": 15,
     "getpp": 34,
     "linkgc": 22,
@@ -5652,7 +5652,8 @@
     "bsc": 3,
     "__bluearchive__": 3,
     "tebakbaim": 1,
-    "anjig": 1
+    "anjig": 1,
+    "yes": 1
   },
-  "lastUpdated": 1778154311411
+  "lastUpdated": 1778154439824
 }
