@@ -3681,7 +3681,7 @@
     "61405583679507": 1,
     "wikwik": 130,
     "heal": 457,
-    "menu": 365,
+    "menu": 366,
     "owner": 18,
     "script": 11,
     "joinrpg": 55,
@@ -4008,7 +4008,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 627,
+    "tf": 628,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4399,7 +4399,7 @@
     "68458205204495": 17,
     "invpd": 3,
     "628895327267": 202,
-    "ceklimit": 11,
+    "ceklimit": 12,
     "ceksaldo": 76,
     "selectskill": 2,
     "ternak": 1,
@@ -5630,5 +5630,5 @@
     "low": 1,
     "yahahahah": 1
   },
-  "lastUpdated": 1778134703974
+  "lastUpdated": 1778134763972
 }
