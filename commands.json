@@ -3717,7 +3717,7 @@
     "removebg": 106,
     "addown": 8,
     "listowner": 16,
-    "brat": 192,
+    "brat": 194,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 124,
@@ -5655,7 +5655,8 @@
     "anjig": 1,
     "yes": 1,
     "tebakmakanan": 1,
-    "brat\natur": 1
+    "brat\natur": 1,
+    "kamu": 1
   },
-  "lastUpdated": 1778156479847
+  "lastUpdated": 1778156539844
 }
