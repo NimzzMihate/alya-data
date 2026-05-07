@@ -93,8 +93,8 @@
     {
       "name": "Souta",
       "level": 38,
-      "exp": 92791,
-      "saldo": 499500000
+      "exp": 92838,
+      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -337,8 +337,8 @@
     {
       "name": "Souta",
       "level": 38,
-      "exp": 92791,
-      "saldo": 499500000
+      "exp": 92838,
+      "saldo": 0
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778135003976
+  "lastUpdated": 1778135063976
 }
