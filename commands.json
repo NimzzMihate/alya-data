@@ -3685,7 +3685,7 @@
     "61405583679507": 1,
     "wikwik": 132,
     "heal": 485,
-    "menu": 383,
+    "menu": 384,
     "owner": 18,
     "script": 11,
     "joinrpg": 55,
@@ -3734,7 +3734,7 @@
     "265944542793975": 1,
     "berburu": 143,
     "masak": 77,
-    "rpgmenu": 56,
+    "rpgmenu": 57,
     "makan": 45,
     "repair": 1,
     "kapal": 6,
@@ -3802,7 +3802,7 @@
     "....": 3,
     "setprofile": 186,
     "daftar": 44,
-    "profile": 124,
+    "profile": 126,
     "topactive": 149,
     "verify": 36,
     "daftr": 14,
@@ -3915,7 +3915,7 @@
     "...": 5,
     "bratt": 1,
     "6285861427432": 7,
-    "statuspacar": 177,
+    "statuspacar": 178,
     "kasihmakan": 328,
     "kasihminum": 94,
     "naena": 20,
@@ -5669,5 +5669,5 @@
     "setspeed": 4,
     "get\nhttps://v1.pinimg.com/videos/mc/hls/eb/ce/c9/ebcec9676a66009bde3c25179b7a38ee.m3u8": 3
   },
-  "lastUpdated": 1778188143104
+  "lastUpdated": 1778188203108
 }
