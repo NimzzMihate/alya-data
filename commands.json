@@ -3650,7 +3650,7 @@
     "backup": 9,
     "get": 123,
     "tohtml": 11,
-    "ranked": 103,
+    "ranked": 104,
     "mobaprofile": 15,
     "playmoba": 39,
     "ngaji": 150,
@@ -3709,7 +3709,7 @@
     "daily": 104,
     "adventure": 264,
     "cf": 21,
-    "nai2": 633,
+    "nai2": 634,
     "6282137487477": 73,
     "removebg": 106,
     "addown": 8,
@@ -5489,7 +5489,7 @@
     "langkahi": 1,
     "buah": 1,
     "giftpacar": 1,
-    "rawat": 10,
+    "rawat": 11,
     "😹": 1,
     "batre": 1,
     "lagu": 1,
@@ -5643,5 +5643,5 @@
     "6285755474932": 7,
     "nyerwh": 1
   },
-  "lastUpdated": 1778147065418
+  "lastUpdated": 1778147125430
 }
