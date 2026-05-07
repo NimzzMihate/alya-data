@@ -4860,7 +4860,7 @@
     "search": 3,
     "awarudoooo": 1,
     "sapa": 1,
-    "menfesmenu": 1,
+    "menfesmenu": 2,
     "background": 1,
     "ramok2": 1,
     "tampok2": 1,
@@ -5658,7 +5658,8 @@
     "brat\natur": 1,
     "kamu": 1,
     "kayu": 1,
-    "skip": 1
+    "skip": 1,
+    "anonymous": 1
   },
-  "lastUpdated": 1778159599887
+  "lastUpdated": 1778159659886
 }
