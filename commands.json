@@ -3658,7 +3658,7 @@
     "playmoba": 39,
     "ngaji": 153,
     "ewe-paksa": 67,
-    "me": 931,
+    "me": 932,
     "setbg": 60,
     "rampok2": 670,
     "6285609504925": 15,
@@ -3684,13 +3684,13 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 130,
-    "heal": 468,
+    "heal": 469,
     "menu": 379,
     "owner": 18,
     "script": 11,
     "joinrpg": 55,
     "mentahan": 1,
-    "claim": 84,
+    "claim": 85,
     "cekidch": 16,
     "tourl": 51,
     "title": 1,
@@ -3800,7 +3800,7 @@
     "628998866123": 34,
     "166121432961259": 75,
     "....": 3,
-    "setprofile": 185,
+    "setprofile": 186,
     "daftar": 44,
     "profile": 124,
     "topactive": 149,
@@ -5657,7 +5657,8 @@
     "tebakmakanan": 1,
     "brat\natur": 1,
     "kamu": 1,
-    "kayu": 1
+    "kayu": 1,
+    "skip": 1
   },
-  "lastUpdated": 1778159479883
+  "lastUpdated": 1778159539885
 }
