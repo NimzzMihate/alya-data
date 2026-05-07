@@ -3681,7 +3681,7 @@
     "61405583679507": 1,
     "wikwik": 130,
     "heal": 458,
-    "menu": 369,
+    "menu": 371,
     "owner": 18,
     "script": 11,
     "joinrpg": 55,
@@ -3690,7 +3690,7 @@
     "cekidch": 16,
     "tourl": 51,
     "title": 1,
-    "6281393286345": 290,
+    "6281393286345": 291,
     ">": 8,
     "addapi": 4,
     "pin": 333,
@@ -3730,7 +3730,7 @@
     "265944542793975": 1,
     "berburu": 141,
     "masak": 76,
-    "rpgmenu": 52,
+    "rpgmenu": 53,
     "makan": 43,
     "repair": 1,
     "kapal": 6,
@@ -3954,7 +3954,7 @@
     "cari": 10,
     "menurpg": 4,
     "mengaji": 14,
-    "dagang": 53,
+    "dagang": 54,
     "gccanvas": 2,
     "totalchat": 4,
     "145161355005957": 9,
@@ -4657,7 +4657,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 48,
+    "mining": 49,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5631,5 +5631,5 @@
     "yahahahah": 1,
     "menugames": 1
   },
-  "lastUpdated": 1778136237064
+  "lastUpdated": 1778136297065
 }
