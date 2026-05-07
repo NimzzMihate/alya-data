@@ -3652,7 +3652,7 @@
     "ranked": 103,
     "mobaprofile": 15,
     "playmoba": 39,
-    "ngaji": 146,
+    "ngaji": 147,
     "ewe-paksa": 66,
     "me": 914,
     "setbg": 57,
@@ -3680,8 +3680,8 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 130,
-    "heal": 456,
-    "menu": 364,
+    "heal": 457,
+    "menu": 365,
     "owner": 18,
     "script": 11,
     "joinrpg": 55,
@@ -3730,7 +3730,7 @@
     "265944542793975": 1,
     "berburu": 141,
     "masak": 76,
-    "rpgmenu": 51,
+    "rpgmenu": 52,
     "makan": 43,
     "repair": 1,
     "kapal": 6,
@@ -5627,5 +5627,5 @@
     "updatepresentasi": 1,
     "uma": 2
   },
-  "lastUpdated": 1778123063879
+  "lastUpdated": 1778123123877
 }
