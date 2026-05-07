@@ -3676,7 +3676,7 @@
     "61405583679507": 1,
     "wikwik": 130,
     "heal": 455,
-    "menu": 363,
+    "menu": 364,
     "owner": 18,
     "script": 11,
     "joinrpg": 55,
@@ -3693,7 +3693,7 @@
     "useitem": 7,
     "77605898313906": 337,
     "huxin": 13,
-    "usaha": 167,
+    "usaha": 168,
     "memancing": 166,
     "271481040834666": 290,
     "6285189358241": 513,
@@ -3725,8 +3725,8 @@
     "265944542793975": 1,
     "berburu": 141,
     "masak": 76,
-    "rpgmenu": 50,
-    "makan": 42,
+    "rpgmenu": 51,
+    "makan": 43,
     "repair": 1,
     "kapal": 6,
     "craft": 450,
@@ -4215,7 +4215,7 @@
     "perstat": 1,
     "lesby": 9,
     "bokeppaksa": 1,
-    "taksi": 16,
+    "taksi": 18,
     "bangsat": 9,
     "foodpet": 2,
     "releaseper": 1,
@@ -4417,7 +4417,7 @@
     "setgender": 1,
     "sapi": 3,
     "gun": 1,
-    "polisi": 8,
+    "polisi": 9,
     "job": 2,
     "minum": 2,
     "atmpullall": 2,
@@ -5620,5 +5620,5 @@
     "sangee🫦🫦🫦🫦": 1,
     "uan": 1
   },
-  "lastUpdated": 1778112455757
+  "lastUpdated": 1778112515756
 }
