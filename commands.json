@@ -3661,7 +3661,7 @@
     "atm": 196,
     "bank": 143,
     "afk": 1777,
-    "kerja": 145,
+    "kerja": 146,
     "628176533297": 14,
     "s": 586,
     "jwkwnwkabs": 1,
@@ -4220,7 +4220,7 @@
     "perstat": 1,
     "lesby": 9,
     "bokeppaksa": 1,
-    "taksi": 18,
+    "taksi": 20,
     "bangsat": 9,
     "foodpet": 2,
     "releaseper": 1,
@@ -4329,7 +4329,7 @@
     "???": 2,
     "?": 7,
     "@250693499797710": 2,
-    "ngojek": 93,
+    "ngojek": 94,
     "rt": 16,
     ".e": 2,
     "kokop": 1,
@@ -4422,7 +4422,7 @@
     "setgender": 1,
     "sapi": 3,
     "gun": 1,
-    "polisi": 9,
+    "polisi": 10,
     "job": 2,
     "minum": 2,
     "atmpullall": 2,
@@ -4964,7 +4964,7 @@
     "qc": 10,
     "siapakahaku": 3,
     "yts": 1,
-    "ngepet": 29,
+    "ngepet": 30,
     "keyboard": 1,
     "buildmlbb": 1,
     "buildhero": 1,
@@ -5633,5 +5633,5 @@
     "𝗯𝗼𝘁": 1,
     "𝘁𝗳": 2
   },
-  "lastUpdated": 1778141577140
+  "lastUpdated": 1778141637142
 }
