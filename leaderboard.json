@@ -93,8 +93,8 @@
     {
       "name": "Souta",
       "level": 39,
-      "exp": 94477,
-      "saldo": 0
+      "exp": 94691,
+      "saldo": 995000
     },
     {
       "name": "Oguri cap",
@@ -111,8 +111,8 @@
     {
       "name": "aul",
       "level": 22,
-      "exp": 54301,
-      "saldo": 73738
+      "exp": 54458,
+      "saldo": 68738
     },
     {
       "name": "kensoy",
@@ -337,8 +337,8 @@
     {
       "name": "Souta",
       "level": 39,
-      "exp": 94477,
-      "saldo": 0
+      "exp": 94691,
+      "saldo": 995000
     },
     {
       "name": "Oguri cap",
@@ -355,8 +355,8 @@
     {
       "name": "aul",
       "level": 22,
-      "exp": 54301,
-      "saldo": 73738
+      "exp": 54458,
+      "saldo": 68738
     },
     {
       "name": "kensoy",
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778143177346
+  "lastUpdated": 1778143237343
 }
