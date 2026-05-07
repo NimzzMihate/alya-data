@@ -3714,7 +3714,7 @@
     "removebg": 106,
     "addown": 8,
     "listowner": 16,
-    "brat": 183,
+    "brat": 184,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 123,
@@ -3804,7 +3804,7 @@
     "verify": 36,
     "daftr": 14,
     "status": 19,
-    "pap": 920,
+    "pap": 921,
     "tebakbendera": 39,
     "tebak": 2,
     "gantinama": 1,
@@ -5646,5 +5646,5 @@
     "enaenak": 1,
     "naenak": 1
   },
-  "lastUpdated": 1778148085570
+  "lastUpdated": 1778148145569
 }
