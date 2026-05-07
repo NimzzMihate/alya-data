@@ -32,8 +32,8 @@
     },
     {
       "name": "Axel",
-      "level": 164,
-      "exp": 395819,
+      "level": 165,
+      "exp": 396137,
       "saldo": 1e+140
     },
     {
@@ -93,8 +93,8 @@
     {
       "name": "Souta",
       "level": 38,
-      "exp": 93264,
-      "saldo": 0
+      "exp": 93375,
+      "saldo": 1000000
     },
     {
       "name": "Oguri cap",
@@ -111,7 +111,7 @@
     {
       "name": "aul",
       "level": 22,
-      "exp": 53523,
+      "exp": 53585,
       "saldo": 73718
     },
     {
@@ -130,8 +130,8 @@
     },
     {
       "name": "Axel",
-      "level": 164,
-      "exp": 395819,
+      "level": 165,
+      "exp": 396137,
       "saldo": 1e+140
     },
     {
@@ -276,8 +276,8 @@
     },
     {
       "name": "Axel",
-      "level": 164,
-      "exp": 395819,
+      "level": 165,
+      "exp": 396137,
       "saldo": 1e+140
     },
     {
@@ -337,8 +337,8 @@
     {
       "name": "Souta",
       "level": 38,
-      "exp": 93264,
-      "saldo": 0
+      "exp": 93375,
+      "saldo": 1000000
     },
     {
       "name": "Oguri cap",
@@ -355,7 +355,7 @@
     {
       "name": "aul",
       "level": 22,
-      "exp": 53523,
+      "exp": 53585,
       "saldo": 73718
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778135997061
+  "lastUpdated": 1778136057069
 }
