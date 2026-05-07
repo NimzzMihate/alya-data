@@ -3766,7 +3766,7 @@
     "family100": 15,
     "tebakpokemon": 2,
     "6283869039585": 61,
-    "nyerah": 69,
+    "nyerah": 71,
     "mf": 1,
     "261581174734897": 1,
     "80505152212993": 1,
@@ -3857,7 +3857,7 @@
     "tidur": 47,
     "akun": 2,
     "jembott": 1,
-    "kuis": 69,
+    "kuis": 70,
     "32968236081310": 133,
     "6283152469722": 4,
     "6285649132023": 455,
@@ -4329,7 +4329,7 @@
     "getname": 4,
     "amann": 1,
     "resetnama": 3,
-    "menuprem": 3,
+    "menuprem": 4,
     "???": 2,
     "?": 7,
     "@250693499797710": 2,
@@ -4662,7 +4662,7 @@
     "ditolak": 1,
     "kasohmakan": 1,
     "mining": 51,
-    "shinobu": 1,
+    "shinobu": 2,
     "kasihan": 1,
     "eat": 1,
     "lencan": 1,
@@ -5668,5 +5668,5 @@
     "topixel": 2,
     "setspeed": 4
   },
-  "lastUpdated": 1778161350924
+  "lastUpdated": 1778161410922
 }
