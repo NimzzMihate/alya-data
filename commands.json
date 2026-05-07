@@ -3681,7 +3681,7 @@
     "61405583679507": 1,
     "wikwik": 130,
     "heal": 457,
-    "menu": 366,
+    "menu": 367,
     "owner": 18,
     "script": 11,
     "joinrpg": 55,
@@ -3869,7 +3869,7 @@
     "pabrik": 1,
     "fitnah": 204,
     "puji": 254,
-    "pacar": 304,
+    "pacar": 305,
     "carikarakter": 244,
     "nembak": 182,
     "cry": 7,
@@ -4114,7 +4114,7 @@
     "putus": 172,
     "crop": 79,
     "shopgift": 63,
-    "give": 3,
+    "give": 4,
     "asep": 1,
     "pasangan": 8,
     "setpppacar": 55,
@@ -4481,7 +4481,7 @@
     "yampah": 1,
     "rampo²": 1,
     "enana": 1,
-    "gamesmenu": 27,
+    "gamesmenu": 28,
     "downloadmenu": 2,
     "iya": 2,
     "abu": 1,
@@ -5628,7 +5628,8 @@
     "uma": 6,
     "album": 1,
     "low": 1,
-    "yahahahah": 1
+    "yahahahah": 1,
+    "menugames": 1
   },
-  "lastUpdated": 1778134823974
+  "lastUpdated": 1778134883975
 }
