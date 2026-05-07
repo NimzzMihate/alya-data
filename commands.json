@@ -3659,7 +3659,7 @@
     "rampok2": 670,
     "6285609504925": 15,
     "atm": 196,
-    "bank": 143,
+    "bank": 144,
     "afk": 1779,
     "kerja": 146,
     "628176533297": 14,
@@ -3718,7 +3718,7 @@
     "editfoto": 101,
     "dailymisi": 123,
     "open-bo": 69,
-    "ewepaksa": 291,
+    "ewepaksa": 292,
     "topglobal": 164,
     "6285789692015": 1,
     "buy": 871,
@@ -4003,7 +4003,7 @@
     "e2": 2,
     "6285180841166": 1,
     "limt": 1,
-    "limit": 40,
+    "limit": 41,
     "cihuy": 1,
     "afk\ntidur": 1,
     "mong": 1,
@@ -4099,7 +4099,7 @@
     "suki": 1,
     "kanjut": 1,
     "ubah": 3,
-    "buylimit": 6,
+    "buylimit": 7,
     "wagyy": 1,
     "wangyy": 43,
     "wangy": 55,
@@ -5636,5 +5636,5 @@
     "oacar": 1,
     "kick....": 1
   },
-  "lastUpdated": 1778142457338
+  "lastUpdated": 1778142517335
 }
