@@ -3659,8 +3659,8 @@
     "playmoba": 39,
     "ngaji": 152,
     "ewe-paksa": 66,
-    "me": 928,
-    "setbg": 59,
+    "me": 930,
+    "setbg": 60,
     "rampok2": 670,
     "6285609504925": 15,
     "atm": 196,
@@ -3718,7 +3718,7 @@
     "removebg": 106,
     "addown": 8,
     "listowner": 16,
-    "brat": 185,
+    "brat": 186,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 123,
@@ -3872,7 +3872,7 @@
     "hargasewa": 4,
     "d": 278,
     "pabrik": 1,
-    "fitnah": 204,
+    "fitnah": 205,
     "puji": 261,
     "pacar": 319,
     "carikarakter": 257,
@@ -4117,7 +4117,7 @@
     "istiku": 1,
     "cerai": 29,
     "putus": 173,
-    "crop": 81,
+    "crop": 82,
     "shopgift": 68,
     "give": 4,
     "asep": 1,
@@ -5653,5 +5653,5 @@
     "bsc": 3,
     "__bluearchive__": 3
   },
-  "lastUpdated": 1778151731330
+  "lastUpdated": 1778151791340
 }
