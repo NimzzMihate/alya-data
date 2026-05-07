@@ -3713,7 +3713,7 @@
     "removebg": 106,
     "addown": 8,
     "listowner": 16,
-    "brat": 167,
+    "brat": 168,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 123,
@@ -5626,7 +5626,8 @@
     "uan": 1,
     "updatepresentasi": 1,
     "uma": 6,
-    "album": 1
+    "album": 1,
+    "low": 1
   },
-  "lastUpdated": 1778133443964
+  "lastUpdated": 1778133503965
 }
