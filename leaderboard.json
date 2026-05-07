@@ -63,7 +63,7 @@
     {
       "name": "sky the beginner",
       "level": 97,
-      "exp": 233568,
+      "exp": 233608,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -93,8 +93,8 @@
     {
       "name": "Souta",
       "level": 39,
-      "exp": 94799,
-      "saldo": 995000
+      "exp": 94948,
+      "saldo": 5738156
     },
     {
       "name": "Oguri cap",
@@ -111,8 +111,8 @@
     {
       "name": "aul",
       "level": 22,
-      "exp": 54598,
-      "saldo": 68738
+      "exp": 54769,
+      "saldo": 4623612
     },
     {
       "name": "kensoy",
@@ -173,7 +173,7 @@
     {
       "name": "sky the beginner",
       "level": 97,
-      "exp": 233568,
+      "exp": 233608,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -301,7 +301,7 @@
     {
       "name": "sky the beginner",
       "level": 97,
-      "exp": 233568,
+      "exp": 233608,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -337,8 +337,8 @@
     {
       "name": "Souta",
       "level": 39,
-      "exp": 94799,
-      "saldo": 995000
+      "exp": 94948,
+      "saldo": 5738156
     },
     {
       "name": "Oguri cap",
@@ -355,8 +355,8 @@
     {
       "name": "aul",
       "level": 22,
-      "exp": 54598,
-      "saldo": 68738
+      "exp": 54769,
+      "saldo": 4623612
     },
     {
       "name": "kensoy",
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778143357382
+  "lastUpdated": 1778143417402
 }
