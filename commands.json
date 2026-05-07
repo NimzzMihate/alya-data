@@ -3684,7 +3684,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 130,
-    "heal": 470,
+    "heal": 473,
     "menu": 383,
     "owner": 18,
     "script": 11,
@@ -3733,7 +3733,7 @@
     "setpp": 108,
     "265944542793975": 1,
     "berburu": 142,
-    "masak": 76,
+    "masak": 77,
     "rpgmenu": 56,
     "makan": 45,
     "repair": 1,
@@ -5668,5 +5668,5 @@
     "topixel": 2,
     "setspeed": 4
   },
-  "lastUpdated": 1778161770926
+  "lastUpdated": 1778161830930
 }
