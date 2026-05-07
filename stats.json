@@ -3,12 +3,12 @@
   "totalUsers": 1238,
   "totalGroups": 40,
   "totalFeatures": 3630,
-  "totalCmd": 39942,
-  "totalChat": 39942,
+  "totalCmd": 39951,
+  "totalChat": 39951,
   "topCommands": [
     {
       "cmd": "afk",
-      "count": 1781
+      "count": 1782
     },
     {
       "cmd": "me",
@@ -36,7 +36,7 @@
     },
     {
       "cmd": "nai2",
-      "count": 630
+      "count": 631
     },
     {
       "cmd": "s",
@@ -44,11 +44,11 @@
     },
     {
       "cmd": "tes",
-      "count": 560
+      "count": 561
     }
   ],
   "ratingAvg": "8.5",
   "ratingTotal": 8,
-  "uptimeSeconds": 421,
-  "lastUpdated": 1778143857759
+  "uptimeSeconds": 481,
+  "lastUpdated": 1778143917759
 }
