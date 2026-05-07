@@ -4003,7 +4003,7 @@
     "e2": 2,
     "6285180841166": 1,
     "limt": 1,
-    "limit": 41,
+    "limit": 42,
     "cihuy": 1,
     "afk\ntidur": 1,
     "mong": 1,
@@ -4213,7 +4213,7 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 10,
-    "atmall": 194,
+    "atmall": 195,
     "inv": 168,
     "healfull": 13,
     "mute": 8,
@@ -5636,5 +5636,5 @@
     "oacar": 1,
     "kick....": 1
   },
-  "lastUpdated": 1778142577335
+  "lastUpdated": 1778142637334
 }
