@@ -3682,7 +3682,7 @@
     "61405583679507": 1,
     "wikwik": 130,
     "heal": 466,
-    "menu": 376,
+    "menu": 377,
     "owner": 18,
     "script": 11,
     "joinrpg": 55,
@@ -3731,7 +3731,7 @@
     "265944542793975": 1,
     "berburu": 141,
     "masak": 76,
-    "rpgmenu": 55,
+    "rpgmenu": 56,
     "makan": 43,
     "repair": 1,
     "kapal": 6,
@@ -4658,7 +4658,7 @@
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
-    "mining": 49,
+    "mining": 51,
     "shinobu": 1,
     "kasihan": 1,
     "eat": 1,
@@ -5569,7 +5569,7 @@
     "gantipp": 2,
     "stcsticker": 1,
     "setintro": 2,
-    "nebang": 2,
+    "nebang": 3,
     "6282154926421": 1,
     "limitcn": 2,
     "__infosewa__": 2,
@@ -5643,5 +5643,5 @@
     "6285755474932": 7,
     "nyerwh": 1
   },
-  "lastUpdated": 1778147005416
+  "lastUpdated": 1778147065418
 }
