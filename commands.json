@@ -3684,13 +3684,13 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 132,
-    "heal": 484,
+    "heal": 485,
     "menu": 383,
     "owner": 18,
     "script": 11,
     "joinrpg": 55,
     "mentahan": 1,
-    "claim": 87,
+    "claim": 88,
     "cekidch": 16,
     "tourl": 51,
     "title": 1,
@@ -3720,7 +3720,7 @@
     "brat": 213,
     "brathd": 2,
     "editfoto": 101,
-    "dailymisi": 125,
+    "dailymisi": 126,
     "open-bo": 71,
     "ewepaksa": 297,
     "topglobal": 166,
@@ -4230,7 +4230,7 @@
     "releaseper": 1,
     "releasepet": 2,
     "remini": 18,
-    "openbo": 53,
+    "openbo": 54,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
@@ -5669,5 +5669,5 @@
     "setspeed": 4,
     "get\nhttps://v1.pinimg.com/videos/mc/hls/eb/ce/c9/ebcec9676a66009bde3c25179b7a38ee.m3u8": 3
   },
-  "lastUpdated": 1778188083102
+  "lastUpdated": 1778188143104
 }
