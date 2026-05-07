@@ -111,8 +111,8 @@
     {
       "name": "aul",
       "level": 24,
-      "exp": 59070,
-      "saldo": 1637612
+      "exp": 59202,
+      "saldo": 1537612
     },
     {
       "name": "kensoy",
@@ -355,8 +355,8 @@
     {
       "name": "aul",
       "level": 24,
-      "exp": 59070,
-      "saldo": 1637612
+      "exp": 59202,
+      "saldo": 1537612
     },
     {
       "name": "kensoy",
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778148865577
+  "lastUpdated": 1778148925590
 }
