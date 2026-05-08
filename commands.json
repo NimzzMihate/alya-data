@@ -3664,7 +3664,7 @@
     "6285609504925": 15,
     "atm": 196,
     "bank": 145,
-    "afk": 1821,
+    "afk": 1822,
     "kerja": 155,
     "628176533297": 14,
     "s": 587,
@@ -4864,7 +4864,7 @@
     "background": 1,
     "ramok2": 1,
     "tampok2": 1,
-    "6287869188222": 88,
+    "6287869188222": 89,
     "toing": 1,
     "toihijab": 1,
     "megumin": 1,
@@ -5695,5 +5695,5 @@
     "izinout": 1,
     "br0:https://github.com/broman0x/cure-code": 1
   },
-  "lastUpdated": 1778260310602
+  "lastUpdated": 1778260370607
 }
