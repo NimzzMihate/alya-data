@@ -3,7 +3,7 @@
     {
       "name": "TX 🪶",
       "level": 772,
-      "exp": 1854150,
+      "exp": 1854490,
       "saldo": 0
     },
     {
@@ -97,16 +97,16 @@
       "saldo": 382823492
     },
     {
+      "name": "aul",
+      "level": 30,
+      "exp": 72734,
+      "saldo": 3921407
+    },
+    {
       "name": "Oguri cap",
       "level": 30,
       "exp": 72689,
       "saldo": 81084243954317
-    },
-    {
-      "name": "aul",
-      "level": 30,
-      "exp": 72642,
-      "saldo": 3921407
     },
     {
       "name": "Player-1118802",
@@ -247,7 +247,7 @@
     {
       "name": "TX 🪶",
       "level": 772,
-      "exp": 1854150,
+      "exp": 1854490,
       "saldo": 0
     },
     {
@@ -341,16 +341,16 @@
       "saldo": 382823492
     },
     {
+      "name": "aul",
+      "level": 30,
+      "exp": 72734,
+      "saldo": 3921407
+    },
+    {
       "name": "Oguri cap",
       "level": 30,
       "exp": 72689,
       "saldo": 81084243954317
-    },
-    {
-      "name": "aul",
-      "level": 30,
-      "exp": 72642,
-      "saldo": 3921407
     },
     {
       "name": "Player-1118802",
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778236198901
+  "lastUpdated": 1778236258901
 }
