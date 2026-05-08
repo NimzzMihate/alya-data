@@ -3664,7 +3664,7 @@
     "6285609504925": 15,
     "atm": 196,
     "bank": 145,
-    "afk": 1825,
+    "afk": 1826,
     "kerja": 159,
     "628176533297": 14,
     "s": 587,
@@ -3800,7 +3800,7 @@
     "628998866123": 35,
     "166121432961259": 76,
     "....": 3,
-    "setprofile": 187,
+    "setprofile": 189,
     "daftar": 45,
     "profile": 132,
     "topactive": 150,
@@ -3833,7 +3833,7 @@
     "wm": 200,
     "absen": 24,
     "mulaiabsen": 11,
-    "6283848672013": 197,
+    "6283848672013": 198,
     "ratebot": 5,
     "webfeedback": 2,
     "171511465922650": 1,
@@ -4274,7 +4274,7 @@
     "6282146357295": 11,
     "cekaetia": 1,
     "semua": 4,
-    "catbox": 14,
+    "catbox": 15,
     "gempa": 4,
     "tebakkata": 48,
     "tebakpacarorang": 1,
@@ -4716,7 +4716,7 @@
     "family50": 1,
     "family200": 1,
     "mainmenu": 2,
-    "6357071720498": 93,
+    "6357071720498": 94,
     "ted": 10,
     "naya": 5,
     "halo": 2,
@@ -5695,5 +5695,5 @@
     "izinout": 1,
     "br0:https://github.com/broman0x/cure-code": 1
   },
-  "lastUpdated": 1778279614185
+  "lastUpdated": 1778279695816
 }
