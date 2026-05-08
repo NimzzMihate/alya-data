@@ -2,9 +2,9 @@
   "level": [
     {
       "name": "TX 🪶",
-      "level": 771,
-      "exp": 1852734,
-      "saldo": 100939
+      "level": 772,
+      "exp": 1852942,
+      "saldo": 2107939
     },
     {
       "name": "Xarzzxx メ",
@@ -246,9 +246,9 @@
   "exp": [
     {
       "name": "TX 🪶",
-      "level": 771,
-      "exp": 1852734,
-      "saldo": 100939
+      "level": 772,
+      "exp": 1852942,
+      "saldo": 2107939
     },
     {
       "name": "Xarzzxx メ",
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778235838903
+  "lastUpdated": 1778235898899
 }
