@@ -3880,7 +3880,7 @@
     "happy": 4,
     "sad": 1,
     "bully": 10,
-    "atmpull": 257,
+    "atmpull": 258,
     "promote": 14,
     "reset": 3,
     "memasak": 2,
@@ -4115,7 +4115,7 @@
     "buatanak": 31,
     "istiku": 1,
     "cerai": 29,
-    "putus": 174,
+    "putus": 176,
     "crop": 86,
     "shopgift": 68,
     "give": 4,
@@ -5682,7 +5682,9 @@
     "hardbug": 1,
     "bugs": 1,
     "buglink": 2,
-    "🍀": 1
+    "🍀": 1,
+    "amtpull": 1,
+    "putis": 1
   },
-  "lastUpdated": 1778236258901
+  "lastUpdated": 1778236318901
 }
