@@ -3928,7 +3928,7 @@
     "/": 20,
     "cekcantik": 97,
     "toplocal": 76,
-    "forward": 513,
+    "forward": 514,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 51,
@@ -4115,7 +4115,7 @@
     "buatanak": 31,
     "istiku": 1,
     "cerai": 29,
-    "putus": 173,
+    "putus": 174,
     "crop": 86,
     "shopgift": 68,
     "give": 4,
@@ -4375,7 +4375,7 @@
     "kiss": 50,
     "wangi": 65,
     "toplay": 3,
-    "jadian": 9,
+    "jadian": 12,
     "info": 9,
     "tebakkat": 1,
     "tebakanime": 3,
@@ -4935,7 +4935,7 @@
     "palypet": 1,
     "addowner": 1,
     "getkodeotp": 1,
-    "ramal": 3,
+    "ramal": 4,
     "getinfooribadi": 1,
     "addlimit": 10,
     "addlimitgame": 2,
@@ -5681,7 +5681,8 @@
     "storemenu": 1,
     "hardbug": 1,
     "bugs": 1,
-    "buglink": 2
+    "buglink": 2,
+    "🍀": 1
   },
-  "lastUpdated": 1778236198901
+  "lastUpdated": 1778236258901
 }
