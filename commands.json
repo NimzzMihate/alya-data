@@ -3800,9 +3800,9 @@
     "628998866123": 35,
     "166121432961259": 76,
     "....": 3,
-    "setprofile": 189,
+    "setprofile": 190,
     "daftar": 45,
-    "profile": 132,
+    "profile": 134,
     "topactive": 150,
     "verify": 37,
     "daftr": 14,
@@ -4426,7 +4426,7 @@
     "setgender": 1,
     "sapi": 3,
     "gun": 1,
-    "polisi": 17,
+    "polisi": 18,
     "job": 2,
     "minum": 2,
     "atmpullall": 2,
@@ -4968,7 +4968,7 @@
     "qc": 10,
     "siapakahaku": 3,
     "yts": 1,
-    "ngepet": 49,
+    "ngepet": 50,
     "keyboard": 1,
     "buildmlbb": 1,
     "buildhero": 1,
@@ -5695,5 +5695,5 @@
     "izinout": 1,
     "br0:https://github.com/broman0x/cure-code": 1
   },
-  "lastUpdated": 1778279695816
+  "lastUpdated": 1778279755813
 }
