@@ -3954,7 +3954,7 @@
     "kecocokan": 10,
     "register": 19,
     "rename": 1,
-    "cn": 98,
+    "cn": 100,
     "cari": 10,
     "menurpg": 5,
     "mengaji": 17,
@@ -4002,7 +4002,7 @@
     "marshaandthebear": 1,
     "allmenu": 37,
     "gamemenu": 10,
-    "catur": 252,
+    "catur": 253,
     "mulai": 2,
     "e2": 2,
     "6285180841166": 1,
@@ -5688,5 +5688,5 @@
     "emilia": 1,
     "cosplay": 1
   },
-  "lastUpdated": 1778236921870
+  "lastUpdated": 1778236981841
 }
