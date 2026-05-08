@@ -3720,9 +3720,9 @@
     "brat": 223,
     "brathd": 2,
     "editfoto": 101,
-    "dailymisi": 127,
-    "open-bo": 71,
-    "ewepaksa": 301,
+    "dailymisi": 129,
+    "open-bo": 72,
+    "ewepaksa": 303,
     "topglobal": 170,
     "6285789692015": 1,
     "buy": 893,
@@ -4230,11 +4230,11 @@
     "releaseper": 1,
     "releasepet": 2,
     "remini": 18,
-    "openbo": 54,
+    "openbo": 55,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
-    "nyampah": 62,
+    "nyampah": 63,
     "berlayar": 273,
     "6285817528851": 2,
     "reedem": 2,
@@ -4778,7 +4778,7 @@
     "pict": 1,
     "putihkan": 5,
     "pulihkan": 1,
-    "level": 9,
+    "level": 10,
     "leave": 3,
     "my": 1,
     "bl": 1,
@@ -5675,5 +5675,5 @@
     "senyum": 2,
     "colek": 1
   },
-  "lastUpdated": 1778235057542
+  "lastUpdated": 1778235117542
 }
