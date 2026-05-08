@@ -3860,7 +3860,7 @@
     "kuis": 85,
     "32968236081310": 133,
     "6283152469722": 4,
-    "6285649132023": 460,
+    "6285649132023": 461,
     "oldyk": 4,
     "no": 3,
     "edit": 7,
@@ -3954,7 +3954,7 @@
     "kecocokan": 10,
     "register": 19,
     "rename": 1,
-    "cn": 96,
+    "cn": 97,
     "cari": 10,
     "menurpg": 5,
     "mengaji": 17,
@@ -4002,7 +4002,7 @@
     "marshaandthebear": 1,
     "allmenu": 37,
     "gamemenu": 10,
-    "catur": 244,
+    "catur": 250,
     "mulai": 2,
     "e2": 2,
     "6285180841166": 1,
@@ -4230,7 +4230,7 @@
     "releaseper": 1,
     "releasepet": 2,
     "remini": 18,
-    "openbo": 55,
+    "openbo": 56,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
@@ -5519,7 +5519,7 @@
     "aktif": 1,
     "villager": 1,
     "abyys": 1,
-    "akiyama": 1,
+    "akiyama": 2,
     "doraemon": 1,
     "elenski": 1,
     "kowiziw": 1,
@@ -5684,7 +5684,9 @@
     "buglink": 2,
     "🍀": 1,
     "amtpull": 1,
-    "putis": 1
+    "putis": 1,
+    "emilia": 1,
+    "cosplay": 1
   },
-  "lastUpdated": 1778236738933
+  "lastUpdated": 1778236861844
 }
