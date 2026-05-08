@@ -2,9 +2,9 @@
   "level": [
     {
       "name": "TX 🪶",
-      "level": 772,
-      "exp": 1855174,
-      "saldo": 0
+      "level": 773,
+      "exp": 1855289,
+      "saldo": 10035
     },
     {
       "name": "Xarzzxx メ",
@@ -33,7 +33,7 @@
     {
       "name": "Axel",
       "level": 182,
-      "exp": 437417,
+      "exp": 437742,
       "saldo": 1e+140
     },
     {
@@ -131,7 +131,7 @@
     {
       "name": "Axel",
       "level": 182,
-      "exp": 437417,
+      "exp": 437742,
       "saldo": 1e+140
     },
     {
@@ -246,9 +246,9 @@
   "exp": [
     {
       "name": "TX 🪶",
-      "level": 772,
-      "exp": 1855174,
-      "saldo": 0
+      "level": 773,
+      "exp": 1855289,
+      "saldo": 10035
     },
     {
       "name": "Xarzzxx メ",
@@ -271,7 +271,7 @@
     {
       "name": "Axel",
       "level": 182,
-      "exp": 437417,
+      "exp": 437742,
       "saldo": 1e+140
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778236438936
+  "lastUpdated": 1778236498926
 }
