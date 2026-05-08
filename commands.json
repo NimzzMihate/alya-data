@@ -3687,7 +3687,7 @@
     "heal": 502,
     "menu": 387,
     "owner": 18,
-    "script": 11,
+    "script": 12,
     "joinrpg": 56,
     "mentahan": 1,
     "claim": 89,
@@ -3954,7 +3954,7 @@
     "kecocokan": 10,
     "register": 19,
     "rename": 1,
-    "cn": 97,
+    "cn": 98,
     "cari": 10,
     "menurpg": 5,
     "mengaji": 17,
@@ -4002,7 +4002,7 @@
     "marshaandthebear": 1,
     "allmenu": 37,
     "gamemenu": 10,
-    "catur": 250,
+    "catur": 252,
     "mulai": 2,
     "e2": 2,
     "6285180841166": 1,
@@ -5688,5 +5688,5 @@
     "emilia": 1,
     "cosplay": 1
   },
-  "lastUpdated": 1778236861844
+  "lastUpdated": 1778236921870
 }
