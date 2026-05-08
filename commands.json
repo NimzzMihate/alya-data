@@ -3684,7 +3684,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 139,
-    "heal": 509,
+    "heal": 512,
     "menu": 387,
     "owner": 19,
     "script": 12,
@@ -3710,7 +3710,7 @@
     "gift": 823,
     "ajakmain": 147,
     "daily": 105,
-    "adventure": 280,
+    "adventure": 282,
     "cf": 21,
     "nai2": 650,
     "6282137487477": 73,
@@ -4218,7 +4218,7 @@
     "cekstatus": 1,
     "cekprofil": 10,
     "atmall": 198,
-    "inv": 171,
+    "inv": 172,
     "healfull": 13,
     "mute": 8,
     "perstat": 1,
@@ -5695,5 +5695,5 @@
     "izinout": 1,
     "br0:https://github.com/broman0x/cure-code": 1
   },
-  "lastUpdated": 1778282604929
+  "lastUpdated": 1778282664931
 }
