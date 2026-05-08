@@ -3723,7 +3723,7 @@
     "dailymisi": 131,
     "open-bo": 74,
     "ewepaksa": 307,
-    "topglobal": 175,
+    "topglobal": 176,
     "6285789692015": 1,
     "buy": 896,
     "smeme": 266,
@@ -4217,8 +4217,8 @@
     "listban": 3,
     "cekstatus": 1,
     "cekprofil": 10,
-    "atmall": 197,
-    "inv": 168,
+    "atmall": 198,
+    "inv": 169,
     "healfull": 13,
     "mute": 8,
     "perstat": 1,
@@ -5695,5 +5695,5 @@
     "izinout": 1,
     "br0:https://github.com/broman0x/cure-code": 1
   },
-  "lastUpdated": 1778281884929
+  "lastUpdated": 1778281944925
 }
