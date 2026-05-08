@@ -1,16 +1,16 @@
 {
   "level": [
     {
-      "name": "TX Zeppeli",
-      "level": 770,
-      "exp": 1848314,
-      "saldo": 90526
+      "name": "TX 🪶",
+      "level": 771,
+      "exp": 1852734,
+      "saldo": 100939
     },
     {
       "name": "Xarzzxx メ",
-      "level": 618,
-      "exp": 1483309,
-      "saldo": 7.919272575759963e+134
+      "level": 619,
+      "exp": 1487289,
+      "saldo": 7000
     },
     {
       "name": "Nimzz </>",
@@ -135,12 +135,6 @@
       "saldo": 1e+140
     },
     {
-      "name": "Xarzzxx メ",
-      "level": 618,
-      "exp": 1483309,
-      "saldo": 7.919272575759963e+134
-    },
-    {
       "name": ".",
       "level": 48,
       "exp": 115270,
@@ -241,20 +235,26 @@
       "level": 122,
       "exp": 117024,
       "saldo": 1e+26
+    },
+    {
+      "name": "Sanzx",
+      "level": 2,
+      "exp": 4923,
+      "saldo": 1.000000000999995e+25
     }
   ],
   "exp": [
     {
-      "name": "TX Zeppeli",
-      "level": 770,
-      "exp": 1848314,
-      "saldo": 90526
+      "name": "TX 🪶",
+      "level": 771,
+      "exp": 1852734,
+      "saldo": 100939
     },
     {
       "name": "Xarzzxx メ",
-      "level": 618,
-      "exp": 1483309,
-      "saldo": 7.919272575759963e+134
+      "level": 619,
+      "exp": 1487289,
+      "saldo": 7000
     },
     {
       "name": "Ditz ketoprak",
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778235177549
+  "lastUpdated": 1778235237553
 }
