@@ -4758,7 +4758,7 @@
     "gopay": 2,
     "qris": 1,
     "6283194787778": 11,
-    "io": 35,
+    "io": 36,
     "cekgateng": 1,
     "ms": 1,
     "cekprogile": 1,
@@ -5690,7 +5690,8 @@
     "requestfitur": 1,
     "req": 1,
     "gigit": 2,
-    "*\nscrape": 1
+    "*\nscrape": 1,
+    "io,": 1
   },
-  "lastUpdated": 1778246264315
+  "lastUpdated": 1778246324313
 }
