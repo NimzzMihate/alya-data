@@ -3,8 +3,8 @@
     {
       "name": "TX 🪶",
       "level": 772,
-      "exp": 1852942,
-      "saldo": 2107939
+      "exp": 1853289,
+      "saldo": 0
     },
     {
       "name": "Xarzzxx メ",
@@ -63,7 +63,7 @@
     {
       "name": "sky the beginner",
       "level": 97,
-      "exp": 234272,
+      "exp": 234344,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -167,7 +167,7 @@
     {
       "name": "sky the beginner",
       "level": 97,
-      "exp": 234272,
+      "exp": 234344,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -247,8 +247,8 @@
     {
       "name": "TX 🪶",
       "level": 772,
-      "exp": 1852942,
-      "saldo": 2107939
+      "exp": 1853289,
+      "saldo": 0
     },
     {
       "name": "Xarzzxx メ",
@@ -301,7 +301,7 @@
     {
       "name": "sky the beginner",
       "level": 97,
-      "exp": 234272,
+      "exp": 234344,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778235898899
+  "lastUpdated": 1778235958919
 }
