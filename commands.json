@@ -3665,7 +3665,7 @@
     "atm": 196,
     "bank": 145,
     "afk": 1807,
-    "kerja": 152,
+    "kerja": 154,
     "628176533297": 14,
     "s": 586,
     "jwkwnwkabs": 1,
@@ -3899,7 +3899,7 @@
     "cekganteng": 158,
     "crkganteng": 1,
     "puqi": 41,
-    "anj": 370,
+    "anj": 376,
     "anjing": 37,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4224,7 +4224,7 @@
     "perstat": 1,
     "lesby": 9,
     "bokeppaksa": 1,
-    "taksi": 22,
+    "taksi": 23,
     "bangsat": 9,
     "foodpet": 2,
     "releaseper": 1,
@@ -4333,7 +4333,7 @@
     "???": 2,
     "?": 8,
     "@250693499797710": 2,
-    "ngojek": 98,
+    "ngojek": 99,
     "rt": 16,
     ".e": 2,
     "kokop": 1,
@@ -4426,7 +4426,7 @@
     "setgender": 1,
     "sapi": 3,
     "gun": 1,
-    "polisi": 16,
+    "polisi": 17,
     "job": 2,
     "minum": 2,
     "atmpullall": 2,
@@ -5675,5 +5675,5 @@
     "senyum": 2,
     "colek": 1
   },
-  "lastUpdated": 1778228221739
+  "lastUpdated": 1778228281738
 }
