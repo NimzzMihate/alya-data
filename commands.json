@@ -3717,7 +3717,7 @@
     "removebg": 110,
     "addown": 8,
     "listowner": 16,
-    "brat": 240,
+    "brat": 241,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 133,
@@ -3771,7 +3771,7 @@
     "261581174734897": 1,
     "80505152212993": 1,
     "revomebg": 2,
-    "rvo": 112,
+    "rvo": 113,
     "202766010036371": 66,
     "89374091944116": 165,
     "80548286464072": 47,
@@ -4504,7 +4504,7 @@
     "berisusu": 8,
     "si'": 1,
     "judi": 1,
-    "toolsmenu": 6,
+    "toolsmenu": 8,
     "art": 3,
     "voicemenu": 7,
     "smooth": 6,
@@ -5697,5 +5697,5 @@
     "bratsetikerkosong": 1,
     "ptofile": 1
   },
-  "lastUpdated": 1778308669641
+  "lastUpdated": 1778308729652
 }
