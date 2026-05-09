@@ -4012,7 +4012,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 646,
+    "tf": 647,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4021,7 +4021,7 @@
     "aiart": 1,
     "f": 3,
     "heal.": 1,
-    "sell": 146,
+    "sell": 147,
     "jual": 108,
     "vid": 3,
     "nfsw": 2,
@@ -4218,7 +4218,7 @@
     "cekstatus": 1,
     "cekprofil": 10,
     "atmall": 198,
-    "inv": 172,
+    "inv": 173,
     "healfull": 13,
     "mute": 8,
     "perstat": 1,
@@ -5700,5 +5700,5 @@
     "6285155392377": 1,
     "ft": 1
   },
-  "lastUpdated": 1778324129646
+  "lastUpdated": 1778324189654
 }
