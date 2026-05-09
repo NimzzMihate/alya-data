@@ -3659,7 +3659,7 @@
     "ngaji": 180,
     "ewe-paksa": 67,
     "me": 969,
-    "setbg": 65,
+    "setbg": 66,
     "rampok2": 674,
     "6285609504925": 15,
     "atm": 196,
@@ -4116,7 +4116,7 @@
     "istiku": 1,
     "cerai": 29,
     "putus": 180,
-    "crop": 89,
+    "crop": 90,
     "shopgift": 68,
     "give": 4,
     "asep": 1,
@@ -5709,5 +5709,5 @@
     "bonk": 1,
     "rezeki": 1
   },
-  "lastUpdated": 1778365086175
+  "lastUpdated": 1778365146181
 }
