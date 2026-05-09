@@ -3653,7 +3653,7 @@
     "backup": 9,
     "get": 130,
     "tohtml": 11,
-    "ranked": 106,
+    "ranked": 108,
     "mobaprofile": 15,
     "playmoba": 42,
     "ngaji": 174,
@@ -3928,7 +3928,7 @@
     "/": 20,
     "cekcantik": 97,
     "toplocal": 76,
-    "forward": 519,
+    "forward": 520,
     "6283147484272": 6,
     "cekfemboty": 1,
     "2590335057971": 51,
@@ -5698,5 +5698,5 @@
     "ptofile": 1,
     "to": 1
   },
-  "lastUpdated": 1778323349652
+  "lastUpdated": 1778323409642
 }
