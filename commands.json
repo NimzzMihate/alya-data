@@ -3653,7 +3653,7 @@
     "backup": 9,
     "get": 130,
     "tohtml": 11,
-    "ranked": 108,
+    "ranked": 109,
     "mobaprofile": 15,
     "playmoba": 42,
     "ngaji": 174,
@@ -3697,7 +3697,7 @@
     "6281393286345": 303,
     ">": 8,
     "addapi": 4,
-    "pin": 343,
+    "pin": 344,
     "hd": 385,
     "useitem": 7,
     "77605898313906": 344,
@@ -3871,7 +3871,7 @@
     "hargasewa": 4,
     "d": 289,
     "pabrik": 1,
-    "fitnah": 208,
+    "fitnah": 209,
     "puji": 261,
     "pacar": 320,
     "carikarakter": 261,
@@ -5698,5 +5698,5 @@
     "ptofile": 1,
     "to": 1
   },
-  "lastUpdated": 1778323469643
+  "lastUpdated": 1778323529647
 }
