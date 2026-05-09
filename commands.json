@@ -3717,7 +3717,7 @@
     "removebg": 110,
     "addown": 8,
     "listowner": 16,
-    "brat": 236,
+    "brat": 238,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 131,
@@ -5696,5 +5696,5 @@
     "br0:https://github.com/broman0x/cure-code": 1,
     "bratsetikerkosong": 1
   },
-  "lastUpdated": 1778293885069
+  "lastUpdated": 1778293945062
 }
