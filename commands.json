@@ -3684,7 +3684,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 142,
-    "heal": 521,
+    "heal": 522,
     "menu": 389,
     "owner": 19,
     "script": 12,
@@ -3720,7 +3720,7 @@
     "brat": 255,
     "brathd": 2,
     "editfoto": 101,
-    "dailymisi": 138,
+    "dailymisi": 141,
     "open-bo": 76,
     "ewepaksa": 312,
     "topglobal": 178,
@@ -3802,7 +3802,7 @@
     "....": 3,
     "setprofile": 190,
     "daftar": 45,
-    "profile": 143,
+    "profile": 144,
     "topactive": 151,
     "verify": 37,
     "daftr": 14,
@@ -5709,5 +5709,5 @@
     "bonk": 1,
     "rezeki": 1
   },
-  "lastUpdated": 1778360766148
+  "lastUpdated": 1778360826151
 }
