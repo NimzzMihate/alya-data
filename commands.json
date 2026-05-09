@@ -3658,7 +3658,7 @@
     "playmoba": 42,
     "ngaji": 174,
     "ewe-paksa": 67,
-    "me": 965,
+    "me": 966,
     "setbg": 65,
     "rampok2": 674,
     "6285609504925": 15,
@@ -3816,7 +3816,7 @@
     "buildml": 22,
     "izin": 1,
     "build": 2,
-    "saldo": 393,
+    "saldo": 397,
     "demote": 19,
     "sendgc": 2,
     "kirimke": 1,
@@ -4012,7 +4012,7 @@
     "afk\ntidur": 1,
     "mong": 1,
     "remove": 6,
-    "tf": 644,
+    "tf": 645,
     "lanjut": 1,
     "47039270359040": 3,
     "autosahur": 1,
@@ -4404,7 +4404,7 @@
     "invpd": 3,
     "628895327267": 218,
     "ceklimit": 17,
-    "ceksaldo": 82,
+    "ceksaldo": 83,
     "selectskill": 2,
     "ternak": 1,
     "berternak": 1,
@@ -5700,5 +5700,5 @@
     "6285155392377": 1,
     "ft": 1
   },
-  "lastUpdated": 1778324009647
+  "lastUpdated": 1778324069646
 }
