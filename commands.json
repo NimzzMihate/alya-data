@@ -3783,7 +3783,7 @@
     "228673269583986": 1,
     "6281539969085": 9,
     "all": 88,
-    "tt": 306,
+    "tt": 307,
     "kickall": 8,
     "78817548841029": 2,
     "104797353033809": 4,
@@ -4359,8 +4359,8 @@
     "spotifydl": 15,
     "toaudio": 21,
     "speed": 1,
-    "bass": 65,
-    "earrape": 3,
+    "bass": 66,
+    "earrape": 4,
     "nahida": 30,
     "pasanganmenu": 29,
     "menupasangan": 6,
@@ -5697,5 +5697,5 @@
     "bratsetikerkosong": 1,
     "ptofile": 1
   },
-  "lastUpdated": 1778315509772
+  "lastUpdated": 1778315569768
 }
