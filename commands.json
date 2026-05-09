@@ -3683,14 +3683,14 @@
     "p": 6,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 140,
+    "wikwik": 142,
     "heal": 521,
     "menu": 389,
     "owner": 19,
     "script": 12,
     "joinrpg": 56,
     "mentahan": 1,
-    "claim": 91,
+    "claim": 92,
     "cekidch": 17,
     "tourl": 51,
     "title": 1,
@@ -4230,7 +4230,7 @@
     "releaseper": 1,
     "releasepet": 2,
     "remini": 18,
-    "openbo": 59,
+    "openbo": 60,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
@@ -5709,5 +5709,5 @@
     "bonk": 1,
     "rezeki": 1
   },
-  "lastUpdated": 1778360706147
+  "lastUpdated": 1778360766148
 }
