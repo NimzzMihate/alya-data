@@ -62,8 +62,8 @@
     },
     {
       "name": "sky the beginner",
-      "level": 97,
-      "exp": 235174,
+      "level": 98,
+      "exp": 235209,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -172,8 +172,8 @@
     },
     {
       "name": "sky the beginner",
-      "level": 97,
-      "exp": 235174,
+      "level": 98,
+      "exp": 235209,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -300,8 +300,8 @@
     },
     {
       "name": "sky the beginner",
-      "level": 97,
-      "exp": 235174,
+      "level": 98,
+      "exp": 235209,
       "saldo": 3.093939496232323e+68
     },
     {
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778314369690
+  "lastUpdated": 1778314429846
 }
