@@ -3700,7 +3700,7 @@
     "pin": 345,
     "hd": 386,
     "useitem": 7,
-    "77605898313906": 344,
+    "77605898313906": 345,
     "huxin": 13,
     "usaha": 183,
     "memancing": 178,
@@ -4458,7 +4458,7 @@
     "dana": 2,
     "cekskill": 3,
     "scale": 2,
-    "smile": 5,
+    "smile": 6,
     "rasio": 1,
     "ewe": 59,
     "nonc": 1,
@@ -5708,5 +5708,5 @@
     "sex": 1,
     "bonk": 1
   },
-  "lastUpdated": 1778338387551
+  "lastUpdated": 1778338447549
 }
