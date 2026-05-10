@@ -2927,7 +2927,7 @@
     "pvid",
     "ttcomment",
     "tiktokcomment",
-    "ttc",
+    "fakecomment",
     "cw",
     "cecanwaifu",
     "yuki",
@@ -5712,8 +5712,8 @@
     "bonk": 1,
     "rezeki": 1,
     "cuma": 1,
-    "tiktokcomment": 3,
+    "tiktokcomment": 4,
     "nimzz": 1
   },
-  "lastUpdated": 1778385681129
+  "lastUpdated": 1778385741128
 }
