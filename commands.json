@@ -3717,7 +3717,7 @@
     "removebg": 110,
     "addown": 8,
     "listowner": 16,
-    "brat": 256,
+    "brat": 257,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 142,
@@ -5710,5 +5710,5 @@
     "rezeki": 1,
     "cuma": 1
   },
-  "lastUpdated": 1778378181105
+  "lastUpdated": 1778378241086
 }
