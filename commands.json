@@ -4567,7 +4567,7 @@
     "nomor": 2,
     "armor": 3,
     "fish": 1,
-    "poke": 5,
+    "poke": 6,
     "anjg": 75,
     "cekbank": 80,
     "cektomboy": 3,
@@ -5718,5 +5718,5 @@
     "-": 3,
     "colmek": 1
   },
-  "lastUpdated": 1778392944343
+  "lastUpdated": 1778393004336
 }
