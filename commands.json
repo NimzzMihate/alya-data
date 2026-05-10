@@ -3720,7 +3720,7 @@
     "removebg": 110,
     "addown": 8,
     "listowner": 16,
-    "brat": 266,
+    "brat": 268,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 144,
@@ -4173,7 +4173,7 @@
     "transfersaldo": 1,
     "transfer": 1,
     "tranfer2000": 1,
-    "bot": 4,
+    "bot": 5,
     "tf+62": 1,
     "dokter": 3,
     "carikarakter[shizuka": 1,
@@ -5716,5 +5716,5 @@
     "nimzz": 1,
     "daikymisi": 1
   },
-  "lastUpdated": 1778390901136
+  "lastUpdated": 1778391024323
 }
