@@ -3805,7 +3805,7 @@
     "....": 3,
     "setprofile": 192,
     "daftar": 46,
-    "profile": 148,
+    "profile": 149,
     "topactive": 151,
     "verify": 38,
     "daftr": 14,
@@ -4233,7 +4233,7 @@
     "releaseper": 1,
     "releasepet": 2,
     "remini": 18,
-    "openbo": 61,
+    "openbo": 62,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
@@ -5732,5 +5732,5 @@
     "57939796701258": 1,
     "⁨my": 1
   },
-  "lastUpdated": 1778448329148
+  "lastUpdated": 1778448389158
 }
