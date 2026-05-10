@@ -3693,7 +3693,7 @@
     "script": 12,
     "joinrpg": 58,
     "mentahan": 1,
-    "claim": 94,
+    "claim": 95,
     "cekidch": 18,
     "tourl": 51,
     "title": 1,
@@ -3807,7 +3807,7 @@
     "daftar": 46,
     "profile": 145,
     "topactive": 151,
-    "verify": 37,
+    "verify": 38,
     "daftr": 14,
     "status": 19,
     "pap": 921,
@@ -5720,5 +5720,5 @@
     "askot": 1,
     "temen": 1
   },
-  "lastUpdated": 1778393184338
+  "lastUpdated": 1778393244359
 }
