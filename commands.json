@@ -3688,7 +3688,7 @@
     "61405583679507": 1,
     "wikwik": 142,
     "heal": 525,
-    "menu": 405,
+    "menu": 406,
     "owner": 20,
     "script": 12,
     "joinrpg": 56,
@@ -5190,7 +5190,7 @@
     "blown": 55,
     "bolwn": 1,
     "151432594505894": 50,
-    "manu": 1,
+    "manu": 2,
     "toitelanjang": 1,
     "kecil": 1,
     "nai1": 1,
@@ -5716,5 +5716,5 @@
     "nimzz": 1,
     "daikymisi": 1
   },
-  "lastUpdated": 1778390601118
+  "lastUpdated": 1778390661128
 }
