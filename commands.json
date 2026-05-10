@@ -3661,7 +3661,7 @@
     "playmoba": 42,
     "ngaji": 183,
     "ewe-paksa": 67,
-    "me": 975,
+    "me": 976,
     "setbg": 67,
     "rampok2": 674,
     "6285609504925": 15,
@@ -3803,8 +3803,8 @@
     "628998866123": 36,
     "166121432961259": 79,
     "....": 3,
-    "setprofile": 190,
-    "daftar": 45,
+    "setprofile": 191,
+    "daftar": 46,
     "profile": 145,
     "topactive": 151,
     "verify": 37,
@@ -5716,7 +5716,9 @@
     "nimzz": 1,
     "daikymisi": 1,
     "-": 3,
-    "colmek": 1
+    "colmek": 1,
+    "askot": 1,
+    "temen": 1
   },
-  "lastUpdated": 1778393124344
+  "lastUpdated": 1778393184338
 }
