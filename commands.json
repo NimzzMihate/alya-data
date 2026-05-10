@@ -3688,7 +3688,7 @@
     "61405583679507": 1,
     "wikwik": 144,
     "heal": 526,
-    "menu": 407,
+    "menu": 409,
     "owner": 20,
     "script": 12,
     "joinrpg": 58,
@@ -3720,7 +3720,7 @@
     "removebg": 110,
     "addown": 8,
     "listowner": 16,
-    "brat": 270,
+    "brat": 271,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 144,
@@ -3810,7 +3810,7 @@
     "verify": 38,
     "daftr": 14,
     "status": 19,
-    "pap": 921,
+    "pap": 922,
     "tebakbendera": 41,
     "tebak": 2,
     "gantinama": 1,
@@ -4816,7 +4816,7 @@
     "nambah": 1,
     "tambah": 3,
     "pinzhuxin": 1,
-    "toori": 4,
+    "toori": 7,
     "flatten": 1,
     "pppacar": 1,
     "audio2txt": 4,
@@ -5718,7 +5718,10 @@
     "-": 3,
     "colmek": 1,
     "askot": 1,
-    "temen": 1
+    "temen": 1,
+    "wd": 1,
+    "tools": 1,
+    "tooti": 1
   },
-  "lastUpdated": 1778393244359
+  "lastUpdated": 1778393366663
 }
