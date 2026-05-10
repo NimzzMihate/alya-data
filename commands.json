@@ -3927,8 +3927,8 @@
     "6281455125940": 2,
     "6285761349641": 13,
     "pap2": 130,
-    "getcase": 17,
-    "/": 20,
+    "getcase": 18,
+    "/": 21,
     "cekcantik": 97,
     "toplocal": 78,
     "forward": 522,
@@ -3953,7 +3953,7 @@
     "totalfitur": 2,
     "mie": 1,
     "statusanak": 49,
-    "wink": 2,
+    "wink": 3,
     "kecocokan": 10,
     "register": 19,
     "rename": 1,
@@ -4567,7 +4567,7 @@
     "nomor": 2,
     "armor": 3,
     "fish": 1,
-    "poke": 4,
+    "poke": 5,
     "anjg": 75,
     "cekbank": 80,
     "cektomboy": 3,
@@ -4770,7 +4770,7 @@
     "33281768689865": 14,
     "⁨~putraaa⁩": 1,
     "dimas": 1,
-    "blush": 3,
+    "blush": 4,
     "afira": 1,
     "detail": 1,
     "tomp3": 14,
@@ -5718,5 +5718,5 @@
     "-": 3,
     "colmek": 1
   },
-  "lastUpdated": 1778392884343
+  "lastUpdated": 1778392944343
 }
