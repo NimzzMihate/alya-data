@@ -3687,8 +3687,8 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 145,
-    "heal": 527,
-    "menu": 411,
+    "heal": 528,
+    "menu": 412,
     "owner": 20,
     "script": 12,
     "joinrpg": 58,
@@ -3701,7 +3701,7 @@
     ">": 8,
     "addapi": 4,
     "pin": 345,
-    "hd": 387,
+    "hd": 388,
     "useitem": 7,
     "77605898313906": 347,
     "huxin": 13,
@@ -4238,7 +4238,7 @@
     "negararusia": 1,
     "exitrpg": 4,
     "nyampah": 65,
-    "berlayar": 285,
+    "berlayar": 286,
     "6285817528851": 2,
     "reedem": 2,
     "redeem": 4,
@@ -5728,5 +5728,5 @@
     "ank": 1,
     "dikamar": 1
   },
-  "lastUpdated": 1778407952460
+  "lastUpdated": 1778408012469
 }
