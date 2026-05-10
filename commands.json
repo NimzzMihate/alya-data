@@ -3690,7 +3690,7 @@
     "script": 12,
     "joinrpg": 56,
     "mentahan": 1,
-    "claim": 92,
+    "claim": 94,
     "cekidch": 18,
     "tourl": 51,
     "title": 1,
@@ -3720,7 +3720,7 @@
     "brat": 255,
     "brathd": 2,
     "editfoto": 101,
-    "dailymisi": 141,
+    "dailymisi": 142,
     "open-bo": 76,
     "ewepaksa": 312,
     "topglobal": 178,
@@ -3750,7 +3750,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 190,
-    "tes": 599,
+    "tes": 600,
     "listown": 15,
     "getpp": 34,
     "linkgc": 25,
@@ -5710,5 +5710,5 @@
     "rezeki": 1,
     "cuma": 1
   },
-  "lastUpdated": 1778377521084
+  "lastUpdated": 1778377581087
 }
