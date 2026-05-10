@@ -3686,12 +3686,12 @@
     "p": 6,
     "208267577974806": 1,
     "61405583679507": 1,
-    "wikwik": 142,
+    "wikwik": 143,
     "heal": 525,
     "menu": 406,
     "owner": 20,
     "script": 12,
-    "joinrpg": 56,
+    "joinrpg": 58,
     "mentahan": 1,
     "claim": 94,
     "cekidch": 18,
@@ -3724,7 +3724,7 @@
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 144,
-    "open-bo": 78,
+    "open-bo": 79,
     "ewepaksa": 316,
     "topglobal": 179,
     "6285789692015": 1,
@@ -5716,5 +5716,5 @@
     "nimzz": 1,
     "daikymisi": 1
   },
-  "lastUpdated": 1778391144342
+  "lastUpdated": 1778391204323
 }
