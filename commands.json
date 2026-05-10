@@ -3685,7 +3685,7 @@
     "61405583679507": 1,
     "wikwik": 142,
     "heal": 522,
-    "menu": 401,
+    "menu": 402,
     "owner": 20,
     "script": 12,
     "joinrpg": 56,
@@ -4733,7 +4733,7 @@
     "buypanel": 1,
     "elaina": 1,
     "sc": 1,
-    "multiprefix": 2,
+    "multiprefix": 3,
     "..........": 1,
     "ba": 2,
     "shess": 1,
@@ -5710,5 +5710,5 @@
     "rezeki": 1,
     "cuma": 1
   },
-  "lastUpdated": 1778373981069
+  "lastUpdated": 1778374041074
 }
