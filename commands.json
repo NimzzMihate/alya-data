@@ -3685,7 +3685,7 @@
     "61405583679507": 1,
     "wikwik": 142,
     "heal": 522,
-    "menu": 391,
+    "menu": 393,
     "owner": 19,
     "script": 12,
     "joinrpg": 56,
@@ -4420,7 +4420,7 @@
     "getlinkgc": 2,
     "131203332047033": 8,
     "ownermenu": 3,
-    "self": 5,
+    "self": 6,
     "1319142170762": 1,
     "ubahnama": 1,
     "setgender": 1,
@@ -4689,7 +4689,7 @@
     "pvp": 1,
     "stop": 1,
     "hentikan": 1,
-    "mode": 6,
+    "mode": 9,
     "battlepat": 2,
     "rampokw": 3,
     "tea": 1,
@@ -4953,7 +4953,7 @@
     "say3": 1,
     "reverse": 5,
     "theok": 1,
-    "public": 3,
+    "public": 4,
     "97307433390109": 1,
     "lcekprofile": 1,
     "cekdaldo": 1,
@@ -5710,5 +5710,5 @@
     "rezeki": 1,
     "cuma": 1
   },
-  "lastUpdated": 1778373306237
+  "lastUpdated": 1778373366254
 }
