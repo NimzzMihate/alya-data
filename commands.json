@@ -5624,7 +5624,7 @@
     "snget": 2,
     "sngetnlist": 1,
     "sngetsnlist": 2,
-    "addprem": 1,
+    "addprem": 2,
     "cekcanting": 1,
     "smeme|": 1,
     "cekxl": 3,
@@ -5734,5 +5734,5 @@
     "185199291818074": 1,
     "me2": 2
   },
-  "lastUpdated": 1778478549761
+  "lastUpdated": 1778478609766
 }
