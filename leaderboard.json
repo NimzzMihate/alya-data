@@ -98,9 +98,9 @@
     },
     {
       "name": "aul",
-      "level": 30,
-      "exp": 74367,
-      "saldo": 5173040
+      "level": 31,
+      "exp": 74442,
+      "saldo": 5180040
     },
     {
       "name": "Oguri cap",
@@ -342,9 +342,9 @@
     },
     {
       "name": "aul",
-      "level": 30,
-      "exp": 74367,
-      "saldo": 5173040
+      "level": 31,
+      "exp": 74442,
+      "saldo": 5180040
     },
     {
       "name": "Oguri cap",
@@ -365,5 +365,5 @@
       "saldo": 10000139079676375000
     }
   ],
-  "lastUpdated": 1778487940786
+  "lastUpdated": 1778488000773
 }
