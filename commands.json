@@ -3687,7 +3687,7 @@
     "208267577974806": 1,
     "61405583679507": 1,
     "wikwik": 146,
-    "heal": 537,
+    "heal": 538,
     "menu": 423,
     "owner": 21,
     "script": 12,
@@ -3805,7 +3805,7 @@
     "....": 3,
     "setprofile": 197,
     "daftar": 47,
-    "profile": 159,
+    "profile": 160,
     "topactive": 151,
     "verify": 38,
     "daftr": 14,
@@ -4233,7 +4233,7 @@
     "releaseper": 1,
     "releasepet": 2,
     "remini": 18,
-    "openbo": 69,
+    "openbo": 71,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
@@ -4971,7 +4971,7 @@
     "qc": 10,
     "siapakahaku": 3,
     "yts": 1,
-    "ngepet": 57,
+    "ngepet": 58,
     "keyboard": 1,
     "buildmlbb": 1,
     "buildhero": 1,
@@ -5752,5 +5752,5 @@
     "top-active": 1,
     "*\n>": 2
   },
-  "lastUpdated": 1778620525849
+  "lastUpdated": 1778620585846
 }
