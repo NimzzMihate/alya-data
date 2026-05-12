@@ -3693,7 +3693,7 @@
     "script": 12,
     "joinrpg": 58,
     "mentahan": 1,
-    "claim": 98,
+    "claim": 99,
     "cekidch": 18,
     "tourl": 51,
     "title": 1,
@@ -3836,7 +3836,7 @@
     "wm": 201,
     "absen": 24,
     "mulaiabsen": 11,
-    "6283848672013": 216,
+    "6283848672013": 217,
     "ratebot": 5,
     "webfeedback": 2,
     "171511465922650": 1,
@@ -5752,5 +5752,5 @@
     "top-active": 1,
     "*\n>": 2
   },
-  "lastUpdated": 1778623585900
+  "lastUpdated": 1778623645900
 }
