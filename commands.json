@@ -3874,7 +3874,7 @@
     "hargasewa": 4,
     "d": 297,
     "pabrik": 1,
-    "fitnah": 217,
+    "fitnah": 220,
     "puji": 261,
     "pacar": 323,
     "carikarakter": 265,
@@ -5756,11 +5756,12 @@
     "arti": 1,
     "sorry": 1,
     "cekewe": 1,
-    "tickle": 2,
+    "tickle": 3,
     "akar": 1,
     "akur": 1,
     "dance": 1,
-    "plat": 1
+    "plat": 1,
+    "unbanned": 1
   },
-  "lastUpdated": 1778668558971
+  "lastUpdated": 1778668618971
 }
