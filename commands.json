@@ -3753,7 +3753,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 192,
-    "tes": 619,
+    "tes": 620,
     "listown": 15,
     "getpp": 34,
     "linkgc": 26,
@@ -3805,7 +3805,7 @@
     "....": 3,
     "setprofile": 197,
     "daftar": 48,
-    "profile": 164,
+    "profile": 165,
     "topactive": 152,
     "verify": 38,
     "daftr": 15,
@@ -3902,7 +3902,7 @@
     "cekganteng": 161,
     "crkganteng": 1,
     "puqi": 44,
-    "anj": 417,
+    "anj": 426,
     "anjing": 41,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4568,7 +4568,7 @@
     "armor": 3,
     "fish": 1,
     "poke": 6,
-    "anjg": 76,
+    "anjg": 77,
     "cekbank": 80,
     "cektomboy": 3,
     "bajingan": 17,
@@ -5763,5 +5763,5 @@
     "plat": 1,
     "unbanned": 2
   },
-  "lastUpdated": 1778669758982
+  "lastUpdated": 1778669818975
 }
