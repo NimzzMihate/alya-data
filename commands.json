@@ -3659,7 +3659,7 @@
     "ranked": 111,
     "mobaprofile": 15,
     "playmoba": 43,
-    "ngaji": 200,
+    "ngaji": 201,
     "ewe-paksa": 69,
     "me": 995,
     "setbg": 74,
@@ -3723,9 +3723,9 @@
     "brat": 320,
     "brathd": 2,
     "editfoto": 101,
-    "dailymisi": 167,
+    "dailymisi": 168,
     "open-bo": 82,
-    "ewepaksa": 335,
+    "ewepaksa": 336,
     "topglobal": 191,
     "6285789692015": 1,
     "buy": 931,
@@ -4233,7 +4233,7 @@
     "releaseper": 1,
     "releasepet": 2,
     "remini": 18,
-    "openbo": 73,
+    "openbo": 74,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
@@ -5533,7 +5533,7 @@
     "downloadermenu": 1,
     "ntaji": 1,
     "hf": 1,
-    "nyawit": 1,
+    "nyawit": 2,
     "zzzzzz": 1,
     "addsewa": 7,
     "creategc": 1,
@@ -5755,5 +5755,5 @@
     "tt2": 1,
     "arti": 1
   },
-  "lastUpdated": 1778667276422
+  "lastUpdated": 1778667336429
 }
