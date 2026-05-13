@@ -3720,7 +3720,7 @@
     "removebg": 114,
     "addown": 8,
     "listowner": 16,
-    "brat": 324,
+    "brat": 325,
     "brathd": 2,
     "editfoto": 101,
     "dailymisi": 169,
@@ -5510,7 +5510,7 @@
     "kere": 1,
     "cekcewek": 1,
     "oi": 1,
-    "hu": 5,
+    "hu": 6,
     "surah": 1,
     "ml": 2,
     "singko": 1,
@@ -5764,5 +5764,5 @@
     "unbanned": 2,
     "cn\n\nwhen": 1
   },
-  "lastUpdated": 1778674485154
+  "lastUpdated": 1778674545153
 }
