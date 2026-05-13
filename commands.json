@@ -3700,7 +3700,7 @@
     "6281393286345": 323,
     ">": 9,
     "addapi": 4,
-    "pin": 348,
+    "pin": 349,
     "hd": 396,
     "useitem": 7,
     "77605898313906": 355,
@@ -4076,7 +4076,7 @@
     "bounty": 2,
     "listcase": 2,
     "test": 5,
-    "pin2": 17,
+    "pin2": 18,
     "itachi": 1,
     "gojo": 1,
     "banyak": 1,
@@ -4971,7 +4971,7 @@
     "qc": 10,
     "siapakahaku": 3,
     "yts": 1,
-    "ngepet": 59,
+    "ngepet": 60,
     "keyboard": 1,
     "buildmlbb": 1,
     "buildhero": 1,
@@ -5750,7 +5750,8 @@
     "𝟒𝐍": 1,
     "removebg2": 1,
     "top-active": 1,
-    "*\n>": 2
+    "*\n>": 2,
+    "ngepey": 1
   },
-  "lastUpdated": 1778652086785
+  "lastUpdated": 1778652146767
 }
