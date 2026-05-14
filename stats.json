@@ -3,8 +3,8 @@
   "totalUsers": 1353,
   "totalGroups": 40,
   "totalFeatures": 3637,
-  "totalCmd": 43643,
-  "totalChat": 43643,
+  "totalCmd": 43645,
+  "totalChat": 43645,
   "topCommands": [
     {
       "cmd": "afk",
@@ -28,7 +28,7 @@
     },
     {
       "cmd": "nai2",
-      "count": 711
+      "count": 712
     },
     {
       "cmd": "rampok2",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.5",
   "ratingTotal": 8,
-  "uptimeSeconds": 1981,
-  "lastUpdated": 1778730705112
+  "uptimeSeconds": 2041,
+  "lastUpdated": 1778730765114
 }
