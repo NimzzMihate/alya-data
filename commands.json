@@ -3659,7 +3659,7 @@
     "ranked": 111,
     "mobaprofile": 15,
     "playmoba": 43,
-    "ngaji": 204,
+    "ngaji": 205,
     "ewe-paksa": 69,
     "me": 995,
     "setbg": 74,
@@ -4145,7 +4145,7 @@
     "adoptpet": 39,
     "petstat": 46,
     "playpet": 136,
-    "feedpet": 211,
+    "feedpet": 212,
     "namapet": 3,
     "namepet": 15,
     "statpet": 7,
@@ -5765,7 +5765,8 @@
     "cn\n\nwhen": 1,
     "6285602638583": 1,
     "hu>>>": 1,
-    "monthlymisi": 1
+    "monthlymisi": 1,
+    "weeklymisi": 1
   },
-  "lastUpdated": 1778719799709
+  "lastUpdated": 1778719859712
 }
