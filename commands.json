@@ -3818,8 +3818,8 @@
     "build": 2,
     "saldo": 400,
     "demote": 19,
-    "sendgc": 2,
-    "kirimke": 1,
+    "sendgc": 3,
+    "kirimke": 2,
     "setpromosi": 5,
     "uprepo": 15,
     "ssweb": 11,
@@ -5778,7 +5778,9 @@
     "crm": 1,
     "tebatstiker": 1,
     "q2": 1,
-    "sgc": 1
+    "sgc": 1,
+    "src": 1,
+    "sendgc_65_120363400010892531@g.us": 1
   },
-  "lastUpdated": 1778833857451
+  "lastUpdated": 1778833940751
 }
