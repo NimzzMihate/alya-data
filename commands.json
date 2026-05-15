@@ -4795,7 +4795,7 @@
     "atmal": 1,
     "batal": 3,
     "sf": 1,
-    "listplugin": 1,
+    "listplugin": 2,
     "onlygc": 2,
     "ban": 2,
     "bangc": 3,
@@ -5773,5 +5773,5 @@
     "gane": 1,
     "update": 1
   },
-  "lastUpdated": 1778823551444
+  "lastUpdated": 1778823611440
 }
