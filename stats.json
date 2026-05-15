@@ -3,8 +3,8 @@
   "totalUsers": 1365,
   "totalGroups": 40,
   "totalFeatures": 3633,
-  "totalCmd": 44611,
-  "totalChat": 44611,
+  "totalCmd": 44619,
+  "totalChat": 44619,
   "topCommands": [
     {
       "cmd": "afk",
@@ -20,11 +20,11 @@
     },
     {
       "cmd": "pap",
-      "count": 928
+      "count": 929
     },
     {
       "cmd": "gift",
-      "count": 828
+      "count": 830
     },
     {
       "cmd": "nai2",
@@ -49,6 +49,6 @@
   ],
   "ratingAvg": "8.5",
   "ratingTotal": 8,
-  "uptimeSeconds": 121,
-  "lastUpdated": 1778854927170
+  "uptimeSeconds": 181,
+  "lastUpdated": 1778854987171
 }
