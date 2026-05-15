@@ -4798,8 +4798,8 @@
     "listplugin": 1,
     "onlygc": 2,
     "ban": 2,
-    "bangc": 2,
-    "unbangc": 2,
+    "bangc": 3,
+    "unbangc": 3,
     "setsewa": 1,
     "musuh": 1,
     "eus": 2,
@@ -5773,5 +5773,5 @@
     "gane": 1,
     "update": 1
   },
-  "lastUpdated": 1778820971417
+  "lastUpdated": 1778821031423
 }
