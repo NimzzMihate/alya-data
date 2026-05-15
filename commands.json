@@ -4420,7 +4420,7 @@
     "getlinkgc": 2,
     "131203332047033": 8,
     "ownermenu": 3,
-    "self": 6,
+    "self": 7,
     "1319142170762": 1,
     "ubahnama": 1,
     "setgender": 1,
@@ -4953,7 +4953,7 @@
     "say3": 1,
     "reverse": 5,
     "theok": 1,
-    "public": 5,
+    "public": 6,
     "97307433390109": 1,
     "lcekprofile": 1,
     "cekdaldo": 1,
@@ -5773,5 +5773,5 @@
     "gane": 1,
     "update": 1
   },
-  "lastUpdated": 1778819951405
+  "lastUpdated": 1778820011399
 }
