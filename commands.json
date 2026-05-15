@@ -3685,7 +3685,7 @@
     "61405583679507": 1,
     "wikwik": 147,
     "heal": 550,
-    "menu": 448,
+    "menu": 449,
     "owner": 21,
     "script": 12,
     "joinrpg": 58,
@@ -3752,7 +3752,7 @@
     "cekprofile": 192,
     "tes": 634,
     "listown": 15,
-    "getpp": 39,
+    "getpp": 40,
     "linkgc": 26,
     "cekpasangan": 123,
     "6281283401829": 7,
@@ -5789,5 +5789,5 @@
     "eval": 30,
     "listp": 1
   },
-  "lastUpdated": 1778848274067
+  "lastUpdated": 1778848334058
 }
