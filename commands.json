@@ -4657,7 +4657,7 @@
     "setan": 9,
     "sw": 2,
     "upswgc": 17,
-    "sendupsw": 12,
+    "sendupsw": 13,
     "feefpet": 4,
     "ditolak": 1,
     "kasohmakan": 1,
@@ -5339,7 +5339,7 @@
     "kebakar": 1,
     "pap45": 1,
     "pap1": 1,
-    "upsw": 1,
+    "upsw": 2,
     "totag": 32,
     "liston": 2,
     "cecanmenu": 3,
@@ -5792,5 +5792,5 @@
     "6281257276596": 1,
     "addp": 2
   },
-  "lastUpdated": 1778849749346
+  "lastUpdated": 1778849809340
 }
