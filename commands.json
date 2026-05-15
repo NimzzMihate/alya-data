@@ -3690,7 +3690,7 @@
     "script": 12,
     "joinrpg": 58,
     "mentahan": 1,
-    "claim": 100,
+    "claim": 101,
     "cekidch": 18,
     "tourl": 51,
     "title": 1,
@@ -5771,5 +5771,5 @@
     "140905646444655": 1,
     "*\ncreadit:": 1
   },
-  "lastUpdated": 1778803836925
+  "lastUpdated": 1778803896936
 }
