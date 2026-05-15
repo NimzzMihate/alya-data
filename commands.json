@@ -3651,7 +3651,7 @@
     "231179": 2,
     "2694099605": 35,
     "backup": 9,
-    "get": 172,
+    "get": 173,
     "tohtml": 11,
     "ranked": 111,
     "mobaprofile": 15,
@@ -3685,7 +3685,7 @@
     "61405583679507": 1,
     "wikwik": 147,
     "heal": 548,
-    "menu": 426,
+    "menu": 427,
     "owner": 21,
     "script": 12,
     "joinrpg": 58,
@@ -3750,7 +3750,7 @@
     "ra": 1,
     "tolid": 1,
     "cekprofile": 192,
-    "tes": 623,
+    "tes": 624,
     "listown": 15,
     "getpp": 34,
     "linkgc": 26,
@@ -5773,5 +5773,5 @@
     "gane": 1,
     "update": 1
   },
-  "lastUpdated": 1778817757085
+  "lastUpdated": 1778817817041
 }
