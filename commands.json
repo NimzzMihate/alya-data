@@ -4689,7 +4689,7 @@
     "pvp": 1,
     "stop": 1,
     "hentikan": 1,
-    "mode": 11,
+    "mode": 13,
     "battlepat": 2,
     "rampokw": 3,
     "tea": 1,
@@ -5773,5 +5773,5 @@
     "gane": 1,
     "update": 1
   },
-  "lastUpdated": 1778820911420
+  "lastUpdated": 1778820971417
 }
