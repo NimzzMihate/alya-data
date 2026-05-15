@@ -3802,7 +3802,7 @@
     "....": 4,
     "setprofile": 197,
     "daftar": 49,
-    "profile": 170,
+    "profile": 171,
     "topactive": 153,
     "verify": 38,
     "daftr": 15,
@@ -4178,7 +4178,7 @@
     "petmenu": 4,
     "resgis": 1,
     "regis": 3,
-    "battlepet": 193,
+    "battlepet": 194,
     "riges": 1,
     "mengangguk": 13,
     "carikarakter[nadeshiko": 1,
@@ -5788,5 +5788,5 @@
     "bn": 1,
     "eval": 16
   },
-  "lastUpdated": 1778844834521
+  "lastUpdated": 1778844894551
 }
