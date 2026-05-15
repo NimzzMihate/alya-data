@@ -3807,7 +3807,7 @@
     "verify": 38,
     "daftr": 15,
     "status": 19,
-    "pap": 924,
+    "pap": 928,
     "tebakbendera": 41,
     "tebak": 2,
     "gantinama": 1,
@@ -3873,7 +3873,7 @@
     "pabrik": 1,
     "fitnah": 225,
     "puji": 261,
-    "pacar": 323,
+    "pacar": 325,
     "carikarakter": 265,
     "nembak": 190,
     "cry": 10,
@@ -3899,7 +3899,7 @@
     "cekganteng": 161,
     "crkganteng": 1,
     "puqi": 44,
-    "anj": 474,
+    "anj": 479,
     "anjing": 41,
     "winkhd": 1,
     "winkuhd": 3,
@@ -4121,7 +4121,7 @@
     "give": 4,
     "asep": 1,
     "pasangan": 9,
-    "setpppacar": 61,
+    "setpppacar": 62,
     "dompet": 4,
     "istri": 5,
     "lamar": 16,
@@ -5798,5 +5798,5 @@
     "102474312593436": 1,
     "**\n": 1
   },
-  "lastUpdated": 1778854867183
+  "lastUpdated": 1778854927171
 }
