@@ -4051,7 +4051,7 @@
     "profil": 12,
     "prefix": 4,
     "6282313526033": 4,
-    "game": 9,
+    "game": 10,
     "main": 2,
     "moba": 3,
     "mobaprofil": 1,
@@ -5566,7 +5566,7 @@
     "vembatang": 1,
     "welcome": 4,
     "goodbye": 3,
-    "whoami": 2,
+    "whoami": 3,
     "free": 1,
     "souta": 1,
     "gantipp": 2,
@@ -5772,5 +5772,5 @@
     "*\ncreadit:": 1,
     "gane": 1
   },
-  "lastUpdated": 1778814396997
+  "lastUpdated": 1778814456997
 }
