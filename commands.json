@@ -3663,7 +3663,7 @@
     "rampok2": 675,
     "6285609504925": 15,
     "atm": 196,
-    "bank": 145,
+    "bank": 147,
     "afk": 2129,
     "kerja": 164,
     "628176533297": 14,
@@ -4566,7 +4566,7 @@
     "fish": 1,
     "poke": 6,
     "anjg": 77,
-    "cekbank": 80,
+    "cekbank": 82,
     "cektomboy": 3,
     "bajingan": 17,
     "tabungan": 9,
@@ -4758,7 +4758,7 @@
     "gopay": 2,
     "qris": 1,
     "6283194787778": 11,
-    "io": 46,
+    "io": 47,
     "cekgateng": 1,
     "ms": 1,
     "cekprogile": 1,
@@ -5805,5 +5805,5 @@
     "zovid": 1,
     "tovid2": 1
   },
-  "lastUpdated": 1778924604487
+  "lastUpdated": 1778924664485
 }
