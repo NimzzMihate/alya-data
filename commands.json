@@ -3720,7 +3720,7 @@
     "brat": 351,
     "brathd": 2,
     "editfoto": 101,
-    "dailymisi": 185,
+    "dailymisi": 186,
     "open-bo": 83,
     "ewepaksa": 349,
     "topglobal": 202,
@@ -3802,7 +3802,7 @@
     "....": 4,
     "setprofile": 200,
     "daftar": 50,
-    "profile": 174,
+    "profile": 175,
     "topactive": 154,
     "verify": 38,
     "daftr": 15,
@@ -4230,7 +4230,7 @@
     "releaseper": 1,
     "releasepet": 2,
     "remini": 18,
-    "openbo": 83,
+    "openbo": 84,
     "stamina": 1,
     "negararusia": 1,
     "exitrpg": 4,
@@ -5814,5 +5814,5 @@
     "bailout@bias2": 1,
     "117433583050868": 1
   },
-  "lastUpdated": 1778985216303
+  "lastUpdated": 1778985276309
 }
