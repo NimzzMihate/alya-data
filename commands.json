@@ -3660,7 +3660,7 @@
     "ewe-paksa": 69,
     "me": 1020,
     "setbg": 88,
-    "rampok2": 676,
+    "rampok2": 678,
     "6285609504925": 15,
     "atm": 196,
     "bank": 147,
@@ -4135,7 +4135,7 @@
     "kasihnamaanak": 13,
     "babi": 37,
     "dongo": 9,
-    "rampok3": 7,
+    "rampok3": 8,
     "cekbatang": 105,
     "tahun": 3,
     "6289530116661": 1,
@@ -4864,7 +4864,7 @@
     "background": 1,
     "ramok2": 1,
     "tampok2": 1,
-    "6287869188222": 109,
+    "6287869188222": 110,
     "toing": 1,
     "toihijab": 1,
     "megumin": 1,
@@ -5814,5 +5814,5 @@
     "bailout@bias2": 1,
     "117433583050868": 1
   },
-  "lastUpdated": 1778988859854
+  "lastUpdated": 1778988919848
 }
